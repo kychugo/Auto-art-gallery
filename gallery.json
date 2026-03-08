@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260308_192328",
+      "filename": "images/artwork_20260308_192328.jpg",
+      "topic": "street food culture in Hong Kong",
+      "prompt": "First, the user wants me to create an image generation prompt about street food culture in Hong Kong. I need to incorporate specific elements naturally: cyberpunk art style, hopeful and uplifting mood, neon city glow lighting, and warm amber and orange tones color palette.\n\nAs a creative director and AI artist, I must respond with ONLY the image prompt itself—no explanations, no titles, no markdown. It must be in English only, and 2-4 sentences long.\n\nThe prompt should be vivid, detailed, and paint a clear mental picture. It should be visually stunning, award-winning, and highly detailed.\n\nKey elements to weave in:\n- Cyberpunk art style: This often involves futuristic, high-tech urban settings with a gritty yet vibrant feel. Think neon lights, advanced technology, and a blend of modern and retro elements.\n- Mood: Hopeful and uplifting – so the scene should feel positive, maybe with people enjoying themselves, smiling, or a sense of community.\n- Lighting: Neon city glow – this implies that the lighting comes from neon signs and city lights, creating a luminous atmosphere.\n- Color palette: Warm amber and orange tones – these colors should dominate, giving a cozy, inviting feel amidst the cyberpunk setting.\n\nSetting: Street food culture in Hong Kong. This involves food stalls, vendors, bustling streets, diverse foods like dim sum, noodles, etc., and the vibrant energy of Hong Kong's streets.\n\nCombine all these: A cyberpunk Hong Kong street food scene, where neon signs cast a glow, colors are warm amber and orange, and the mood is uplifting with people happily eating and interacting.\n\nStructure the prompt into 2-4 sentences. Make it descriptive and flow naturally.\n\nStart with the setting: Describe the cyberpunk Hong Kong street at night with neon lights.\n\nIncorporate the color palette: Emphasize amber and orange tones from the lights and food.\n\nMood: Show hopefulness through the actions of people – laughing, sharing food, etc",
+      "text_model": "deepseek",
+      "image_model": "imagen-4",
+      "seed": 572210222,
+      "created_at": "2026-03-08T19:23:28.639595+08:00"
+    },
+    {
       "id": "20260308_184746",
       "filename": "images/artwork_20260308_184746.jpg",
       "topic": "space exploration and the cosmos",
