@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260308_194135",
+      "filename": "images/artwork_20260308_194135.jpg",
+      "topic": "virtual reality and the metaverse",
+      "prompt": "A surrealist digital landscape where towering, impossible monolithic structures spiral through an infinite cyberspace realm, their forms morphing between crystalline geometries and organic, melting architectural elements, bathed in the ethereal glow of arctic aurora borealis waves that dance across a pitch-black void. Neon electric purples, hot magentas, and searing cyan light pulse through the darkness, casting strange shadows that create a hypnotic, dystopian atmosphere reminiscent of Dalí's dreamscapes rendered as a vast metaverse. Floating digital entities and fragmented human silhouettes navigate through this surreal underworld, their movements leaving trails of luminescent particles that dissolve into the darkness, while impossible geometries and paradoxical perspectives create an unsettling sense of infinite depth and disorientation.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux-2-dev",
+      "seed": 1096503038,
+      "created_at": "2026-03-08T19:41:35.187774+08:00"
+    },
+    {
       "id": "20260308_192328",
       "filename": "images/artwork_20260308_192328.jpg",
       "topic": "street food culture in Hong Kong",
