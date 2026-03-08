@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260308_094305",
+      "filename": "images/artwork_20260308_094305.jpg",
+      "topic": "social media culture and human connection",
+      "prompt": "In a monumental oil painting style, a diverse group of silhouetted figures stands powerfully interconnected in an ancient forest glade, their hands weaving a vast, ethereal web of glowing smartphone screens and holographic social media icons that pulse with iridescent light, symbolizing the fragile bridge between digital isolation and profound human connection. Dappled forest light filters through towering canopy leaves, casting shimmering, rainbow-hued patterns across their faces—shifting from cool sapphire blues to fiery magenta pinks in a holographic palette—evoking a mood of epic tension between virtual facades and raw, authentic bonds. Highly detailed textures of bark, flickering pixels, and translucent skin render this award-winning vista as a visually stunning critique of social media culture's monumental impact on humanity.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 106242860,
+      "created_at": "2026-03-08T09:43:05.160765+08:00"
+    },
+    {
       "id": "20260308_011723",
       "filename": "images/artwork_20260308_011723.jpg",
       "topic": "quantum computing and the future",
