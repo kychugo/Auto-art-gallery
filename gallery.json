@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260308_011723",
+      "filename": "images/artwork_20260308_011723.jpg",
+      "topic": "quantum computing and the future",
+      "prompt": "An impressionist painting bathed in stormy overcast light, depicting an intimate, human scene where a scientist, her face etched with wonder, gazes into a complex, softly glowing quantum computer that seems to be woven from threads of earth tones and terracotta. Swirls of abstract, shimmering data in similar hues emanate from the machine, subtly mirroring the turbulent sky outside a rain-streaked window, creating a mood of hopeful contemplation within a world transformed by profound computational discovery.",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 804720715,
+      "created_at": "2026-03-08T01:17:23.409547+00:00"
+    },
+    {
       "id": "20260308_004818",
       "filename": "images/artwork_20260308_004818.jpg",
       "topic": "space exploration and the cosmos",
