@@ -1,0 +1,22 @@
+{
+  "name": "Auto Art Gallery",
+  "short_name": "Art Gallery",
+  "description": "A living gallery of AI-generated artworks by Hugo Wong, refreshed automatically every 30 minutes.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0a0a0f",
+  "theme_color": "#7c6dff",
+  "icons": [
+    {
+      "src": "android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
