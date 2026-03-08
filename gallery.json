@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260308_175300",
+      "filename": "images/artwork_20260308_175300.jpg",
+      "topic": "sports and human physical achievement",
+      "prompt": "An abstract expressionist portrayal of raw human physical achievement, rendered in a monochromatic black and white palette, evokes a mysterious and ethereal mood. Dappled forest light filters through dynamic, gestural brushstrokes that suggest the explosive energy and grace of an athlete in motion, their form dissolving into pure, emotive form against a subtly textured, shadowy backdrop, capturing a fleeting moment of profound, almost spiritual, exertion.",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 1937606399,
+      "created_at": "2026-03-08T17:53:00.948027+08:00"
+    },
+    {
       "id": "20260308_172110",
       "filename": "images/artwork_20260308_172110.jpg",
       "topic": "human migration and global nomadism",
