@@ -773,7 +773,7 @@
 <div id="lightbox" role="dialog" aria-modal="true" aria-label="Artwork viewer">
   <div class="lb-content" id="lb-content">
     <div class="lb-img-wrap">
-      <img id="lb-img" src="" alt="Full size artwork" loading="lazy" />
+      <img id="lb-img" src="" alt="Full size artwork" loading="lazy" decoding="async" />
     </div>
     <div class="lb-panel">
       <div>
@@ -848,6 +848,7 @@ let filteredArtworks = [];
 let currentIndex = 0;
 let activeFilter = 'all';
 let searchQuery = '';
+let cardImgObserver = null;
 
 /* =============================================================
    Helpers
@@ -971,9 +972,9 @@ function renderGallery() {
       <div class="card-img-wrap">
         <div class="card-skeleton" id="skel-${idx}"></div>
         <img
-          src="${escHtml(art.filename)}"
+          data-src="${escHtml(art.filename)}"
           alt="${escHtml(art.topic)}"
-          loading="lazy"
+          decoding="async"
           style="display:none"
           onload="handleImageLoad(${idx})"
           onerror="handleImageError(this)"
@@ -999,6 +1000,23 @@ function renderGallery() {
     card.addEventListener('click', open);
     card.addEventListener('keydown', e => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); open(); } });
   });
+
+  // IntersectionObserver lazy loading: only fetch image when card scrolls into view
+  if (cardImgObserver) cardImgObserver.disconnect();
+  cardImgObserver = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (!entry.isIntersecting) return;
+      const img = entry.target;
+      const src = img.dataset.src;
+      if (src) {
+        img.src = src;
+        img.removeAttribute('data-src');
+      }
+      cardImgObserver.unobserve(img);
+    });
+  }, { rootMargin: '200px 0px' });
+
+  grid.querySelectorAll('img[data-src]').forEach(img => cardImgObserver.observe(img));
 }
 
 /* =============================================================
