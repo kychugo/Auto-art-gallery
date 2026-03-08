@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kychugo.github.io/Auto-art-gallery/sitemap.xml
