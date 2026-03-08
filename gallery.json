@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260309_071947",
+      "filename": "images/artwork_20260309_071947.jpg",
+      "topic": "space exploration and the cosmos",
+      "prompt": "In an anime-inspired vista of vibrant space exploration, a daring young astronaut in sleek, form-fitting suit leaps from a glowing spaceship towards a colossal, iridescent nebula swirling with holographic colors of shifting blues, purples, and silvers, surrounded by ethereal alien structures and comet trails bursting with energetic motion. Candlelight ambiance flickers mysteriously from bioluminescent orbs and engine exhausts, casting warm golden glows and dramatic shadows across the cosmic expanse, illuminating detailed starry galaxies and crystalline asteroids in hyper-realistic intricacy. This award-winning, highly detailed scene pulses with dynamic energy, evoking the thrill of discovery in a boundless, shimmering universe.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 15129635,
+      "created_at": "2026-03-09T07:19:47.773156+08:00"
+    },
+    {
       "id": "20260309_064603",
       "filename": "images/artwork_20260309_064603.jpg",
       "topic": "virtual reality and the metaverse",
