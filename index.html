@@ -3,10 +3,72 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Auto Art Gallery — AI-Generated Artwork</title>
-  <meta name="description" content="A continuously growing gallery of AI-generated artwork created every 2 hours using Pollinations AI." />
-  <meta property="og:title" content="Auto Art Gallery" />
-  <meta property="og:description" content="AI-generated artwork refreshed every 2 hours." />
+
+  <!-- Primary SEO -->
+  <title>Auto Art Gallery — AI-Generated Artwork by Hugo Wong</title>
+  <meta name="description" content="A living gallery of unique AI-generated artworks by Hugo Wong, automatically created every 2 hours using Pollinations AI. Explore topics from technology and space to culture and beyond." />
+  <meta name="keywords" content="AI art, AI-generated artwork, Pollinations AI, artificial intelligence art gallery, generative art, automatic art, Hugo Wong, digital art, machine learning art, GPT image, Flux, Grok imagine" />
+  <meta name="author" content="Hugo Wong" />
+  <meta name="robots" content="index, follow" />
+  <link rel="canonical" href="https://kychugo.github.io/Auto-art-gallery/" />
+
+  <!-- Open Graph (Facebook, LinkedIn, WhatsApp, etc.) -->
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="Auto Art Gallery" />
+  <meta property="og:title" content="Auto Art Gallery — AI-Generated Artwork by Hugo Wong" />
+  <meta property="og:description" content="A living gallery of unique AI-generated artworks, automatically refreshed every 2 hours using Pollinations AI. Explore space, technology, culture and more." />
+  <meta property="og:url" content="https://kychugo.github.io/Auto-art-gallery/" />
+  <meta property="og:image" content="https://kychugo.github.io/Auto-art-gallery/images/artwork_20260308_004818.jpg" />
+  <meta property="og:image:alt" content="AI-generated artwork from Auto Art Gallery" />
+  <meta property="og:locale" content="en_US" />
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Auto Art Gallery — AI-Generated Artwork by Hugo Wong" />
+  <meta name="twitter:description" content="A living gallery of unique AI-generated artworks, automatically refreshed every 2 hours using Pollinations AI." />
+  <meta name="twitter:image" content="https://kychugo.github.io/Auto-art-gallery/images/artwork_20260308_004818.jpg" />
+  <meta name="twitter:image:alt" content="AI-generated artwork from Auto Art Gallery" />
+
+  <!-- JSON-LD Structured Data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://kychugo.github.io/Auto-art-gallery/#website",
+        "url": "https://kychugo.github.io/Auto-art-gallery/",
+        "name": "Auto Art Gallery",
+        "description": "A living gallery of AI-generated artworks created every 2 hours using Pollinations AI.",
+        "author": {
+          "@type": "Person",
+          "name": "Hugo Wong",
+          "url": "https://github.com/kychugo"
+        },
+        "inLanguage": "en"
+      },
+      {
+        "@type": "ImageGallery",
+        "@id": "https://kychugo.github.io/Auto-art-gallery/#gallery",
+        "name": "Auto Art Gallery — AI-Generated Artwork",
+        "description": "A continuously growing collection of AI-generated artworks exploring diverse global topics, refreshed automatically every 2 hours.",
+        "url": "https://kychugo.github.io/Auto-art-gallery/",
+        "creator": {
+          "@type": "Person",
+          "name": "Hugo Wong",
+          "url": "https://github.com/kychugo"
+        },
+        "copyrightHolder": {
+          "@type": "Person",
+          "name": "Hugo Wong"
+        },
+        "copyrightYear": "2026",
+        "keywords": "AI art, generative art, Pollinations AI, artificial intelligence, digital artwork"
+      }
+    ]
+  }
+  </script>
+
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎨</text></svg>" />
 
   <style>
@@ -822,6 +884,11 @@
     New artwork generated every 2 hours ·
     <a href="https://github.com/kychugo/Auto-art-gallery" target="_blank" rel="noopener">View on GitHub</a>
   </p>
+  <p style="margin-top:10px;">
+    Copyright &copy; 2026 Hugo Wong. All rights reserved.<br />
+    All AI-generated images on this gallery are the intellectual property of Hugo Wong.
+    The images were created using AI tools and the copyright belongs to Hugo Wong as the creator and curator of this gallery.
+  </p>
 </footer>
 
 <script>
@@ -1001,7 +1068,7 @@ function renderGallery() {
     card.addEventListener('keydown', e => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); open(); } });
   });
 
-  // IntersectionObserver lazy loading: only fetch image when card scrolls into view
+  // IntersectionObserver lazy loading: start fetching images well before they scroll into view
   if (cardImgObserver) cardImgObserver.disconnect();
   cardImgObserver = new IntersectionObserver((entries) => {
     entries.forEach(entry => {
@@ -1014,7 +1081,7 @@ function renderGallery() {
       }
       cardImgObserver.unobserve(img);
     });
-  }, { rootMargin: '200px 0px' });
+  }, { rootMargin: '800px 0px' });
 
   grid.querySelectorAll('img[data-src]').forEach(img => cardImgObserver.observe(img));
 }
