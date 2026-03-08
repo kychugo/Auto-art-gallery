@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260308_140914",
+      "filename": "images/artwork_20260308_140914.jpg",
+      "topic": "fashion meets technology",
+      "prompt": "First, the user wants an image generation prompt about \"fashion meets technology.\" I need to incorporate specific elements: art style is baroque, mood is mysterious and ethereal, lighting is candlelight ambiance, and color palette is high contrast black and gold.\n\nThe prompt should be 2-4 sentences long, visually stunning, award-winning, and highly detailed. I must respond with ONLY the image prompt in English, no explanations or markdown.\n\nBaroque art style is known for its drama, richness, and intricate details. So, I should use words that evoke that style, like ornate, elaborate, or lavish.\n\nMood: mysterious and ethereal – so elements that feel otherworldly, vague, or ghostly. Words like shimmering, elusive, or transcendent.\n\nLighting: candlelight ambiance – this implies soft, flickering light with shadows. Phrases like \"illuminated by candlelight\" or \"casting long shadows.\"\n\nColor palette: high contrast black and gold – think of deep blacks and bright, metallic golds. Emphasize contrasts like \"stark contrasts\" or \"gleaming gold against velvety black.\"\n\nFashion meets technology: I need to blend these concepts. For example, incorporate tech elements into fashion, like cybernetic accessories, glowing circuits, or futuristic fabrics with baroque designs.\n\nStructure the prompt: Start with the scene, describe the fashion and tech elements, then incorporate the art style, mood, lighting, and colors.\n\nEnsure it's 2-4 sentences. Let's draft:\n\nSentence 1: Set the scene with baroque style and mood. \"In a baroque-inspired setting, a model adorned with cybernetic fashion elements stands ethereally, surrounded by a mysterious aura.\"\n\nSentence 2: Add lighting and details. \"The scene is illuminated solely by flickering candlelight, casting intricate shadows that highlight the ornate gold circuitry woven into a black velvet gown.\"\n\nSentence 3: Emphasize color palette",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 1919192518,
+      "created_at": "2026-03-08T14:09:14.905488+08:00"
+    },
+    {
       "id": "20260308_140444",
       "filename": "images/artwork_20260308_140444.jpg",
       "topic": "economic inequality and social justice",
