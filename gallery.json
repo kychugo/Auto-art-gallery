@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260308_140444",
+      "filename": "images/artwork_20260308_140444.jpg",
+      "topic": "economic inequality and social justice",
+      "prompt": "A monumental pop art scene depicting economic inequality and social justice, featuring towering skyscrapers silhouetted against a neon city glow in high contrast black and gold, with golden light emanating from wealthy penthouses above while shadowy figures struggle below, massive geometric shapes and boldBen-Day dots creating depth, powerful dramatic composition showing the stark divide between opulence and hardship, neon signs casting warm amber reflections on chrome surfaces, iconic imagery of scales of justice transformed into gold coins, street art activist messages embedded in the collage, dynamic perspective emphasizing the overwhelming scale of disparity, sharp defined edges and exaggerated proportions characteristic of pop art's visual impact.",
+      "text_model": "minimax",
+      "image_model": "imagen-4",
+      "seed": 156952387,
+      "created_at": "2026-03-08T14:04:44.873353+08:00"
+    },
+    {
       "id": "20260308_134017",
       "filename": "images/artwork_20260308_134017.jpg",
       "topic": "future of human civilization and technology",
