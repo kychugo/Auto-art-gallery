@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260308_104822",
+      "filename": "images/artwork_20260308_104822.jpg",
+      "topic": "renewable energy and sustainable living",
+      "prompt": "A photorealistic image capturing a serene, sustainable village nestled in rolling hills under a stormy, overcast sky. Warm amber and orange tones emanate from the windows of eco-friendly homes with living roofs, and from the soft glow of wind turbines and solar panels integrated seamlessly into the landscape. A gentle mist hangs in the air, softening the edges of rolling green fields and the faint silhouette of distant, sustainable farms, evoking a profound sense of peace and harmonious coexistence with nature.",
+      "text_model": "gemini-search",
+      "image_model": "klein-large",
+      "seed": 23005788,
+      "created_at": "2026-03-08T10:48:22.590834+08:00"
+    },
+    {
       "id": "20260308_103207",
       "filename": "images/artwork_20260308_103207.jpg",
       "topic": "biotechnology and genetic engineering",
