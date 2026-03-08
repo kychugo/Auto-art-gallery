@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260308_225026",
+      "filename": "images/artwork_20260308_225026.jpg",
+      "topic": "music and the evolution of sound",
+      "prompt": "A melancholic pop-art soundscape unfolds under a stormy, overcast sky, where fragmented vinyl records and ethereal waveforms drift like lost memories through soft pastel hues. The scene evokes a profound sense of reflection on the evolution of sound, with subtle, muted neon light from distant, decaying advertisements casting long shadows on streets slick with rain, hinting at the ephemeral nature of audio and artistic expression. This award-winning visual should feel deeply atmospheric and exquisitely detailed, capturing a fleeting moment of sonic introspection.",
+      "text_model": "gemini-search",
+      "image_model": "flux-2-dev",
+      "seed": 1261781424,
+      "created_at": "2026-03-08T22:50:26.389629+08:00"
+    },
+    {
       "id": "20260308_222829",
       "filename": "images/artwork_20260308_222829.jpg",
       "topic": "music and the evolution of sound",
