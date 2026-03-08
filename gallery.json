@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260308_142915",
+      "filename": "images/artwork_20260308_142915.jpg",
+      "topic": "ocean conservation and marine life",
+      "prompt": "A majestic whale, illuminated by ethereal moonlight, glides through a kelp forest rendered in deep emerald and forest green hues, creating a hopeful yet mysterious underwater scene. Shafts of moonlight pierce the shadowy depths, casting dappled patterns on the marine life that thrives in this protected sanctuary. This award-winning, cinematic illustration captures the serene beauty and resilience of the ocean, evoking a sense of wonder and the urgent need for conservation.",
+      "text_model": "gemini-search",
+      "image_model": "klein-large",
+      "seed": 1636736945,
+      "created_at": "2026-03-08T14:29:15.244359+08:00"
+    },
+    {
       "id": "20260308_140914",
       "filename": "images/artwork_20260308_140914.jpg",
       "topic": "fashion meets technology",
