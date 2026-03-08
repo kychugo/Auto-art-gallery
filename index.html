@@ -1,0 +1,1083 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Auto Art Gallery — AI-Generated Artwork</title>
+  <meta name="description" content="A continuously growing gallery of AI-generated artwork created every 2 hours using Pollinations AI." />
+  <meta property="og:title" content="Auto Art Gallery" />
+  <meta property="og:description" content="AI-generated artwork refreshed every 2 hours." />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎨</text></svg>" />
+
+  <style>
+    /* =========================================================
+       CSS Custom Properties & Reset
+    ========================================================= */
+    :root {
+      --bg: #0a0a0f;
+      --surface: #111118;
+      --surface2: #1a1a26;
+      --border: rgba(255,255,255,0.08);
+      --border-hover: rgba(255,255,255,0.18);
+      --text: #e8e8f0;
+      --text-muted: #888899;
+      --accent: #7c6dff;
+      --accent2: #ff6db3;
+      --accent3: #6dffe0;
+      --glow: rgba(124,109,255,0.35);
+      --card-radius: 16px;
+      --transition: 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+      --font: 'Segoe UI', system-ui, -apple-system, sans-serif;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      font-family: var(--font);
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      overflow-x: hidden;
+    }
+
+    /* =========================================================
+       Animated Background
+    ========================================================= */
+    body::before {
+      content: '';
+      position: fixed;
+      inset: 0;
+      background:
+        radial-gradient(ellipse 80% 50% at 20% 10%, rgba(124,109,255,0.12) 0%, transparent 60%),
+        radial-gradient(ellipse 60% 40% at 80% 90%, rgba(255,109,179,0.08) 0%, transparent 60%),
+        radial-gradient(ellipse 50% 60% at 50% 50%, rgba(109,255,224,0.05) 0%, transparent 70%);
+      pointer-events: none;
+      z-index: 0;
+    }
+
+    /* =========================================================
+       Header
+    ========================================================= */
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: rgba(10,10,15,0.85);
+      backdrop-filter: blur(20px) saturate(1.5);
+      -webkit-backdrop-filter: blur(20px) saturate(1.5);
+      border-bottom: 1px solid var(--border);
+      padding: 0 clamp(16px, 4vw, 48px);
+    }
+
+    .header-inner {
+      max-width: 1600px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+      height: 68px;
+    }
+
+    .logo {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      text-decoration: none;
+    }
+
+    .logo-icon {
+      font-size: 28px;
+      line-height: 1;
+      filter: drop-shadow(0 0 8px var(--accent));
+    }
+
+    .logo-text {
+      font-size: 1.25rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      background: linear-gradient(135deg, var(--accent), var(--accent2));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+
+    .header-stats {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+    }
+
+    .stat-badge {
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      padding: 4px 12px;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .stat-dot {
+      width: 7px;
+      height: 7px;
+      border-radius: 50%;
+      background: var(--accent3);
+      box-shadow: 0 0 6px var(--accent3);
+      animation: pulse 2s ease-in-out infinite;
+    }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; transform: scale(1); }
+      50% { opacity: 0.5; transform: scale(0.8); }
+    }
+
+    /* =========================================================
+       Hero Section
+    ========================================================= */
+    .hero {
+      position: relative;
+      z-index: 1;
+      padding: clamp(40px, 8vw, 80px) clamp(16px, 4vw, 48px) clamp(32px, 6vw, 60px);
+      text-align: center;
+    }
+
+    .hero h1 {
+      font-size: clamp(2rem, 5vw, 4rem);
+      font-weight: 800;
+      letter-spacing: -0.03em;
+      line-height: 1.15;
+      margin-bottom: 16px;
+    }
+
+    .hero h1 span {
+      background: linear-gradient(135deg, var(--accent) 0%, var(--accent2) 50%, var(--accent3) 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+
+    .hero p {
+      font-size: clamp(0.95rem, 2vw, 1.15rem);
+      color: var(--text-muted);
+      max-width: 560px;
+      margin: 0 auto 32px;
+      line-height: 1.7;
+    }
+
+    .hero-badges {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      justify-content: center;
+    }
+
+    .badge {
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      padding: 6px 14px;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    /* =========================================================
+       Controls Bar
+    ========================================================= */
+    .controls {
+      position: relative;
+      z-index: 1;
+      padding: 0 clamp(16px, 4vw, 48px) 24px;
+    }
+
+    .controls-inner {
+      max-width: 1600px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
+
+    .search-wrap {
+      position: relative;
+      flex: 1;
+      min-width: 200px;
+      max-width: 380px;
+    }
+
+    .search-icon {
+      position: absolute;
+      left: 14px;
+      top: 50%;
+      transform: translateY(-50%);
+      color: var(--text-muted);
+      font-size: 0.9rem;
+      pointer-events: none;
+    }
+
+    input[type="search"] {
+      width: 100%;
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      color: var(--text);
+      font-size: 0.9rem;
+      padding: 10px 14px 10px 38px;
+      outline: none;
+      transition: border-color var(--transition), box-shadow var(--transition);
+      font-family: var(--font);
+    }
+
+    input[type="search"]:focus {
+      border-color: var(--accent);
+      box-shadow: 0 0 0 3px rgba(124,109,255,0.15);
+    }
+
+    input[type="search"]::placeholder { color: var(--text-muted); }
+
+    .filter-group {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+
+    .filter-btn {
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      color: var(--text-muted);
+      cursor: pointer;
+      font-size: 0.8rem;
+      padding: 8px 14px;
+      transition: all var(--transition);
+      font-family: var(--font);
+      white-space: nowrap;
+    }
+
+    .filter-btn:hover { border-color: var(--border-hover); color: var(--text); }
+    .filter-btn.active {
+      background: rgba(124,109,255,0.15);
+      border-color: var(--accent);
+      color: var(--accent);
+    }
+
+    .count-label {
+      margin-left: auto;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      white-space: nowrap;
+    }
+
+    /* =========================================================
+       Gallery Grid
+    ========================================================= */
+    .gallery-section {
+      position: relative;
+      z-index: 1;
+      padding: 0 clamp(16px, 4vw, 48px) 80px;
+    }
+
+    .gallery-grid {
+      max-width: 1600px;
+      margin: 0 auto;
+      columns: 1;
+      column-gap: 20px;
+      gap: 20px;
+    }
+
+    @media (min-width: 600px)  { .gallery-grid { columns: 2; } }
+    @media (min-width: 900px)  { .gallery-grid { columns: 3; } }
+    @media (min-width: 1200px) { .gallery-grid { columns: 4; } }
+    @media (min-width: 1600px) { .gallery-grid { columns: 5; } }
+
+    .card {
+      break-inside: avoid;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--card-radius);
+      overflow: hidden;
+      cursor: pointer;
+      transition: transform var(--transition), box-shadow var(--transition), border-color var(--transition);
+      margin-bottom: 20px;
+      animation: fadeUp 0.5s ease both;
+    }
+
+    @keyframes fadeUp {
+      from { opacity: 0; transform: translateY(20px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+
+    .card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 16px 48px rgba(0,0,0,0.5), 0 0 0 1px var(--accent), 0 0 32px var(--glow);
+      border-color: var(--accent);
+    }
+
+    .card-img-wrap {
+      position: relative;
+      overflow: hidden;
+      background: var(--surface2);
+      min-height: 200px;
+    }
+
+    .card-img-wrap img {
+      width: 100%;
+      display: block;
+      transition: transform 0.5s ease;
+    }
+
+    .card:hover .card-img-wrap img { transform: scale(1.04); }
+
+    .card-overlay {
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(to top, rgba(10,10,15,0.9) 0%, transparent 50%);
+      opacity: 0;
+      transition: opacity var(--transition);
+      display: flex;
+      align-items: flex-end;
+      padding: 16px;
+    }
+
+    .card:hover .card-overlay { opacity: 1; }
+
+    .overlay-view {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      color: white;
+      font-size: 0.85rem;
+      font-weight: 600;
+    }
+
+    .card-skeleton {
+      width: 100%;
+      aspect-ratio: 1;
+      background: linear-gradient(90deg, var(--surface2) 25%, var(--surface) 50%, var(--surface2) 75%);
+      background-size: 200% 100%;
+      animation: shimmer 1.5s infinite;
+    }
+
+    @keyframes shimmer {
+      0% { background-position: 200% 0; }
+      100% { background-position: -200% 0; }
+    }
+
+    .card-info {
+      padding: 14px 16px 16px;
+    }
+
+    .card-topic {
+      font-size: 0.72rem;
+      font-weight: 600;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 6px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .card-prompt {
+      font-size: 0.85rem;
+      color: var(--text);
+      line-height: 1.5;
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      margin-bottom: 10px;
+    }
+
+    .card-meta {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 8px;
+    }
+
+    .model-chip {
+      font-size: 0.7rem;
+      padding: 3px 8px;
+      border-radius: 20px;
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      color: var(--text-muted);
+      white-space: nowrap;
+    }
+
+    .card-date {
+      font-size: 0.7rem;
+      color: var(--text-muted);
+      white-space: nowrap;
+    }
+
+    /* =========================================================
+       Empty State
+    ========================================================= */
+    .empty-state {
+      text-align: center;
+      padding: 80px 20px;
+      color: var(--text-muted);
+      display: none;
+    }
+
+    .empty-state .icon { font-size: 4rem; margin-bottom: 16px; }
+    .empty-state h2 { font-size: 1.4rem; color: var(--text); margin-bottom: 8px; }
+    .empty-state p { font-size: 0.9rem; max-width: 400px; margin: 0 auto; }
+
+    /* =========================================================
+       Loading Spinner
+    ========================================================= */
+    #loading {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 12px;
+      padding: 60px 20px;
+      color: var(--text-muted);
+      font-size: 0.9rem;
+    }
+
+    .spinner {
+      width: 28px;
+      height: 28px;
+      border: 2px solid var(--border);
+      border-top-color: var(--accent);
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+    }
+
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    /* =========================================================
+       Lightbox
+    ========================================================= */
+    #lightbox {
+      position: fixed;
+      inset: 0;
+      z-index: 1000;
+      background: rgba(0,0,0,0.92);
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+      display: none;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+    }
+
+    #lightbox.open {
+      display: flex;
+      animation: lbFadeIn 0.25s ease;
+    }
+
+    @keyframes lbFadeIn {
+      from { opacity: 0; }
+      to   { opacity: 1; }
+    }
+
+    .lb-content {
+      position: relative;
+      max-width: 1200px;
+      width: 100%;
+      max-height: 90vh;
+      display: flex;
+      gap: 0;
+      border-radius: 20px;
+      overflow: hidden;
+      box-shadow: 0 40px 120px rgba(0,0,0,0.8), 0 0 0 1px var(--border);
+      animation: lbSlideUp 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+    }
+
+    @keyframes lbSlideUp {
+      from { transform: scale(0.9) translateY(20px); opacity: 0; }
+      to   { transform: scale(1) translateY(0); opacity: 1; }
+    }
+
+    .lb-img-wrap {
+      flex: 1;
+      background: #000;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 300px;
+      max-height: 90vh;
+      overflow: hidden;
+    }
+
+    .lb-img-wrap img {
+      max-width: 100%;
+      max-height: 90vh;
+      object-fit: contain;
+      display: block;
+    }
+
+    .lb-panel {
+      width: 320px;
+      flex-shrink: 0;
+      background: var(--surface);
+      border-left: 1px solid var(--border);
+      padding: 28px 24px;
+      overflow-y: auto;
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+    }
+
+    @media (max-width: 768px) {
+      .lb-content {
+        flex-direction: column;
+        max-height: 95vh;
+      }
+      .lb-panel {
+        width: 100%;
+        border-left: none;
+        border-top: 1px solid var(--border);
+        max-height: 40vh;
+      }
+    }
+
+    .lb-close {
+      position: absolute;
+      top: 16px;
+      right: 16px;
+      width: 36px;
+      height: 36px;
+      background: rgba(0,0,0,0.6);
+      border: 1px solid var(--border);
+      border-radius: 50%;
+      color: var(--text);
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.1rem;
+      transition: all var(--transition);
+      z-index: 10;
+      backdrop-filter: blur(8px);
+    }
+
+    .lb-close:hover {
+      background: rgba(255,255,255,0.1);
+      border-color: var(--border-hover);
+      transform: scale(1.1);
+    }
+
+    .lb-nav {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      width: 44px;
+      height: 44px;
+      background: rgba(0,0,0,0.6);
+      border: 1px solid var(--border);
+      border-radius: 50%;
+      color: var(--text);
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.2rem;
+      transition: all var(--transition);
+      z-index: 10;
+      backdrop-filter: blur(8px);
+    }
+
+    .lb-nav:hover {
+      background: rgba(255,255,255,0.1);
+      border-color: var(--border-hover);
+    }
+
+    .lb-prev { left: 16px; }
+    .lb-next { right: 16px; }
+
+    @media (max-width: 768px) {
+      .lb-prev { left: 8px; }
+      .lb-next { right: 8px; }
+    }
+
+    .lb-section-title {
+      font-size: 0.7rem;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--text-muted);
+      margin-bottom: 4px;
+    }
+
+    .lb-topic {
+      font-size: 0.85rem;
+      font-weight: 600;
+      color: var(--accent);
+    }
+
+    .lb-prompt {
+      font-size: 0.88rem;
+      color: var(--text);
+      line-height: 1.65;
+    }
+
+    .lb-models {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+
+    .lb-model-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 8px;
+    }
+
+    .lb-model-label {
+      font-size: 0.75rem;
+      color: var(--text-muted);
+    }
+
+    .lb-model-value {
+      font-size: 0.75rem;
+      font-weight: 600;
+      color: var(--text);
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 3px 8px;
+    }
+
+    .lb-date {
+      font-size: 0.8rem;
+      color: var(--text-muted);
+    }
+
+    .lb-download {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      padding: 10px 16px;
+      background: linear-gradient(135deg, var(--accent), var(--accent2));
+      border: none;
+      border-radius: 10px;
+      color: white;
+      font-size: 0.85rem;
+      font-weight: 600;
+      cursor: pointer;
+      text-decoration: none;
+      transition: opacity var(--transition), transform var(--transition);
+      margin-top: auto;
+    }
+
+    .lb-download:hover { opacity: 0.9; transform: translateY(-1px); }
+
+    /* =========================================================
+       Footer
+    ========================================================= */
+    footer {
+      position: relative;
+      z-index: 1;
+      border-top: 1px solid var(--border);
+      padding: 24px clamp(16px, 4vw, 48px);
+      text-align: center;
+      color: var(--text-muted);
+      font-size: 0.8rem;
+    }
+
+    footer a { color: var(--accent); text-decoration: none; }
+    footer a:hover { text-decoration: underline; }
+
+    /* =========================================================
+       Scrollbar
+    ========================================================= */
+    ::-webkit-scrollbar { width: 6px; height: 6px; }
+    ::-webkit-scrollbar-track { background: transparent; }
+    ::-webkit-scrollbar-thumb { background: var(--surface2); border-radius: 3px; }
+    ::-webkit-scrollbar-thumb:hover { background: var(--border-hover); }
+  </style>
+</head>
+<body>
+
+<!-- Header -->
+<header>
+  <div class="header-inner">
+    <a class="logo" href="#">
+      <span class="logo-icon">🎨</span>
+      <span class="logo-text">Auto Art Gallery</span>
+    </a>
+    <div class="header-stats">
+      <div class="stat-badge">
+        <span class="stat-dot"></span>
+        <span id="stat-count">Loading…</span>
+      </div>
+      <div class="stat-badge" style="display:none" id="stat-refresh">
+        🔄 Every 2 hours
+      </div>
+    </div>
+  </div>
+</header>
+
+<!-- Hero -->
+<section class="hero">
+  <h1>AI-Powered<br /><span>Art Gallery</span></h1>
+  <p>
+    A living gallery of AI-generated artworks, automatically created every 2 hours
+    using Pollinations AI — exploring topics from technology and society to culture and beyond.
+  </p>
+  <div class="hero-badges">
+    <div class="badge">🤖 AI-Generated</div>
+    <div class="badge">⏰ Every 2 Hours</div>
+    <div class="badge">🌍 Global Topics</div>
+    <div class="badge">🎲 Always Unique</div>
+    <div class="badge">🖼️ Multiple AI Models</div>
+  </div>
+</section>
+
+<!-- Controls -->
+<div class="controls">
+  <div class="controls-inner">
+    <div class="search-wrap">
+      <span class="search-icon">🔍</span>
+      <input type="search" id="search-input" placeholder="Search topics or prompts…" aria-label="Search artworks" />
+    </div>
+    <div class="filter-group" id="filter-group" role="group" aria-label="Filter by model">
+      <button class="filter-btn active" data-filter="all">All</button>
+    </div>
+    <span class="count-label" id="count-label"></span>
+  </div>
+</div>
+
+<!-- Gallery -->
+<section class="gallery-section">
+  <div id="loading">
+    <div class="spinner"></div>
+    <span>Loading gallery…</span>
+  </div>
+  <div id="gallery-grid" class="gallery-grid" role="list" aria-label="Artwork gallery" style="display:none"></div>
+  <div class="empty-state" id="empty-state" role="status">
+    <div class="icon">🖼️</div>
+    <h2>No artworks found</h2>
+    <p>Try a different search term or check back after the next generation cycle.</p>
+  </div>
+</section>
+
+<!-- Lightbox -->
+<div id="lightbox" role="dialog" aria-modal="true" aria-label="Artwork viewer">
+  <div class="lb-content" id="lb-content">
+    <div class="lb-img-wrap">
+      <img id="lb-img" src="" alt="Full size artwork" loading="lazy" />
+    </div>
+    <div class="lb-panel">
+      <div>
+        <div class="lb-section-title">Topic</div>
+        <div class="lb-topic" id="lb-topic"></div>
+      </div>
+      <div>
+        <div class="lb-section-title">Image Prompt</div>
+        <div class="lb-prompt" id="lb-prompt"></div>
+      </div>
+      <div>
+        <div class="lb-section-title">AI Models Used</div>
+        <div class="lb-models">
+          <div class="lb-model-row">
+            <span class="lb-model-label">Text model</span>
+            <span class="lb-model-value" id="lb-text-model"></span>
+          </div>
+          <div class="lb-model-row">
+            <span class="lb-model-label">Image model</span>
+            <span class="lb-model-value" id="lb-image-model"></span>
+          </div>
+          <div class="lb-model-row">
+            <span class="lb-model-label">Seed</span>
+            <span class="lb-model-value" id="lb-seed"></span>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div class="lb-section-title">Created</div>
+        <div class="lb-date" id="lb-date"></div>
+      </div>
+      <a id="lb-download" href="#" download class="lb-download" target="_blank" rel="noopener">
+        ⬇️ Download Artwork
+      </a>
+    </div>
+  </div>
+  <button class="lb-close" id="lb-close" aria-label="Close lightbox">✕</button>
+  <button class="lb-nav lb-prev" id="lb-prev" aria-label="Previous artwork">‹</button>
+  <button class="lb-nav lb-next" id="lb-next" aria-label="Next artwork">›</button>
+</div>
+
+<!-- Footer -->
+<footer>
+  <p>
+    Powered by <a href="https://pollinations.ai" target="_blank" rel="noopener">Pollinations AI</a> ·
+    New artwork generated every 2 hours ·
+    <a href="https://github.com/kychugo/Auto-art-gallery" target="_blank" rel="noopener">View on GitHub</a>
+  </p>
+</footer>
+
+<script>
+/* =============================================================
+   Image load/error helpers (used by dynamically rendered cards)
+============================================================= */
+function handleImageLoad(idx) {
+  const img = document.querySelector('.card[data-index="' + idx + '"] .card-img-wrap img');
+  const skel = document.getElementById('skel-' + idx);
+  if (img) img.style.display = 'block';
+  if (skel) skel.style.display = 'none';
+}
+
+function handleImageError(imgEl) {
+  const wrap = imgEl.closest('.card-img-wrap');
+  if (wrap) wrap.innerHTML = '<div style="padding:40px;text-align:center;color:#888">⚠️ Image unavailable</div>';
+}
+
+/* =============================================================
+   State
+============================================================= */
+let allArtworks = [];
+let filteredArtworks = [];
+let currentIndex = 0;
+let activeFilter = 'all';
+let searchQuery = '';
+
+/* =============================================================
+   Helpers
+============================================================= */
+function formatDate(isoString) {
+  try {
+    const d = new Date(isoString);
+    return d.toLocaleString(undefined, {
+      year: 'numeric', month: 'short', day: 'numeric',
+      hour: '2-digit', minute: '2-digit'
+    });
+  } catch {
+    return isoString || '';
+  }
+}
+
+function truncate(str, n) {
+  if (!str) return '';
+  return str.length > n ? str.slice(0, n) + '…' : str;
+}
+
+function escHtml(s) {
+  return String(s)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;');
+}
+
+/* =============================================================
+   Load Gallery Data
+============================================================= */
+async function loadGallery() {
+  try {
+    const resp = await fetch('gallery.json?_=' + Date.now());
+    if (!resp.ok) throw new Error('HTTP ' + resp.status);
+    const data = await resp.json();
+    allArtworks = Array.isArray(data.artworks) ? data.artworks : [];
+  } catch (err) {
+    console.error('Failed to load gallery.json:', err);
+    allArtworks = [];
+  }
+
+  document.getElementById('loading').style.display = 'none';
+  document.getElementById('gallery-grid').style.display = '';
+  document.getElementById('stat-refresh').style.display = '';
+
+  buildFilters();
+  applyFilters();
+}
+
+/* =============================================================
+   Build Dynamic Filters from Models
+============================================================= */
+function buildFilters() {
+  const models = [...new Set(allArtworks.map(a => a.image_model).filter(Boolean))];
+  const group = document.getElementById('filter-group');
+  // Clear existing (keep 'All')
+  group.innerHTML = '<button class="filter-btn active" data-filter="all">All</button>';
+  models.forEach(m => {
+    const btn = document.createElement('button');
+    btn.className = 'filter-btn';
+    btn.dataset.filter = m;
+    btn.textContent = m;
+    group.appendChild(btn);
+  });
+
+  group.addEventListener('click', e => {
+    const btn = e.target.closest('.filter-btn');
+    if (!btn) return;
+    group.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    activeFilter = btn.dataset.filter;
+    applyFilters();
+  });
+}
+
+/* =============================================================
+   Filter & Render
+============================================================= */
+function applyFilters() {
+  const q = searchQuery.toLowerCase().trim();
+
+  filteredArtworks = allArtworks.filter(a => {
+    const matchFilter = activeFilter === 'all' || a.image_model === activeFilter;
+    const matchSearch = !q ||
+      (a.topic || '').toLowerCase().includes(q) ||
+      (a.prompt || '').toLowerCase().includes(q) ||
+      (a.image_model || '').toLowerCase().includes(q) ||
+      (a.text_model || '').toLowerCase().includes(q);
+    return matchFilter && matchSearch;
+  });
+
+  renderGallery();
+}
+
+function renderGallery() {
+  const grid = document.getElementById('gallery-grid');
+  const empty = document.getElementById('empty-state');
+  const countLabel = document.getElementById('count-label');
+  const statCount = document.getElementById('stat-count');
+
+  const total = allArtworks.length;
+  const shown = filteredArtworks.length;
+
+  statCount.textContent = total + ' artwork' + (total !== 1 ? 's' : '');
+  countLabel.textContent = shown === total
+    ? total + ' artworks'
+    : shown + ' of ' + total + ' artworks';
+
+  if (shown === 0) {
+    grid.innerHTML = '';
+    empty.style.display = 'block';
+    return;
+  }
+  empty.style.display = 'none';
+
+  grid.innerHTML = filteredArtworks.map((art, idx) => `
+    <article class="card" data-index="${idx}" role="listitem" tabindex="0"
+             aria-label="Artwork: ${escHtml(art.topic)}">
+      <div class="card-img-wrap">
+        <div class="card-skeleton" id="skel-${idx}"></div>
+        <img
+          src="${escHtml(art.filename)}"
+          alt="${escHtml(art.topic)}"
+          loading="lazy"
+          style="display:none"
+          onload="handleImageLoad(${idx})"
+          onerror="handleImageError(this)"
+        />
+        <div class="card-overlay">
+          <span class="overlay-view">👁 View Full Size</span>
+        </div>
+      </div>
+      <div class="card-info">
+        <div class="card-topic">${escHtml(art.topic || 'Untitled')}</div>
+        <div class="card-prompt">${escHtml(truncate(art.prompt, 140))}</div>
+        <div class="card-meta">
+          <span class="model-chip">${escHtml(art.image_model || 'unknown')}</span>
+          <span class="card-date">${formatDate(art.created_at)}</span>
+        </div>
+      </div>
+    </article>
+  `).join('');
+
+  // Click / keyboard handlers
+  grid.querySelectorAll('.card').forEach(card => {
+    const open = () => openLightbox(parseInt(card.dataset.index, 10));
+    card.addEventListener('click', open);
+    card.addEventListener('keydown', e => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); open(); } });
+  });
+}
+
+/* =============================================================
+   Lightbox
+============================================================= */
+function openLightbox(idx) {
+  currentIndex = idx;
+  populateLightbox(filteredArtworks[idx]);
+  document.getElementById('lightbox').classList.add('open');
+  document.body.style.overflow = 'hidden';
+  document.getElementById('lb-close').focus();
+}
+
+function closeLightbox() {
+  document.getElementById('lightbox').classList.remove('open');
+  document.body.style.overflow = '';
+}
+
+function populateLightbox(art) {
+  if (!art) return;
+  const img = document.getElementById('lb-img');
+  img.src = art.filename;
+  img.alt = art.topic || 'Artwork';
+  document.getElementById('lb-topic').textContent = art.topic || 'Untitled';
+  document.getElementById('lb-prompt').textContent = art.prompt || '—';
+  document.getElementById('lb-text-model').textContent = art.text_model || '—';
+  document.getElementById('lb-image-model').textContent = art.image_model || '—';
+  document.getElementById('lb-seed').textContent = art.seed != null ? art.seed : '—';
+  document.getElementById('lb-date').textContent = formatDate(art.created_at);
+  const dl = document.getElementById('lb-download');
+  dl.href = art.filename;
+  dl.download = 'artwork_' + (art.id || 'image') + '.jpg';
+
+  // Update nav visibility
+  document.getElementById('lb-prev').style.display = currentIndex > 0 ? '' : 'none';
+  document.getElementById('lb-next').style.display = currentIndex < filteredArtworks.length - 1 ? '' : 'none';
+}
+
+function navigate(dir) {
+  const next = currentIndex + dir;
+  if (next < 0 || next >= filteredArtworks.length) return;
+  currentIndex = next;
+  populateLightbox(filteredArtworks[currentIndex]);
+}
+
+document.getElementById('lb-close').addEventListener('click', closeLightbox);
+document.getElementById('lb-prev').addEventListener('click', () => navigate(-1));
+document.getElementById('lb-next').addEventListener('click', () => navigate(1));
+
+document.getElementById('lightbox').addEventListener('click', e => {
+  if (e.target === document.getElementById('lightbox')) closeLightbox();
+});
+
+document.addEventListener('keydown', e => {
+  if (!document.getElementById('lightbox').classList.contains('open')) return;
+  switch (e.key) {
+    case 'Escape':     closeLightbox(); break;
+    case 'ArrowLeft':  navigate(-1); break;
+    case 'ArrowRight': navigate(1); break;
+  }
+});
+
+/* =============================================================
+   Search
+============================================================= */
+const searchInput = document.getElementById('search-input');
+let searchTimer;
+searchInput.addEventListener('input', () => {
+  clearTimeout(searchTimer);
+  searchTimer = setTimeout(() => {
+    searchQuery = searchInput.value;
+    applyFilters();
+  }, 250);
+});
+
+/* =============================================================
+   Boot
+============================================================= */
+loadGallery();
+</script>
+</body>
+</html>
