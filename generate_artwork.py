@@ -4,6 +4,7 @@ Auto Art Gallery - Artwork Generator
 Generates AI artwork every 2 hours using Pollinations AI API.
 """
 
+import io
 import os
 import json
 import random
@@ -12,6 +13,7 @@ import urllib.parse
 from datetime import datetime, timezone
 
 import requests
+from PIL import Image
 
 API_KEY = os.environ.get("POLLINATIONS_API_KEY", "")
 API_BASE = "https://gen.pollinations.ai"
@@ -132,6 +134,19 @@ COLOR_PALETTES = [
 ]
 
 
+def is_english(text):
+    """Return True if the text is predominantly English (≤15% non-ASCII characters).
+
+    This heuristic specifically catches CJK (Chinese, Japanese, Korean), Arabic,
+    Cyrillic, and other non-Latin-script languages, which are the primary concern
+    for this gallery's prompt generation.
+    """
+    if not text:
+        return False
+    non_ascii = sum(1 for c in text if ord(c) > 127)
+    return (non_ascii / len(text)) < 0.15
+
+
 def get_shuffled_models(models, preferred=None):
     """Return models list starting from a random one, optionally starting with preferred."""
     shuffled = models.copy()
@@ -154,7 +169,8 @@ def generate_text_prompt(topic):
         "Your task is to craft a single, vivid, detailed image generation prompt. "
         "The prompt should be descriptive, rich in visual detail, and mention artistic style, "
         "mood, lighting, color palette, and specific visual elements. "
-        "Respond with ONLY the image prompt itself — no explanations, no titles, no markdown."
+        "Respond with ONLY the image prompt itself — no explanations, no titles, no markdown. "
+        "You MUST write your response exclusively in English. Do not use any other language."
     )
 
     user_message = (
@@ -165,7 +181,8 @@ def generate_text_prompt(topic):
         f"- Lighting: {lighting}\n"
         f"- Color palette: {color_palette}\n\n"
         "Make it visually stunning, award-winning, and highly detailed. "
-        "The prompt should be 2-4 sentences long and paint a clear mental picture."
+        "The prompt should be 2-4 sentences long and paint a clear mental picture. "
+        "Write in English only."
     )
 
     headers = {
@@ -196,6 +213,10 @@ def generate_text_prompt(topic):
             prompt = data["choices"][0]["message"]["content"].strip()
             # Remove any surrounding quotes if present
             prompt = prompt.strip('"').strip("'")
+            if not is_english(prompt):
+                print(f"  ✗ Model {model} returned non-English response, skipping")
+                time.sleep(2)
+                continue
             print(f"  ✓ Text generated with {model}")
             return prompt, model
         except Exception as exc:
@@ -227,7 +248,7 @@ def generate_image(prompt, seed=None):
             print(f"  Trying image model: {model}")
             url = (
                 f"{API_BASE}/image/{encoded_prompt}"
-                f"?model={model}&width=1024&height=1024&seed={seed}&nologo=true"
+                f"?model={model}&width=768&height=768&seed={seed}&nologo=true"
             )
             resp = requests.get(url, headers=headers, timeout=120)
             resp.raise_for_status()
@@ -294,12 +315,19 @@ def main():
         print("ERROR: Failed to generate image with all models")
         raise SystemExit(1)
 
-    # Save the image
+    # Save the image with JPEG optimization for smaller file size
     timestamp = datetime.now(timezone.utc).strftime("%Y%m%d_%H%M%S")
     filename = f"{images_dir}/artwork_{timestamp}.jpg"
-    with open(filename, "wb") as f:
-        f.write(image_data)
-    print(f"\nSaved image: {filename} ({len(image_data):,} bytes)")
+    try:
+        img = Image.open(io.BytesIO(image_data))
+        img.save(filename, format="JPEG", quality=85, optimize=True)
+        saved_size = os.path.getsize(filename)
+    except Exception as exc:
+        print(f"  Warning: Pillow optimization failed ({exc}), saving raw bytes")
+        with open(filename, "wb") as f:
+            f.write(image_data)
+        saved_size = len(image_data)
+    print(f"\nSaved image: {filename} ({saved_size:,} bytes)")
 
     # Update gallery metadata
     gallery = load_gallery(gallery_file)
