@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260308_215441",
+      "filename": "images/artwork_20260308_215441.jpg",
+      "topic": "cultural diversity and global harmony",
+      "prompt": "A diverse group of people from around the world gather intimately at dusk in a watercolor scene, their traditional textiles and intricate henna patterns softly illuminated by a bioluminescent glow from floating paper lanterns and woven fiber-optic ribbons. The vibrant neon colors of their garments—magenta, electric blue, and lime green—bleed softly into the textured paper, creating a dreamy atmosphere of quiet connection and shared stories. Their hands are gently united, tracing glowing inkwork maps on their skin that form a single, harmonious constellation against the deepening twilight.",
+      "text_model": "deepseek",
+      "image_model": "klein-large",
+      "seed": 504187011,
+      "created_at": "2026-03-08T21:54:41.084824+08:00"
+    },
+    {
       "id": "20260308_214157",
       "filename": "images/artwork_20260308_214157.jpg",
       "topic": "sports and human physical achievement",
