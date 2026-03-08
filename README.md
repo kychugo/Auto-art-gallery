@@ -199,6 +199,70 @@ f"?model={model}&width=1024&height=1024&seed={seed}&nologo=true"
 
 ---
 
+## 🔐 Admin Panel
+
+The gallery includes a built-in admin panel that lets you **permanently delete artworks** directly from the browser without touching GitHub manually.
+
+### How to access
+
+1. Open your gallery website.
+2. Scroll to the very bottom of the page.
+3. Click the small, subtle **`admin`** link in the footer (bottom-right area).
+4. An **Admin Login** modal will appear asking for two things:
+   - **Password** — the `ADMIN_PASSWORD` value configured in `index.html`.
+   - **GitHub Personal Access Token** — a token with write access to repository contents (see below).
+
+### Getting a GitHub Personal Access Token
+
+The admin panel uses the GitHub REST API to delete image files and update `gallery.json`.  
+It only needs permission to **read and write repository contents** — nothing else.
+
+#### Step-by-step: Create a fine-grained token
+
+1. Go to **GitHub → Settings → Developer settings → Personal access tokens → Fine-grained tokens**.
+2. Click **Generate new token**.
+3. Fill in the form:
+
+   | Field | Recommended value |
+   |---|---|
+   | **Token name** | `Auto-art-gallery admin` (or any name you like) |
+   | **Expiration** | 30 or 90 days (set an expiry — GitHub recommends it) |
+   | **Resource owner** | Your GitHub account |
+   | **Repository access** | **Only select repositories** → pick `Auto-art-gallery` |
+
+4. Under **Permissions → Repository permissions**, set **only** the following:
+
+   | Permission | Access level |
+   |---|---|
+   | **Contents** | **Read and write** |
+   | Metadata | Read-only *(always required — cannot be changed)* |
+
+   > ⚠️ **All other permissions** (Actions, Deployments, Pages, Workflows, etc.) can be left at **No access**. The admin panel does not use them.
+
+5. Click **Generate token** and **copy the token immediately** — GitHub only shows it once.
+
+### Logging in
+
+Paste the token into the **GitHub Personal Access Token** field in the admin login modal, enter the password, and click **Login**.  
+A red **🔐 Admin Mode** badge will appear in the top-right corner confirming you are logged in.
+
+### Deleting an artwork
+
+Once in admin mode, each artwork card shows a red **Delete** button.  
+Clicking it will:
+1. Ask for confirmation.
+2. Delete the image file from the repository via the GitHub API.
+3. Remove the artwork entry from `gallery.json` and commit the update.
+4. Remove the card from the gallery view immediately.
+
+> ℹ️ Deletion is **permanent** and directly modifies the repository. The artwork cannot be recovered unless you restore it via `git`.
+
+### Exiting admin mode
+
+Click the **admin** footer link again (or reload the page). Your GitHub token is held in memory only — it is never stored in `localStorage` or cookies.
+
+---
+
 ## 📄 License
 
 MIT — do whatever you like with it.
