@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260309_045136",
+      "filename": "images/artwork_20260309_045136.jpg",
+      "topic": "cybersecurity and privacy in the digital world",
+      "prompt": "A colossal, baroque-style citadel of glowing, translucent data streams rises majestically against a twilight sky bathed in warm, golden hour sunlight, its intricate, digital architecture adorned with vibrant neon circuits that pulse with an almost-living energy. Within its monumental walls, a single, stylized eye, crafted from pure, iridescent code, gazes outward, embodying the powerful and inviolable essence of digital privacy, casting long, dramatic shadows that underscore the immense scale and importance of cybersecurity.",
+      "text_model": "gemini-fast",
+      "image_model": "imagen-4",
+      "seed": 1083485720,
+      "created_at": "2026-03-09T04:51:36.476983+08:00"
+    },
+    {
       "id": "20260309_041738",
       "filename": "images/artwork_20260309_041738.jpg",
       "topic": "artificial intelligence reshaping society",
