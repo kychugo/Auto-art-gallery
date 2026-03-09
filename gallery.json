@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260310_055627",
+      "filename": "images/artwork_20260310_055627.jpg",
+      "topic": "space exploration and the cosmos",
+      "prompt": "First, the user asked for an image generation prompt about space exploration and the cosmos. I need to incorporate specific elements: pop art style, whimsical and dreamlike mood, lighting like arctic aurora borealis, and a color palette of warm amber and orange tones.\n\nThe prompt must be vivid, detailed, and include artistic style, mood, lighting, color palette, and visual elements. It should be 2-4 sentences long, written only in English, and I must respond with ONLY the prompt itself—no explanations or extra text.\n\nArt style: Pop art. Pop art is known for its bold colors, comic-like imagery, and often incorporates elements from popular culture. But since it's about space exploration, I should adapt that style to cosmic themes.\n\nMood: Whimsical and dreamlike. This suggests a light, fantastical, and surreal feeling, not too serious or realistic.\n\nLighting: Arctic aurora borealis. Aurora borealis has vibrant, flowing lights in the sky, often green and purple, but the color palette specified is warm amber and orange tones. So, I need to blend the aurora lighting with those colors. Perhaps describe the aurora as having amber and orange hues.\n\nColor palette: Warm amber and orange tones. This should dominate the image, so I'll mention colors like amber, orange, golden hues.\n\nRequired elements must be incorporated naturally. I should weave them into the description without forcing them.\n\nThe prompt should paint a clear mental picture. Since it's about space exploration, include elements like astronauts, spaceships, planets, stars, etc., but with a pop art twist.\n\nStructure the prompt in 2-4 sentences. Make it concise but detailed.\n\nStart drafting:\n\nSentence 1: Set the scene with space exploration in pop art style, incorporating the mood.\n\nFor example: \"A whimsical and dreamlike pop art depiction of space exploration, where an astronaut floats amidst cosmic wonders.\"\n\nIncorporate lighting: \"Illum",
+      "text_model": "deepseek",
+      "image_model": "imagen-4",
+      "seed": 62756996,
+      "created_at": "2026-03-10T05:56:27.936972+08:00"
+    },
+    {
       "id": "20260310_054055",
       "filename": "images/artwork_20260310_054055.jpg",
       "topic": "Hong Kong protest art and resilience",
