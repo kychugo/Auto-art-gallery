@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260309_100656",
+      "filename": "images/artwork_20260309_100656.jpg",
+      "topic": "Hong Kong city life and culture",
+      "prompt": "First, the user wants me to create an image generation prompt about Hong Kong city life and culture. I need to incorporate specific elements: art style (baroque), mood (mysterious and ethereal), lighting (stormy overcast light), and color palette (crimson and deep red).\n\nI must ensure the prompt is vivid, detailed, and paints a clear mental picture. It should be 2-4 sentences long and written exclusively in English. No explanations, titles, or markdown—just the prompt itself.\n\nKey components to include:\n- Hong Kong city life and culture: Think of iconic elements like skyscrapers, bustling streets, neon signs, temples, markets, etc.\n- Baroque art style: This is ornate, dramatic, and detailed, often with grandeur and movement. Incorporate this into the description.\n- Mood: Mysterious and ethereal – so it should feel otherworldly, elusive, and full of intrigue.\n- Lighting: Stormy overcast light – implying dark clouds, diffuse light, possibly with a sense of impending storm.\n- Color palette: Crimson and deep red – so the scene should be dominated by these colors, adding to the mood.\n\nCraft the prompt to be visually stunning and award-winning. Make it highly detailed.\n\nStructure the prompt:\n- Start with a broad scene setting.\n- Add details that incorporate the required elements.\n- Ensure it flows naturally and paints a picture.\n\nExample ideas:\n- Describe Hong Kong's skyline under stormy skies, with baroque-inspired architectural details.\n- Include cultural elements like lanterns, festivals, or traditional motifs in a baroque style.\n- Use crimson and deep red to highlight certain aspects, like neon signs, fabrics, or reflections.\n\nDraft a prompt:\n\"In the heart of Hong Kong, a baroque-inspired cityscape rises under stormy overcast skies, where crimson and deep red neon signs cast an ethereal glow on wet, labyrinthine streets. Intricate, ornate",
+      "text_model": "deepseek",
+      "image_model": "gptimage",
+      "seed": 418712564,
+      "created_at": "2026-03-09T10:06:56.393587+08:00"
+    },
+    {
       "id": "20260309_074243",
       "filename": "images/artwork_20260309_074243.jpg",
       "topic": "mental health awareness in the digital age",
