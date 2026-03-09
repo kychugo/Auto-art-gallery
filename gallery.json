@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260310_042541",
+      "filename": "images/artwork_20260310_042541.jpg",
+      "topic": "traditional vs modern culture clash in Asia",
+      "prompt": "A serene Asian woman in elegant traditional hanfu stands peacefully beside a towering glass skyscraper, her silhouette framed by dramatic studio lighting that casts soft golden Hour contours across both figures, while cherry blossom petals drift through the frame in gentle defiance of the steel and concrete behind her, rendered in cinematic wide-angle composition with soft pastel hues of blush pink, lavender mist and warm ivory creating a harmonious visual dialogue between ancient grace and modern ambition, award-winning editorial photography style with extraordinary detail, shallow depth of field, and breathtaking technical precision.",
+      "text_model": "minimax",
+      "image_model": "klein-large",
+      "seed": 994952545,
+      "created_at": "2026-03-10T04:25:41.692834+08:00"
+    },
+    {
       "id": "20260309_235529",
       "filename": "images/artwork_20260309_235529.jpg",
       "topic": "ocean conservation and marine life",
