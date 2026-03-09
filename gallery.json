@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260309_153411",
+      "filename": "images/artwork_20260309_153411.jpg",
+      "topic": "animals and nature conservation",
+      "prompt": "A dying elk stands alone on a desolate plain beneath a haunting aurora borealis, its antlers silhouetted against ribbons of emerald and violet light that bleed into an amber sky, rendered in the dramatic chiaroscuro and ornate detail of baroque painting with a dystopian sense of loss, the warm orange glow illuminating the skeletal trees and barren earth while vultures circle overhead in the distance, thick impasto brushwork capturing the tragic beauty of nature's last breath.",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 289094501,
+      "created_at": "2026-03-09T15:34:11.169212+08:00"
+    },
+    {
       "id": "20260309_144714",
       "filename": "images/artwork_20260309_144714.jpg",
       "topic": "renewable energy and sustainable living",
