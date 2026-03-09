@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260309_112027",
+      "filename": "images/artwork_20260309_112027.jpg",
+      "topic": "human migration and global nomadism",
+      "prompt": "A vast caravan of weathered nomadic figures traverses an endless barren wasteland under a smoke-choked sky, their tattered belongings piled onto ancient vehicles and pack animals as they migrate toward an uncertain horizon, while eerie bioluminescent fungi and glowing flora emerge from the cracked earth, casting an ethereal cyan-green luminescence across the scene and illuminating the silhouettes of weary travelers in haunting detail. The color palette immerses everything in deep terracotta, burnt sienna, dusty amber and rust-brown earth tones that mix with the cold artificial glow, creating a darkly beautiful dystopian atmosphere where ancient traditions of human movement collide with a crumbling civilization, rendered in cinematic concept art style with dramatic chiaroscuro lighting, hyper-detailed textures on weathered clothing and rusted machinery, and a sweeping cinematic composition that captures the scale and melancholy of humanity's endless search for survival.",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 469612655,
+      "created_at": "2026-03-09T11:20:27.974774+08:00"
+    },
+    {
       "id": "20260309_100656",
       "filename": "images/artwork_20260309_100656.jpg",
       "topic": "Hong Kong city life and culture",
