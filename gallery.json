@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260309_173940",
+      "filename": "images/artwork_20260309_173940.jpg",
+      "topic": "revolution in education through technology",
+      "prompt": "In a cozy, candlelit classroom bathed in soft pastel hues of lavender, mint, and rose, a diverse group of young students huddles intimately around a glowing holographic tablet, their faces illuminated by flickering flames as digital interfaces morph traditional sketches into vibrant augmented reality sculptures, symbolizing the revolution in education through technology. Concept art style captures the human warmth of eager eyes and gentle hand gestures blending analog brushes with virtual code streams, evoking a tender fusion of heritage and innovation. Highly detailed, award-winning composition with intricate light rays dancing on wooden desks cluttered with notebooks and VR headsets, fostering an atmosphere of personal discovery and boundless creativity.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 1674420991,
+      "created_at": "2026-03-09T17:39:40.778469+08:00"
+    },
+    {
       "id": "20260309_170757",
       "filename": "images/artwork_20260309_170757.jpg",
       "topic": "fashion meets technology",
