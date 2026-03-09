@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260309_220730",
+      "filename": "images/artwork_20260309_220730.jpg",
+      "topic": "renewable energy and sustainable living",
+      "prompt": "A vibrant, award-winning watercolor painting depicting a futuristic city harmoniously integrated with nature. Towering structures, adorned with cascading vertical gardens and shimmering solar panels, are bathed in the ethereal glow of moonlight, casting long, dynamic shadows across bustling, amber-lit pedestrian walkways below. The scene pulsates with energetic life, showcasing wind turbines seamlessly integrated into the architecture and glowing orbs of bio-luminescent flora illuminating the warm amber and orange color palette, evoking a mood of optimistic sustainability and vibrant living.",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 740076160,
+      "created_at": "2026-03-09T22:07:30.633524+08:00"
+    },
+    {
       "id": "20260309_214325",
       "filename": "images/artwork_20260309_214325.jpg",
       "topic": "cultural diversity and global harmony",
