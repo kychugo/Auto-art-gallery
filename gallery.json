@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260309_160324",
+      "filename": "images/artwork_20260309_160324.jpg",
+      "topic": "Hong Kong protest art and resilience",
+      "prompt": "A close-up watercolor portrait of a young Hong Kong protestor, their face illuminated by the ethereal neon city glow, capturing a moment of quiet resilience amidst the cool blues and purples of the urban night. Their eyes, reflecting the vibrant streetlights, hold a deep, intimate human emotion, while subtle artistic details hint at the vibrant spirit of protest art. The overall mood is one of quiet strength and enduring hope, rendered in a visually stunning, award-winning watercolor style.",
+      "text_model": "gemini-search",
+      "image_model": "gptimage",
+      "seed": 170507112,
+      "created_at": "2026-03-09T16:03:24.588285+08:00"
+    },
+    {
       "id": "20260309_155005",
       "filename": "images/artwork_20260309_155005.jpg",
       "topic": "street food culture in Hong Kong",
