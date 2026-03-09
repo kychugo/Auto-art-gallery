@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260309_130916",
+      "filename": "images/artwork_20260309_130916.jpg",
+      "topic": "future of human civilization and technology",
+      "prompt": "First, the user wants a unique, detailed image generation prompt about \"future of human civilization and technology.\" I need to incorporate specific elements naturally: art style is impressionist, mood is dramatic and intense, lighting is moonlight and shadows, and color palette is emerald and deep forest green.\n\nThe prompt must be visually stunning, award-winning, and highly detailed. It should be 2-4 sentences long and paint a clear mental picture. I must respond with ONLY the image prompt itself, in English, with no explanations, titles, or markdown.\n\nI need to craft a prompt that describes a scene combining future technology and human civilization in an impressionist style. Impressionism often involves visible brushstrokes, light effects, and an emphasis on capturing moments. The mood should be dramatic and intense, so the scene might have tension or awe. Lighting is moonlight and shadows, suggesting a night scene or low-light conditions. Color palette is emerald and deep forest green, so greens should dominate.\n\nBrainstorming elements: Future technology could include advanced buildings, vehicles, or interfaces. Human civilization might show people or societal structures. Combine these with the required elements.\n\nStructure the prompt: Start with the main subject, describe the setting, incorporate the art style, mood, lighting, and colors. Keep it concise within 2-4 sentences.\n\nEnsure it's descriptive and rich in visual detail. For example, mention specific objects like glowing cities, towering structures, or ethereal technologies.\n\nFinal prompt should be in plain English, no extra text.\n\nDraft:\n\n\"In an impressionist depiction of humanity's technological future, a sprawling metropolis gleams under the cold moonlight, with shadows dancing across emerald-hued skyscrapers and deep forest green gardens, creating a dramatic and intense atmosphere of advanced civilization intertwined with nature.\"\n\nThat's one sentence. I need 2-4 sentences. Expand:\n\n\"Under a blanket of moonlight, the future of human civilization unfolds in an impressionist vista where towering,",
+      "text_model": "deepseek",
+      "image_model": "klein-large",
+      "seed": 1445585259,
+      "created_at": "2026-03-09T13:09:16.476567+08:00"
+    },
+    {
       "id": "20260309_125806",
       "filename": "images/artwork_20260309_125806.jpg",
       "topic": "cultural diversity and global harmony",
