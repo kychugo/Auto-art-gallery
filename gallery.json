@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260309_143657",
+      "filename": "images/artwork_20260309_143657.jpg",
+      "topic": "traditional vs modern culture clash in Asia",
+      "prompt": "In a sprawling cyberpunk megacity in dystopian Asia bathed in eerie moonlight and deep shadows, ancient red lanterns and ornate pagoda roofs clash violently with towering holographic skyscrapers pulsing with iridescent ads in electric blues, hot pinks, and acid greens. Street vendors in flowing hanbok and kimono robes haggle under flickering neon signs while cybernetically enhanced salarymen with glowing implants stride past graffiti-covered samurai statues now wired with circuit veins, their faces half-masked by AR visors. The holographic iridescent color palette shimmers across rain-slicked streets reflecting distorted temple dragons merging with drone swarms, evoking a dark, tense fusion of timeless tradition and relentless technological invasion in this award-winning, ultra-detailed vista.",
+      "text_model": "perplexity-fast",
+      "image_model": "klein",
+      "seed": 1199506930,
+      "created_at": "2026-03-09T14:36:57.452227+08:00"
+    },
+    {
       "id": "20260309_135344",
       "filename": "images/artwork_20260309_135344.jpg",
       "topic": "health and medicine breakthroughs",
