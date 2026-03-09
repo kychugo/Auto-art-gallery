@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260309_134056",
+      "filename": "images/artwork_20260309_134056.jpg",
+      "topic": "quantum computing and the future",
+      "prompt": "In a dark, dystopian future where quantum computing has reshaped reality into a fractured wasteland, a colossal quantum processor looms amidst twisted, overgrown ruins of an ancient forest, its intricate lattice of qubits pulsing with ethereal, entangled energy threads that weave through gnarled branches like spectral veins. Dappled forest light filters through dense, barren canopy in stark monochromatic black and white, casting dramatic shadows that highlight the machine's geometric precision against crumbling human relics and hovering holographic data streams symbolizing inevitable technological dominion. Concept art style, award-winning hyper-detailed masterpiece evoking foreboding uncertainty and otherworldly power.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux-2-dev",
+      "seed": 388674687,
+      "created_at": "2026-03-09T13:40:56.502944+08:00"
+    },
+    {
       "id": "20260309_131850",
       "filename": "images/artwork_20260309_131850.jpg",
       "topic": "space exploration and the cosmos",
