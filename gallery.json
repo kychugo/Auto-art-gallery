@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260309_225441",
+      "filename": "images/artwork_20260309_225441.jpg",
+      "topic": "biotechnology and genetic engineering",
+      "prompt": "A massive, cathedral-scale genetic engineering facility where towering double helix DNA structures rise like architectural marvels, their emerald biol",
+      "text_model": "minimax",
+      "image_model": "gptimage",
+      "seed": 1010372159,
+      "created_at": "2026-03-09T22:54:41.903763+08:00"
+    },
+    {
       "id": "20260309_222916",
       "filename": "images/artwork_20260309_222916.jpg",
       "topic": "renewable energy and sustainable living",
