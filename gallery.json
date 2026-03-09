@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260310_074737",
+      "filename": "images/artwork_20260310_074737.jpg",
+      "topic": "blockchain and decentralized future",
+      "prompt": "A surreal watercolor dreamscape where abstract data streams flow like an ethereal aurora borealis across a mysterious, deep forest green sky. Emerald green, translucent nodes representing decentralized nodes pulse with an inner light, interconnected by glowing, delicate lines against a backdrop of swirling, otherworldly mist. The lighting mimics the vibrant, shifting hues of the arctic aurora, casting an enchanting, slightly ominous glow over the entire scene, evoking a sense of infinite, unknown possibilities within the decentralized future.",
+      "text_model": "gemini-search",
+      "image_model": "flux-2-dev",
+      "seed": 421054890,
+      "created_at": "2026-03-10T07:47:37.706278+08:00"
+    },
+    {
       "id": "20260310_072417",
       "filename": "images/artwork_20260310_072417.jpg",
       "topic": "sports and human physical achievement",
