@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260309_193541",
+      "filename": "images/artwork_20260309_193541.jpg",
+      "topic": "human migration and global nomadism",
+      "prompt": "An anime-inspired scene of a bustling, fantastical night market on the back of a colossal, moss-covered ancient turtle, with figures of diverse global nomads silhouetted against the warm, flickering candlelight ambiance, their journeys marked by woven tapestries and glowing lanterns, all rendered in a vibrant, energetic style dominated by emerald and deep forest green hues, creating a visually stunning, award-winning composition of movement and community.",
+      "text_model": "gemini-fast",
+      "image_model": "klein-large",
+      "seed": 1330563627,
+      "created_at": "2026-03-09T19:35:41.155044+08:00"
+    },
+    {
       "id": "20260309_190702",
       "filename": "images/artwork_20260309_190702.jpg",
       "topic": "cultural diversity and global harmony",
