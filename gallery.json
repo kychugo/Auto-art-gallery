@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260310_072417",
+      "filename": "images/artwork_20260310_072417.jpg",
+      "topic": "sports and human physical achievement",
+      "prompt": "A lone marathon runner frozen mid-stride on an endless surrealist track that dissolves into floating stairs of broken clocks, their exhausted silhouette framed against a luminous full moon casting long violet shadows across bleached bones of ancient stadium pillars, while ghostly digital finish line numbers dissolve into swirling galaxies above, rendered in hyperrealistic detail withDreamlike distortion, melancholic atmosphere, dramatic chiaroscuro lighting, deep ultramarine and lavender palette with silver highlights, creating a poignant meditation on time, mortality, and the eternally fleeting nature of human athletic pursuit.",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 303187415,
+      "created_at": "2026-03-10T07:24:17.505481+08:00"
+    },
+    {
       "id": "20260310_065116",
       "filename": "images/artwork_20260310_065116.jpg",
       "topic": "human migration and global nomadism",
