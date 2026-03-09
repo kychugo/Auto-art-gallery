@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260309_163031",
+      "filename": "images/artwork_20260309_163031.jpg",
+      "topic": "mental health awareness in the digital age",
+      "prompt": "In a minimalist, dramatic style, visualize the overwhelming intensity of the digital age pressing in on mental well-being, depicted as a vast, abstract landscape under an arctic aurora borealis. Jagged, deep crimson and blood-red digital glitches and fragmented code tear through the serene, cold expanse, creating a sense of intense anxiety and isolation against the backdrop of the ethereal, otherworldly light. The overall mood is dramatic and intensely isolating, with sharp contrasts between the vibrant, yet cold, aurora and the visceral, bleeding reds of digital overload.",
+      "text_model": "gemini-search",
+      "image_model": "gptimage",
+      "seed": 1922067435,
+      "created_at": "2026-03-09T16:30:31.091578+08:00"
+    },
+    {
       "id": "20260309_160324",
       "filename": "images/artwork_20260309_160324.jpg",
       "topic": "Hong Kong protest art and resilience",
