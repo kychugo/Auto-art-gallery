@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260310_065116",
+      "filename": "images/artwork_20260310_065116.jpg",
+      "topic": "human migration and global nomadism",
+      "prompt": "A lone wanderer, rendered in ethereal, monochromatic watercolor strokes, traverses a vast, abstract desert landscape under the soft, golden hour sunlight. Wisps of mist and subtle, blurred silhouettes of distant, nomadic figures create an atmosphere of profound mystery and quiet contemplation, their forms dissolving into the inky black and stark white washes of the scene. The interplay of light and shadow evokes a sense of timeless journey and the ephemeral nature of human passage across the globe.",
+      "text_model": "gemini-fast",
+      "image_model": "gptimage",
+      "seed": 63596086,
+      "created_at": "2026-03-10T06:51:16.086389+08:00"
+    },
+    {
       "id": "20260310_061656",
       "filename": "images/artwork_20260310_061656.jpg",
       "topic": "urban architecture of the future",
