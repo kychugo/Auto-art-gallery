@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260309_233046",
+      "filename": "images/artwork_20260309_233046.jpg",
+      "topic": "cybersecurity and privacy in the digital world",
+      "prompt": "A solitary figure sits cross-legged on a floating stone platform in a vast digital void, gently cradling a glowing lantern-like orb that pulses with soft bioluminescent light, as cascading lines of golden code and protective firewall patterns form an ethereal canopy overhead, rendered in delicate anime style with warm terracotta and amber earth tones creating an intimate, peaceful atmosphere that transforms cybersecurity into something sacred and personal.",
+      "text_model": "minimax",
+      "image_model": "klein",
+      "seed": 945967199,
+      "created_at": "2026-03-09T23:30:46.512299+08:00"
+    },
+    {
       "id": "20260309_225441",
       "filename": "images/artwork_20260309_225441.jpg",
       "topic": "biotechnology and genetic engineering",
