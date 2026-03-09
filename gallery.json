@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260309_195401",
+      "filename": "images/artwork_20260309_195401.jpg",
+      "topic": "post-pandemic world transformation",
+      "prompt": "In a grand Baroque cathedral transformed by post-pandemic rebirth, crumbling modern skyscrapers entwine with ornate golden domes and spiraling marble columns overgrown with terracotta vines, symbolizing humanity's fragile renewal amid forgotten face masks drifting like autumn leaves. Solitary figures in flowing, wind-swept robes—melancholic survivors with reflective gazes—kneel in prayer before a cracked digital altar flickering with holographic ghosts of the lost, their dramatic poses captured in sensual chiaroscuro where candlelight flames dance across intricate stucco angels and baroque frescoes blurring heaven and decayed earth. Earth tones of deep ochre, burnt sienna, and muted sage dominate the palette, evoking a tenebrist ambiance of infinite sorrow and hushed hope, award-winning in opulent detail and emotional grandeur.",
+      "text_model": "perplexity-fast",
+      "image_model": "gptimage",
+      "seed": 430811696,
+      "created_at": "2026-03-09T19:54:01.461969+08:00"
+    },
+    {
       "id": "20260309_193541",
       "filename": "images/artwork_20260309_193541.jpg",
       "topic": "human migration and global nomadism",
