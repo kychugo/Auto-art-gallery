@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260309_123032",
+      "filename": "images/artwork_20260309_123032.jpg",
+      "topic": "Hong Kong city life and culture",
+      "prompt": "A vibrant pop art depiction of Hong Kong's bustling city life and culture, featuring towering neon-lit skyscrapers piercing the night sky, crowded wet markets with vendors hawking dim sum and street food amid tong lau tenement buildings adorned with bold murals of Bauhinia flowers, leaping dolphins, and Bruce Lee silhouettes, while retro taxis and throngs of locals in cheongsams and suits weave through chaotic alleyways under flickering signs in Chinese characters.[1][2][3] Rendered in a dramatic and intense mood with stark black outlines and high-contrast cool blues and purples dominating the palette, evoking the Pearl of the East's electric pulse.[1] Candlelight ambiance casts warm flickering glows from lanterns and street shrines, illuminating faces in sharp, exaggerated expressions and creating elongated shadows that heighten the vertigo of vertiginous architecture and endless urban energy, in a visually stunning, award-winning style with hyper-detailed textures and dynamic composition.[6]",
+      "text_model": "perplexity-fast",
+      "image_model": "klein-large",
+      "seed": 1679268544,
+      "created_at": "2026-03-09T12:30:33.012187+08:00"
+    },
+    {
       "id": "20260309_122321",
       "filename": "images/artwork_20260309_122321.jpg",
       "topic": "news headlines of tomorrow",
