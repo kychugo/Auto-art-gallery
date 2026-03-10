@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260310_112745",
+      "filename": "images/artwork_20260310_112745.jpg",
+      "topic": "cultural diversity and global harmony",
+      "prompt": "A vibrant digital art masterpiece depicting global harmony through cultural diversity, where people from every corner of the world—Indigenous warriors in feathered headdresses, Asian scholars in silk robes, African dancers with tribal beads, Middle Eastern musicians with ornate instruments, and European folk artists in embroidered attire—join hands in a grand circle dance atop a snowy Arctic peak under the mesmerizing glow of the aurora borealis. Ethereal ribbons of cool blues and purples cascade from the swirling northern lights, illuminating their joyful faces with energetic luminescence and casting dynamic shadows that blend traditional symbols like lotuses, dreamcatchers, ankhs, and Celtic knots into a unified tapestry of interconnected humanity. Highly detailed, award-winning composition with intricate textures on fabrics and skin, radiant particle effects in the aurora, and a sense of boundless unity and vitality.",
+      "text_model": "perplexity-fast",
+      "image_model": "klein-large",
+      "seed": 1289181003,
+      "created_at": "2026-03-10T11:27:45.121545+08:00"
+    },
+    {
       "id": "20260310_110946",
       "filename": "images/artwork_20260310_110946.jpg",
       "topic": "mental health awareness in the digital age",
