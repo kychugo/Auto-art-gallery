@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260310_170828",
+      "filename": "images/artwork_20260310_170828.jpg",
+      "topic": "fashion meets technology",
+      "prompt": "A solitary figure, adorned in haute couture woven with iridescent fiber optics, stands on a rain-slicked street reflecting the vibrant neon signs of a futuristic metropolis. Their face, partially obscured by shadow, betrays a melancholic and reflective mood, their gaze lost in the dazzling yet isolating glow of the city. The pop art style should emphasize bold lines and exaggerated forms, with a color palette dominated by electric blues, vibrant magentas, and sharp acid greens, all rendered under the moody, atmospheric neon city glow.",
+      "text_model": "gemini-search",
+      "image_model": "flux-2-dev",
+      "seed": 498865155,
+      "created_at": "2026-03-10T17:08:28.470809+08:00"
+    },
+    {
       "id": "20260310_162606",
       "filename": "images/artwork_20260310_162606.jpg",
       "topic": "ocean conservation and marine life",
