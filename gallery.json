@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260311_042549",
+      "filename": "images/artwork_20260311_042549.jpg",
+      "topic": "future of human civilization and technology",
+      "prompt": "A futuristic cyberpunk city emerges from an ancient enchanted forest, where bioluminescent holographic towers rise seamlessly among towering trees, their glowing windows reflecting warm amber and orange dappled sunlight filtering through emerald canopies, while hovercrafts and drones glide peacefully between branches adorned with living neon vines, humans and advanced AI companions stroll along elevated walking paths made of translucent crystal, children play near floating gardens projecting soft golden light, the entire scene bathed in dreamy sunbeams piercing through the misty morning fog, conveying hope and harmony between advanced technology and nature, hyper-detailed illustration with cinematic depth of field, warm sunset palette of honey, burnt orange, and soft gold, art nouveau meets digital punk aesthetic, award-winning concept art style with intricate environmental details and emotional storytelling",
+      "text_model": "minimax",
+      "image_model": "gptimage",
+      "seed": 958000436,
+      "created_at": "2026-03-11T04:25:49.386812+08:00"
+    },
+    {
       "id": "20260310_235757",
       "filename": "images/artwork_20260310_235757.jpg",
       "topic": "biotechnology and genetic engineering",
