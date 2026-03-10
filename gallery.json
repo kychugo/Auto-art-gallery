@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260310_162606",
+      "filename": "images/artwork_20260310_162606.jpg",
+      "topic": "ocean conservation and marine life",
+      "prompt": "A breathtakingly serene underwater scene unfolds with vibrant crimson coral formations pulsing with a soft, internal light, reminiscent of a deep-sea sunset. Schools of bioluminescent fish, shimmering in hues of deep red and crimson, gracefully navigate through the tranquil water, their gentle glow illuminating ancient, majestic sea turtles gliding peacefully. The lighting is soft and diffused, creating a dreamlike atmosphere bathed in the warm, rich tones of crimson and deep red, evoking a profound sense of peace and the vibrant, yet fragile, beauty of marine life. This award-winning cinematic composition captures the quiet majesty of the ocean's hidden depths, emphasizing its delicate ecosystem with stunning, high-detail realism.",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 176900534,
+      "created_at": "2026-03-10T16:26:06.200914+08:00"
+    },
+    {
       "id": "20260310_160014",
       "filename": "images/artwork_20260310_160014.jpg",
       "topic": "artificial intelligence reshaping society",
