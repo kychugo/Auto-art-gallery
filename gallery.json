@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260310_214158",
+      "filename": "images/artwork_20260310_214158.jpg",
+      "topic": "virtual reality and the metaverse",
+      "prompt": "A dramatic watercolor painting of a lone explorer in a virtual reality headset, standing at the heart of an infinite metaverse forest where towering digital trees pulse with **vibrant neon colors**—electric blues, hot pinks, and glowing lime greens—amidst **dappled forest light** filtering through crystalline leaves in intense, shadowy beams that cast elongated, ethereal glows. Holographic avatars and floating data streams swirl chaotically around the figure, their translucent forms clashing in a storm of code and glitch art, evoking a sense of **intense immersion** and boundless digital wilderness. Rendered in a highly detailed, award-winning watercolor style with soft bleeding edges, dynamic brushstrokes, and luminous highlights for a visually stunning, otherworldly depth.",
+      "text_model": "perplexity-fast",
+      "image_model": "gptimage",
+      "seed": 1168414655,
+      "created_at": "2026-03-10T21:41:58.123964+08:00"
+    },
+    {
       "id": "20260310_205851",
       "filename": "images/artwork_20260310_205851.jpg",
       "topic": "renewable energy and sustainable living",
