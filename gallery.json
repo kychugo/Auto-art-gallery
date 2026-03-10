@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260310_195240",
+      "filename": "images/artwork_20260310_195240.jpg",
+      "topic": "street food culture in Hong Kong",
+      "prompt": "In the heart of bustling Temple Street Night Market during golden hour, passionate Hong Kong vendors artfully prepare iconic street foods like skewered fish balls in rich curry sauce, crispy egg waffles, and sizzling meats at glowing stalls, surrounded by diverse crowds sharing joyful laughs amid neon signs and steaming woks. Concept art style captures this hopeful, uplifting scene with intricate details on weathered carts, fresh ingredients, and smiling faces illuminated by warm amber and orange sunlight casting long, radiant shadows. Highly detailed, award-winning composition evokes cultural vibrancy and communal warmth in a visually stunning panorama.",
+      "text_model": "perplexity-fast",
+      "image_model": "klein",
+      "seed": 692147638,
+      "created_at": "2026-03-10T19:52:40.501944+08:00"
+    },
+    {
       "id": "20260310_193540",
       "filename": "images/artwork_20260310_193540.jpg",
       "topic": "Hong Kong city life and culture",
