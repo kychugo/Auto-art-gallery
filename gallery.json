@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260310_110946",
+      "filename": "images/artwork_20260310_110946.jpg",
+      "topic": "mental health awareness in the digital age",
+      "prompt": "A solitary figure sits silhouetted against a vast, star-dusted digital sky, a subtle shimmer of moonlight illuminating their face as intricate lines of golden code weave around them, casting deep, serene shadows. The scene evokes a profound sense of peace amidst the digital ether, rendered in a photorealistic style with a striking high-contrast black and gold color palette, capturing the quiet introspection of mental well-being in our interconnected world.",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 627388183,
+      "created_at": "2026-03-10T11:09:46.370074+08:00"
+    },
+    {
       "id": "20260310_095852",
       "filename": "images/artwork_20260310_095852.jpg",
       "topic": "urban architecture of the future",
