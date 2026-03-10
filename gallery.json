@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260311_045951",
+      "filename": "images/artwork_20260311_045951.jpg",
+      "topic": "global climate crisis and environmental solutions",
+      "prompt": "A surreal landscape where giant crystalline trees grow from scorched earth, their translucent emerald leaves filtering dappled forest light through canopies of deep forest green, while ghostly transparent figures tend to dying saplings stretching toward contaminated skies, the scene bathed in melancholic golden-hour glow with pockets of shadow and light creating an ethereal, reflective atmosphere that speaks to both the devastation of climate crisis and the fragile hope of environmental rebirth",
+      "text_model": "minimax",
+      "image_model": "gptimage",
+      "seed": 1222534916,
+      "created_at": "2026-03-11T04:59:51.757711+08:00"
+    },
+    {
       "id": "20260311_042549",
       "filename": "images/artwork_20260311_042549.jpg",
       "topic": "future of human civilization and technology",
