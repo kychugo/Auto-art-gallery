@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260310_134123",
+      "filename": "images/artwork_20260310_134123.jpg",
+      "topic": "artificial intelligence reshaping society",
+      "prompt": "A lone figure stands at the precipice of a dense, emerald forest, where dappled sunlight pierces the canopy, casting an intense, dramatic glow. Glimmering tendrils of artificial intelligence, depicted as intricate, glowing circuits interwoven with bioluminescent flora, are subtly reshaping the ancient trees and the very fabric of the landscape. The mood is one of awe and apprehension, with a color palette dominated by rich emerald and deep forest greens, creating a visually stunning and highly detailed surrealist masterpiece.",
+      "text_model": "gemini-search",
+      "image_model": "klein",
+      "seed": 1582082383,
+      "created_at": "2026-03-10T13:41:23.310292+08:00"
+    },
+    {
       "id": "20260310_133227",
       "filename": "images/artwork_20260310_133227.jpg",
       "topic": "biotechnology and genetic engineering",
