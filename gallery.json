@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260310_190457",
+      "filename": "images/artwork_20260310_190457.jpg",
+      "topic": "cultural diversity and global harmony",
+      "prompt": "A vast, serene cyberpunk cityscape unfolds under a stormy, overcast sky, with diverse holographic projections of natural landscapes subtly woven between the towering, neon-drenched architecture. Cascading waterfalls of pure data flow down the sides of skyscrapers, reflecting a vibrant palette of electric blues, deep purples, and glowing pinks that illuminate the peaceful gathering of people from all walks of life in the plaza below. The mood is tranquil yet awe-inspiring, with a soft, diffused light piercing through the turbulent clouds, casting long, ethereal shadows and highlighting the harmonious coexistence of technology and nature.",
+      "text_model": "gemini-search",
+      "image_model": "klein",
+      "seed": 547445766,
+      "created_at": "2026-03-10T19:04:57.422923+08:00"
+    },
+    {
       "id": "20260310_184138",
       "filename": "images/artwork_20260310_184138.jpg",
       "topic": "virtual reality and the metaverse",
