@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260310_225259",
+      "filename": "images/artwork_20260310_225259.jpg",
+      "topic": "artificial intelligence reshaping society",
+      "prompt": "A surreal digital art composition depicting an ethereal figure composed of flowing neural networks and interconnected data streams, rendered in cool blues and purples with golden hour sunlight filtering through translucent layers of code and light. The figure stands at a crossroads where organic human forms gradually dissolve into geometric patterns and crystalline structures, symbolizing the transformation of society through artificial intelligence. The atmosphere is mysterious and dreamlike, with glowing particles suspended in air, subtle bokeh effects, and ethereal wisps of light creating a sense of wonder and contemplation. The style blends contemporary digital painting with surrealist elements, featuring intricate detail in the neural pathways and a luminous quality that suggests both technological advancement and profound human introspection.",
+      "text_model": "perplexity-fast",
+      "image_model": "imagen-4",
+      "seed": 1737689945,
+      "created_at": "2026-03-10T22:52:59.176595+08:00"
+    },
+    {
       "id": "20260310_221139",
       "filename": "images/artwork_20260310_221139.jpg",
       "topic": "virtual reality and the metaverse",
