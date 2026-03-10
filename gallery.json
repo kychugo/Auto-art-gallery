@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260310_235757",
+      "filename": "images/artwork_20260310_235757.jpg",
+      "topic": "biotechnology and genetic engineering",
+      "prompt": "A surreal close-up of human hands cradling a luminous double helix that dissolves into delicate butterfly wings, rendered in stark black and white with subtle warm sepia undertones as if viewed through aged film, golden hour light casting elongated shadows across the organic form while floating DNA strands interweave with translucent cellular structures in a dreamlike intimate composition.",
+      "text_model": "minimax",
+      "image_model": "flux",
+      "seed": 584019661,
+      "created_at": "2026-03-10T23:57:57.522448+08:00"
+    },
+    {
       "id": "20260310_233021",
       "filename": "images/artwork_20260310_233021.jpg",
       "topic": "post-pandemic world transformation",
