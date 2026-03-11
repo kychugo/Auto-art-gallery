@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260311_234415",
+      "filename": "images/artwork_20260311_234415.jpg",
+      "topic": "mental health awareness in the digital age",
+      "prompt": "In an abstract expressionist masterpiece evoking mental health awareness in the digital age, vast swirling fields of vibrant neon blues, pinks, and greens explode across a monumental canvas with spontaneous, gestural brushstrokes and dripping pigments, forming ethereal brain-like networks intertwined with glowing pixelated circuits and fragmented smartphone screens that dissolve into serene, meditative voids. Candlelight ambiance casts a warm, flickering glow over the composition, softening the electric neon palette into peaceful harmony and illuminating subtle motifs of blooming lotus flowers emerging from chaotic data streams, symbolizing inner calm amidst digital overload. This award-winning, highly detailed vista radiates tranquil introspection, enveloping the viewer in a luminous, emotionally resonant sanctuary of healing and balance.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux-2-dev",
+      "seed": 258294320,
+      "created_at": "2026-03-11T23:44:15.414235+08:00"
+    },
+    {
       "id": "20260311_231225",
       "filename": "images/artwork_20260311_231225.jpg",
       "topic": "virtual reality and the metaverse",
