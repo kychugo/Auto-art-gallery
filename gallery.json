@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260311_124811",
+      "filename": "images/artwork_20260311_124811.jpg",
+      "topic": "artificial intelligence reshaping society",
+      "prompt": "Cinematic, hopeful, and uplifting scene bathed in dappled forest light, where gentle AI constructs, rendered in soft pastel hues of lavender, rose gold, and seafoam green, seamlessly integrate with nature, offering guidance to diverse groups of people as they cultivate vibrant, bioluminescent gardens that symbolize a harmonious future, the overall atmosphere exuding a sense of peace and innovation.",
+      "text_model": "gemini-fast",
+      "image_model": "flux-2-dev",
+      "seed": 1627047426,
+      "created_at": "2026-03-11T12:48:11.041881+08:00"
+    },
+    {
       "id": "20260311_122114",
       "filename": "images/artwork_20260311_122114.jpg",
       "topic": "news headlines of tomorrow",
