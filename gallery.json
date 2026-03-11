@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260311_205849",
+      "filename": "images/artwork_20260311_205849.jpg",
+      "topic": "cultural diversity and global harmony",
+      "prompt": "A lone, translucent figure, subtly merging into the vast, star-dusted canvas, gazes upwards at the ethereal dance of an arctic aurora borealis, its cool blues and purples painting a melancholic yet profoundly hopeful scene of quiet contemplation and interconnectedness across an impossibly diverse, yet harmonious, cosmic landscape, rendered in hyperrealistic digital art with a dreamlike, reflective atmosphere.",
+      "text_model": "gemini-fast",
+      "image_model": "gptimage",
+      "seed": 2059891280,
+      "created_at": "2026-03-11T20:58:49.395462+08:00"
+    },
+    {
       "id": "20260311_195433",
       "filename": "images/artwork_20260311_195433.jpg",
       "topic": "blockchain and decentralized future",
