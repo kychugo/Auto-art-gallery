@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260311_214211",
+      "filename": "images/artwork_20260311_214211.jpg",
+      "topic": "animals and nature conservation",
+      "prompt": "First, the user wants an image generation prompt about animals and nature conservation. I need to incorporate the required elements naturally: art style is abstract expressionist, mood is dark and dystopian, lighting is moonlight and shadows, and color palette is high contrast black and gold.\n\nThe prompt should be 2-4 sentences long, visually stunning, award-winning, and highly detailed. I must respond with ONLY the image prompt in English, no explanations or extra text.\n\nAbstract expressionist style: This involves expressive use of color and form, often non-representational but can include elements. Since it's about animals and conservation, I need to blend that with the style.\n\nMood: Dark and dystopian – so a bleak, futuristic, or troubled atmosphere.\n\nLighting: Moonlight and shadows – implying night scene with sharp contrasts.\n\nColor palette: High contrast black and gold – so deep blacks and bright golds, emphasizing contrast.\n\nAnimals and nature conservation: The theme should reflect the plight of animals or nature in a dystopian setting, perhaps showing decay or struggle.\n\nCraft a single prompt: It should be a cohesive description that an AI image generator can interpret.\n\nStructure: 2-4 sentences, painting a clear mental picture. Make it detailed and vivid.\n\nIdeas: Depict animals in a degraded environment, using abstract forms. Moonlight casting shadows, gold accents against black.\n\nPossible elements: Silhouettes of animals, fractured landscapes, symbolic representations of conservation issues.\n\nEnsure it's in English only.\n\nDraft:\n\n- Start with the scene: In a dystopian abstract expressionist landscape, moonlight pierces through shadows to reveal...\n\n- Incorporate animals: ghostly silhouettes of endangered animals...\n\n- Use color: high contrast black and gold palette...\n\n- Mood: dark and foreboding...\n\nMake it award-winning: so it should sound professional and evocative.\n\nFinal prompt should flow naturally.\n\nLet me write it:\n\n\"In an abstract expressionist depiction of nature's decay, moonlight casts long shadows",
+      "text_model": "deepseek",
+      "image_model": "grok-imagine",
+      "seed": 478110757,
+      "created_at": "2026-03-11T21:42:11.333435+08:00"
+    },
+    {
       "id": "20260311_205849",
       "filename": "images/artwork_20260311_205849.jpg",
       "topic": "cultural diversity and global harmony",
