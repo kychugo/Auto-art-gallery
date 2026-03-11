@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260312_054136",
+      "filename": "images/artwork_20260312_054136.jpg",
+      "topic": "space exploration and the cosmos",
+      "prompt": "A baroque-style portrait of an astronaut wearing an elaborate emerald velvet spacesuit adorned with gold constellations and ornate scrollwork, standing on a swirling celestial platform surrounded by floating glass orbs and galaxies rendered in deep forest green, candlelight flickering from golden sconces mounted on古典 marble columns that frame a vast cosmic void, the scene bathed in a dreamlike glow where stars cascade like luminous fireflies and nebulae swirl with whimsical, theatrical elegance in rich emerald and verdant tones.",
+      "text_model": "minimax",
+      "image_model": "imagen-4",
+      "seed": 693774639,
+      "created_at": "2026-03-12T05:41:36.551938+08:00"
+    },
+    {
       "id": "20260312_045906",
       "filename": "images/artwork_20260312_045906.jpg",
       "topic": "Hong Kong protest art and resilience",
