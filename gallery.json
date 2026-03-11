@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260312_042654",
+      "filename": "images/artwork_20260312_042654.jpg",
+      "topic": "social media culture and human connection",
+      "prompt": "A baroque masterpiece in monochromatic black and white, capturing the dramatic and intense soul of social media culture. Dappled forest light pierces through an intricate, skeletal network of glowing digital vines, illuminating figures desperately reaching for phantom screens, their faces contorted with a mixture of longing and digital ecstasy, all rendered with the chiaroscuro intensity of a Caravaggio painting. The scene evokes a profound sense of isolation within hyper-connectivity, a haunting ballet of fractured human connection played out in the eternal twilight of the digital forest.",
+      "text_model": "gemini-fast",
+      "image_model": "gptimage",
+      "seed": 553482490,
+      "created_at": "2026-03-12T04:26:54.990283+08:00"
+    },
+    {
       "id": "20260311_234415",
       "filename": "images/artwork_20260311_234415.jpg",
       "topic": "mental health awareness in the digital age",
