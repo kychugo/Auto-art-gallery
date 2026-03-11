@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260312_072126",
+      "filename": "images/artwork_20260312_072126.jpg",
+      "topic": "global climate crisis and environmental solutions",
+      "prompt": "A breathtaking digital art scene depicts a thriving eco-city rising from restored nature, where solar panels shimmer like goldenFields beneath the warm amber glow of golden hour sunlight, towering wind turbines spin gracefully alongside lush green gardens cascading from buildings, while hovercrafts powered by clean energy glide through crystal-clear skies painted in vibrant orange and amber tones, symbolizing humanity's triumph over the climate crisis through innovative sustainable solutions, with the sun casting long, glowing rays across rolling hills of wildflowers and thriving forests that have reclaimed the urban landscape.",
+      "text_model": "minimax",
+      "image_model": "imagen-4",
+      "seed": 1454276726,
+      "created_at": "2026-03-12T07:21:26.332916+08:00"
+    },
+    {
       "id": "20260312_064634",
       "filename": "images/artwork_20260312_064634.jpg",
       "topic": "global climate crisis and environmental solutions",
