@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260311_162611",
+      "filename": "images/artwork_20260311_162611.jpg",
+      "topic": "news headlines of tomorrow",
+      "prompt": "Concept art illustration capturing the vibrant and energetic spirit of tomorrow's news headlines, rendered in a soft pastel color palette. Imagine ethereal, bioluminescent glow emanating from holographic screens projecting dynamic, futuristic typography, interspersed with fleeting abstract representations of global events and human connection, all rendered with exquisite detail and a sense of hopeful anticipation.",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 1353625377,
+      "created_at": "2026-03-11T16:26:11.503849+08:00"
+    },
+    {
       "id": "20260311_160042",
       "filename": "images/artwork_20260311_160042.jpg",
       "topic": "space exploration and the cosmos",
