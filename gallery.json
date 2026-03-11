@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260311_173433",
+      "filename": "images/artwork_20260311_173433.jpg",
+      "topic": "sports and human physical achievement",
+      "prompt": "In an abstract expressionist whirlwind of **high-contrast black and gold**, ethereal athletes leap and twist in whimsical, dreamlike defiance of gravity, their elongated limbs morphing into bold, slashing strokes that capture the raw ecstasy of sprinting, diving, and soaring through human physical triumph. **Dappled forest light** filters through invisible canopies, casting golden flecks and deep shadowy voids that dance across muscular forms frozen mid-leap, evoking boundless energy and surreal achievement amid swirling vortices of paint-like motion. This visually stunning, award-winning composition pulses with kinetic vigor, every gestural mark a testament to the body's impossible feats in a fantastical athletic reverie.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 1044763795,
+      "created_at": "2026-03-11T17:34:33.802206+08:00"
+    },
+    {
       "id": "20260311_170709",
       "filename": "images/artwork_20260311_170709.jpg",
       "topic": "fashion meets technology",
