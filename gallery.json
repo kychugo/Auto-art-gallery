@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260312_045906",
+      "filename": "images/artwork_20260312_045906.jpg",
+      "topic": "Hong Kong protest art and resilience",
+      "prompt": "First, the user wants a detailed image generation prompt. It must be about \"Hong Kong protest art and resilience.\" I need to incorporate specific elements naturally: art style (noir), mood (powerful and monumental), lighting (moonlight and shadows), and color palette (earth tones and terracotta).\n\nThe prompt should be 2-4 sentences long, visually stunning, award-winning, and highly detailed. I must respond with ONLY the image prompt in English, no explanations or markdown.\n\nI need to craft a single prompt that paints a clear mental picture. Start by setting the scene in Hong Kong, focusing on protest art and resilience. Use noir style, which often involves dark, moody elements with high contrast. The mood should be powerful and monumental, so perhaps depicting large-scale or impactful imagery. Lighting is moonlight and shadows, so nighttime scene with dramatic shadows. Color palette: earth tones and terracotta, so think of browns, oranges, muted colors.\n\nCombine these elements into a coherent description. For example, describe a Hong Kong street with graffiti or murals that symbolize resilience, under moonlight, with shadows casting dramatic effects, all in earth tones and terracotta.\n\nEnsure it's natural and flows well. Aim for 2-4 sentences.\n\nBrainstorm a draft:\n\n\"A noir-style depiction of Hong Kong's protest art, showcasing resilience through monumental graffiti-covered walls under a moonlit sky. Shadows play across the terracotta and earth-toned murals, creating a powerful and monumental atmosphere. The scene is visually stunning with intricate details of defiant symbols and textures, evoking a sense of enduring strength.\"\n\nThat's three sentences. Let me refine it to make it more vivid and award-winning.\n\nFinal prompt: \"In the noir art style, a powerful and monumental scene of Hong Kong protest art symbolizes resilience, with moonlight casting long shadows over earth-toned and terracotta murals on aged brick walls. Detailed graffiti of fists and doves intertwine,",
+      "text_model": "deepseek",
+      "image_model": "grok-imagine",
+      "seed": 2129426182,
+      "created_at": "2026-03-12T04:59:06.310185+08:00"
+    },
+    {
       "id": "20260312_042654",
       "filename": "images/artwork_20260312_042654.jpg",
       "topic": "social media culture and human connection",
