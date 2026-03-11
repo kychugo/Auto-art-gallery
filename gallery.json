@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260311_221526",
+      "filename": "images/artwork_20260311_221526.jpg",
+      "topic": "human migration and global nomadism",
+      "prompt": "First, the user wants me to create an image generation prompt. It must be about \"human migration and global nomadism\". I need to incorporate specific elements naturally: art style is anime-inspired, mood is intimate and human, lighting is neon city glow, and color palette is cool blues and purples.\n\nThe prompt should be visually stunning, award-winning, and highly detailed. It should be 2-4 sentences long and paint a clear mental picture. I must respond with ONLY the image prompt itself, no explanations, no titles, no markdown, and write exclusively in English.\n\nI need to craft a prompt that describes a scene related to human migration and global nomadism. Since it's anime-inspired, I should use elements common in anime art, like expressive characters, detailed backgrounds, and dynamic compositions.\n\nMood is intimate and human, so focus on personal, emotional moments. Lighting is neon city glow, suggesting an urban setting at night with neon signs. Color palette is cool blues and purples, which fits with neon lights and a nocturnal atmosphere.\n\nGlobal nomadism often involves people traveling or living in different cities, so I can depict a scene in a bustling city where characters are in transit or reflecting on their journeys.\n\nStructure the prompt: Start with the main scene, describe characters, incorporate the art style, mood, lighting, and colors naturally. Keep it concise, 2-4 sentences.\n\nBrainstorm a scene: A young traveler in a neon-lit city, perhaps at a train station or airport, with personal belongings, looking out at the cityscape. The intimacy could come from a close-up or a moment of connection.\n\nEnsure it's detailed: Mention specific visual elements like neon signs, reflections, expressions, and surroundings.\n\nFinal prompt should be in English only, and only the prompt itself.\n\nDraft:\n\n\"A detailed anime-inspired scene of a young global nomad gazing out from a bustling train station window, their reflection mingling with the neon city glow outside;",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 1249514913,
+      "created_at": "2026-03-11T22:15:26.940994+08:00"
+    },
+    {
       "id": "20260311_220721",
       "filename": "images/artwork_20260311_220721.jpg",
       "topic": "virtual reality and the metaverse",
