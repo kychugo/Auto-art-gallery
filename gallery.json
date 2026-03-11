@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260311_190447",
+      "filename": "images/artwork_20260311_190447.jpg",
+      "topic": "sports and human physical achievement",
+      "prompt": "A lone, cybernetically augmented athlete, muscles sculpted and glowing with internal bio-luminescence, breaks through a grimy, rain-slicked asphalt track in a futuristic, dystopian metropolis. The scene is bathed in the harsh, ethereal neon city glow of towering skyscrapers, casting long, fractured shadows across the scene, illuminated by a cool blues and purples color palette that reflects off puddles of iridescent fluid. Their face, a mask of intense focus and determination, is partially obscured by the steam rising from their exertion, embodying a raw, unyielding human physical achievement against the oppressive cyberpunk backdrop.",
+      "text_model": "gemini-fast",
+      "image_model": "gptimage",
+      "seed": 1303301565,
+      "created_at": "2026-03-11T19:04:47.727910+08:00"
+    },
+    {
       "id": "20260311_184412",
       "filename": "images/artwork_20260311_184412.jpg",
       "topic": "blockchain and decentralized future",
