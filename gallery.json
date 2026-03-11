@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260311_125852",
+      "filename": "images/artwork_20260311_125852.jpg",
+      "topic": "cybersecurity and privacy in the digital world",
+      "prompt": "A whimsical and dreamlike pop art scene where stylized, geometric digital circuits intertwine with ethereal glowing lines, reminiscent of an arctic aurora borealis. The color palette is a high-contrast interplay of deep blacks and radiant golds, highlighting abstract representations of data streams and padlock icons dissolving into stardust, creating a visually stunning and award-winning composition that evokes the delicate balance of cybersecurity and privacy.",
+      "text_model": "gemini-fast",
+      "image_model": "grok-imagine",
+      "seed": 2127054981,
+      "created_at": "2026-03-11T12:58:52.974172+08:00"
+    },
+    {
       "id": "20260311_124811",
       "filename": "images/artwork_20260311_124811.jpg",
       "topic": "artificial intelligence reshaping society",
