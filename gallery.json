@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260312_113347",
+      "filename": "images/artwork_20260312_113347.jpg",
+      "topic": "post-pandemic world transformation",
+      "prompt": "An abstract expressionist landscape depicting the dawn of a revitalized post-pandemic world, where organic, flowing forms in rich earth tones and terracotta hues rise from shadowed, fractured ground, illuminated by ethereal moonlight. The scene should evoke a whimsical yet dreamlike atmosphere, with gestural brushstrokes suggesting both resilience and a hopeful, unfolding future.",
+      "text_model": "gemini-search",
+      "image_model": "imagen-4",
+      "seed": 476264036,
+      "created_at": "2026-03-12T11:33:47.368622+08:00"
+    },
+    {
       "id": "20260312_111533",
       "filename": "images/artwork_20260312_111533.jpg",
       "topic": "urban architecture of the future",
