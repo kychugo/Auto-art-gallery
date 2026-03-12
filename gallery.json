@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260313_050135",
+      "filename": "images/artwork_20260313_050135.jpg",
+      "topic": "renewable energy and sustainable living",
+      "prompt": "A dramatic impressionist vision of sustainable living where towering wind turbines and gleaming solar arrays emerge organically from an ancient primeval forest, their structures radiating an otherworldly bioluminescent glow that transforms the misty canopy into a symphony of emerald and deep forest green, luminous jade light streaming between organic eco-dwellings and flowing like living energy through the landscape, captured in bold brushstrokes and dramatic shadows that convey intense visual power and the harmonious future of humanity's connection with nature.",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 988788752,
+      "created_at": "2026-03-13T05:01:35.874236+08:00"
+    },
+    {
       "id": "20260313_042642",
       "filename": "images/artwork_20260313_042642.jpg",
       "topic": "space exploration and the cosmos",
