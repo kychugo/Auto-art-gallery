@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260313_054201",
+      "filename": "images/artwork_20260313_054201.jpg",
+      "topic": "ocean conservation and marine life",
+      "prompt": "An anime-inspired scene of a serene coral reef bathed in ethereal moonlight and deep indigo shadows, where a lone bioluminescent jellyfish drifts peacefully, casting a warm amber glow on the surrounding vibrant, almost-living orange coral formations and schools of tiny, shimmering fish, evoking a profound sense of calm and underwater wonder.",
+      "text_model": "gemini-fast",
+      "image_model": "gptimage",
+      "seed": 861906846,
+      "created_at": "2026-03-13T05:42:01.264480+08:00"
+    },
+    {
       "id": "20260313_050135",
       "filename": "images/artwork_20260313_050135.jpg",
       "topic": "renewable energy and sustainable living",
