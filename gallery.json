@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260312_170905",
+      "filename": "images/artwork_20260312_170905.jpg",
+      "topic": "economic inequality and social justice",
+      "prompt": "In a dappled forest clearing bathed in soft pastel light filtering through ancient oaks, a stark contrast emerges: weathered hands reach upward toward distant skyscrapers of gold and silver rising impossibly from between gnarled roots, as cracked earth beneath bare feet symbolize the divide between those trapped in poverty and the privileged above, while digital art techniques render this scene with dramatic intensity, capturing the raw emotion of economic inequality with luminous rose, lavender, and cream tones that soften the harsh reality while maintaining the powerful visual narrative of social injustice.",
+      "text_model": "minimax",
+      "image_model": "imagen-4",
+      "seed": 1401113378,
+      "created_at": "2026-03-12T17:09:05.811283+08:00"
+    },
+    {
       "id": "20260312_162835",
       "filename": "images/artwork_20260312_162835.jpg",
       "topic": "ocean conservation and marine life",
