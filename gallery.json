@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260312_225253",
+      "filename": "images/artwork_20260312_225253.jpg",
+      "topic": "blockchain and decentralized future",
+      "prompt": "A minimalist, monumental structure of interconnected, softly glowing pastel geometric forms symbolizing a decentralized future, emerging from a turbulent, stormy overcast landscape.  The powerful, awe-inspiring scene is bathed in diffused, moody light, casting subtle shadows that emphasize the vastness and quiet strength of this new, distributed paradigm, with a color palette dominated by desaturated lavender, rose quartz, and pale aquamarine.",
+      "text_model": "gemini-fast",
+      "image_model": "grok-imagine",
+      "seed": 1235475954,
+      "created_at": "2026-03-12T22:52:53.616461+08:00"
+    },
+    {
       "id": "20260312_221343",
       "filename": "images/artwork_20260312_221343.jpg",
       "topic": "traditional vs modern culture clash in Asia",
