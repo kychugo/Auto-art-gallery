@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260312_220441",
+      "filename": "images/artwork_20260312_220441.jpg",
+      "topic": "news headlines of tomorrow",
+      "prompt": "Crimson rain streaks across a rain-slicked neon street, reflecting the fragmented, holographic news headlines of tomorrow, rendered in a cyberpunk style with a whimsical, dreamlike mood. Stormy overcast light casts an ethereal glow on towering, decaying skyscrapers adorned with glitching crimson advertisements, as a lone, cloaked figure walks beneath the downpour, their face obscured by shadow, surrounded by a deep red and crimson color palette, creating an award-winning, visually stunning, and highly detailed scene.",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 1081299144,
+      "created_at": "2026-03-12T22:04:41.114207+08:00"
+    },
+    {
       "id": "20260312_214003",
       "filename": "images/artwork_20260312_214003.jpg",
       "topic": "cybersecurity and privacy in the digital world",
