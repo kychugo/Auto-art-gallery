@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260313_074655",
+      "filename": "images/artwork_20260313_074655.jpg",
+      "topic": "biotechnology and genetic engineering",
+      "prompt": "A breathtaking baroque composition depicting the double helix of DNA spiraling upward through an ornate chamber filled with swirling acanthus scrolls and elaborate architectural flourishes, illuminated by ethereal bioluminescent glows in electric teals, vibrant magentas, and luminous lime greens that cast dramatic chiaroscuro shadows across intricately detailed genetic sequences and molecular structures, with graceful curved forms and sensuous ornamentation merging seamlessly into futuristic biotechnology imagery, all rendered with baroque's signature emotional intensity and theatrical grandeur, creating a sense of divine revelation and hopeful transcendence as scientific progress reaches toward infinite possibility.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 1120416407,
+      "created_at": "2026-03-13T07:46:55.678900+08:00"
+    },
+    {
       "id": "20260313_072327",
       "filename": "images/artwork_20260313_072327.jpg",
       "topic": "cultural diversity and global harmony",
