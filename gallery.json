@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260312_235627",
+      "filename": "images/artwork_20260312_235627.jpg",
+      "topic": "health and medicine breakthroughs",
+      "prompt": "First, the user asks me to create an image generation prompt. I must remember that I am a world-class creative director and AI artist. My response should be ONLY the image prompt itself, with no explanations, titles, or markdown. I must write exclusively in English.\n\nThe topic is \"health and medicine breakthroughs.\" I need to incorporate specific elements naturally:\n\n- Art style: photorealistic\n\n- Mood: powerful and monumental\n\n- Lighting: soft diffused daylight\n\n- Color palette: holographic iridescent\n\nThe prompt should be 2-4 sentences long, vivid, detailed, and visually stunning. It should paint a clear mental picture.\n\nI need to craft a prompt that combines health and medicine breakthroughs with these elements. Since it's photorealistic, I should describe a scene that looks like a real photograph. The mood should feel powerful and monumental, so perhaps depicting a significant medical discovery or advanced technology. Lighting is soft diffused daylight, which suggests a gentle, natural light that isn't harsh. Color palette is holographic iridescent, so I need to include shimmering, shifting colors that reflect light in a rainbow-like way.\n\nI'll structure the prompt to describe a scene. For example, a laboratory or medical setting where a breakthrough is happening. But to make it monumental, it might be a grand presentation or a symbolic representation.\n\nBrainstorm ideas:\n\n- A scientist in a lab, but with holographic displays showing medical data.\n\n- A monumental sculpture or installation representing health breakthroughs.\n\n- A futuristic medical device with iridescent colors.\n\nTo incorporate all elements naturally, I'll describe a scene that includes these aspects.\n\nStart with the setting: perhaps a vast, modern medical research facility.\n\nInclude visual details: for photorealistic, describe textures, reflections, etc.\n\nMood: powerful and monumental – so use words like \"majestic,\" \"awe-inspiring,\" or \"groundbreaking.\"\n\nLighting: soft diffused daylight – so light coming through",
+      "text_model": "deepseek",
+      "image_model": "gptimage",
+      "seed": 838153839,
+      "created_at": "2026-03-12T23:56:27.721335+08:00"
+    },
+    {
       "id": "20260312_232956",
       "filename": "images/artwork_20260312_232956.jpg",
       "topic": "Hong Kong protest art and resilience",
