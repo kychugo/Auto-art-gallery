@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260312_214003",
+      "filename": "images/artwork_20260312_214003.jpg",
+      "topic": "cybersecurity and privacy in the digital world",
+      "prompt": "In an impressionist style with visible, loose brushstrokes capturing fleeting digital light, a dramatic and intense scene unfolds under stark studio lighting that casts long, ominous shadows across a terracotta-hued digital fortress crumbling under assault. Earth-toned binary code rains like stormy earth particles from fractured holographic shields guarding a solitary glowing padlock symbolizing privacy, while ghostly cyber tendrils in burnt sienna and ochre invade swirling data vortices, evoking the raw tension of cybersecurity's battle in the digital ether. The composition bursts with dynamic movement, asymmetrical angles, and vibrant complementary tones of deep umbers and warm rusts, creating an award-winning masterpiece of modern peril and resilience.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux-2-dev",
+      "seed": 2074889489,
+      "created_at": "2026-03-12T21:40:03.096849+08:00"
+    },
+    {
       "id": "20260312_205903",
       "filename": "images/artwork_20260312_205903.jpg",
       "topic": "Hong Kong protest art and resilience",
