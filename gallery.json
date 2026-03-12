@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260313_055708",
+      "filename": "images/artwork_20260313_055708.jpg",
+      "topic": "Hong Kong city life and culture",
+      "prompt": "A watercolor painting of Hong Kong's vibrant street life under a soft, hopeful moonlight.  Cool blues and deep purples dominate the scene, with elongated shadows from neon signs and towering skyscrapers creating a sense of mystery, while a solitary figure gazes upwards, their silhouette bathed in a gentle, uplifting glow.  The intricate details of bustling markets and distant sampans are rendered with delicate washes, capturing the dynamic spirit of the city with an ethereal, dreamlike quality.",
+      "text_model": "gemini-fast",
+      "image_model": "imagen-4",
+      "seed": 614786403,
+      "created_at": "2026-03-13T05:57:08.814421+08:00"
+    },
+    {
       "id": "20260313_054201",
       "filename": "images/artwork_20260313_054201.jpg",
       "topic": "ocean conservation and marine life",
