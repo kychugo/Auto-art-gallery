@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260312_160135",
+      "filename": "images/artwork_20260312_160135.jpg",
+      "topic": "urban architecture of the future",
+      "prompt": "Surrealist cityscape of towering, impossibly balanced architectural forms rendered in stark, high-contrast black and gold, evoking a melancholic and reflective mood. Ethereal candlelight flickers and casts long, dancing shadows across impossible geometries and silhouetted figures, suggesting a forgotten grandeur in this dreamlike urban expanse. The scene should possess an award-winning level of detail, with intricate textures and a profound sense of quiet contemplation.",
+      "text_model": "gemini-fast",
+      "image_model": "imagen-4",
+      "seed": 1648205658,
+      "created_at": "2026-03-12T16:01:35.202387+08:00"
+    },
+    {
       "id": "20260312_154647",
       "filename": "images/artwork_20260312_154647.jpg",
       "topic": "street food culture in Hong Kong",
