@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260312_162835",
+      "filename": "images/artwork_20260312_162835.jpg",
+      "topic": "ocean conservation and marine life",
+      "prompt": "First, the user wants me to create an image generation prompt. I must ensure that the response is only the prompt itself—no explanations, titles, or markdown. The prompt must be in English only.\n\nThe topic is \"ocean conservation and marine life.\" I need to incorporate the required elements naturally:\n- Art style: surrealist\n- Mood: hopeful and uplifting\n- Lighting: arctic aurora borealis\n- Color palette: soft pastel hues\n\nThe prompt should be 2-4 sentences long, visually stunning, award-winning, and highly detailed. It should paint a clear mental picture.\n\nI need to craft a descriptive prompt that includes these elements. Let me brainstorm how to weave them together.\n\n- **Surrealist art style**: This means elements that are dreamlike, fantastical, or beyond reality. I can include unusual combinations or magical realism.\n- **Hopeful and uplifting mood**: The scene should evoke positive emotions, perhaps showing marine life thriving or humans interacting harmoniously with the ocean.\n- **Lighting: arctic aurora borealis**: This involves northern lights, so I should describe the lighting as shimmering, ethereal, and colorful, like the aurora.\n- **Color palette: soft pastel hues**: Colors should be gentle, muted tones like pale blues, pinks, lavenders, and greens.\n\nSince it's about ocean conservation and marine life, I should include elements like coral reefs, whales, dolphins, or other marine creatures, and perhaps symbols of conservation like clean waters or protected areas.\n\nCombine all this into a surrealist scene. For example, marine life glowing under the aurora borealis, with pastel colors creating a magical atmosphere.\n\nStructure the prompt in 2-4 sentences. Start by setting the scene, then add details about the elements.\n\nDraft:\n\n\"In a surreal underwater world, vibrant coral reefs and graceful whales glow under the ethereal light of an arctic aurora borealis, casting soft past",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 508236408,
+      "created_at": "2026-03-12T16:28:35.224928+08:00"
+    },
+    {
       "id": "20260312_160135",
       "filename": "images/artwork_20260312_160135.jpg",
       "topic": "urban architecture of the future",
