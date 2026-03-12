@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260312_121932",
+      "filename": "images/artwork_20260312_121932.jpg",
+      "topic": "ancient traditions meeting the modern world",
+      "prompt": "An elderly weaver, her face etched with wisdom, sits hunched over an antique loom, threads of pure gold catching the flickering candlelight, casting deep, dramatic shadows that accentuate the intimate, human mood. Beside her, a sleek, modern smartphone rests on a stack of aged manuscripts, its screen displaying a vibrant, abstract digital pattern, all rendered in a high-contrast black and gold impressionist style, evoking a powerful sense of ancient traditions gracefully embracing the contemporary world.",
+      "text_model": "gemini-fast",
+      "image_model": "gptimage",
+      "seed": 1170352213,
+      "created_at": "2026-03-12T12:19:32.636735+08:00"
+    },
+    {
       "id": "20260312_114355",
       "filename": "images/artwork_20260312_114355.jpg",
       "topic": "renewable energy and sustainable living",
