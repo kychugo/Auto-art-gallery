@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260313_072327",
+      "filename": "images/artwork_20260313_072327.jpg",
+      "topic": "cultural diversity and global harmony",
+      "prompt": "A close-up, intimate portrait capturing a moment of quiet understanding between two figures from distinct cultural backgrounds, their faces softly illuminated by dappled forest light filtering through an unseen canopy, evoking a mood of profound human connection. The scene is rendered in a striking noir art style, with sharp contrasts and deep shadows that emphasize the rich emerald and deep forest green color palette, creating a visually stunning and award-winning composition that speaks to global harmony. Intricate details in their attire and the surrounding foliage hint at diverse traditions coexisting peacefully, bathed in the magical, almost surreal, forest light.",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 1244528854,
+      "created_at": "2026-03-13T07:23:28.010856+08:00"
+    },
+    {
       "id": "20260313_064922",
       "filename": "images/artwork_20260313_064922.jpg",
       "topic": "Hong Kong protest art and resilience",
