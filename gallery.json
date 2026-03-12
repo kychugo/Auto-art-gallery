@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260312_221343",
+      "filename": "images/artwork_20260312_221343.jpg",
+      "topic": "traditional vs modern culture clash in Asia",
+      "prompt": "Impressionist masterpiece depicting a serene clearing where ancient terracotta roof tiles of a traditional temple softly blend with the muted glow of modern neon signs peeking through dappled forest light, a lone figure in simple earth-toned robes meditating near a quietly flowing stream reflecting the vibrant yet calming blend of terracotta and deep forest greens, creating a peaceful, award-winning tableau of cultural harmony.",
+      "text_model": "gemini-fast",
+      "image_model": "flux-2-dev",
+      "seed": 1487303372,
+      "created_at": "2026-03-12T22:13:43.577091+08:00"
+    },
+    {
       "id": "20260312_220441",
       "filename": "images/artwork_20260312_220441.jpg",
       "topic": "news headlines of tomorrow",
