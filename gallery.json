@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260312_111533",
+      "filename": "images/artwork_20260312_111533.jpg",
+      "topic": "urban architecture of the future",
+      "prompt": "In an anime-inspired futuristic metropolis, towering emerald-green skyscrapers with organic, vine-like Metabolist structures twist skyward amid neon-lit flyovers and unfinished highways, evoking a dystopian Hong Kong reborn in deep forest greens and shadowy depths. A melancholic glow from flickering emerald neon signs bathes rain-slicked streets in reflective pools, where solitary figures gaze upward at hovering drones and colossal holographic ads, capturing a reflective mood of urban isolation and lost futures. Highly detailed, award-winning digital art with intricate cel-shading, cinematic depth of field, and a palette dominated by lush emerald and profound forest green tones under perpetual twilight neon radiance.",
+      "text_model": "perplexity-fast",
+      "image_model": "grok-imagine",
+      "seed": 327896357,
+      "created_at": "2026-03-12T11:15:33.085790+08:00"
+    },
+    {
       "id": "20260312_100526",
       "filename": "images/artwork_20260312_100526.jpg",
       "topic": "economic inequality and social justice",
