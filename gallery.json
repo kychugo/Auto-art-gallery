@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260312_100526",
+      "filename": "images/artwork_20260312_100526.jpg",
+      "topic": "economic inequality and social justice",
+      "prompt": "In a **baroque-style** dystopian cityscape at **golden hour**, towering emerald spires of opulent palaces pierce smog-choked skies, their gilded domes and swirling **trompe l'oeil** facades cascading in **deep forest green** tones, while ragged crowds of emaciated protesters surge below in dramatic chiaroscuro, scales tipping from bloated oligarchs' hands to the starved masses, evoking raw tension and social uprising. Ornate sculptures of justice—blindfolded yet weeping—spiral outward in sensual motion, their **lush green foliage** crowns wilting amid crumbling ruins, illuminated by slanting sunlight that spotlights inequality's abyss with tenebrism intensity. Highly detailed, award-winning masterpiece blending grandeur, emotion, and allegory in a dark, immersive vista of fractured equity.",
+      "text_model": "perplexity-fast",
+      "image_model": "imagen-4",
+      "seed": 698289429,
+      "created_at": "2026-03-12T10:05:26.027165+08:00"
+    },
+    {
       "id": "20260312_074555",
       "filename": "images/artwork_20260312_074555.jpg",
       "topic": "artificial intelligence reshaping society",
