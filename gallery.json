@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260312_232956",
+      "filename": "images/artwork_20260312_232956.jpg",
+      "topic": "Hong Kong protest art and resilience",
+      "prompt": "A sweeping abstract expressionist composition depicting the resilience of Hong Kong's protest movement, where violent crimson and deep blood-red brushstrokes slash across a darkened canvas like wounds in the night, illuminated by cold moonlight that casts long, haunting shadows across distorted human forms rising from chaotic gestural layers, the dystopian atmosphere thick with tension and defiant hope, while splatters and bold impasto textures suggest both violence and unwavering spirit, set against a moody noir background fading into incomprehensible darkness.",
+      "text_model": "minimax",
+      "image_model": "gptimage",
+      "seed": 1389250202,
+      "created_at": "2026-03-12T23:29:56.522788+08:00"
+    },
+    {
       "id": "20260312_225253",
       "filename": "images/artwork_20260312_225253.jpg",
       "topic": "blockchain and decentralized future",
