@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260312_190354",
+      "filename": "images/artwork_20260312_190354.jpg",
+      "topic": "cybersecurity and privacy in the digital world",
+      "prompt": "An abstract expressionist representation of cybersecurity and privacy emerges from a digital void, where cascading holographic iridescent streams of protected data flow like rivers of light through an infinite grid of crystalline barriers, the golden hour sunlight piercing through translucent layers of encrypted information creates dramatic shadows and luminous halos around floating geometric forms, while shattered digital fragments reform into protective shields in a visceral dance of vulnerability and strength, the intense atmosphereblending swirling chaotic energy with precise architectural precision in a breathtaking panorama of technological resilience.",
+      "text_model": "minimax",
+      "image_model": "gptimage",
+      "seed": 820383527,
+      "created_at": "2026-03-12T19:03:54.616345+08:00"
+    },
+    {
       "id": "20260312_184141",
       "filename": "images/artwork_20260312_184141.jpg",
       "topic": "street food culture in Hong Kong",
