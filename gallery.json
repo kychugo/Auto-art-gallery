@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260313_064922",
+      "filename": "images/artwork_20260313_064922.jpg",
+      "topic": "Hong Kong protest art and resilience",
+      "prompt": "First, the user wants an image generation prompt about Hong Kong protest art and resilience. I need to incorporate specific elements: surrealist art style, dark and dystopian mood, golden hour sunlight lighting, and a vibrant neon colors palette.\n\nThe prompt must be vivid, detailed, and paint a clear mental picture. It should be 2-4 sentences long, written in English only, with no explanations or extra text.\n\nKey elements to weave in naturally:\n- Surrealist style: This means elements that are dreamlike, bizarre, or illogical. Think of distorted realities or symbolic imagery.\n- Dark and dystopian mood: This suggests a grim, oppressive, or futuristic bleakness. Hong Kong protest art often reflects resistance against authority, so I can incorporate symbols of resilience amidst dystopia.\n- Golden hour sunlight: This is the warm, soft light during sunrise or sunset. It can create a contrast with the dark mood, adding a layer of hope or beauty.\n- Vibrant neon colors: Neon is iconic in Hong Kong's cityscape, especially in night scenes. It can represent energy, life, or the vibrant culture amidst darkness.\n\nCombine these into a cohesive scene. Perhaps show protest art elements like graffiti or symbols merged with surreal distortions, under golden hour light with neon accents.\n\nStructure the prompt:\n- Start with a general scene setting.\n- Describe the surreal elements.\n- Mention the lighting and color palette.\n- Ensure it's visually stunning and award-winning, so use evocative language.\n\nCraft 2-4 sentences. For example:\n\"In a dystopian Hong Kong alley, surreal protest art murals come to life with fragmented faces and symbolic hands reaching skyward, bathed in the warm glow of golden hour sunlight that casts long shadows. Neon signs in vibrant pinks, blues, and greens flicker amidst the decay, creating a stark contrast between resilience and oppression. The scene is both haunting and beautiful, with detailed textures of crumbling walls and glowing graffiti that tell stories of resistance",
+      "text_model": "deepseek",
+      "image_model": "flux-2-dev",
+      "seed": 977974824,
+      "created_at": "2026-03-13T06:49:22.933752+08:00"
+    },
+    {
       "id": "20260313_061747",
       "filename": "images/artwork_20260313_061747.jpg",
       "topic": "artificial intelligence reshaping society",
