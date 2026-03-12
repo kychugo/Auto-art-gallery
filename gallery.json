@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260312_205903",
+      "filename": "images/artwork_20260312_205903.jpg",
+      "topic": "Hong Kong protest art and resilience",
+      "prompt": "A vibrant pop art depiction of Hong Kong's resilience, featuring stylized citizens holding aloft blooming lotus flowers amidst a gentle breeze. The scene is bathed in the warm, serene glow of golden hour sunlight, casting long shadows and highlighting the rich earth tones and terracotta hues of urban textures. This award-winning, highly detailed artwork captures a moment of quiet strength and enduring hope, with subtle visual motifs of protest integrated seamlessly into the peaceful, dreamlike atmosphere.",
+      "text_model": "gemini-search",
+      "image_model": "flux-2-dev",
+      "seed": 1971473021,
+      "created_at": "2026-03-12T20:59:03.517912+08:00"
+    },
+    {
       "id": "20260312_194836",
       "filename": "images/artwork_20260312_194836.jpg",
       "topic": "traditional vs modern culture clash in Asia",
