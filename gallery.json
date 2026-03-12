@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260312_153004",
+      "filename": "images/artwork_20260312_153004.jpg",
+      "topic": "global climate crisis and environmental solutions",
+      "prompt": "A sweeping baroque allegorical composition depicting Mother Earth rising triumphantly from swirling clouds of renewal, her luminous form bathed in dramatic studio lighting with rich amber and orange hues casting divine rays across the scene, surrounded by symbolic figures of innovation and nature working in harmonious union—lush botanical elements intertwining with gleaming renewable energy infrastructures, all rendered with baroque opulence, exuberant ornamentation, and dynamic spiraling movement that conveys hope and transformation, the entire scene suffused with warm golden light that illuminates verdant landscapes blooming beneath clearing skies, capturing the sensuous spiritual grandeur of humanity's triumph over environmental crisis through unity and sustainable progress.",
+      "text_model": "perplexity-fast",
+      "image_model": "gptimage",
+      "seed": 1463932683,
+      "created_at": "2026-03-12T15:30:04.847689+08:00"
+    },
+    {
       "id": "20260312_143926",
       "filename": "images/artwork_20260312_143926.jpg",
       "topic": "revolution in education through technology",
