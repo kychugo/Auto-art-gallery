@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260312_134642",
+      "filename": "images/artwork_20260312_134642.jpg",
+      "topic": "news headlines of tomorrow",
+      "prompt": "A minimalist floating newspaper dissolves into ethereal crimson particles against an endless arctic sky, where dancing aurora borealis curtains of deep red and ruby light illuminate the horizon, casting a peaceful serene glow across glass-smooth snow that mirrors tomorrow's headlines in shimmering light, the scene rendered in clean geometric lines and subtle textures with only crimson tones dominating the nocturnal frozen landscape.",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 748493103,
+      "created_at": "2026-03-12T13:46:42.150817+08:00"
+    },
+    {
       "id": "20260312_133526",
       "filename": "images/artwork_20260312_133526.jpg",
       "topic": "blockchain and decentralized future",
