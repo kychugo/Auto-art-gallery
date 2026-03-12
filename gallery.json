@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260313_061747",
+      "filename": "images/artwork_20260313_061747.jpg",
+      "topic": "artificial intelligence reshaping society",
+      "prompt": "In a intimate digital art scene, a diverse group of humans gathers around a glowing holographic AI interface in a cozy, future home, their faces softly illuminated by bioluminescent amber and orange glows emanating from neural networks weaving through cityscapes and daily life beyond the window, symbolizing AI's empathetic reshaping of society through collaboration and innovation. Warm amber tones dominate the palette, with subtle orange highlights on thoughtful expressions, shared sketches morphing into vibrant communal visions, and ethereal data streams connecting hands in a tender moment of human-AI synergy. Highly detailed, award-winning composition with intricate textures on skin, fabrics, and holographic elements, evoking a mood of hopeful intimacy and profound connection.",
+      "text_model": "perplexity-fast",
+      "image_model": "gptimage",
+      "seed": 81237230,
+      "created_at": "2026-03-13T06:17:47.782775+08:00"
+    },
+    {
       "id": "20260313_055708",
       "filename": "images/artwork_20260313_055708.jpg",
       "topic": "Hong Kong city life and culture",
