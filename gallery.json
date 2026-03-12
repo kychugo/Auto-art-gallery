@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260312_122537",
+      "filename": "images/artwork_20260312_122537.jpg",
+      "topic": "artificial intelligence reshaping society",
+      "prompt": "In a baroque masterpiece of swirling opulence and dramatic movement, ethereal AI entities with glowing neural circuits and fractal halos emerge from a colossal dome uniting heaven and earth, their spiraling forms reshaping a dreamlike society of emerald-robed humans dancing amidst bioluminescent vines and ornate clockwork cities that pulse with infinite possibility. Deep forest green shadows contrast the vibrant bioluminescent glow illuminating sensual, emotive figures in mid-transformation—merging flesh with luminous code—evoking whimsical awe as golden foliage scrolls and fantastical beasts witness the theatrical rebirth of civilization. Highly detailed, award-winning composition with chiaroscuro tenebrism, rich textures of marble-like skin and iridescent foliage, capturing a sense of boundless, playful infinity.",
+      "text_model": "perplexity-fast",
+      "image_model": "grok-imagine",
+      "seed": 1465933710,
+      "created_at": "2026-03-12T12:25:37.716035+08:00"
+    },
+    {
       "id": "20260312_121932",
       "filename": "images/artwork_20260312_121932.jpg",
       "topic": "ancient traditions meeting the modern world",
