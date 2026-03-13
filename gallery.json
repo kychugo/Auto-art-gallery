@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260314_072401",
+      "filename": "images/artwork_20260314_072401.jpg",
+      "topic": "traditional vs modern culture clash in Asia",
+      "prompt": "A digitally painted scene unfolds in a mysterious, ethereal Asian landscape where ancient pagodas, rendered in soft emerald and deep forest green hues, rise through a swirling mist under diffused daylight. Juxtaposed against this serene backdrop, neon-lit holographic advertisements flicker, displaying modern consumer icons that cast an uncanny glow on the moss-covered stones and water. The mood is one of quiet bewilderment and temporal displacement, as ethereal spirits subtly intertwine with holographic projections, creating a visually stunning and deeply evocative portrayal of tradition meeting the hyper-modern.",
+      "text_model": "gemini-search",
+      "image_model": "imagen-4",
+      "seed": 684787200,
+      "created_at": "2026-03-14T07:24:01.547471+08:00"
+    },
+    {
       "id": "20260314_064856",
       "filename": "images/artwork_20260314_064856.jpg",
       "topic": "blockchain and decentralized future",
