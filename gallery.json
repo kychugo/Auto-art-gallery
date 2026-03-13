@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260313_224339",
+      "filename": "images/artwork_20260313_224339.jpg",
+      "topic": "social media culture and human connection",
+      "prompt": "Under a crescent moon casting soft silver light, glowing digital threads of connection—like delicate fiber-optic vines—bloom from smartphones and weave into a luminous bridge between two shadowed figures on opposite rooftops, their silhouettes leaning toward each other as a constellation of shared memories, emojis, and whispers forms a swirling aurora in the cool indigo and lavender sky above a sleeping city.",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 291845906,
+      "created_at": "2026-03-13T22:43:40.004197+08:00"
+    },
+    {
       "id": "20260313_221001",
       "filename": "images/artwork_20260313_221001.jpg",
       "topic": "post-pandemic world transformation",
