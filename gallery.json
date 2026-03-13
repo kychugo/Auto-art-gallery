@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260313_143744",
+      "filename": "images/artwork_20260313_143744.jpg",
+      "topic": "artificial intelligence reshaping society",
+      "prompt": "A concept art piece depicting AI seamlessly integrating into a hyper-detailed, organic cityscape, with glowing emerald circuitry weaving through ancient forest-green architecture. Ethereal wisps of digital mist drift through the scene, illuminated by the warm, mystical glow of golden hour sunlight casting long shadows. The mood is one of profound mystery and emergent consciousness, with subtle, almost imperceptible movements hinting at a society being quietly reshaped by unseen intelligence.",
+      "text_model": "gemini-search",
+      "image_model": "flux-2-dev",
+      "seed": 804965950,
+      "created_at": "2026-03-13T14:37:44.404275+08:00"
+    },
+    {
       "id": "20260313_140938",
       "filename": "images/artwork_20260313_140938.jpg",
       "topic": "future of human civilization and technology",
