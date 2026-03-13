@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260313_152819",
+      "filename": "images/artwork_20260313_152819.jpg",
+      "topic": "post-pandemic world transformation",
+      "prompt": "In a dystopian digital art scene, towering, bio-mechanical trees with crimson bark and glowing circuitry veins rise in a misty, overgrown forest; dappled light filters through the jagged canopy onto the ruins of human civilization, where abandoned medical drones hang from branches like strange fruit and rusted vehicles are consumed by deep red fungal blooms, evoking a haunting, award-winning vision of nature's eerie reclamation.",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 2045875269,
+      "created_at": "2026-03-13T15:28:19.922332+08:00"
+    },
+    {
       "id": "20260313_143744",
       "filename": "images/artwork_20260313_143744.jpg",
       "topic": "artificial intelligence reshaping society",
