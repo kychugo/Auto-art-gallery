@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260314_055748",
+      "filename": "images/artwork_20260314_055748.jpg",
+      "topic": "future of human civilization and technology",
+      "prompt": "A futuristic cityscape emerges where towering holographic skyscrapers blend with ancient stone architecture, populated by humans and sentient AI entities strolling through floating marketplaces, rendered in bold pop art style with thick dynamic outlines and vibrant geometric patterns. Warm candlelight from countless floating lanterns and neon's crimson glow bathes the scene in an ethereal mystery, casting long shadows across chrome and marble surfaces as the deep red palette dominates the atmosphere like a living sunset. Citizens in both Victorian-inspired and biomechanical clothing gather around monumental crystalline displays showing swirling galaxies and impossible technologies, while autonomous drones carrying scrolls and data orbs navigate between them, all illuminated by an endless twilight of crimson and blood-red hues that make this civilization feel like a dream caught between the past and infinity.",
+      "text_model": "minimax",
+      "image_model": "imagen-4",
+      "seed": 981150933,
+      "created_at": "2026-03-14T05:57:48.780511+08:00"
+    },
+    {
       "id": "20260314_054106",
       "filename": "images/artwork_20260314_054106.jpg",
       "topic": "human migration and global nomadism",
