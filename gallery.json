@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260313_124942",
+      "filename": "images/artwork_20260313_124942.jpg",
+      "topic": "Hong Kong city life and culture",
+      "prompt": "A surrealist Hong Kong cityscape emerges from a dreamlike haze, bathed in the stark contrasts of moonlight and deep indigo shadows, where familiar neon signs bleed into soft pastel hues of lavender and rose. Floating gondolas, laden with spectral figures, drift between impossibly tall, art deco skyscrapers that twist and contort like ancient trees, evoking a dramatic and intense mood of urban alienation and wonder. The scene is rendered with hyper-realistic detail, emphasizing the ethereal textures of mist and the subtle shimmer of distant, moisture-slicked streets, creating an award-winning, visually stunning tableau of a city teetering on the edge of reality.",
+      "text_model": "gemini-fast",
+      "image_model": "imagen-4",
+      "seed": 1291495700,
+      "created_at": "2026-03-13T12:49:42.690288+08:00"
+    },
+    {
       "id": "20260313_122426",
       "filename": "images/artwork_20260313_122426.jpg",
       "topic": "blockchain and decentralized future",
