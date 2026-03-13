@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260313_114128",
+      "filename": "images/artwork_20260313_114128.jpg",
+      "topic": "blockchain and decentralized future",
+      "prompt": "A monumental impressionist vision of a decentralized digital metropolis rising from an endless ocean of bioluminescent data streams, where glowing nodes and crystalline networks pulse with ethereal energy, massive floating blockchain structures interconnect like celestial constellations against a twilight sky, rendered in sweeping painterly strokes of deep cobalt, violet and sapphire with luminescent accents creating an otherworldly glow that transforms the technological landscape into something simultaneously ancient and futuristic, powerful and transcendent.",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 1671953083,
+      "created_at": "2026-03-13T11:41:28.495930+08:00"
+    },
+    {
       "id": "20260313_113028",
       "filename": "images/artwork_20260313_113028.jpg",
       "topic": "renewable energy and sustainable living",
