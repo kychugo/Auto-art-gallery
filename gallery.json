@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260313_130132",
+      "filename": "images/artwork_20260313_130132.jpg",
+      "topic": "sports and human physical achievement",
+      "prompt": "An impressionist portrait captures a solitary marathon runner frozen mid-stride across a vast frozen tundra, the human form dissolving into sweeping brushstrokes of warm amber and orange that blend with the ethereal shimmer of arctic aurora borealis dancing above in curtains of mystical green and violet, casting the athlete in a dreamlike glow that transcends mortal endurance, the mysterious atmosphere suggesting the boundary between physical limit and spiritual transcendence.",
+      "text_model": "minimax",
+      "image_model": "flux-2-dev",
+      "seed": 537719083,
+      "created_at": "2026-03-13T13:01:32.657516+08:00"
+    },
+    {
       "id": "20260313_124942",
       "filename": "images/artwork_20260313_124942.jpg",
       "topic": "Hong Kong city life and culture",
