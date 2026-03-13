@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260314_061738",
+      "filename": "images/artwork_20260314_061738.jpg",
+      "topic": "traditional vs modern culture clash in Asia",
+      "prompt": "An abstract expressionist cityscape where shattered fragments of ancient pagodas, rendered in jagged strokes of deep indigo and violet, collide with stark, angular shards of neon-lit skyscrapers, illuminated by the dramatic, cool luminescence of a stormy overcast sky, creating an intense, visually arresting tension between tradition and modernity. The chaotic, yet controlled, composition evokes a powerful sense of cultural upheaval, with swirling eddies of electric purple and desaturated blue hinting at the unresolved energy of this Asian metamorphosis.",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 835294356,
+      "created_at": "2026-03-14T06:17:38.229402+08:00"
+    },
+    {
       "id": "20260314_055748",
       "filename": "images/artwork_20260314_055748.jpg",
       "topic": "future of human civilization and technology",
