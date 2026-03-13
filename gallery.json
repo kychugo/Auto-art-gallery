@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260313_173146",
+      "filename": "images/artwork_20260313_173146.jpg",
+      "topic": "street food culture in Hong Kong",
+      "prompt": "An impressionist oil painting capturing the ephemeral glow of candlelight within a bustling Hong Kong night market, where crimson and deep red hues bleed into the steam rising from an unseen street food stall, creating a mysterious and ethereal atmosphere of fleeting moments and delicious aromas.",
+      "text_model": "gemini-fast",
+      "image_model": "grok-imagine",
+      "seed": 580647207,
+      "created_at": "2026-03-13T17:31:46.238111+08:00"
+    },
+    {
       "id": "20260313_170604",
       "filename": "images/artwork_20260313_170604.jpg",
       "topic": "sports and human physical achievement",
