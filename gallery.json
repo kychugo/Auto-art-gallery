@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260313_220156",
+      "filename": "images/artwork_20260313_220156.jpg",
+      "topic": "social media culture and human connection",
+      "prompt": "In a dark dystopian digital art masterpiece, a vast crumbling urban plaza bathed in soft diffused daylight reveals isolated figures hunched over glowing smartphone screens, their faces illuminated by holographic social media feeds projecting likes, hearts, and endless scrolls in terracotta and earthy tones of burnt sienna, ochre, and muted clay reds. Tiny humans, dwarfed by towering, vine-choked megastructures adorned with faded Instagram icons and decaying TikTok symbols, reach out tentatively with trembling hands toward one another, fingers almost touching amidst fractured connection nodes symbolizing lost intimacy. Award-winning highly detailed composition with intricate textures on weathered concrete, subtle atmospheric haze, and poignant mood of longing isolation in a hyper-connected yet profoundly lonely world.",
+      "text_model": "perplexity-fast",
+      "image_model": "gptimage",
+      "seed": 421058840,
+      "created_at": "2026-03-13T22:01:56.901979+08:00"
+    },
+    {
       "id": "20260313_213647",
       "filename": "images/artwork_20260313_213647.jpg",
       "topic": "artificial intelligence reshaping society",
