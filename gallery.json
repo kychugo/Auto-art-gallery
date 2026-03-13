@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260313_122426",
+      "filename": "images/artwork_20260313_122426.jpg",
+      "topic": "blockchain and decentralized future",
+      "prompt": "A surrealist landscape unfolds where iridescent, crystalline structures representing decentralized networks bloom like alien flora amidst ancient, moss-covered trees. Dappled forest light, a warm amber and orange glow, filters through the canopy, illuminating ethereal wisps of data that connect these glowing geometric forms, fostering a hopeful and uplifting atmosphere of emergent global consciousness. The scene is rendered with the hyper-realistic detail characteristic of surrealism, inviting viewers into a dreamlike yet tangible vision of a connected future.",
+      "text_model": "gemini-search",
+      "image_model": "flux-2-dev",
+      "seed": 1089173335,
+      "created_at": "2026-03-13T12:24:26.209284+08:00"
+    },
+    {
       "id": "20260313_121742",
       "filename": "images/artwork_20260313_121742.jpg",
       "topic": "future of human civilization and technology",
