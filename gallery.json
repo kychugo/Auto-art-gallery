@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260313_205705",
+      "filename": "images/artwork_20260313_205705.jpg",
+      "topic": "revolution in education through technology",
+      "prompt": "A digital art, award-winning masterpiece depicting a revolution in education through technology, set against a backdrop of stormy, overcast light casting dramatic crimson and deep red hues. Whimsical, dreamlike motifs of floating, glowing data streams intertwine with stylized, ancient-looking books that are dissolving into light, symbolizing the transition from old to new learning. Intricate circuit board patterns form pathways leading towards luminous, abstract educational structures, all rendered with hyper-realistic detail and a touch of surrealism to evoke a profound sense of wonder and transformation.",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 1707979828,
+      "created_at": "2026-03-13T20:57:05.699127+08:00"
+    },
+    {
       "id": "20260313_195032",
       "filename": "images/artwork_20260313_195032.jpg",
       "topic": "mental health awareness in the digital age",
