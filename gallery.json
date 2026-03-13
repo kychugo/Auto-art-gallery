@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260313_195032",
+      "filename": "images/artwork_20260313_195032.jpg",
+      "topic": "mental health awareness in the digital age",
+      "prompt": "In a cinematic style, visualize a serene digital landscape where a lone figure sits peacefully amidst swirling, vibrant neon nebulae representing the complexities of the digital age. Dramatic studio lighting casts ethereal glows, highlighting the contrast between the figure's calm aura and the energetic, almost overwhelming, beauty of the neon hues that evoke a sense of both connection and isolation. The color palette is a symphony of electric blues, vibrant purples, and glowing pinks, creating a visually stunning and award-winning representation of mental health awareness in our hyper-connected world.",
+      "text_model": "gemini-search",
+      "image_model": "grok-imagine",
+      "seed": 8527720,
+      "created_at": "2026-03-13T19:50:32.274729+08:00"
+    },
+    {
       "id": "20260313_193252",
       "filename": "images/artwork_20260313_193252.jpg",
       "topic": "Hong Kong protest art and resilience",
