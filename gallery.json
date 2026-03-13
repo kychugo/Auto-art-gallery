@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260313_190130",
+      "filename": "images/artwork_20260313_190130.jpg",
+      "topic": "urban architecture of the future",
+      "prompt": "Photorealistic, award-winning wide shot of a sprawling, rain-slicked futuristic metropolis bathed in melancholic, stormy overcast light. Towering, organically sculpted skyscrapers, rendered in a palette of warm amber and burnt orange, pierce the bruised sky, their surfaces reflecting distorted, dreamlike cityscapes. Delicate, almost translucent skybridges, softly illuminated from within, connect the monolithic structures, suggesting a quiet, reflective solitude amidst the advanced urban sprawl.",
+      "text_model": "gemini-fast",
+      "image_model": "imagen-4",
+      "seed": 562622653,
+      "created_at": "2026-03-13T19:01:30.125139+08:00"
+    },
+    {
       "id": "20260313_183949",
       "filename": "images/artwork_20260313_183949.jpg",
       "topic": "mental health awareness in the digital age",
