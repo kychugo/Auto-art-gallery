@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260313_111254",
+      "filename": "images/artwork_20260313_111254.jpg",
+      "topic": "renewable energy and sustainable living",
+      "prompt": "A cozy off-grid eco-cabin nestled among towering evergreens, its solar panels and wind turbine silhouetted against a dancing aurora borealis of emerald and deep forest green, painted in loose, impressionistic brushstrokes that capture the fleeting interplay of ethereal light on snow and weathered wood. Warm golden lamplight glows from within the cabin windows, rendered with visible, deliberate brushwork that emphasizes the intimate contrast between human warmth and the vast, luminous natural world outside. A solitary figure stands at the threshold, framed by flowing, soft-edged strokes that suggest movement and quiet contemplation, surrounded by wind-swept trees and organic gardens rendered in dabs of pure, unmixed forest tones that vibrate against the otherworldly green aurora overhead. The composition is asymmetrical and intimate, with the scene extending beyond the canvas edges as if capturing a fleeting moment of sustainable harmony between humanity and nature, all bathed in the shimmering, transient glow of the northern lights.",
+      "text_model": "perplexity-fast",
+      "image_model": "gptimage",
+      "seed": 1998988535,
+      "created_at": "2026-03-13T11:12:54.580185+08:00"
+    },
+    {
       "id": "20260313_100247",
       "filename": "images/artwork_20260313_100247.jpg",
       "topic": "blockchain and decentralized future",
