@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260314_074759",
+      "filename": "images/artwork_20260314_074759.jpg",
+      "topic": "artificial intelligence reshaping society",
+      "prompt": "In a monumental pop art tableau, a colossal AI neural network erupts from ancient forest trunks like crimson-veined roots reshaping society, with monolithic humanoid figures of workers and leaders merging into binary code streams and holographic cityscapes that crumble and reform in powerful transformation. Dappled forest light filters through towering leaves, casting dramatic crimson and deep red spotlights on bold, high-contrast outlines and explosive patterns of electric reds bleeding into shadowy indigos. Award-winning composition bursts with vivid details—glitching faces of diverse citizens uplifted by glowing algorithms, shattered smartphones birthing digital flora, evoking an epic, unstoppable evolution in striking Andy Warhol-inspired boldness.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 570227732,
+      "created_at": "2026-03-14T07:47:59.766404+08:00"
+    },
+    {
       "id": "20260314_072401",
       "filename": "images/artwork_20260314_072401.jpg",
       "topic": "traditional vs modern culture clash in Asia",
