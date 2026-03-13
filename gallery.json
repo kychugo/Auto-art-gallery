@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260313_230840",
+      "filename": "images/artwork_20260313_230840.jpg",
+      "topic": "post-pandemic world transformation",
+      "prompt": "A monumental post-pandemic world emerges from swirling emerald and deep forest green abstract forms, massive distorted human figures reaching toward fragile new beginnings, rendered in bold expressionist brushstrokes and layered textures that suggest both destruction and rebirth, while warm candlelight glows through the darkness like hope persisting against all odds, creating a powerful scene of resilience and transformation captured in dramatic chiaroscuro where shadows dance with flickering illumination across the surreal landscape of collective healing and renewed human connection.",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 1332800491,
+      "created_at": "2026-03-13T23:08:40.276153+08:00"
+    },
+    {
       "id": "20260313_224339",
       "filename": "images/artwork_20260313_224339.jpg",
       "topic": "social media culture and human connection",
