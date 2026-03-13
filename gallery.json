@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260313_170604",
+      "filename": "images/artwork_20260313_170604.jpg",
+      "topic": "sports and human physical achievement",
+      "prompt": "In an anime-inspired vista of a neon-drenched futuristic city at twilight, a lone athlete with flowing crimson hair and muscular silhouette leaps impossibly high in a parkour-stride relay, mid-air defying gravity as sweat glistens like ethereal rubies on their determined face, embodying the pinnacle of human physical achievement. Crimson and deep red neon glows pulse from towering skyscrapers and holographic billboards, casting mysterious shadows and volumetric god rays that envelop the scene in an otherworldly, award-winning atmosphere of suspenseful triumph. Highly detailed, intricate linework, vibrant yet haunting color palette dominated by blood-red hues, dynamic motion blur, stunning composition with dramatic foreshortening and sparkling energy trails.",
+      "text_model": "perplexity-fast",
+      "image_model": "grok-imagine",
+      "seed": 1650978148,
+      "created_at": "2026-03-13T17:06:04.915486+08:00"
+    },
+    {
       "id": "20260313_162636",
       "filename": "images/artwork_20260313_162636.jpg",
       "topic": "space exploration and the cosmos",
