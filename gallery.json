@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260313_160200",
+      "filename": "images/artwork_20260313_160200.jpg",
+      "topic": "Hong Kong city life and culture",
+      "prompt": "In a dystopian Hong Kong megacity where neon holograms flicker over crumbling Kowloon shantytowns and towering cyberpunk skyscrapers pierce polluted skies, street vendors hawk sizzling street food amid surveillance drones and protesters cloaked in iridescent rain slickers hurl eggs at censored bookshops guarded by Red Guard-inspired enforcers. Dramatic studio lighting casts sharp chiaroscuro shadows across overcrowded wet markets, holographic trams weaving through gentrified chaos, and self-immolating dissidents outside consulates, evoking a hyper-capitalist surveillance state blending East-West decay with fleeting cultural defiance. Rendered in intricate concept art style, this award-winning vista pulses with holographic iridescent color palette of shifting spectral blues, violets, and electric greens, hyper-detailed textures on rain-slicked neon signs, flickering augmented reality ads, and ghostly Tiananmen memorials being erased from public spaces.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 1258070885,
+      "created_at": "2026-03-13T16:02:00.196766+08:00"
+    },
+    {
       "id": "20260313_154548",
       "filename": "images/artwork_20260313_154548.jpg",
       "topic": "virtual reality and the metaverse",
