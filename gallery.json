@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260313_133342",
+      "filename": "images/artwork_20260313_133342.jpg",
+      "topic": "animals and nature conservation",
+      "prompt": "In a surrealist masterpiece evoking peaceful serenity, endangered animals like a majestic Bengal tiger and iridescent butterflies emerge from terracotta-cracked earth, their forms morphing fluidly into ancient, blooming trees that guard a pristine wilderness sanctuary, symbolizing nature's resilient conservation. Dramatic studio lighting casts golden highlights and deep shadows across the scene, illuminating intricate details of fur, feathers, and foliage in a rich palette of earthy browns, warm terracotta reds, and muted sage greens. This award-winning, hyper-detailed vision blends scientific precision with dreamlike fantasy, inviting viewers into a harmonious realm where wildlife thrives eternally amidst human neglect transformed into renewal.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux-2-dev",
+      "seed": 7270206,
+      "created_at": "2026-03-13T13:33:42.969970+08:00"
+    },
+    {
       "id": "20260313_131141",
       "filename": "images/artwork_20260313_131141.jpg",
       "topic": "human migration and global nomadism",
