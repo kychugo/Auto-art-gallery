@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260313_134408",
+      "filename": "images/artwork_20260313_134408.jpg",
+      "topic": "revolution in education through technology",
+      "prompt": "A futuristic classroom where holographic projectors cast luminous geometric equations floating above students, their faces illuminated by ethereal blue light as digital pages transform into three-dimensional models that swirl around them in a breathtaking dance of knowledge, while massive curved windows frame soft diffused daylight bleeding through in dramatic purple and cobalt hues, capturing the revolutionary moment when technology has completely reimagined learning in a breathtaking display of digital artistry, the scene captured with cinematic intensity and dreamlike depth.",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 1889289815,
+      "created_at": "2026-03-13T13:44:08.721690+08:00"
+    },
+    {
       "id": "20260313_133342",
       "filename": "images/artwork_20260313_133342.jpg",
       "topic": "animals and nature conservation",
