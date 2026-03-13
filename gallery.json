@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260313_180352",
+      "filename": "images/artwork_20260313_180352.jpg",
+      "topic": "sports and human physical achievement",
+      "prompt": "A lone marathon runner, sweat glistening on their determined face, collapses in exhaustion after crossing the finish line, captured in an intimate oil painting style. The scene is bathed in the warm, flickering glow of a candlelight ambiance, casting deep, dramatic shadows that accentuate the raw human physical achievement. A rich color palette of emerald and deep forest green envelops the background, hinting at the natural endurance of the human spirit.",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 631831284,
+      "created_at": "2026-03-13T18:03:52.944206+08:00"
+    },
+    {
       "id": "20260313_173146",
       "filename": "images/artwork_20260313_173146.jpg",
       "topic": "street food culture in Hong Kong",
