@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260313_233910",
+      "filename": "images/artwork_20260313_233910.jpg",
+      "topic": "social media culture and human connection",
+      "prompt": "A lone figure, silhouetted against a rain-slicked, hyper-modern metropolis, clutches a glowing holographic smartphone emitting streams of vibrant neon data. The stark, noir architecture of oppressive skyscrapers is bathed in the melancholic, yet intensely beautiful, golden hour sunlight, casting long, distorted shadows that symbolize fractured human connection in this dark and dystopian future. Emphasize the sharp contrast between the warm, dying light and the electric, cold glow of the digital world, creating a visually stunning and emotionally resonant image.",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 121183344,
+      "created_at": "2026-03-13T23:39:10.165944+08:00"
+    },
+    {
       "id": "20260313_230840",
       "filename": "images/artwork_20260313_230840.jpg",
       "topic": "post-pandemic world transformation",
