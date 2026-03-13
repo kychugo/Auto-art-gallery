@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260314_054106",
+      "filename": "images/artwork_20260314_054106.jpg",
+      "topic": "human migration and global nomadism",
+      "prompt": "A monumental watercolor painting depicting human migration and global nomadism as a powerful procession of diverse figures—families with laden backpacks, nomads on foot and by makeshift rafts, silhouetted against jagged mountain passes and turbulent seas—sweeping across a vast, fractured earth under stormy overcast light that casts dramatic shadows. High-contrast black and gold color palette illuminates golden-haloed faces and glowing migration routes etched like ancient maps, with swirling storm clouds and faint bird flocks symbolizing relentless journeys, evoking epic resilience and scale in intricate, award-winning detail.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux-2-dev",
+      "seed": 1969521448,
+      "created_at": "2026-03-14T05:41:06.964623+08:00"
+    },
+    {
       "id": "20260314_050202",
       "filename": "images/artwork_20260314_050202.jpg",
       "topic": "future of human civilization and technology",
