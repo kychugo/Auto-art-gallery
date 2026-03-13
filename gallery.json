@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260313_121742",
+      "filename": "images/artwork_20260313_121742.jpg",
+      "topic": "future of human civilization and technology",
+      "prompt": "A sprawling abstract expressionist vision of humanity's distant future emerges from swirling emerald and deep forest green hues, where towering crystalline structures morph into organic flowing forms that pulse with bioluminescent patterns, suggesting technology has evolved to blend seamlessly with nature in a dreamlike metropolis suspended between storm clouds and ancient treetops, while fragmented geometric shapes and gestural brushstrokes dance across the canvas in whimsical harmony under moody overcast lighting that filters soft silver-greens through the atmospheric haze, creating a fantastical civilization where sentient AI consciousnesses float like ethereal spirits among impossible architecture and impossible beauty.",
+      "text_model": "minimax",
+      "image_model": "imagen-4",
+      "seed": 1997823623,
+      "created_at": "2026-03-13T12:17:42.811204+08:00"
+    },
+    {
       "id": "20260313_114128",
       "filename": "images/artwork_20260313_114128.jpg",
       "topic": "blockchain and decentralized future",
