@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260313_113028",
+      "filename": "images/artwork_20260313_113028.jpg",
+      "topic": "renewable energy and sustainable living",
+      "prompt": "In a serene, anime-inspired cityscape bathed in a soft, neon glow, holographic iridescent structures representing advanced renewable energy sources gracefully intertwine with lush vertical gardens. Gentle streams of holographic light flow between buildings, powering a harmonious existence, while stylized flora and fauna shimmer with iridescent hues, creating an atmosphere of tranquil innovation. This visually stunning scene captures a peaceful future where technology and nature coexist in a vibrant, iridescent glow, reminiscent of a dreamlike, utopian vision.",
+      "text_model": "gemini-search",
+      "image_model": "grok-imagine",
+      "seed": 1250905299,
+      "created_at": "2026-03-13T11:30:28.222651+08:00"
+    },
+    {
       "id": "20260313_111254",
       "filename": "images/artwork_20260313_111254.jpg",
       "topic": "renewable energy and sustainable living",
