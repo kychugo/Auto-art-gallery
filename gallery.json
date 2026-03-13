@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260313_221001",
+      "filename": "images/artwork_20260313_221001.jpg",
+      "topic": "post-pandemic world transformation",
+      "prompt": "In a surrealist, post-pandemic cityscape draped in the eerie glow of emerald and deep forest green neon, colossal, skeletal bio-luminescent flora twists around decaying brutalist architecture, casting long, distorted shadows. The mood is intensely dystopian, with lone, silhouetted figures traversing cracked, overgrown streets under a perpetual twilight, their forms dissolving into the pervasive, vibrant moss that has reclaimed civilization, hinting at a strange, new equilibrium between nature and ruin.",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 335025763,
+      "created_at": "2026-03-13T22:10:01.813512+08:00"
+    },
+    {
       "id": "20260313_220156",
       "filename": "images/artwork_20260313_220156.jpg",
       "topic": "social media culture and human connection",
