@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260313_140938",
+      "filename": "images/artwork_20260313_140938.jpg",
+      "topic": "future of human civilization and technology",
+      "prompt": "A futuristic cityscape bathed in golden hour sunlight, where towering crystalline structures shimmer with holographic iridescent surfaces that shift between violet, cyan, and magenta hues, painted in loose impressionist brushstrokes that blur the boundaries between architecture and light itself. Flying vehicles leave trails of luminescent paint across the sky while crowds of humanity move through the streets below in a flurry of visible, energetic brushwork, their figures suggested rather than detailed, captured as fleeting impressions of motion and connection. The entire scene radiates vibrant energy with unblended complementary colors placed boldly side by side—electric blues against warm golds, shimmering magentas against emerald greens—creating a pulsating, alive quality that suggests technological harmony with human presence. Short, thick daubs and strokes of paint dance across the canvas, emphasizing the play of golden light reflecting off iridescent surfaces, with the composition deliberately running off the edges of the frame to suggest a thriving world extending infinitely beyond the viewer's sight.",
+      "text_model": "perplexity-fast",
+      "image_model": "gptimage",
+      "seed": 156458196,
+      "created_at": "2026-03-13T14:09:38.527809+08:00"
+    },
+    {
       "id": "20260313_134408",
       "filename": "images/artwork_20260313_134408.jpg",
       "topic": "revolution in education through technology",
