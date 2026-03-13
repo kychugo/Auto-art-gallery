@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260314_042614",
+      "filename": "images/artwork_20260314_042614.jpg",
+      "topic": "future of human civilization and technology",
+      "prompt": "A Baroque-inspired vista of a futuristic utopian city, bathed in the ethereal glow of a vibrant arctic aurora borealis, its warm amber and orange tones illuminating soaring crystalline spires and elegantly flowing sky-bridges; optimistic human figures, silhouetted against the celestial light, gaze upwards, embodying a hopeful and uplifting future where advanced technology seamlessly integrates with organic beauty.",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 1655184275,
+      "created_at": "2026-03-14T04:26:14.597735+08:00"
+    },
+    {
       "id": "20260313_233910",
       "filename": "images/artwork_20260313_233910.jpg",
       "topic": "social media culture and human connection",
