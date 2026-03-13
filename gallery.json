@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260313_100247",
+      "filename": "images/artwork_20260313_100247.jpg",
+      "topic": "blockchain and decentralized future",
+      "prompt": "In an abstract expressionist frenzy of violent crimson and deep red brushstrokes, swirling chaotic networks of glowing blockchain chains fracture a dystopian void, symbolizing a decentralized future where monolithic corporate towers crumble into fragmented, interconnected nodes pulsing with anarchic energy. Flickering candlelight ambiance casts elongated, ominous shadows across vast, monumental canvases, evoking raw emotional turmoil and post-apocalyptic liberation amid spontaneous drips of blood-red data streams. This award-winning, highly detailed vista immerses the viewer in a dark, meditative sublime, balancing explosive gesture with unified fields of crimson dread.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 919711339,
+      "created_at": "2026-03-13T10:02:47.073001+08:00"
+    },
+    {
       "id": "20260313_074655",
       "filename": "images/artwork_20260313_074655.jpg",
       "topic": "biotechnology and genetic engineering",
