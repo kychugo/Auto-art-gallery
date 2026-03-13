@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260314_050202",
+      "filename": "images/artwork_20260314_050202.jpg",
+      "topic": "future of human civilization and technology",
+      "prompt": "A dramatic, cinematic scene unfolds in a futuristic metropolis under the ethereal glow of an arctic aurora borealis. Towering, imposs-ibly sleek structures pierce the vibrant, holographic sky, reflecting a dazzling, iridescent color palette of electric blues, purples, and greens that shift and shimmer with otherworldly energy. Intense, atmospheric lighting casts long, dramatic shadows, highlighting the awe-inspiring scale of advanced technology and the solitary human figure gazing upwards, conveying a profound sense of wonder and the overwhelming power of human progress.",
+      "text_model": "gemini-search",
+      "image_model": "imagen-4",
+      "seed": 1966392614,
+      "created_at": "2026-03-14T05:02:02.070201+08:00"
+    },
+    {
       "id": "20260314_042614",
       "filename": "images/artwork_20260314_042614.jpg",
       "topic": "future of human civilization and technology",
