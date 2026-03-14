@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260314_112827",
+      "filename": "images/artwork_20260314_112827.jpg",
+      "topic": "urban architecture of the future",
+      "prompt": "A breathtaking futuristic cityscape rising in perfect minimalist geometric forms, soaring white towers with sharp angular silhouettes against the night sky, soft neon light emanating from countless windows and architectural edges casting gentle glow across the scene. The monochromatic black and white palette creates striking contrast, with pure white structures illuminated by subtle cyan and silver neon highlights, reflections shimmering on polished surfaces below. Serene atmosphere as calm glowbathes the empty elevated walkways and peaceful floating gardens between buildings, a utopian vision of tomorrow's urban living where silence and harmony reign supreme.",
+      "text_model": "minimax",
+      "image_model": "flux-2-dev",
+      "seed": 724942366,
+      "created_at": "2026-03-14T11:28:27.777414+08:00"
+    },
+    {
       "id": "20260314_111017",
       "filename": "images/artwork_20260314_111017.jpg",
       "topic": "cultural diversity and global harmony",
