@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260314_194414",
+      "filename": "images/artwork_20260314_194414.jpg",
+      "topic": "blockchain and decentralized future",
+      "prompt": "A lone figure sits under moonlight, silhouetted against an endless cityscape of shimmering, floating digital ledgers and neon-etched smart contracts, the vibrant glow of cyan and magenta code streams casting long, intricate shadows. A haunting, melancholic atmosphere envelops the scene as abstract structures of decentralized networks pulse with data-light, their reflections scattered like lost memories across rain-slicked, geometric platforms.",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 27980837,
+      "created_at": "2026-03-14T19:44:14.937881+08:00"
+    },
+    {
       "id": "20260314_192745",
       "filename": "images/artwork_20260314_192745.jpg",
       "topic": "post-pandemic world transformation",
