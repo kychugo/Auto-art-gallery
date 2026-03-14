@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260314_134110",
+      "filename": "images/artwork_20260314_134110.jpg",
+      "topic": "artificial intelligence reshaping society",
+      "prompt": "A photorealistic scene of a massive, luminescent AI neural network organically growing like bioluminescent vines through an ancient emerald forest, with dappled sunlight filtering through the canopy to illuminate intricate pathways of glowing data streams intertwining with living trees and moss-covered stone ruins of civilization, creating a dreamlike fusion of technology and nature where holographic human figures walk peacefully among the hybrid ecosystem. The deep forest green palette is punctuated by soft golden dapples of light that dance across the scene, casting ethereal shadows and revealing details of both digital architecture and organic beauty merging seamlessly, evoking a whimsical yet profound vision of AI and humanity coexisting in symbiotic harmony within an enchanted woodland realm.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 1424007320,
+      "created_at": "2026-03-14T13:41:10.031016+08:00"
+    },
+    {
       "id": "20260314_133149",
       "filename": "images/artwork_20260314_133149.jpg",
       "topic": "human migration and global nomadism",
