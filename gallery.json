@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260315_045508",
+      "filename": "images/artwork_20260315_045508.jpg",
+      "topic": "global climate crisis and environmental solutions",
+      "prompt": "An impressionist masterpiece bathed in dramatic studio lighting, where swirling amber and orange tones depict a world balancing on the precipice of climate crisis, but with ethereal, glowing representations of innovative green solutions, like bioluminescent forests and wind turbines that sprout like radiant flowers, emerging from the warm haze in a whimsical, dreamlike dance.",
+      "text_model": "gemini-fast",
+      "image_model": "imagen-4",
+      "seed": 1131732928,
+      "created_at": "2026-03-15T04:55:08.936767+08:00"
+    },
+    {
       "id": "20260315_041947",
       "filename": "images/artwork_20260315_041947.jpg",
       "topic": "biotechnology and genetic engineering",
