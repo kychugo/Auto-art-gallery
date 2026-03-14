@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260314_223147",
+      "filename": "images/artwork_20260314_223147.jpg",
+      "topic": "revolution in education through technology",
+      "prompt": "A surrealist tableau of a holographic brain fragmenting into countless luminous golden circuits, casting dramatic studio lighting across a deep black void; the explosion of data streams and glyphs pulsates with vibrant, energetic motion, symbolizing the digital revolution in education, rendered with hyper-realistic detail and a stark black and gold color palette.",
+      "text_model": "gemini-fast",
+      "image_model": "gptimage",
+      "seed": 981782639,
+      "created_at": "2026-03-14T22:31:47.301845+08:00"
+    },
+    {
       "id": "20260314_215953",
       "filename": "images/artwork_20260314_215953.jpg",
       "topic": "news headlines of tomorrow",
