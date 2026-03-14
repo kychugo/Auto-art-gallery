@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260314_151152",
+      "filename": "images/artwork_20260314_151152.jpg",
+      "topic": "health and medicine breakthroughs",
+      "prompt": "An abstract expressionist cityscape under a perpetual neon city glow, where tendrils of warm amber and orange light bleed into oppressive shadows, forming chaotic yet mesmerizing patterns that evoke both the awe and terror of unbridled medical breakthroughs. The scene pulsates with a dark, dystopian mood, hinting at advanced bio-technology and synthetic organs interwoven with crumbling, futuristic architecture, creating a visually stunning and award-winning composition.",
+      "text_model": "gemini-fast",
+      "image_model": "grok-imagine",
+      "seed": 556727292,
+      "created_at": "2026-03-14T15:11:52.359492+08:00"
+    },
+    {
       "id": "20260314_143326",
       "filename": "images/artwork_20260314_143326.jpg",
       "topic": "urban architecture of the future",
