@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260315_074720",
+      "filename": "images/artwork_20260315_074720.jpg",
+      "topic": "cultural diversity and global harmony",
+      "prompt": "A photorealistic portrait capturing an intimate, human moment: a diverse group of people from various ethnicities and ages, their hands gently interlaced, forming a luminous circle under dramatic studio lighting that casts warm amber and orange tones across their faces, highlighting the subtle textures of skin and fabric, evoking a profound sense of global harmony and shared connection.",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 1629652865,
+      "created_at": "2026-03-15T07:47:20.740786+08:00"
+    },
+    {
       "id": "20260315_072329",
       "filename": "images/artwork_20260315_072329.jpg",
       "topic": "cultural diversity and global harmony",
