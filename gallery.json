@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260314_121502",
+      "filename": "images/artwork_20260314_121502.jpg",
+      "topic": "traditional vs modern culture clash in Asia",
+      "prompt": "A vibrant pop art scene depicting a serene Asian woman in traditional attire serenely meditating amidst a whirlwind of neon-lit skyscrapers and holographic advertisements, capturing the delicate balance between ancient heritage and hyper-modernity. The composition is illuminated by dramatic studio lighting that casts deep shadows, highlighting the warm amber and orange tones that saturate the scene, creating an atmosphere of peaceful yet profound cultural fusion. Elements of traditional calligraphy and abstract digital art intertwine dynamically, rendered with hyper-realistic detail and bold, graphic lines characteristic of the pop art style, evoking a sense of tranquil contemplation amidst urban dynamism.",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 852052992,
+      "created_at": "2026-03-14T12:15:02.176906+08:00"
+    },
+    {
       "id": "20260314_114033",
       "filename": "images/artwork_20260314_114033.jpg",
       "topic": "future of human civilization and technology",
