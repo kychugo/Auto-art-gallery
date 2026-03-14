@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260314_170016",
+      "filename": "images/artwork_20260314_170016.jpg",
+      "topic": "cultural diversity and global harmony",
+      "prompt": "A surrealist composition depicting fragmented continents and distorted human forms suspended in a void, their bodies intertwining across impossible geometries to represent interconnected global cultures, rendered in deep crimsons and blood reds with dramatic chiaroscuro lighting that casts sharp shadows and ethereal highlights across the dreamlike scene. The figures wear ornamental masks and artifacts from diverse non-Western traditions—African sculptures, Pre-Columbian forms, and mystical symbols—yet their expressions convey both anguish and yearning, suggesting the violent history of imperialism and colonization beneath the surface of unity. Impossible architecture fragments float in the background, melting and reforming, while surreal botanical elements with crimson blooms interweave through the composition, creating a haunting visual metaphor for forced harmony within dystopian discord. The overall aesthetic evokes the visceral, psychologically charged energy of liberation struggle and resistance, with dramatic studio spotlighting that isolates figures against deep shadow, creating a tension between connection and alienation that captures the complexity of cultural coexistence in a damaged world.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 759108506,
+      "created_at": "2026-03-14T17:00:16.836113+08:00"
+    },
+    {
       "id": "20260314_162003",
       "filename": "images/artwork_20260314_162003.jpg",
       "topic": "street food culture in Hong Kong",
