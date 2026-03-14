@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260314_124738",
+      "filename": "images/artwork_20260314_124738.jpg",
+      "topic": "street food culture in Hong Kong",
+      "prompt": "A noir-inspired scene of Hong Kong's bustling street food market at night, where steam rises from sizzling wok stations amid glowing neon signs, the entire scene illuminated by an ethereal bioluminescent glow emanating from lanterns and food stalls, with deep crimson and rich scarlet tones casting dramatic shadows across wet pavement and bustling crowds, capturing the vibrant energetic pulse of the city through cinematic high-contrast lighting and ultra-detailed textures that showcase every reflection on stainless steel cookware and every wisp of aromatic smoke curling through the luminous haze.",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 8122689,
+      "created_at": "2026-03-14T12:47:38.446369+08:00"
+    },
+    {
       "id": "20260314_122159",
       "filename": "images/artwork_20260314_122159.jpg",
       "topic": "ancient traditions meeting the modern world",
