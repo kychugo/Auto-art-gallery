@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260314_205031",
+      "filename": "images/artwork_20260314_205031.jpg",
+      "topic": "Hong Kong city life and culture",
+      "prompt": "A lone figure, cloaked in shadow, navigates a labyrinthine alleyway in a rain-slicked Hong Kong, neon signs casting distorted crimson reflections on the wet cobblestones, bathed in dramatic moonlight that slices through the dense urban atmosphere, creating sharp contrasts of deep red and profound black, evoking a noir sensibility of intense introspection and unspoken narratives.",
+      "text_model": "gemini-fast",
+      "image_model": "flux-2-dev",
+      "seed": 1061673932,
+      "created_at": "2026-03-14T20:50:31.926647+08:00"
+    },
+    {
       "id": "20260314_194414",
       "filename": "images/artwork_20260314_194414.jpg",
       "topic": "blockchain and decentralized future",
