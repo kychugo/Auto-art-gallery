@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260314_111017",
+      "filename": "images/artwork_20260314_111017.jpg",
+      "topic": "cultural diversity and global harmony",
+      "prompt": "A monochromatic black and white digital art piece, bathed in the harsh, stormy overcast light of a dystopian future, depicts a vast, interconnected network of silhouetted figures representing global diversity, their hands reaching out to touch and intertwine across fractured cityscapes and desolate landscapes, symbolizing a desperate, yet hopeful, quest for unity amidst chaos. The mood is dark and somber, with sharp contrasts highlighting the intricate details of their interwoven forms against a backdrop of desolate, crumbling structures, suggesting resilience and the enduring human spirit in the face of overwhelming adversity.",
+      "text_model": "gemini-fast",
+      "image_model": "imagen-4",
+      "seed": 922306180,
+      "created_at": "2026-03-14T11:10:17.126351+08:00"
+    },
+    {
       "id": "20260314_100041",
       "filename": "images/artwork_20260314_100041.jpg",
       "topic": "biotechnology and genetic engineering",
