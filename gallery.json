@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260314_114033",
+      "filename": "images/artwork_20260314_114033.jpg",
+      "topic": "future of human civilization and technology",
+      "prompt": "A cinematic vista of a dystopian future civilization sprawled across a crumbling megacity on a barren, climate-ravaged planet, where towering chrome spires pierced by crimson holograms and flickering deep red neon veins dominate the horizon, casting an oppressive glow over tiny human figures scavenging amidst rusted drones and overgrown ruins.[1][2][4] Soft diffused daylight filters through perpetual smog layers, illuminating biomechanical androids patrolling elevated walkways lined with surveillance eyes and resistance graffiti, while vast corporate billboards pulse with warnings of algorithmic control in a world where nature clings desperately to synthetic shores.[3][4] Rendered in award-winning hyper-detailed 8K cinematic style, blending cyberpunk grit with romantic undertones, evoking H.R. Giger's organic-machine fusion and Syd Mead's grand futurism, in a haunting crimson and deep red palette that amplifies the mood of inevitable technological tyranny and fragile human defiance.[2][4]",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 1873971289,
+      "created_at": "2026-03-14T11:40:33.845688+08:00"
+    },
+    {
       "id": "20260314_112827",
       "filename": "images/artwork_20260314_112827.jpg",
       "topic": "urban architecture of the future",
