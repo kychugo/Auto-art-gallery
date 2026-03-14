@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260314_125759",
+      "filename": "images/artwork_20260314_125759.jpg",
+      "topic": "fashion meets technology",
+      "prompt": "A dystopian fashion model strides through rain-soaked streets in an impressionist style, her aerodynamic metallic garment gleaming with flowing algorithmic patterns that ripple like liquid chrome, while storm clouds swirl overhead casting an ominous overcast light that makes neon cyan, magenta and electric violet stripes pulse and dance across the city's crumbling architecture, reflecting in puddles that mirror a world where technology and couture have become inseparable, her crystalline goggles reflecting glimpses of holographic runway screens embedded in decaying Victorian buildings, the chaotic brushstrokes capturing the tension between elegant high fashion and the harsh reality of a technological apocalypse.",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 1034376341,
+      "created_at": "2026-03-14T12:57:59.467956+08:00"
+    },
+    {
       "id": "20260314_124738",
       "filename": "images/artwork_20260314_124738.jpg",
       "topic": "street food culture in Hong Kong",
