@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260314_214907",
+      "filename": "images/artwork_20260314_214907.jpg",
+      "topic": "biotechnology and genetic engineering",
+      "prompt": "A dramatic, cyberpunk cityscape pulses with bioluminescent genetic code etched into towering structures, illuminated by the ethereal glow of an arctic aurora borealis that casts emerald and deep forest green hues across the scene. Intense, focused beams of light pierce the swirling, vibrant sky, highlighting holographic DNA strands and bio-engineered flora that twist and intertwine with the metallic architecture. The mood is one of awe and foreboding, capturing the raw power and intricate beauty of genetic manipulation under an alien, yet familiar, celestial display.",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 1234996044,
+      "created_at": "2026-03-14T21:49:07.410458+08:00"
+    },
+    {
       "id": "20260314_212544",
       "filename": "images/artwork_20260314_212544.jpg",
       "topic": "human migration and global nomadism",
