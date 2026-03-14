@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260314_133149",
+      "filename": "images/artwork_20260314_133149.jpg",
+      "topic": "human migration and global nomadism",
+      "prompt": "In a monochromatic, pop-art style, a dense, silhouetted mass of figures in perpetual motion surges across a stark landscape under the dramatic, ethereal glow of an arctic aurora borealis. The scene is imbued with intense, dramatic lighting, casting sharp, distorted shadows that emphasize the relentless and arduous nature of human migration and global nomadism, creating a visually stunning and emotionally charged tableau.",
+      "text_model": "gemini-search",
+      "image_model": "grok-imagine",
+      "seed": 337870146,
+      "created_at": "2026-03-14T13:31:50.004509+08:00"
+    },
+    {
       "id": "20260314_130917",
       "filename": "images/artwork_20260314_130917.jpg",
       "topic": "renewable energy and sustainable living",
