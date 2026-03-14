@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260314_192745",
+      "filename": "images/artwork_20260314_192745.jpg",
+      "topic": "post-pandemic world transformation",
+      "prompt": "A heartwarming anime-style scene in a bustling city park where people of all ages gather again, embraces and laughter filling the air as mask-wearing friends reunite after long isolation, soft pastel pink and lavender light streaming through blooming cherry blossoms at golden hour, intimate moments of human connection captured in delicate brushstroke details and gentle watercolor textures, warm diffused daylight casting tender shadows across smiling faces, a sense of fragile hope and renewal radiating from every figure, soft muted color palette of peach, cream, baby blue and sage green creating a dreamlike atmosphere of rebirth and collective healing.",
+      "text_model": "minimax",
+      "image_model": "flux",
+      "seed": 811933664,
+      "created_at": "2026-03-14T19:27:45.702128+08:00"
+    },
+    {
       "id": "20260314_185059",
       "filename": "images/artwork_20260314_185059.jpg",
       "topic": "quantum computing and the future",
