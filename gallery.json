@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260314_183120",
+      "filename": "images/artwork_20260314_183120.jpg",
+      "topic": "renewable energy and sustainable living",
+      "prompt": "Photorealistic rendering of a solitary, weathered wind turbine silhouetted against a stormy, overcast sky awash in deep crimson and brooding reds. Subtle rays of light pierce the heavy clouds, illuminating patches of desolation and the resilient, yet melancholic, landscape below, hinting at both the power and the quiet struggle of sustainable living in a harsh world. The scene should evoke a profound sense of reflection on our environmental impact, rendered with award-winning detail and a somber, evocative atmosphere.",
+      "text_model": "gemini-search",
+      "image_model": "klein",
+      "seed": 1640437862,
+      "created_at": "2026-03-14T18:31:20.809481+08:00"
+    },
+    {
       "id": "20260314_175725",
       "filename": "images/artwork_20260314_175725.jpg",
       "topic": "traditional vs modern culture clash in Asia",
