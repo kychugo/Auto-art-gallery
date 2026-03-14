@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260314_140653",
+      "filename": "images/artwork_20260314_140653.jpg",
+      "topic": "news headlines of tomorrow",
+      "prompt": "A stunning digital art composition of tomorrow's news headlines bursting into existence on March 15, 2026, with massive, intricately textured black-and-white newspapers exploding from a chaotic city skyline at golden hour, their bold, exaggerated headlines like \"AI Achieves Sentience!\" and \"Mars Colony Thrives!\" dynamically unfurling in dramatic rule-of-thirds alignment with leading diagonal lines guiding the eye to a radiant central focal point. Vibrant energetic mood pulses through high-contrast monochromatic tones of deep inky blacks and luminous whites, illuminated by warm golden hour sunlight rays piercing through the papers, casting long dramatic shadows and glowing edges for award-winning depth, hyper-detailed textures on crumpled newsprint, soaring skyscrapers, and swirling debris evoking futuristic urgency and boundless possibility.",
+      "text_model": "perplexity-fast",
+      "image_model": "gptimage",
+      "seed": 1045937066,
+      "created_at": "2026-03-14T14:06:53.078227+08:00"
+    },
+    {
       "id": "20260314_134110",
       "filename": "images/artwork_20260314_134110.jpg",
       "topic": "artificial intelligence reshaping society",
