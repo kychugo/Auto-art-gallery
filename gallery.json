@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260314_130917",
+      "filename": "images/artwork_20260314_130917.jpg",
+      "topic": "renewable energy and sustainable living",
+      "prompt": "First, the user wants an image generation prompt about renewable energy and sustainable living. I need to incorporate specific elements: Baroque art style, peaceful and serene mood, stormy overcast light, and a color palette of cool blues and purples.\n\nI must respond with ONLY the prompt itself—no explanations, no titles, no markdown. Write exclusively in English, and the prompt should be 2-4 sentences long, vivid, detailed, and paint a clear mental picture.\n\nKey elements to weave in naturally:\n- Baroque style: known for grandeur, drama, rich details, and ornate compositions. So, the prompt should reflect that with elaborate and dynamic elements.\n- Peaceful and serene mood: despite stormy overcast light, the overall feeling should be calm and tranquil.\n- Lighting: stormy overcast light, which implies dark, moody skies with diffused light, possibly with breaks or soft glows.\n- Color palette: cool blues and purples, so these colors should dominate the scene.\n\nTheme: renewable energy and sustainable living. This could include elements like wind turbines, solar panels, green buildings, gardens, etc., but integrated in a Baroque way.\n\nStructure the prompt:\n- Start with the main scene description.\n- Incorporate the art style and mood.\n- Describe lighting and colors.\n- Ensure it's visually stunning and award-winning.\n\nCraft 2-4 sentences that flow naturally.\n\nDraft:\nIn a Baroque-inspired landscape, majestic wind turbines and solar-paneled rooftops rise gracefully against a stormy overcast sky, casting a serene and peaceful atmosphere. The scene is bathed in cool blues and purples, with intricate details of lush gardens and sustainable architecture, all illuminated by the diffused, soft light of the impending storm. Ornate elements like swirling clouds and elaborate structures enhance the dramatic yet tranquil mood, creating a visually stunning masterpiece.\n\nCheck if it meets all requirements:\n- Baroque style: mentioned \"Baroque-inspired\" and \"ornate elements.",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 1399762067,
+      "created_at": "2026-03-14T13:09:17.251129+08:00"
+    },
+    {
       "id": "20260314_125759",
       "filename": "images/artwork_20260314_125759.jpg",
       "topic": "fashion meets technology",
