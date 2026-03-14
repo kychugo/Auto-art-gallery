@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260315_041947",
+      "filename": "images/artwork_20260315_041947.jpg",
+      "topic": "biotechnology and genetic engineering",
+      "prompt": "In a dystopian pop art tableau rendered in stark **monochromatic black and white**, a colossal laboratory sprawls beneath the ethereal glow of an **arctic aurora borealis**, its serpentine ribbons piercing the icy night sky and casting haunting, rippling shadows over twisted genetic experiments. Hulking scientists in tattered hazmat suits manipulate oversized CRISPR syringes injecting glowing helixes into hybrid abominations—part human, part chimeric beast with elongated limbs, fractured faces, and sprouting tentacles—arrayed in bold, high-contrast outlines amid crumbling petri dishes, fractured DNA strands, and derelict bioreactors oozing shadowy fluids. The scene pulses with visceral tension, sharp halftone dots amplifying the **dark, dystopian mood** of humanity's genetic hubris, evoking an award-winning masterpiece of graphic intensity and prophetic horror.",
+      "text_model": "perplexity-fast",
+      "image_model": "gptimage",
+      "seed": 523947808,
+      "created_at": "2026-03-15T04:19:47.082302+08:00"
+    },
+    {
       "id": "20260314_232511",
       "filename": "images/artwork_20260314_232511.jpg",
       "topic": "ocean conservation and marine life",
