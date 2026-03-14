@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260314_215953",
+      "filename": "images/artwork_20260314_215953.jpg",
+      "topic": "news headlines of tomorrow",
+      "prompt": "A mystical, ethereal watercolor painting depicts fragmented, holographic iridescent news headlines from the future, shimmering with an otherworldly glow. Golden hour sunlight streams through the composition, casting long, dramatic shadows and highlighting the translucent, shifting colors of the headlines. The mood is one of profound mystery and quiet anticipation, as if glimpsing secrets yet to unfold in the unfolding narrative of time.",
+      "text_model": "gemini-search",
+      "image_model": "imagen-4",
+      "seed": 969604920,
+      "created_at": "2026-03-14T21:59:53.215232+08:00"
+    },
+    {
       "id": "20260314_214907",
       "filename": "images/artwork_20260314_214907.jpg",
       "topic": "biotechnology and genetic engineering",
