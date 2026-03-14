@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260315_061322",
+      "filename": "images/artwork_20260315_061322.jpg",
+      "topic": "animals and nature conservation",
+      "prompt": "An anime-inspired scene bathed in a warm amber and orange bioluminescent glow, where a young woman with gentle eyes and a caretaker's spirit lovingly cradles a majestic, injured pangolin, its scales shimmering with ethereal light against the dark, mossy bark of an ancient, forgotten tree. The mood is intimate and human, highlighting the profound connection between humanity and the wild, as fireflies and glowing fungi illuminate the tender, conservationist moment.",
+      "text_model": "gemini-fast",
+      "image_model": "imagen-4",
+      "seed": 1648345955,
+      "created_at": "2026-03-15T06:13:22.287492+08:00"
+    },
+    {
       "id": "20260315_055119",
       "filename": "images/artwork_20260315_055119.jpg",
       "topic": "future of human civilization and technology",
