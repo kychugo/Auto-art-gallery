@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260315_064854",
+      "filename": "images/artwork_20260315_064854.jpg",
+      "topic": "social media culture and human connection",
+      "prompt": "A solitary figure stands on a barren, icy landscape, silhouetted against a vast, monochrome sky where the ethereal glow of an arctic aurora borealis paints wispy, monochromatic strokes. The scene evokes a profound sense of melancholic reflection, with the stark, black-and-white palette amplifying the emotional isolation and the quiet contemplation of human connection in the digital age, depicted through subtle, ghost-like overlays of abstract social media icons fading into the celestial display. This photorealistic image captures a moment of profound introspection under the cosmic dance of the aurora, emphasizing the contrast between the raw, natural spectacle and the ephemeral nature of online interactions.",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 803771973,
+      "created_at": "2026-03-15T06:48:54.935051+08:00"
+    },
+    {
       "id": "20260315_061322",
       "filename": "images/artwork_20260315_061322.jpg",
       "topic": "animals and nature conservation",
