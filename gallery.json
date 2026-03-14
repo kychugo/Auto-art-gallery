@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260314_162003",
+      "filename": "images/artwork_20260314_162003.jpg",
+      "topic": "street food culture in Hong Kong",
+      "prompt": "A bustling Hong Kong street food market bathed in golden hour sunlight, rendered in rich oil painting style, where vendors in silhouette sell charcoal-roasted chestnuts, egg waffles, and curry fishballs from traditional dai pai dong stalls, with wisps of steam and smoke creating an ethereal, mysterious atmosphere. Dramatic high-contrast lighting casts deep shadows across weathered wooden carts and paper bags, while the scene glows with warm golds and blacks, capturing the nostalgic essence of iconic hawkers pedaling bicycles through narrow Kowloon streets, their wooden buckets and charcoal braziers rendered with intricate detail. The composition evokes a dreamlike, timeless quality—textured brushwork emphasizing the tactile nature of street food culture, with silhouetted figures reaching for treats, creating an award-winning cinematic moment suspended between reality and memory.",
+      "text_model": "perplexity-fast",
+      "image_model": "grok-imagine",
+      "seed": 23716471,
+      "created_at": "2026-03-14T16:20:03.286584+08:00"
+    },
+    {
       "id": "20260314_155511",
       "filename": "images/artwork_20260314_155511.jpg",
       "topic": "street food culture in Hong Kong",
