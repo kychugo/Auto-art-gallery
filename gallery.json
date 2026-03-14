@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260314_153509",
+      "filename": "images/artwork_20260314_153509.jpg",
+      "topic": "urban architecture of the future",
+      "prompt": "In concept art style, depict an intimate corner of future urban architecture where towering emerald-green spires with flowing parametric curves and hybrid organic facades weave seamlessly among lush vertical forests, a lone human figure in contemplative pose gazes up at bioluminescent vines draping the structures, evoking a deeply human connection to this verdant metropolis. Dramatic studio lighting casts sharp chiaroscuro shadows across intricate textures of glowing cladding and misty foliage, with a deep forest green color palette accented by subtle emerald highlights illuminating hovering drones and soft glowing windows. Highly detailed, award-winning composition, cinematic depth of field, photorealistic rendering with painterly brushstrokes.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 432186743,
+      "created_at": "2026-03-14T15:35:09.780777+08:00"
+    },
+    {
       "id": "20260314_151152",
       "filename": "images/artwork_20260314_151152.jpg",
       "topic": "health and medicine breakthroughs",
