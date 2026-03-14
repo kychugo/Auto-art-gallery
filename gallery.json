@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260314_185059",
+      "filename": "images/artwork_20260314_185059.jpg",
+      "topic": "quantum computing and the future",
+      "prompt": "A solitary figure sits in a minimalist geometric space, hands gently touching a floating quantum processor glowing with ethereal gold light, their silhouette rendered in stark black lines against a dark void while cascading aurora borealis waves of emerald and gold dance overhead in hypnotic patterns. The intimate scene captures a moment of human connection with advanced technology, with crisp negative space and precise line work emphasizing the delicate interplay between the figure and the quantum hardware, bathed in the cool, luminous glow of northern lights that flicker and pulse like living data streams. Ultra-detailed architectural precision meets soft human vulnerability, every element rendered with award-winning composition and depth, the aurora's gentle waves mirroring the quantum entanglement and superposition occurring within the glowing device.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux-2-dev",
+      "seed": 1711655541,
+      "created_at": "2026-03-14T18:50:59.650785+08:00"
+    },
+    {
       "id": "20260314_183120",
       "filename": "images/artwork_20260314_183120.jpg",
       "topic": "renewable energy and sustainable living",
