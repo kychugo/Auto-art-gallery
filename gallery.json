@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260315_072329",
+      "filename": "images/artwork_20260315_072329.jpg",
+      "topic": "cultural diversity and global harmony",
+      "prompt": "A monumental Impressionist painting capturing cultural diversity and global harmony, depicting figures from diverse ethnic backgrounds and traditions embracing beneath the glowing arch of a sprawling futuristic city, their silhouettes merging into one unified form against cascading neon lights that pierce the twilight sky in electric blues and magentas, while the entire scene is rendered in rich earth tones and warm terracotta pigments with bold visible brushstrokes capturing movement and energy, monumental scale conveying the powerful message of interconnected humanity, bathed in the dramatic neon city glow that illuminates the scene with an otherworldly luminescence against the deeper amber and sienna shadows of dusk.",
+      "text_model": "minimax",
+      "image_model": "flux",
+      "seed": 62406803,
+      "created_at": "2026-03-15T07:23:29.025376+08:00"
+    },
+    {
       "id": "20260315_064854",
       "filename": "images/artwork_20260315_064854.jpg",
       "topic": "social media culture and human connection",
