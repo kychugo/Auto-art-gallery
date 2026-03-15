@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260315_183232",
+      "filename": "images/artwork_20260315_183232.jpg",
+      "topic": "blockchain and decentralized future",
+      "prompt": "A peaceful decentralized network emerges through soft candlelight, where impressionist brushstrokes dissolve interconnected nodes and flowing data streams into ethereal ribbons of silver and shadow, the black-and-white palette creating dreamlike depth as glowing key blocks float like constellations in a midnight void, capturing serene harmony between technology and human connection.",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 718366172,
+      "created_at": "2026-03-15T18:32:32.264076+08:00"
+    },
+    {
       "id": "20260315_175754",
       "filename": "images/artwork_20260315_175754.jpg",
       "topic": "health and medicine breakthroughs",
