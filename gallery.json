@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260315_223315",
+      "filename": "images/artwork_20260315_223315.jpg",
+      "topic": "music and the evolution of sound",
+      "prompt": "A sweeping baroque composition depicting the evolution of sound, where an ornate, gilt-gilded cello organically morphs into a gramophone horn and then into the spiraling circuitry of a modern synthesizer. Whimsical, dreamlike musical notes and sound waves, etched in glowing terracotta and umber, cascade like liquid from the instruments, coiling around elaborate scrolls of sheet music under dramatic studio lighting that carves deep, theatrical shadows. The scene is rendered entirely in a rich, warm palette of earth tones—burnt sienna, ochre, and raw umber—accented with gilded gold leaf, creating a visually stunning and surreal tapestry of auditory history.",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 1818565029,
+      "created_at": "2026-03-15T22:33:15.510093+08:00"
+    },
+    {
       "id": "20260315_220056",
       "filename": "images/artwork_20260315_220056.jpg",
       "topic": "urban architecture of the future",
