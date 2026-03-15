@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260315_143410",
+      "filename": "images/artwork_20260315_143410.jpg",
+      "topic": "Hong Kong city life and culture",
+      "prompt": "A melancholic Hong Kong street scene unfolds during the golden hour, with baroque architectural elements casting long, dramatic shadows across the bustling yet subdued cityscape. The scene is bathed in the warm, diffused glow of the setting sun, creating an atmosphere of poignant reflection, while the entire palette shimmers with holographic, iridescent tones, imbuing the familiar urban landscape with an ethereal, dreamlike quality. Elaborate, ornate details characteristic of baroque art are subtly integrated into the contemporary structures, hinting at layers of history beneath the vibrant, shifting colors.",
+      "text_model": "gemini-search",
+      "image_model": "gptimage",
+      "seed": 409493096,
+      "created_at": "2026-03-15T14:34:10.159362+08:00"
+    },
+    {
       "id": "20260315_140258",
       "filename": "images/artwork_20260315_140258.jpg",
       "topic": "news headlines of tomorrow",
