@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260315_162408",
+      "filename": "images/artwork_20260315_162408.jpg",
+      "topic": "cultural diversity and global harmony",
+      "prompt": "Create a monumental, cyberpunk cityscape at golden hour, where towering, holographic advertisements flicker with vibrant neon colors illuminating diverse figures engaged in global harmony. A powerful, majestic atmosphere permeates the scene, with the warm, low sun casting long shadows across the rain-slicked streets, reflecting the dazzling city lights and the interwoven tapestry of humanity. The overall aesthetic should be visually stunning and award-winning, with intricate details in both the architecture and the inhabitants, emphasizing a future where technology and unity coexist.",
+      "text_model": "gemini-search",
+      "image_model": "imagen-4",
+      "seed": 1304916913,
+      "created_at": "2026-03-15T16:24:08.101392+08:00"
+    },
+    {
       "id": "20260315_155833",
       "filename": "images/artwork_20260315_155833.jpg",
       "topic": "ancient traditions meeting the modern world",
