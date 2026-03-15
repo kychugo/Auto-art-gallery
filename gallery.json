@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260315_172632",
+      "filename": "images/artwork_20260315_172632.jpg",
+      "topic": "artificial intelligence reshaping society",
+      "prompt": "A solitary figure stands at a vast window overlooking a crimson-drenched cityscape where towering algorithmic spires and holographic neural networks blend with aging brick architecture, soft diffused daylight filtering through smoky red clouds as ancient human statues contemplate rows of quantum servers—photorealistic style capturing the melancholic tension between vanishing humanity and emergent machine consciousness, deep red and crimson tones dominating every surface from the rust-colored sky to the blood-toned circuitry glowing beneath weathered skin.",
+      "text_model": "minimax",
+      "image_model": "gptimage",
+      "seed": 1897121059,
+      "created_at": "2026-03-15T17:26:32.256772+08:00"
+    },
+    {
       "id": "20260315_170217",
       "filename": "images/artwork_20260315_170217.jpg",
       "topic": "future of human civilization and technology",
