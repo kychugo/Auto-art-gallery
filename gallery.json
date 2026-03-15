@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260315_192823",
+      "filename": "images/artwork_20260315_192823.jpg",
+      "topic": "post-pandemic world transformation",
+      "prompt": "A lone figure in a tattered trench coat walks down a rain-slicked, deserted metropolis street, where towering, skeletal skyscrapers pierce a sky bruised with deep purples and blues. Despite the encroaching darkness, a single, sharp ray of golden hour sunlight cuts through the oppressive atmosphere, illuminating floating embers and casting long, distorted shadows that writhe with unseen life. The scene is rendered in a dramatic noir style, evoking a mood of profound desolation and lingering dread, with every detail meticulously crafted to create a visually stunning, award-winning composition.",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 258291806,
+      "created_at": "2026-03-15T19:28:23.641183+08:00"
+    },
+    {
       "id": "20260315_185358",
       "filename": "images/artwork_20260315_185358.jpg",
       "topic": "post-pandemic world transformation",
