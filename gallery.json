@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260316_053523",
+      "filename": "images/artwork_20260316_053523.jpg",
+      "topic": "virtual reality and the metaverse",
+      "prompt": "A highly detailed digital art scene of an ethereal metaverse realm under a monochromatic black and white arctic aurora borealis lighting, where ghostly VR avatars drift mysteriously through floating crystalline data structures and infinite grid horizons, evoking an award-winning, visually stunning atmosphere of enigmatic digital infinity. Shadowy humanoid figures in translucent neural interfaces reach toward shimmering holographic portals, their forms blending seamlessly with fractured virtual architectures like abandoned metaverse galleries and swirling code vortices, captured in intricate high-contrast monochrome tones with subtle glowing auroral veils piercing the void. The composition pulses with otherworldly depth, razor-sharp details on neon-edged wireframes and misty particle effects, rendering a hypnotic, surreal fusion of human consciousness and boundless cyber-reality.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 417844227,
+      "created_at": "2026-03-16T05:35:23.794727+08:00"
+    },
+    {
       "id": "20260316_045539",
       "filename": "images/artwork_20260316_045539.jpg",
       "topic": "street food culture in Hong Kong",
