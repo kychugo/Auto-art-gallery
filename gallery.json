@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260315_131133",
+      "filename": "images/artwork_20260315_131133.jpg",
+      "topic": "ocean conservation and marine life",
+      "prompt": "A lone diver in a noir-inspired underwater scene, cradling a distressed sea turtle with cracked crimson coral draped over their shoulder, illuminated by a single shaft of moonlight that cuts through the shadows and ignites the deep reds of the dying reef. The diver's face, barely visible through their mask, reflects a profound, intimate sorrow as schools of silver fish flash like scattered coins in the blood-red gloom.",
+      "text_model": "deepseek",
+      "image_model": "imagen-4",
+      "seed": 1663324723,
+      "created_at": "2026-03-15T13:11:33.697642+08:00"
+    },
+    {
       "id": "20260315_125453",
       "filename": "images/artwork_20260315_125453.jpg",
       "topic": "street food culture in Hong Kong",
