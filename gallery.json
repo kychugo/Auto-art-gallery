@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260315_170217",
+      "filename": "images/artwork_20260315_170217.jpg",
+      "topic": "future of human civilization and technology",
+      "prompt": "First, the user wants me to create an image generation prompt. I need to focus on the future of human civilization and technology. The prompt must be photorealistic in art style, with a peaceful and serene mood. Lighting should involve arctic aurora borealis, and the color palette should be earth tones and terracotta.\n\nI must incorporate these elements naturally into a vivid, detailed description. The prompt should be 2-4 sentences long, visually stunning, award-winning, and highly detailed. I can only respond with the prompt itself—no explanations, titles, or markdown. And it must be in English only.\n\nKey elements to include:\n- **Theme**: Future of human civilization and technology.\n- **Art style**: Photorealistic.\n- **Mood**: Peaceful and serene.\n- **Lighting**: Arctic aurora borealis.\n- **Color palette**: Earth tones and terracotta.\n\nI need to paint a clear mental picture. So, I should describe a scene that combines advanced technology with natural beauty, using the specified lighting and colors.\n\nBrainstorming ideas: Perhaps a futuristic city or settlement that harmonizes with nature. The aurora borealis lighting could be in the sky, casting a serene glow over structures made with earth tones and terracotta. Technology should be integrated seamlessly, suggesting a sustainable and advanced future.\n\nStructure the prompt:\n- Start with the setting: Describe the scene with human civilization and technology.\n- Incorporate the mood and lighting: Mention the aurora borealis creating a peaceful atmosphere.\n- Use the color palette: Highlight earth tones and terracotta in the structures or environment.\n- Ensure it's photorealistic and detailed.\n\nAim for 2 to 4 sentences. Make it concise but rich in detail.\n\nDraft a prompt:\n\"In a photorealistic scene, a futuristic human settlement blends seamlessly with the natural landscape, where sleek, sustainable technology is adorned in earth tones and terracotta. Under the serene",
+      "text_model": "deepseek",
+      "image_model": "klein",
+      "seed": 314763345,
+      "created_at": "2026-03-15T17:02:17.435507+08:00"
+    },
+    {
       "id": "20260315_162408",
       "filename": "images/artwork_20260315_162408.jpg",
       "topic": "cultural diversity and global harmony",
