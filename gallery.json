@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260315_232609",
+      "filename": "images/artwork_20260315_232609.jpg",
+      "topic": "blockchain and decentralized future",
+      "prompt": "An abstract expressionist masterpiece depicting a blockchain-fueled decentralized future, with vast monumental canvases erupting in spontaneous, violent gestural brushstrokes and dripped layers forming interlocking chains of glowing amber nodes pulsing like neural networks across a unified, chaotic field of warm orange and fiery amber tones, evoking crumbling centralized monoliths fracturing into liberated digital fragments under stormy overcast light that casts dramatic, intense shadows and radiant highlights. The mood surges with raw, heroic intensity—rugged individualism triumphing over tyranny—as color fields of molten amber bleed into explosive zips symbolizing unbreakable peer-to-peer connections, immersive and sublime, inviting visceral contemplation of humanity's liberated digital dawn. Highly detailed, award-winning composition balancing tumult and control in enormous scale, every inch charged with expressive dynamism and psychological improvisation.",
+      "text_model": "perplexity-fast",
+      "image_model": "grok-imagine",
+      "seed": 749123968,
+      "created_at": "2026-03-15T23:26:09.457926+08:00"
+    },
+    {
       "id": "20260315_225537",
       "filename": "images/artwork_20260315_225537.jpg",
       "topic": "Hong Kong protest art and resilience",
