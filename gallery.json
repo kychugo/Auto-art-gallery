@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260315_152835",
+      "filename": "images/artwork_20260315_152835.jpg",
+      "topic": "mental health awareness in the digital age",
+      "prompt": "First, the user asks for an image generation prompt about mental health awareness in the digital age. The required elements are: art style is photorealistic, mood is powerful and monumental, lighting is neon city glow, and color palette is vibrant neon colors.\n\nI need to incorporate these elements naturally into the prompt. The prompt should be 2-4 sentences long, visually stunning, award-winning, and highly detailed. I must write only the prompt in English, with no explanations or titles.\n\nKey points from the query:\n- Topic: mental health awareness in the digital age.\n- Art style: photorealistic.\n- Mood: powerful and monumental.\n- Lighting: neon city glow.\n- Color palette: vibrant neon colors.\n\nI should craft a prompt that paints a clear mental picture. Since it's about mental health in the digital age, I can include elements like digital screens, technology, or urban settings with neon lights to represent the digital aspect.\n\nBrainstorm ideas:\n- A powerful scene in a neon-lit city, perhaps with a person interacting with digital elements that symbolize mental health.\n- Use vibrant neon colors to highlight emotions or awareness symbols.\n- Make it monumental, so maybe a large-scale installation or a striking visual metaphor.\n\nStructure the prompt:\n- Start with the setting: a photorealistic scene in a neon city.\n- Describe the main subject: something related to mental health awareness, like a person breaking free from digital chains or a glowing symbol of support.\n- Incorporate the mood and lighting: powerful, monumental, with neon glow.\n- Ensure the color palette is vibrant neon colors.\n- Keep it to 2-4 sentences.\n\nDraft a prompt:\n\"In a photorealistic scene set against a monumental neon cityscape at night, a solitary figure stands powerfully amidst glowing digital screens that display supportive messages about mental health, illuminated by the vibrant neon city glow with colors like electric blue, hot pink, and lime green creating a striking contrast against the dark sky.\"\n\nThat's one sentence.",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 197368806,
+      "created_at": "2026-03-15T15:28:35.026088+08:00"
+    },
+    {
       "id": "20260315_144236",
       "filename": "images/artwork_20260315_144236.jpg",
       "topic": "fashion meets technology",
