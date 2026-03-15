@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260316_055239",
+      "filename": "images/artwork_20260316_055239.jpg",
+      "topic": "virtual reality and the metaverse",
+      "prompt": "A lone figure, silhouetted against a swirling vortex of the arctic aurora borealis, stands within a hyper-realistic metaverse landscape. The vibrant arctic lights cast dramatic, warm amber and orange hues across crystalline geometric structures that seem to melt and reform, reflecting the intense, almost palpable energy of the digital realm. The mood is one of profound awe and a touch of existential dread, emphasizing the overwhelming beauty and immense power of the virtual frontier.",
+      "text_model": "gemini-fast",
+      "image_model": "grok-imagine",
+      "seed": 312092709,
+      "created_at": "2026-03-16T05:52:39.702530+08:00"
+    },
+    {
       "id": "20260316_053523",
       "filename": "images/artwork_20260316_053523.jpg",
       "topic": "virtual reality and the metaverse",
