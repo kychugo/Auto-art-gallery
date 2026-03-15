@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260315_102547",
+      "filename": "images/artwork_20260315_102547.jpg",
+      "topic": "Hong Kong protest art and resilience",
+      "prompt": "A dynamic pop art diptych capturing the spirit of Hong Kong's resilience, featuring bold, graphic renditions of protest symbols like gas masks and umbrellas interwoven with iconic cityscapes rendered in a dramatic, intense mood. Soft, diffused daylight washes over the scene, illuminating a vibrant color palette dominated by warm amber and glowing orange tones that emphasize both the struggle and the enduring hope of the people. This highly detailed, award-winning composition evokes a powerful sense of defiance and community, a testament to the unyielding spirit in the face of adversity.",
+      "text_model": "gemini-fast",
+      "image_model": "flux-2-dev",
+      "seed": 605938290,
+      "created_at": "2026-03-15T10:25:47.258213+08:00"
+    },
+    {
       "id": "20260315_074720",
       "filename": "images/artwork_20260315_074720.jpg",
       "topic": "cultural diversity and global harmony",
