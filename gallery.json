@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260315_194551",
+      "filename": "images/artwork_20260315_194551.jpg",
+      "topic": "traditional vs modern culture clash in Asia",
+      "prompt": "A lone geisha, her face a mask of serene detachment, stands amidst the neon-drenched, rain-slicked streets of a futuristic Tokyo, her traditional silk kimono a stark contrast to the towering holographic advertisements and bustling cyborgs around her. The scene is rendered in a high-contrast black and gold palette, with dramatic studio lighting casting long, sharp shadows that emphasize the juxtaposition of ancient traditions and hyper-modernity. The overall mood is one of tranquil contemplation amidst urban chaos, captured in a visually stunning, award-winning cyberpunk aesthetic.",
+      "text_model": "gemini-search",
+      "image_model": "grok-imagine",
+      "seed": 1606322724,
+      "created_at": "2026-03-15T19:45:51.808344+08:00"
+    },
+    {
       "id": "20260315_192823",
       "filename": "images/artwork_20260315_192823.jpg",
       "topic": "post-pandemic world transformation",
