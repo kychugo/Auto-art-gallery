@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260315_205228",
+      "filename": "images/artwork_20260315_205228.jpg",
+      "topic": "blockchain and decentralized future",
+      "prompt": "A futuristic city built on transparent blockchain networks rises from an ancient forest, glowing emerald nodes connected by luminous threads weaving through towering crystalline towers and hanging gardens, while soft moonlight bathes the scene in silvery blue shadows, creating a hopeful vision where nature and technology exist in perfect harmony, cinematic wide-angle view, hyper-detailed digital painting with volumetric lighting, deep forest greens and bright emerald accents, award-winning concept art style",
+      "text_model": "minimax",
+      "image_model": "gptimage",
+      "seed": 1644513091,
+      "created_at": "2026-03-15T20:52:28.684808+08:00"
+    },
+    {
       "id": "20260315_194551",
       "filename": "images/artwork_20260315_194551.jpg",
       "topic": "traditional vs modern culture clash in Asia",
