@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260315_185358",
+      "filename": "images/artwork_20260315_185358.jpg",
+      "topic": "post-pandemic world transformation",
+      "prompt": "A surrealist vision of post-pandemic rebirth emerges as colossal human figures rise from ancient forest floors, their bodies transforming into flowing organic forms intertwined with glowing emerald vines and bioluminescent mycelium networks, while hundreds of ethereal candles float in impossible spirals overhead, their warm candlelight casting mystical golden reflections across the massive stone statues' faces as they slowly awaken from centuries of slumber, the deep forest green palette bathing everything in an otherworldly monumentality that suggests humanity's resilient transformation through collective struggle, with dripping wax creating surreal time-frozen sculptures and twisted architectural pillars growing seamlessly from flesh and bark, creating a powerful tableau where the pandemic's darkness has birthed a new mythic civilization rising in emerald-tinted glory.",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 1918574635,
+      "created_at": "2026-03-15T18:53:58.809636+08:00"
+    },
+    {
       "id": "20260315_183232",
       "filename": "images/artwork_20260315_183232.jpg",
       "topic": "blockchain and decentralized future",
