@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260315_220056",
+      "filename": "images/artwork_20260315_220056.jpg",
+      "topic": "urban architecture of the future",
+      "prompt": "A sprawling cyberpunk cityscape bathed in the ethereal glow of soft pastel neon lights, where towering, bioluminescent skyscrapers twist and interlace like luminous organic forms.  Misty atmospheric effects lend a sense of profound mystery, with holographic advertisements shimmering and dissolving like ghosts in the humid air, all rendered in a hyper-detailed, award-winning style.",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 1981818091,
+      "created_at": "2026-03-15T22:00:56.604157+08:00"
+    },
+    {
       "id": "20260315_215045",
       "filename": "images/artwork_20260315_215045.jpg",
       "topic": "human migration and global nomadism",
