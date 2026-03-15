@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260315_121040",
+      "filename": "images/artwork_20260315_121040.jpg",
+      "topic": "health and medicine breakthroughs",
+      "prompt": "An ethereal oil painting capturing a moment of profound scientific revelation, where a solitary, shadowed figure contemplates a complex, abstract representation of a cellular breakthrough, rendered in vibrant neon blues, purples, and greens emanating a soft, bioluminescent glow. The mood is melancholic yet hopeful, with wisps of luminous data streams and molecular structures swirling around the figure, casting a contemplative, otherworldly light that speaks of immense sacrifice and dawning understanding.",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 312102115,
+      "created_at": "2026-03-15T12:10:40.842170+08:00"
+    },
+    {
       "id": "20260315_115201",
       "filename": "images/artwork_20260315_115201.jpg",
       "topic": "fashion meets technology",
