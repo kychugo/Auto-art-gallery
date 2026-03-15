@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260316_072503",
+      "filename": "images/artwork_20260316_072503.jpg",
+      "topic": "health and medicine breakthroughs",
+      "prompt": "First, the user wants me to create an image generation prompt about \"health and medicine breakthroughs\". I need to incorporate specific elements: art style is photorealistic, mood is hopeful and uplifting, lighting is dramatic studio lighting, and color palette is cool blues and purples.\n\nThe prompt must be 2-4 sentences long, visually stunning, award-winning, and highly detailed. I have to write it in English only, with no explanations, titles, or markdown. Just the prompt itself.\n\nI need to craft a single prompt that paints a clear mental picture. Let me brainstorm how to combine these elements naturally.\n\n- **Theme**: Health and medicine breakthroughs. This could involve futuristic medical technology, scientists, glowing serums, advanced equipment, or symbolic representations like DNA strands, cells, or healing light.\n\n- **Art style**: Photorealistic. So, the image should look like a high-quality photograph, realistic and detailed.\n\n- **Mood**: Hopeful and uplifting. This suggests positive emotions, maybe breakthroughs leading to cures, happy scientists, or vibrant, life-affirming scenes.\n\n- **Lighting**: Dramatic studio lighting. Think of controlled lighting with sharp contrasts, highlights, and shadows, often used in professional photography to emphasize subjects.\n\n- **Color palette**: Cool blues and purples. These colors can convey calmness, technology, and hope. Blues are often associated with health and trust, purples with innovation and luxury.\n\nI should weave these into a cohesive description. For example, a scene in a modern lab with scientists celebrating a discovery, under dramatic lighting, with blue and purple hues.\n\nEnsure it's 2-4 sentences. Let me draft a prompt:\n\n\"A photorealistic scene in a cutting-edge medical laboratory, where a diverse team of scientists celebrates a groundbreaking discovery, their faces illuminated by dramatic studio lighting that casts sharp, hopeful shadows. The cool blues and purples of holographic data displays and glowing serums create an uplifting atmosphere, highlighting intricate",
+      "text_model": "deepseek",
+      "image_model": "klein",
+      "seed": 1628705808,
+      "created_at": "2026-03-16T07:25:03.127914+08:00"
+    },
+    {
       "id": "20260316_065129",
       "filename": "images/artwork_20260316_065129.jpg",
       "topic": "space exploration and the cosmos",
