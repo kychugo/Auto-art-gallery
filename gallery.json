@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260315_212711",
+      "filename": "images/artwork_20260315_212711.jpg",
+      "topic": "future of human civilization and technology",
+      "prompt": "A towering megacity of crystalline towers and hovering structures stretches toward a twilight sky, where ancient temple spires pierce through layers of holographic cityscapes, the golden hour sunlight casting long dramatic shadows across the neon-illuminated streets below and catching the metallic surfaces of autonomous drones weaving between skyscrapers in elegant patterns, rendered entirely in a striking monochromatic black and white palette that transforms the warm amber glow into rich velvety grays and luminous silver highlights, creating an ethereal and mysterious atmosphere where organic human forms move like ghosts among the luminous machines, their silhouettes reflecting against the polished obsidian surfaces of impossible architecture that seems to fold and twist into impossible geometries, the scene capturing a future where humanity and technology have merged into something neither wholly natural nor artificial but impossibly beautiful and otherworldly",
+      "text_model": "minimax",
+      "image_model": "flux",
+      "seed": 1335096743,
+      "created_at": "2026-03-15T21:27:11.986898+08:00"
+    },
+    {
       "id": "20260315_205228",
       "filename": "images/artwork_20260315_205228.jpg",
       "topic": "blockchain and decentralized future",
