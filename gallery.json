@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260315_135052",
+      "filename": "images/artwork_20260315_135052.jpg",
+      "topic": "social media culture and human connection",
+      "prompt": "In a monumental cyberpunk metropolis under soft diffused daylight filtering through towering holographic billboards and rain-slicked skyscrapers, diverse figures with cybernetic implants and glowing neural interfaces stand in a powerful circle, their hands outstretched in genuine human connection amidst cascading data streams of social media likes, shares, and virtual hearts. High-contrast black and gold color palette dominates, with lustrous golden auras pulsing from intertwined fingers against inky shadows of decaying urban sprawl, evoking a visually stunning fusion of digital isolation and profound unity. Award-winning digital art in intricate cyberpunk style, hyper-detailed textures on metallic prosthetics, glitchy augmented reality overlays, and epic scale emphasizing humanity's resilient bond over algorithmic superficiality.",
+      "text_model": "perplexity-fast",
+      "image_model": "gptimage",
+      "seed": 2094570267,
+      "created_at": "2026-03-15T13:50:52.254191+08:00"
+    },
+    {
       "id": "20260315_132635",
       "filename": "images/artwork_20260315_132635.jpg",
       "topic": "cultural diversity and global harmony",
