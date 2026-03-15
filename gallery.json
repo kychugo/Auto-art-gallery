@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260315_154538",
+      "filename": "images/artwork_20260315_154538.jpg",
+      "topic": "human migration and global nomadism",
+      "prompt": "An abstract expressionist canvas erupts with vibrant neon blues, electric purples, and fiery oranges, depicting the raw, unfettered movement of humanity across a stark, moonlit landscape. Jagged brushstrokes and swirling forms evoke the drama and intensity of global nomadism, with deep, inky shadows clawing at the edges, hinting at the unknown paths and profound journeys undertaken by restless souls under a vast, indifferent sky. The scene pulsates with an almost audible energy, a visual symphony of departure and discovery.",
+      "text_model": "gemini-fast",
+      "image_model": "flux-2-dev",
+      "seed": 1244058787,
+      "created_at": "2026-03-15T15:45:38.332267+08:00"
+    },
+    {
       "id": "20260315_152835",
       "filename": "images/artwork_20260315_152835.jpg",
       "topic": "mental health awareness in the digital age",
