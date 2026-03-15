@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260315_144236",
+      "filename": "images/artwork_20260315_144236.jpg",
+      "topic": "fashion meets technology",
+      "prompt": "A solitary, impossibly tall figure draped in flowing, gothic-baroque haute couture, their silhouette etched against a swirling, monochromatic black and white arctic aurora borealis. Intricate, bioluminescent circuitry pulses beneath the luxurious fabric, casting an otherworldly, dramatic and intense glow that accentuates sharp, angular features and a gaze of profound, silent power, all rendered in hyperrealistic detail with painterly brushstrokes evoking a dark, ethereal masterpiece.",
+      "text_model": "gemini-fast",
+      "image_model": "flux-2-dev",
+      "seed": 1107563314,
+      "created_at": "2026-03-15T14:42:36.672422+08:00"
+    },
+    {
       "id": "20260315_143410",
       "filename": "images/artwork_20260315_143410.jpg",
       "topic": "Hong Kong city life and culture",
