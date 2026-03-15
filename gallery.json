@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260315_131839",
+      "filename": "images/artwork_20260315_131839.jpg",
+      "topic": "space exploration and the cosmos",
+      "prompt": "A serene watercolor painting of a lone astronaut floating peacefully amidst the vast cosmos during a crimson-hued space exploration, with a sleek spaceship gliding gracefully past swirling nebulae and distant crimson planets glowing softly in the infinite deep red starfield. Dramatic studio lighting casts ethereal highlights and deep shadows on the astronaut's suit and the organic, wet-on-wet watercolor textures of starry galaxies and shimmering comet trails, evoking a tranquil mood of cosmic wonder. Rendered in an award-winning, highly detailed style with a rich palette of crimson reds, deep maroons, and subtle scarlet accents blending seamlessly for a visually stunning, otherworldly vista.",
+      "text_model": "perplexity-fast",
+      "image_model": "imagen-4",
+      "seed": 571319675,
+      "created_at": "2026-03-15T13:18:39.299242+08:00"
+    },
+    {
       "id": "20260315_131133",
       "filename": "images/artwork_20260315_131133.jpg",
       "topic": "ocean conservation and marine life",
