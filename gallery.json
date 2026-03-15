@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260315_155833",
+      "filename": "images/artwork_20260315_155833.jpg",
+      "topic": "ancient traditions meeting the modern world",
+      "prompt": "An elderly woman in traditional ritual robes performs an ancient purification ceremony beside a sleek glass wall of a contemporary skyscraper, her weathered hands holding a ceremonial bowl while city lights reflect softly in the glass, the scene bathed in warm candlelight that casts gentle shadows across her serene face, emerald and deep forest green pigments dominating the composition with subtle golden highlights from the flames, creating an intimate moment where centuries of tradition and modern urban life exist in peaceful harmony, rendered in minimalist line work with masterful control of light and shadow.",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 1374816674,
+      "created_at": "2026-03-15T15:58:33.666903+08:00"
+    },
+    {
       "id": "20260315_154538",
       "filename": "images/artwork_20260315_154538.jpg",
       "topic": "human migration and global nomadism",
