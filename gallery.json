@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260316_074818",
+      "filename": "images/artwork_20260316_074818.jpg",
+      "topic": "virtual reality and the metaverse",
+      "prompt": "A photorealistic virtual reality explorer floats whimsically through a boundless metaverse under ethereal moonlight casting long crimson shadows across floating crimson islands adorned with twisting geometric architectures inspired by nature's abstractions, giant ethereal robots, and schools of dreamlike whales gliding in deep red skies. Crimson nebulae pulse softly in the distance, illuminating hovering VR headsets that morph into crimson portals revealing surreal landscapes of crumbling balconies and levitating sculptures, blending the uncanny boundaries of reality and fantasy in a highly detailed, award-winning vista of immersive wonder. Deep red hues dominate the palette, with moonlight filtering through misty veils to create a dreamlike glow on iridescent surfaces and whispering digital flora.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 753070766,
+      "created_at": "2026-03-16T07:48:18.190782+08:00"
+    },
+    {
       "id": "20260316_072503",
       "filename": "images/artwork_20260316_072503.jpg",
       "topic": "health and medicine breakthroughs",
