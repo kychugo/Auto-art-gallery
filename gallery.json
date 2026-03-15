@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260315_113844",
+      "filename": "images/artwork_20260315_113844.jpg",
+      "topic": "ancient traditions meeting the modern world",
+      "prompt": "A monumental anime-style scene where a young warrior in traditional ceremonial armor stands on a floating walkway above an ancient forest, skyscrapers and neon signs piercing the misty emerald canopy in the distance as golden hour sunlight bathes everything in warm amber and deep forest green tones, casting long dramatic shadows across the intricate architectural details of the temples below while modern technology and ancient mysticism exist in perfect harmony.",
+      "text_model": "minimax",
+      "image_model": "flux-2-dev",
+      "seed": 1874305560,
+      "created_at": "2026-03-15T11:38:44.393063+08:00"
+    },
+    {
       "id": "20260315_102547",
       "filename": "images/artwork_20260315_102547.jpg",
       "topic": "Hong Kong protest art and resilience",
