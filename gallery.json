@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260316_045539",
+      "filename": "images/artwork_20260316_045539.jpg",
+      "topic": "street food culture in Hong Kong",
+      "prompt": "A surrealist depiction of Hong Kong street food stalls at dusk, with vendors' faces contorted in dramatic intensity as they prepare vibrant, ethereal dishes under a soft, flickering candlelight ambiance. The scene unfolds with a color palette of melancholic pastel hues, where steaming bowls and neon signs melt into a dreamlike, award-winning composition, evoking the intense, yet delicate, essence of the city's culinary heart. Focus on the interplay of light and shadow, the textures of food transforming into otherworldly elements, and the subtle, yet powerful, emotions of the unseen crowds, all rendered with hyper-realistic detail.",
+      "text_model": "gemini-search",
+      "image_model": "flux-2-dev",
+      "seed": 1420363008,
+      "created_at": "2026-03-16T04:55:39.651266+08:00"
+    },
+    {
       "id": "20260316_042037",
       "filename": "images/artwork_20260316_042037.jpg",
       "topic": "economic inequality and social justice",
