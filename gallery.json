@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260316_061437",
+      "filename": "images/artwork_20260316_061437.jpg",
+      "topic": "revolution in education through technology",
+      "prompt": "In a noir masterpiece bathed in moonlight and stark shadows, a futuristic urban skyline pulses with golden holographic projections of exploding chalkboards and swirling digital neural networks, symbolizing the revolution in education through technology, as diverse students in trench coats and fedoras shatter iron chains with glowing VR headsets and tablet lightning bolts. High-contrast black and gold palette ignites vibrant, energetic chaos amid oblique Dutch angles and venetian blind striations across rain-slicked rooftops, where anti-hero teachers wield laser pointers like revolvers, unleashing beams that morph dusty libraries into radiant data streams converging on a colossal golden apple of knowledge atop a shadowy Art Deco tower. Award-winning composition with chiaroscuro drama, cinematic tension, and meticulous details evoking moral upheaval in a hyper-technological night.",
+      "text_model": "perplexity-fast",
+      "image_model": "grok-imagine",
+      "seed": 673463270,
+      "created_at": "2026-03-16T06:14:37.808114+08:00"
+    },
+    {
       "id": "20260316_055239",
       "filename": "images/artwork_20260316_055239.jpg",
       "topic": "virtual reality and the metaverse",
