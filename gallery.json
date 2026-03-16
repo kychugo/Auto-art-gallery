@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260317_065513",
+      "filename": "images/artwork_20260317_065513.jpg",
+      "topic": "news headlines of tomorrow",
+      "prompt": "A Baroque-style etching of floating parchment scrolls unfurling in a moonlit library, each bearing tomorrow's news headlines rendered in glowing, ethereal ink that drifts like spectral smoke. Intricate, shadow-wreathed cherubs clutch quills and hourglasses, their monochromatic forms emerging from pools of inky darkness as beams of cold moonlight slice through towering shelves of forgotten books. The scene thrums with a mysterious grandeur, where ornate frames dissolve into cascading shadows and every architectural flourish seems to whisper a secret prophecy.",
+      "text_model": "deepseek",
+      "image_model": "klein",
+      "seed": 273742082,
+      "created_at": "2026-03-17T06:55:13.853593+08:00"
+    },
+    {
       "id": "20260317_062126",
       "filename": "images/artwork_20260317_062126.jpg",
       "topic": "blockchain and decentralized future",
