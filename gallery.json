@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260316_200220",
+      "filename": "images/artwork_20260316_200220.jpg",
+      "topic": "economic inequality and social justice",
+      "prompt": "A pop art masterpiece capturing the intimate and human struggle against economic inequality, bathed in the vibrant neon city glow of a metropolis. Silhouettes of diverse individuals, their faces etched with quiet determination, are juxtaposed against stark visual representations of wealth disparity—perhaps a lone, hopeful flower pushing through cracked pavement amidst towering, abstract skyscrapers rendered in a bold, vibrant neon color palette. The mood is intimate yet urgent, with dynamic lines and exaggerated forms typical of pop art, illuminated by the electric blues, pinks, and yellows of urban nightlife, creating a visually stunning and thought-provoking scene.",
+      "text_model": "gemini-search",
+      "image_model": "klein",
+      "seed": 518338206,
+      "created_at": "2026-03-16T20:02:20.634302+08:00"
+    },
+    {
       "id": "20260316_195012",
       "filename": "images/artwork_20260316_195012.jpg",
       "topic": "news headlines of tomorrow",
