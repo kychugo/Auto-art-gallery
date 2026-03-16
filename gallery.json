@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260316_174028",
+      "filename": "images/artwork_20260316_174028.jpg",
+      "topic": "post-pandemic world transformation",
+      "prompt": "A serene watercolor landscape unfolds, depicting a transformed world bathed in the soft glow of candlelight, where nature has reclaimed urban spaces with quiet resilience. Delicate crimson and deep red hues dominate the palette, emphasizing a peaceful, introspective mood as gentle light filters through emerging foliage and reflects on still water. The scene is imbued with a sense of tranquility and renewal, capturing the award-winning artistry of a world at peace.",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 1690961979,
+      "created_at": "2026-03-16T17:40:28.982428+08:00"
+    },
+    {
       "id": "20260316_164247",
       "filename": "images/artwork_20260316_164247.jpg",
       "topic": "sports and human physical achievement",
