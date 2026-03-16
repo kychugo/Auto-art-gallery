@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260316_141716",
+      "filename": "images/artwork_20260316_141716.jpg",
+      "topic": "ocean conservation and marine life",
+      "prompt": "A photorealistic black and white image of a melancholic underwater reef at golden hour, where shafts of sunlight pierce through the ocean surface, casting long, ethereal rays that illuminate a cluster of vibrant marine life including a solitary sea turtle gliding past coral-encrusted artificial sculptures resembling human figures half-submerged in sediment, evoking themes of ocean conservation and human impact. Ghostly plastic debris tangles with schools of fish and an octopus peering from a crevice, their forms sharply detailed in high contrast, with intricate textures on weathered corals, rippling water currents, and faint surface waves above, rendering a reflective mood of fragile beauty and urgent regeneration. Award-winning composition with hyper-detailed realism, dramatic chiaroscuro lighting, and profound emotional depth.",
+      "text_model": "perplexity-fast",
+      "image_model": "grok-imagine",
+      "seed": 914289992,
+      "created_at": "2026-03-16T14:17:16.362123+08:00"
+    },
+    {
       "id": "20260316_140630",
       "filename": "images/artwork_20260316_140630.jpg",
       "topic": "economic inequality and social justice",
