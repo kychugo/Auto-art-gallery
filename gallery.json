@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260316_195012",
+      "filename": "images/artwork_20260316_195012.jpg",
+      "topic": "news headlines of tomorrow",
+      "prompt": "A peaceful noir scene of tomorrow's city at dawn, where towering holographic news screens float above quiet cobblestone streets displaying gentle headlines in flowing calligraphy, their vibrant neon pinks, cyans, and electric blues casting soft reflections on rain-slicked surfaces while autonomous drones deliver newspapers through misty air, the scene illuminated by thousands of glowing signs and storefronts in harmonious neon palettes that transform the dark noir atmosphere into a dreamlike serenity, with cyberpunk pedestrians reading glowing tablets and street lamps humming softly as the city awakens to a calm new era of information.",
+      "text_model": "minimax",
+      "image_model": "imagen-4",
+      "seed": 290218602,
+      "created_at": "2026-03-16T19:50:12.853960+08:00"
+    },
+    {
       "id": "20260316_191543",
       "filename": "images/artwork_20260316_191543.jpg",
       "topic": "artificial intelligence reshaping society",
