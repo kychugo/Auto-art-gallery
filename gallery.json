@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260316_175622",
+      "filename": "images/artwork_20260316_175622.jpg",
+      "topic": "post-pandemic world transformation",
+      "prompt": "In a breathtaking concept art scene, diverse groups of people emerge joyfully into a reclaimed urban meadow bathed in warm dappled forest light filtering through crystalline glass buildings wrapped in cascading vines and wildflowers, capturing a vibrant and energetic mood of rebirth and hope as soft pastel hues of mint green, lavender, peach and gentle rose paint the dawn sky while golden sunbeams dance through overlapping leaves, creating an ethereal atmosphere where humanity and nature intertwine in perfect harmony with sustainable living spaces integrated into living ecosystems, intricate stone pathways where children",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 1781708363,
+      "created_at": "2026-03-16T17:56:22.250370+08:00"
+    },
+    {
       "id": "20260316_174028",
       "filename": "images/artwork_20260316_174028.jpg",
       "topic": "post-pandemic world transformation",
