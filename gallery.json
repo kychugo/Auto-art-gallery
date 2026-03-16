@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260317_000300",
+      "filename": "images/artwork_20260317_000300.jpg",
+      "topic": "revolution in education through technology",
+      "prompt": "A gentle watercolor painting depicting a solitary figure, illuminated by a warm candlelight ambiance, meticulously inscribing glowing crimson digital symbols onto a translucent, ancient scroll. The scene evokes a peaceful and serene mood, with deep red hues subtly bleeding into the background, suggesting a quiet revolution blooming from knowledge and technology.",
+      "text_model": "gemini-fast",
+      "image_model": "flux-2-dev",
+      "seed": 1754962924,
+      "created_at": "2026-03-17T00:03:00.137786+08:00"
+    },
+    {
       "id": "20260316_233944",
       "filename": "images/artwork_20260316_233944.jpg",
       "topic": "urban architecture of the future",
