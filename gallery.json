@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260316_185513",
+      "filename": "images/artwork_20260316_185513.jpg",
+      "topic": "urban architecture of the future",
+      "prompt": "An opulent, futuristic cityscape rendered in a Baroque architectural style, featuring soaring, ornate structures and grand, sweeping plazas. The scene is bathed in a soft, melancholic twilight, illuminated by the ethereal, bioluminescent glow emanating from intricate building facades and atmospheric ambient lighting. A gentle color palette of soft pastel hues, like lavender, rose, and pale mint, washes over the architecture, enhancing the mood of quiet reflection and sophisticated solitude.",
+      "text_model": "gemini-search",
+      "image_model": "klein",
+      "seed": 1875095542,
+      "created_at": "2026-03-16T18:55:13.872448+08:00"
+    },
+    {
       "id": "20260316_183618",
       "filename": "images/artwork_20260316_183618.jpg",
       "topic": "artificial intelligence reshaping society",
