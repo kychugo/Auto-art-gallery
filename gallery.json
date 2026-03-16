@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260316_114216",
+      "filename": "images/artwork_20260316_114216.jpg",
+      "topic": "news headlines of tomorrow",
+      "prompt": "A vibrant, energetic oil painting depicting tomorrow's news headlines as illuminated, holographic text and swirling 3D images floating above a bustling, futuristic town square under the mesmerizing glow of an arctic aurora borealis. The scene is rich with warm earth tones and terracotta hues, captured in thick, textured brushstrokes that show people in contemporary clothing looking up in awe at the dynamic, ever-changing news stream. Detailed reflections of the celestial lights and digital information shimmer on wet cobblestones and the glass facades of surrounding buildings.",
+      "text_model": "deepseek",
+      "image_model": "gptimage",
+      "seed": 839942615,
+      "created_at": "2026-03-16T11:42:16.498529+08:00"
+    },
+    {
       "id": "20260316_102641",
       "filename": "images/artwork_20260316_102641.jpg",
       "topic": "mental health awareness in the digital age",
