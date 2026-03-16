@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260316_191543",
+      "filename": "images/artwork_20260316_191543.jpg",
+      "topic": "artificial intelligence reshaping society",
+      "prompt": "A lone figure stands atop a crumbling concrete balcony in a ruined megacity, gazing up at massive holographic neural networks crackling through the arctic aurora borealis that twists overhead in ribbons of pale green and violet against the smoke-choked sky, while autonomous drones swarm like mechanical locusts between rusted tower blocks draped in hanging gardens of dead vines, the entire scene bathed in the warm amber glow of terracotta and burnt sienna from thousands of failing neon signs, illustrating AI's iron grip on humanity's dying civilization.",
+      "text_model": "minimax",
+      "image_model": "imagen-4",
+      "seed": 1525604248,
+      "created_at": "2026-03-16T19:15:43.609489+08:00"
+    },
+    {
       "id": "20260316_185513",
       "filename": "images/artwork_20260316_185513.jpg",
       "topic": "urban architecture of the future",
