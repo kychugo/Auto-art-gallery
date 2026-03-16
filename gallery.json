@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260316_121732",
+      "filename": "images/artwork_20260316_121732.jpg",
+      "topic": "urban architecture of the future",
+      "prompt": "A colossal, photorealistic cityscape of future urban architecture rises monumentally against a dark sky, with towering structures intricately detailed and emitting a powerful, ethereal bioluminescent glow. Holographic iridescent light refracts through the advanced materials of the buildings, casting shifting, vibrant colors across the scene and creating a mood of awe-inspiring, almost divine power. Rivers of light flow between immense, geometrically perfect skyscrapers that pierce the heavens, their surfaces adorned with pulsating, organic patterns that mimic natural luminescence.",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 1482749695,
+      "created_at": "2026-03-16T12:17:32.164713+08:00"
+    },
+    {
       "id": "20260316_115611",
       "filename": "images/artwork_20260316_115611.jpg",
       "topic": "biotechnology and genetic engineering",
