@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260316_230344",
+      "filename": "images/artwork_20260316_230344.jpg",
+      "topic": "urban architecture of the future",
+      "prompt": "In a breathtaking anime-inspired cityscape, colossal, impossibly tall skyscrapers pierce a perpetually twilight sky, their crimson and deep red facades adorned with intricate, glowing crimson circuitry. A powerful, monumental mood emanates from the sheer scale and monolithic design of these futuristic structures, illuminated by a soft, pervasive bioluminescent glow that casts long, dramatic shadows across the dense urban landscape. Award-winning detail in the anime art style should capture the raw, imposing beauty of this advanced metropolis, emphasizing its overwhelming power and enduring monumentality.",
+      "text_model": "gemini-search",
+      "image_model": "gptimage",
+      "seed": 769254319,
+      "created_at": "2026-03-16T23:03:44.724802+08:00"
+    },
+    {
       "id": "20260316_224222",
       "filename": "images/artwork_20260316_224222.jpg",
       "topic": "news headlines of tomorrow",
