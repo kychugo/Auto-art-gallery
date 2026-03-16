@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260316_224222",
+      "filename": "images/artwork_20260316_224222.jpg",
+      "topic": "news headlines of tomorrow",
+      "prompt": "A single person sits in a softly lit, cozy room, their face illuminated by the warm amber glow of a holographic news feed displaying the headlines of tomorrow. Outside a frost-covered window, the ethereal green and purple curtains of the aurora borealis dance, casting a magical, arctic light that gently reflects off the surfaces, bathing everything in a gentle, otherworldly luminescence. The scene is intimate and detailed, the person's thoughtful expression and the glowing, amber-orange text of the headlines rendered in striking, award-winning photorealism.",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 2031703433,
+      "created_at": "2026-03-16T22:42:22.121712+08:00"
+    },
+    {
       "id": "20260316_222208",
       "filename": "images/artwork_20260316_222208.jpg",
       "topic": "revolution in education through technology",
