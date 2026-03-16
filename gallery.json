@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260317_072757",
+      "filename": "images/artwork_20260317_072757.jpg",
+      "topic": "ocean conservation and marine life",
+      "prompt": "First, the user asks me to create a unique, detailed image generation prompt. The topic is ocean conservation and marine life. I need to incorporate specific elements naturally: surrealist art style, intimate and human mood, dappled forest light for lighting, and high contrast black and gold color palette.\n\nThe prompt must be visually stunning, award-winning, and highly detailed. It should be 2-4 sentences long and paint a clear mental picture. I must respond with ONLY the image prompt itself in English, no explanations, titles, or markdown.\n\nI need to craft a prompt that blends all these elements seamlessly. Since it's about ocean conservation and marine life, the scene should involve marine elements, but with a surrealist twist. The mood is intimate and human, so perhaps including human elements or emotions connected to marine life. Lighting is dappled forest light, which is typically sunlight filtering through trees, but here it might be adapted to an underwater or oceanic setting with similar lighting effects. Color palette is high contrast black and gold, so the image should emphasize these colors.\n\nStructure the prompt in 2-4 sentences. Start with the main scene, incorporate the elements, and ensure it's descriptive.\n\nBrainstorm ideas:\n\n- A surreal scene where marine life interacts with human-like elements in an intimate way.\n\n- Use dappled light to create patterns, perhaps simulating forest light underwater.\n\n- Black and gold colors to highlight contrasts, like golden light on black marine creatures or backgrounds.\n\nMake it award-winning: use vivid language, detailed descriptions.\n\nExample outline:\n\n1. Describe the surreal setting with marine life and human intimacy.\n\n2. Incorporate lighting and color palette.\n\n3. Add details to make it visually stunning.\n\nFinal prompt should be in English only.\n\nDraft:\n\n\"In a surreal underwater scene, a human figure gently cradles a bioluminescent sea turtle, their connection intimate and tender, as dappled forest light filters through the water's surface, casting golden patterns on the",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 927683398,
+      "created_at": "2026-03-17T07:27:57.095508+08:00"
+    },
+    {
       "id": "20260317_065513",
       "filename": "images/artwork_20260317_065513.jpg",
       "topic": "news headlines of tomorrow",
