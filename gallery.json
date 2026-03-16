@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260317_062126",
+      "filename": "images/artwork_20260317_062126.jpg",
+      "topic": "blockchain and decentralized future",
+      "prompt": "In a stark, minimalist landscape under a stormy, overcast sky, abstract crimson and deep red geometric forms representing decentralized networks slowly dissolve into an atmospheric mist, evoking a sense of melancholic reflection on lost connections. The lighting is subdued and diffused, casting long, somber shadows that emphasize the vast emptiness of the digital frontier. This award-winning, highly detailed piece captures the haunting beauty of a future that is both interconnected and profoundly solitary.",
+      "text_model": "gemini-search",
+      "image_model": "imagen-4",
+      "seed": 598133044,
+      "created_at": "2026-03-17T06:21:26.025821+08:00"
+    },
+    {
       "id": "20260317_060344",
       "filename": "images/artwork_20260317_060344.jpg",
       "topic": "street food culture in Hong Kong",
