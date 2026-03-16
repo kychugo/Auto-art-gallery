@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260316_140630",
+      "filename": "images/artwork_20260316_140630.jpg",
+      "topic": "economic inequality and social justice",
+      "prompt": "An impressionist cityscape at night, bathed in the alluring, mysterious glow of vibrant neon signs, where ethereal figures, rendered in blurred strokes of electric blues and hot pinks, traverse a stark divide between opulent skyscrapers and shadowed, impoverished alleys, the entire scene imbued with a sense of urgent, silent plea for social justice.",
+      "text_model": "gemini-fast",
+      "image_model": "grok-imagine",
+      "seed": 1151130675,
+      "created_at": "2026-03-16T14:06:30.035901+08:00"
+    },
+    {
       "id": "20260316_134750",
       "filename": "images/artwork_20260316_134750.jpg",
       "topic": "social media culture and human connection",
