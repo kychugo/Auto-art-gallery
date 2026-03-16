@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260316_134750",
+      "filename": "images/artwork_20260316_134750.jpg",
+      "topic": "social media culture and human connection",
+      "prompt": "First, the user asks for an image generation prompt about \"social media culture and human connection.\" I need to incorporate specific elements: art style (abstract expressionist), mood (dramatic and intense), lighting (candlelight ambiance), and color palette (emerald and deep forest green). The prompt must be 2-4 sentences long, vivid, detailed, and in English only.\n\nKey points from the instruction:\n- Craft a single prompt.\n- Be descriptive and rich in visual detail.\n- Mention artistic style, mood, lighting, color palette, and specific visual elements.\n- Respond with ONLY the image prompt – no explanations, titles, or markdown.\n- Write exclusively in English.\n\nI need to create a prompt that naturally blends the theme of social media culture and human connection with the required elements. Abstract expressionism is known for its emotional intensity and non-representational forms, so I can use that to evoke feelings related to social media and human connection.\n\nMood is dramatic and intense, which fits well with abstract expressionism. Lighting should be candlelight ambiance, adding a warm, intimate, or perhaps eerie glow. Color palette is emerald and deep forest green, which are rich, deep greens that can symbolize nature, growth, or digital elements.\n\nVisual elements should tie back to social media culture: think of icons like smartphones, emojis, notifications, networks, but abstractly. Human connection might involve faces, hands, or abstract forms representing interaction.\n\nStructure the prompt into 2-4 sentences. Make it cohesive and painting a clear mental picture.\n\nDraft:\n- Start by setting the scene with the theme.\n- Incorporate the art style and mood.\n- Describe lighting and color palette.\n- Add specific visual elements that relate to social media and human connection.\n\nEnsure it's visually stunning and award-winning, so use evocative language.\n\nFinal prompt must be only the prompt text.\n\nLet me write a draft:\n\n\"In an abstract expressionist style, depict the intense drama of social",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 1488436151,
+      "created_at": "2026-03-16T13:47:50.488455+08:00"
+    },
+    {
       "id": "20260316_132932",
       "filename": "images/artwork_20260316_132932.jpg",
       "topic": "ocean conservation and marine life",
