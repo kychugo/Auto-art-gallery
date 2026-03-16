@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260316_130357",
+      "filename": "images/artwork_20260316_130357.jpg",
+      "topic": "news headlines of tomorrow",
+      "prompt": "In a dark, dystopian future, an anime-inspired cityscape is illuminated by the eerie, bioluminescent glow of holographic advertisements flickering between news headlines about societal collapse. The scene is rendered in a stunning, holographic iridescent color palette, with deep shadows and sharp, neon-lit structures that convey a mood of oppressive unease. Floating digital screens display fragmented, apocalyptic news tickers, casting a cold, ethereal light on the rain-slicked streets below where lone figures navigate the desolate urban landscape.",
+      "text_model": "gemini-search",
+      "image_model": "imagen-4",
+      "seed": 1963780585,
+      "created_at": "2026-03-16T13:03:57.837687+08:00"
+    },
+    {
       "id": "20260316_124446",
       "filename": "images/artwork_20260316_124446.jpg",
       "topic": "social media culture and human connection",
