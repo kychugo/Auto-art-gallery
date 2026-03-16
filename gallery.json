@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260316_132305",
+      "filename": "images/artwork_20260316_132305.jpg",
+      "topic": "renewable energy and sustainable living",
+      "prompt": "Concept art illustration of a whimsical, dreamlike cityscape where towering bioluminescent flora intertwines with sleek, sustainable architecture, all bathed in the vibrant crimson and deep red glow of a futuristic neon city. Wisps of ethereal mist drift through the streets, reflecting the neon signs that pulse with soft, inviting light, creating an atmosphere of serene, technologically advanced harmony. This award-winning scene captures the essence of sustainable living in a visually stunning, highly detailed, and imaginative future.",
+      "text_model": "gemini-search",
+      "image_model": "flux-2-dev",
+      "seed": 24172396,
+      "created_at": "2026-03-16T13:23:05.584079+08:00"
+    },
+    {
       "id": "20260316_130357",
       "filename": "images/artwork_20260316_130357.jpg",
       "topic": "news headlines of tomorrow",
