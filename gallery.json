@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260316_102641",
+      "filename": "images/artwork_20260316_102641.jpg",
+      "topic": "mental health awareness in the digital age",
+      "prompt": "In a dappled forest glade bathed in **dappled forest light** filtering through ancient canopy leaves, a young woman sits intimately cross-legged on mossy earth, her face half-shadowed by a holographic smartphone screen projecting swirling digital anxiety tendrils—tangled neural networks and glowing notification storms—merging with earthy roots symbolizing mental health struggles in the digital age, her gentle expression radiating resilient hope and human vulnerability. Rendered in stunning **concept art** style with hyper-detailed textures on bark, foliage, and ethereal pixels, the scene employs an **earth tones and terracotta** palette of warm ochres, deep siennas, soft greens, and sunset rusts to evoke an **intimate and human** mood of quiet awakening and connection. Award-winning composition with cinematic depth of field, intricate light rays piercing mist, and subtle symbolic elements like blooming wildflowers amid circuit-like vines for profound visual impact.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 514327164,
+      "created_at": "2026-03-16T10:26:41.411549+08:00"
+    },
+    {
       "id": "20260316_074818",
       "filename": "images/artwork_20260316_074818.jpg",
       "topic": "virtual reality and the metaverse",
