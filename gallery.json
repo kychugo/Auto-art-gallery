@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260316_124446",
+      "filename": "images/artwork_20260316_124446.jpg",
+      "topic": "social media culture and human connection",
+      "prompt": "First, the user wants me to create an image generation prompt. I must respond with ONLY the prompt itself—no explanations, no titles, no markdown. The response must be exclusively in English.\n\nThe prompt needs to be about \"social media culture and human connection.\" I have to incorporate specific elements naturally:\n\n- Art style: cyberpunk\n\n- Mood: powerful and monumental\n\n- Lighting: arctic aurora borealis\n\n- Color palette: emerald and deep forest green\n\nThe prompt should be 2-4 sentences long, visually stunning, award-winning, and highly detailed. It should paint a clear mental picture.\n\nI need to blend social media culture and human connection into a cyberpunk setting. Cyberpunk often involves futuristic, high-tech elements with a gritty or neon-lit aesthetic. Here, the lighting is arctic aurora borealis, which suggests natural, swirling lights in the sky, often associated with cold, remote places. The color palette is emerald and deep forest green, so greens should dominate.\n\nMood: powerful and monumental. This implies something grand, impressive, and awe-inspiring.\n\nSocial media culture: think of digital interfaces, screens, data streams, avatars, or networks. Human connection: perhaps people interacting, but in a tech-saturated world.\n\nI should create a scene that shows both the technological aspect of social media and the underlying human emotions. In cyberpunk, this might be depicted as humans connected through digital means in a vast, imposing environment.\n\nLet's draft the prompt step by step:\n\n1. Start with the setting: a cyberpunk cityscape or interior that incorporates social media elements.\n\n2. Incorporate the lighting: arctic aurora borealis. This could be in the sky, reflecting off surfaces, or integrated into the architecture.\n\n3. Use the color palette: emerald and deep forest green. So, greens should be prominent, perhaps in the lights, structures, or clothing.\n\n4. Mood: powerful and monumental. So,",
+      "text_model": "deepseek",
+      "image_model": "flux-2-dev",
+      "seed": 1983531070,
+      "created_at": "2026-03-16T12:44:46.204908+08:00"
+    },
+    {
       "id": "20260316_121732",
       "filename": "images/artwork_20260316_121732.jpg",
       "topic": "urban architecture of the future",
