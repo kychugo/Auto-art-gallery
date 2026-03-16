@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260316_163621",
+      "filename": "images/artwork_20260316_163621.jpg",
+      "topic": "global climate crisis and environmental solutions",
+      "prompt": "In the style of a grand baroque masterpiece, a solitary elderly woman with deeply etched lines of wisdom and concern gazes out a leaded glass window, her face softly illuminated by an intimate moonlight that casts long, dramatic shadows across a room filled with intricate, hand-carved wooden models of wind turbines and solar farms, rendered in a warm, glowing amber and orange color palette, evoking a profound sense of hope and quiet determination amidst the encroaching darkness of the global climate crisis.",
+      "text_model": "gemini-fast",
+      "image_model": "klein",
+      "seed": 1444166558,
+      "created_at": "2026-03-16T16:36:21.679787+08:00"
+    },
+    {
       "id": "20260316_160804",
       "filename": "images/artwork_20260316_160804.jpg",
       "topic": "news headlines of tomorrow",
