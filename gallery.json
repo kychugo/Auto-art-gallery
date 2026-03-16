@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260316_145407",
+      "filename": "images/artwork_20260316_145407.jpg",
+      "topic": "artificial intelligence reshaping society",
+      "prompt": "In a serene, dreamlike Baroque cityscape, AI constructs elegant, flowing bridges of light between towering, ornate structures, symbolizing interconnectedness and progress. Golden hour sunlight bathes the scene in a warm, ethereal glow, casting long, soft shadows that emphasize the grandeur of the architecture. Vibrant neon colors—electric blues, fuchsias, and emerald greens—pulsate through digital streams and illuminated pathways, highlighting the harmonious integration of technology into society. The mood is peaceful and awe-inspiring, capturing a future where artificial intelligence fosters serenity and elevates human experience.",
+      "text_model": "gemini-search",
+      "image_model": "gptimage",
+      "seed": 312146076,
+      "created_at": "2026-03-16T14:54:07.588225+08:00"
+    },
+    {
       "id": "20260316_141716",
       "filename": "images/artwork_20260316_141716.jpg",
       "topic": "ocean conservation and marine life",
