@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260317_055024",
+      "filename": "images/artwork_20260317_055024.jpg",
+      "topic": "news headlines of tomorrow",
+      "prompt": "A pop art-style image depicting fragmented news headlines that appear like shifting, glowing hieroglyphs suspended in a deep, ethereal emerald and forest green void, bathed in ethereal moonlight that casts sharp, elongated shadows. The composition should evoke a sense of mystery and wonder, with each fragment of text hinting at future events without revealing them, creating an award-winning, visually stunning masterpiece.",
+      "text_model": "gemini-search",
+      "image_model": "klein",
+      "seed": 904783292,
+      "created_at": "2026-03-17T05:50:24.170641+08:00"
+    },
+    {
       "id": "20260317_050749",
       "filename": "images/artwork_20260317_050749.jpg",
       "topic": "animals and nature conservation",
