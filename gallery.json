@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260316_233944",
+      "filename": "images/artwork_20260316_233944.jpg",
+      "topic": "urban architecture of the future",
+      "prompt": "A surrealist cityscape of futuristic architecture rises from misty black streets, where impossibly tall skyscrapers twist and morph into organic shapes, their golden surfaces rippling with bioluminescent patterns as if alive, while delicate figures of people walk through intimate alleyways barely visible beneath the magnificent structures, all illuminated by an extraordinary arctic aurora borealis that cascades in ribbons of electric green, soft violet and brilliant cyan across the night sky, the aurora's ethereal light reflecting intensely off the high contrast black stone and gleaming gold architecture below, creating a dreamlike scene where advanced technology and raw natural beauty merge into a breathtaking vision of tomorrow's intimate, human-scaled world within a fantastical metropolis.",
+      "text_model": "minimax",
+      "image_model": "imagen-4",
+      "seed": 1881936750,
+      "created_at": "2026-03-16T23:39:44.062795+08:00"
+    },
+    {
       "id": "20260316_230344",
       "filename": "images/artwork_20260316_230344.jpg",
       "topic": "urban architecture of the future",
