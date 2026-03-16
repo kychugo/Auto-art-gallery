@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260316_132932",
+      "filename": "images/artwork_20260316_132932.jpg",
+      "topic": "ocean conservation and marine life",
+      "prompt": "An abstract expressionist seascape where swirling, ethereal currents of warm amber and deep orange tones evoke the mysterious depths of the ocean, hinting at hidden marine life within the vibrant, energetic strokes. The lighting mimics a soft candlelight ambiance, casting a warm, inviting glow that paradoxically enhances the sense of mystery and the ethereal beauty of underwater ecosystems. This award-winning vision should feel deeply emotional, capturing the precious fragility and majestic allure of the ocean's conservation.",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 544186388,
+      "created_at": "2026-03-16T13:29:32.271656+08:00"
+    },
+    {
       "id": "20260316_132305",
       "filename": "images/artwork_20260316_132305.jpg",
       "topic": "renewable energy and sustainable living",
