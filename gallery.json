@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260317_074829",
+      "filename": "images/artwork_20260317_074829.jpg",
+      "topic": "animals and nature conservation",
+      "prompt": "Cyberpunk jungle canopy where bioluminescent flora pulses with neon city glow, illuminating a majestic, augmented Bengal tiger with gold cybernetic enhancements, its eyes reflecting the dramatic, intense urban sprawl of a dystopian metropolis, all rendered in a high-contrast black and gold palette with hyperrealistic detail and a cinematic, award-winning quality.",
+      "text_model": "gemini-fast",
+      "image_model": "gptimage",
+      "seed": 421607564,
+      "created_at": "2026-03-17T07:48:29.888823+08:00"
+    },
+    {
       "id": "20260317_072757",
       "filename": "images/artwork_20260317_072757.jpg",
       "topic": "ocean conservation and marine life",
