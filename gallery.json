@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260316_164247",
+      "filename": "images/artwork_20260316_164247.jpg",
+      "topic": "sports and human physical achievement",
+      "prompt": "First, the user asks me to create an image generation prompt. I must respond with ONLY the prompt itself—no explanations, no titles, no markdown. It has to be in English only.\n\nThe topic is \"sports and human physical achievement.\" I need to incorporate specific elements:\n\n- Art style: impressionist\n\n- Mood: dark and dystopian\n\n- Lighting: stormy overcast light\n\n- Color palette: vibrant neon colors\n\nThe prompt should be 2-4 sentences long, visually stunning, award-winning, and highly detailed. It should paint a clear mental picture.\n\nI need to blend these elements naturally. Impressionist art style often involves brushstrokes that capture light and movement. Dark and dystopian mood suggests a grim, futuristic, or oppressive setting. Stormy overcast light implies cloudy, dim lighting with potential rain or storms. Vibrant neon colors add pops of bright, electric hues against a darker backdrop.\n\nSince it's about sports and human physical achievement, I should depict athletes or physical feats in a dystopian context. Perhaps in a ruined city or under harsh conditions, with neon accents highlighting the struggle or effort.\n\nCraft the prompt in 2-4 sentences. Make it descriptive and vivid.\n\nBrainstorm a scene: Athletes in a post-apocalyptic setting, using impressionist techniques to show movement and emotion. Stormy skies with neon lights reflecting off wet surfaces. Emphasize physical exertion against a bleak backdrop.\n\nStructure the prompt:\n\n1. Set the scene with the mood and lighting.\n\n2. Describe the subjects and their actions, incorporating the art style.\n\n3. Mention the color palette and details to enhance visual appeal.\n\nEnsure it's concise and within 2-4 sentences.\n\nFinal prompt example: In a dystopian cityscape under stormy overcast skies, impressionist brushstrokes capture the relentless struggle of athletes pushing their limits, their forms blurred with motion against crumbling structures. Vibrant neon colors—electric blues, hot p",
+      "text_model": "deepseek",
+      "image_model": "grok-imagine",
+      "seed": 1361183205,
+      "created_at": "2026-03-16T16:42:47.875689+08:00"
+    },
+    {
       "id": "20260316_163621",
       "filename": "images/artwork_20260316_163621.jpg",
       "topic": "global climate crisis and environmental solutions",
