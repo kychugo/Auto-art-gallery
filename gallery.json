@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260317_223756",
+      "filename": "images/artwork_20260317_223756.jpg",
+      "topic": "human migration and global nomadism",
+      "prompt": "In the abstract expressionist style of Mark Rothko and Clyfford Still, vast monumental canvases bathed in soft diffused daylight evoke peaceful human migration and global nomadism through serene, flowing veils of cool blues and purples that blend into expansive, all-over fields of color. Spontaneous, lyrical brushstrokes and drips suggest ethereal wanderers—ethereal silhouettes dissolving into rhythmic waves of motion across undifferentiated space, symbolizing harmonious journeys unbound by borders. Subtle color fields rupture into meditative zips of deeper indigo and lavender, creating a visually stunning, award-winning composition that immerses the viewer in tranquil nomadism, with implied movement drawing the eye endlessly in contemplative serenity.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 1603291204,
+      "created_at": "2026-03-17T22:37:56.542769+08:00"
+    },
+    {
       "id": "20260317_221930",
       "filename": "images/artwork_20260317_221930.jpg",
       "topic": "space exploration and the cosmos",
