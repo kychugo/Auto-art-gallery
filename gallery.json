@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260317_122944",
+      "filename": "images/artwork_20260317_122944.jpg",
+      "topic": "quantum computing and the future",
+      "prompt": "A monumental oil painting depicting a vast quantum processor cathedral emerging from luminous clouds of pastel lavender and soft rose, where countless glowing particles dance in intricate spirals of teal and cream, powerful beams of diffused daylight streaming through stained-glass quantum equations etched in the sky, futuristic beings observing the infinite possibility matrix with awe and reverence, the entire scene rendered in breathtaking photorealistic detail with rich impasto textures, soft ethereal lighting bathing the digital landscape in transcendent warmth.",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 1660539116,
+      "created_at": "2026-03-17T12:29:44.597458+08:00"
+    },
+    {
       "id": "20260317_122323",
       "filename": "images/artwork_20260317_122323.jpg",
       "topic": "ocean conservation and marine life",
