@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260317_134253",
+      "filename": "images/artwork_20260317_134253.jpg",
+      "topic": "human migration and global nomadism",
+      "prompt": "A vast caravan of nomadic travelers journeys across dramatic terrain under turbulent stormy skies, their colorful clothing and supplies creating flowing rivers of movement through crimson-tinted mist, captured in the dynamic brushstrokes of oil painting with deep reds bleeding across the horizon while lightning illuminates their determined faces in the overcast glow, conveying vibrant energy and the ancient rhythm of migration across borders and generations.",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 1470237738,
+      "created_at": "2026-03-17T13:42:53.820327+08:00"
+    },
+    {
       "id": "20260317_132015",
       "filename": "images/artwork_20260317_132015.jpg",
       "topic": "music and the evolution of sound",
