@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260317_221930",
+      "filename": "images/artwork_20260317_221930.jpg",
+      "topic": "space exploration and the cosmos",
+      "prompt": "An impressionist depiction of a lone astronaut, bathed in the ethereal glow of an arctic aurora borealis, gazing into the vibrant, neon-drenched vastness of the cosmos. The scene should evoke a profound sense of intimate human connection with the infinite universe, with swirling nebulae and distant galaxies rendered in bold, electric hues of magenta, cyan, and lime green against a deep, star-studded indigo sky. Visible, energetic brushstrokes should convey the raw emotion and transient beauty of the moment, with soft, diffused light casting long, otherworldly shadows.",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 1554772603,
+      "created_at": "2026-03-17T22:19:30.029995+08:00"
+    },
+    {
       "id": "20260317_215449",
       "filename": "images/artwork_20260317_215449.jpg",
       "topic": "animals and nature conservation",
