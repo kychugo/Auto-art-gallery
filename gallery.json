@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260318_062138",
+      "filename": "images/artwork_20260318_062138.jpg",
+      "topic": "blockchain and decentralized future",
+      "prompt": "A sprawling digital metropolis rises beneath a luminous full moon, where crystalline blockchain nodes pulse with holographic iridescent light in neon cyan, magenta, and violet, casting ethereal glows across floating geometric platforms connected by glowing data streams, while silhouetted figures gather in hopeful unity beneath the shimmering decentralized network, concept art style with dramatic moonlight and deep shadows creating stunning contrast against the futuristic utopian cityscape.",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 529154469,
+      "created_at": "2026-03-18T06:21:38.473185+08:00"
+    },
+    {
       "id": "20260318_060326",
       "filename": "images/artwork_20260318_060326.jpg",
       "topic": "news headlines of tomorrow",
