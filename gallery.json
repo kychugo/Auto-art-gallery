@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260317_233811",
+      "filename": "images/artwork_20260317_233811.jpg",
+      "topic": "revolution in education through technology",
+      "prompt": "A massive floating ancient book transforms into a luminous holographic orb, its pages unfolding into cascading streams of light that morph into abstract geometric symbols and glowing digital circuits, captured in ethereal watercolor with deep emerald and forest green hues bleeding through translucent layers, while dramatic studio lighting from above creates mysterious shadows and luminous highlights that seem to suspend the magical transformation in midair, symbolizing the revolutionary fusion of timeless knowledge and modern technology.",
+      "text_model": "minimax",
+      "image_model": "klein",
+      "seed": 1007412045,
+      "created_at": "2026-03-17T23:38:11.121406+08:00"
+    },
+    {
       "id": "20260317_225946",
       "filename": "images/artwork_20260317_225946.jpg",
       "topic": "traditional vs modern culture clash in Asia",
