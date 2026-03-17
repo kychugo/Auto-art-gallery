@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260317_100551",
+      "filename": "images/artwork_20260317_100551.jpg",
+      "topic": "fashion meets technology",
+      "prompt": "In a surrealist masterpiece, a towering female figure strides monumentally through a neon-lit cyberpunk metropolis at night, her elongated body fused with biomechanical fashion: a sleek black exoskeleton dress morphing into circuit-veined ribs and holographic data streams cascading from thorn-like shoulder pads, evoking Schiaparelli's skeleton gown twisted with futuristic armor. The monochromatic black and white palette amplifies the powerful mood, with stark high-contrast glows from towering skyscrapers' flickering neon grids casting ethereal volumetric light that carves dramatic shadows across her poised, otherworldly form and floating, vein-mapped gloves teasing optical illusions of exposed wiring beneath illusory skin. Hyper-detailed textures reveal intricate filigree circuits pulsing faintly against matte obsidian fabrics, composing an award-winning vision of fashion's triumphant fusion with technology.",
+      "text_model": "perplexity-fast",
+      "image_model": "imagen-4",
+      "seed": 1132494042,
+      "created_at": "2026-03-17T10:05:51.184806+08:00"
+    },
+    {
       "id": "20260317_074829",
       "filename": "images/artwork_20260317_074829.jpg",
       "topic": "animals and nature conservation",
