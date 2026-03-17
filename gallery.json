@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260317_115601",
+      "filename": "images/artwork_20260317_115601.jpg",
+      "topic": "news headlines of tomorrow",
+      "prompt": "In a dark, rain-slicked alleyway, holographic news tickers flicker with indecipherable headlines, casting an eerie, flickering candlelight ambiance onto the grimy, cyberpunk cityscape. Gleaming, iridescent data streams flow like spectral rivers between towering, decaying skyscrapers, reflecting the oppressive mood of a future teetering on the brink. The scene is rendered with hyper-detailed textures and a dramatic chiaroscuro effect, creating a visually stunning and award-winning dystopian masterpiece.",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 308179074,
+      "created_at": "2026-03-17T11:56:01.560120+08:00"
+    },
+    {
       "id": "20260317_113520",
       "filename": "images/artwork_20260317_113520.jpg",
       "topic": "news headlines of tomorrow",
