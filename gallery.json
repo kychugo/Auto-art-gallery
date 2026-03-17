@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260317_194437",
+      "filename": "images/artwork_20260317_194437.jpg",
+      "topic": "space exploration and the cosmos",
+      "prompt": "A serene cyberpunk vista of a lone astronaut floating peacefully through the vast cosmos, gently exploring the intricate hull of an Arasaka research space station orbiting a distant terracotta-hued planet, with holographic nebulae and retro-futuristic thrusters emitting soft glows amid scattered asteroid fields. The scene is bathed in warm candlelight ambiance from bioluminescent panels and flickering neon runes, casting tranquil shadows over earthy tones of burnt sienna, ochre, and deep rust reds that dominate the starfield and metallic surfaces. Rendered in hyper-detailed cyberpunk art style with gritty linework, subtle digital glitches, and atmospheric depth, evoking an award-winning masterpiece of introspective space discovery.",
+      "text_model": "perplexity-fast",
+      "image_model": "imagen-4",
+      "seed": 1467455991,
+      "created_at": "2026-03-17T19:44:37.185121+08:00"
+    },
+    {
       "id": "20260317_191158",
       "filename": "images/artwork_20260317_191158.jpg",
       "topic": "health and medicine breakthroughs",
