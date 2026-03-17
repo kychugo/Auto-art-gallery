@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260317_215449",
+      "filename": "images/artwork_20260317_215449.jpg",
+      "topic": "animals and nature conservation",
+      "prompt": "A majestic elephant stands in a reclaimed urban jungle where nature has consumed a crumbling metropolis, its weathered form rendered in soft watercolor washes of dusty rose, sage green, and muted lavender against decaying skyscrapers wrapped in vines and glowing with neon pink and cyan city lights bleeding through the darkness. Around the elephant, endangered species—wolves, tigers, and birds—emerge from ruins and overgrown vegetation, their forms delicately painted in translucent watercolor strokes that blend into the desolate landscape, while neon signage from abandoned buildings casts an ethereal glow across the scene in shades of electric blue and soft amber. The entire composition captures a haunting balance between environmental devastation and the resilience of wildlife reclaiming human territory, with atmospheric perspective created by layered watercolor glazes that fade from sharp detail in the foreground to dreamlike abstraction in the background. Award-winning editorial illustration style with cinematic lighting, emphasizing both the fragility and strength of nature in a post-industrial world.",
+      "text_model": "perplexity-fast",
+      "image_model": "imagen-4",
+      "seed": 2131529905,
+      "created_at": "2026-03-17T21:54:50.002706+08:00"
+    },
+    {
       "id": "20260317_211100",
       "filename": "images/artwork_20260317_211100.jpg",
       "topic": "economic inequality and social justice",
