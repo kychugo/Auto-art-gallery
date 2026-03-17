@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260317_225946",
+      "filename": "images/artwork_20260317_225946.jpg",
+      "topic": "traditional vs modern culture clash in Asia",
+      "prompt": "A vibrant concept art scene of a bustling futuristic Tokyo street at night where **traditional Asian culture clashes with modernity**, elderly Confucian scholars in flowing silk hanfu robes and ornate jade hairpins perform ancient tea ceremonies under glowing red lanterns, while sleek holographic billboards flicker above them advertising AI companions and neon-lit K-pop idols dance with cybernetic enhancements amid flying drones and self-driving pods, their forms entangled in a dynamic fusion of reverence and rebellion.[1][2] Bioluminescent glows from cherry blossom vines intertwined with fiber-optic circuits illuminate stern-faced sumo wrestlers arm-wrestling holographic salarymen in tailored suits, as street vendors hawk tanghulu alongside quantum smartphones, all rendered in a **holographic iridescent color palette** of shifting neon pinks, electric blues, pearlescent golds, and spectral greens pulsing with **energetic vibrancy**. Highly detailed award-winning composition with intricate textures on embroidered fabrics contrasting glassy chrome surfaces, dramatic depth of field, and a sense of exhilarating cultural collision.[3][4]",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 1749198853,
+      "created_at": "2026-03-17T22:59:46.345749+08:00"
+    },
+    {
       "id": "20260317_223756",
       "filename": "images/artwork_20260317_223756.jpg",
       "topic": "human migration and global nomadism",
