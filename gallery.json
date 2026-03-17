@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260317_130950",
+      "filename": "images/artwork_20260317_130950.jpg",
+      "topic": "traditional vs modern culture clash in Asia",
+      "prompt": "A vibrant pop art scene depicting a serene Asian cityscape where ancient pagodas and cherry blossom trees are silhouetted against a futuristic metropolis skyline, bathed in the soft, ethereal glow of candlelight ambiance. The color palette is dominated by cool, deep blues and mystical purples, creating a peaceful and contemplative mood, with subtle splashes of neon reflecting off rain-slicked streets. Intricate details showcase the juxtaposition of traditional cultural symbols, like dragons and lotus flowers, seamlessly integrated with modern elements such as holographic advertisements and sleek, flying vehicles.",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 1172864142,
+      "created_at": "2026-03-17T13:09:50.267057+08:00"
+    },
+    {
       "id": "20260317_125750",
       "filename": "images/artwork_20260317_125750.jpg",
       "topic": "music and the evolution of sound",
