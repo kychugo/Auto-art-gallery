@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260318_060326",
+      "filename": "images/artwork_20260318_060326.jpg",
+      "topic": "news headlines of tomorrow",
+      "prompt": "A surrealist newspaper melts and morphs into floating geometric shapes and impossible architecture under dramatic candlelight, casting theatrical shadows across the page where tomorrow's headlines materialize as glowing three-dimensional words that defy gravity and logic, all rendered in striking monochromatic black and white with intense contrasts that capture a vibrant, energetic atmosphere of time collapsing upon itself.",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 2039810005,
+      "created_at": "2026-03-18T06:03:26.040868+08:00"
+    },
+    {
       "id": "20260318_054837",
       "filename": "images/artwork_20260318_054837.jpg",
       "topic": "animals and nature conservation",
