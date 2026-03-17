@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260317_155355",
+      "filename": "images/artwork_20260317_155355.jpg",
+      "topic": "renewable energy and sustainable living",
+      "prompt": "First, the user asks for an image generation prompt about renewable energy and sustainable living. I need to incorporate specific elements naturally: cyberpunk art style, mysterious and ethereal mood, candlelight ambiance lighting, and high contrast black and gold color palette.\n\nThe prompt should be visually stunning, award-winning, and highly detailed. It must be 2-4 sentences long and written only in English. I can only respond with the prompt itself, no explanations or extra text.\n\nKey elements to blend:\n- Renewable energy and sustainable living: Think about things like solar panels, wind turbines, green buildings, eco-friendly tech, etc.\n- Cyberpunk art style: This often involves futuristic, high-tech elements with a gritty, urban feel. It might include neon lights, advanced machinery, and a blend of technology and decay.\n- Mysterious and ethereal mood: This suggests something dreamlike, vague, or otherworldly, with a sense of wonder or secrecy.\n- Candlelight ambiance lighting: Soft, warm, flickering light from candles, which contrasts with typical cyberpunk neon but can add to the mysterious feel.\n- High contrast black and gold color palette: Dominated by blacks and golds, with sharp contrasts, making things pop.\n\nI need to weave these into a coherent image. Let's brainstorm a scene: Perhaps a futuristic sustainable city where renewable energy is integrated, but seen through a cyberpunk lens. Instead of bright neon, the lighting is candlelight, adding mystery. The colors are black and gold, giving it a luxurious yet dark feel.\n\nStructure the prompt:\n- Start with the setting: Describe a scene that combines renewable energy and sustainable living.\n- Incorporate cyberpunk elements: Mention futuristic tech or architecture.\n- Set the mood and lighting: Use words like \"mysterious,\" \"ethereal,\" and \"candlelight ambiance.\"\n- Specify the color palette: High contrast black and gold.\n- Ensure it's detailed and vivid: Add specific visual elements like",
+      "text_model": "deepseek",
+      "image_model": "gptimage",
+      "seed": 1445168602,
+      "created_at": "2026-03-17T15:53:56.017041+08:00"
+    },
+    {
       "id": "20260317_153547",
       "filename": "images/artwork_20260317_153547.jpg",
       "topic": "cybersecurity and privacy in the digital world",
