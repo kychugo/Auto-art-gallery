@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260317_211100",
+      "filename": "images/artwork_20260317_211100.jpg",
+      "topic": "economic inequality and social justice",
+      "prompt": "First, the user asks for an image generation prompt about economic inequality and social justice. I need to incorporate specific elements: art style (oil painting), mood (intimate and human), lighting (arctic aurora borealis), and color palette (crimson and deep red). The prompt should be 2-4 sentences long, visually stunning, award-winning, and highly detailed. I must respond with ONLY the prompt in English, no explanations.\n\nI need to weave the theme of economic inequality and social justice into the visual description. Since the mood is intimate and human, I should focus on human elements, perhaps showing contrast between wealth and poverty. The lighting is arctic aurora borealis, which is typically green and blue, but the color palette is crimson and deep red. I need to blend these – maybe the aurora borealis is reflected or reinterpreted in red tones.\n\nArctic aurora borealis usually has vibrant colors like green, purple, and blue. But the color palette specified is crimson and deep red. So, I should describe the lighting as having the ethereal quality of the aurora borealis but in red hues. For example, \"a crimson aurora borealis\" or \"lighting reminiscent of the arctic aurora borealis, but in shades of crimson.\"\n\nArt style: oil painting. So, I should mention that it's an oil painting to give that textured, classic feel.\n\nMood: intimate and human. This suggests focusing on personal, emotional scenes, perhaps close-ups of people or intimate settings that highlight social issues.\n\nVisual elements: I need to include details that depict economic inequality and social justice. For instance, contrasts between opulence and deprivation, or symbols of justice like scales or protests.\n\nStructure the prompt: 2-4 sentences. Make it cohesive and flow naturally.\n\nStart by setting the scene: Describe a scene that shows economic disparity. Then, incorporate the lighting and color palette. Finally, emphasize the art style and mood",
+      "text_model": "deepseek",
+      "image_model": "imagen-4",
+      "seed": 2012231721,
+      "created_at": "2026-03-17T21:11:00.855725+08:00"
+    },
+    {
       "id": "20260317_200013",
       "filename": "images/artwork_20260317_200013.jpg",
       "topic": "artificial intelligence reshaping society",
