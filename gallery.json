@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260317_172835",
+      "filename": "images/artwork_20260317_172835.jpg",
+      "topic": "future of human civilization and technology",
+      "prompt": "Cinematic, monochromatic black and white, with a melancholic and reflective mood, a lone figure stands on a windswept, desolate plain dotted with the colossal, decaying skeletons of ancient orbital elevators, their rusted lattice-work reaching into a stormy overcast sky that casts long, dramatic shadows. The scene is illuminated by a diffused, harsh light, highlighting the texture of the ruined mega-structures and the solitary human silhouette, evoking a profound sense of lost grandeur and quiet contemplation of a technologically advanced, yet forgotten, past.",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 1535262879,
+      "created_at": "2026-03-17T17:28:35.655260+08:00"
+    },
+    {
       "id": "20260317_163713",
       "filename": "images/artwork_20260317_163713.jpg",
       "topic": "cultural diversity and global harmony",
