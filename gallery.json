@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260317_200013",
+      "filename": "images/artwork_20260317_200013.jpg",
+      "topic": "artificial intelligence reshaping society",
+      "prompt": "A solitary, translucent robotic hand gently cradles a crumbling ancient monument, illuminated by the ethereal glow of golden hour sunlight. The scene unfolds in a vast, desolate cityscape rendered in soft pastel hues of lavender, rose, and pale gold, with wisps of digital mist swirling around it, evoking a surrealist, melancholic, and deeply reflective mood. Intricate, almost imperceptible data streams flow like veins across the robotic fingers and the weathered stone, suggesting the silent, profound transformation of human civilization under the unseen influence of artificial intelligence.",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 1713273794,
+      "created_at": "2026-03-17T20:00:13.353883+08:00"
+    },
+    {
       "id": "20260317_194437",
       "filename": "images/artwork_20260317_194437.jpg",
       "topic": "space exploration and the cosmos",
