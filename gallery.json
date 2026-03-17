@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260317_145030",
+      "filename": "images/artwork_20260317_145030.jpg",
+      "topic": "cultural diversity and global harmony",
+      "prompt": "A monumental watercolor painting capturing people of diverse ethnicities, backgrounds, and traditions joining hands in a circle around Earth, rendered in sweeping translucent washes with wet-on-wet blending and bold brushstrokes that celebrate unity, while golden hour sunlight bathes the scene in warm amber and honey tones that interweave with vibrant neon pinks, electric blues, glowing magentas, and luminous greens radiating from cultural symbols, clothing patterns, and flowing fabrics creating a powerful sense of global harmony where traditional garments like saris, dashikis, kimonos, and ponchos merge in a kaleidoscopic tapestry against a twilight sky transitioning from goldenorange to deep purple, with dramatic light rays piercing through the composition casting ethereal glows on skin tones and creating stunning reflections on the spherical Earth at the center.",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 1451198390,
+      "created_at": "2026-03-17T14:50:30.242886+08:00"
+    },
+    {
       "id": "20260317_144029",
       "filename": "images/artwork_20260317_144029.jpg",
       "topic": "biotechnology and genetic engineering",
