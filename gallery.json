@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260317_125750",
+      "filename": "images/artwork_20260317_125750.jpg",
+      "topic": "music and the evolution of sound",
+      "prompt": "A solitary figure sits in a candlelit chamber, holding a holographic violin that morphs between analog strings and digital light particles, surrounded by floating spectograms of sound waves from different eras blending together, while soft pastel pinks lavenders and mint greens illuminate the worn wooden walls and digital displays showing the evolution of musical instruments from acoustic to synthesized; cyberpunk Victorian aesthetics merge with ethereal glowing data streams creating an intimate human moment amidst technological transformation.",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 610961478,
+      "created_at": "2026-03-17T12:57:50.564504+08:00"
+    },
+    {
       "id": "20260317_122944",
       "filename": "images/artwork_20260317_122944.jpg",
       "topic": "quantum computing and the future",
