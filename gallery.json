@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260317_144029",
+      "filename": "images/artwork_20260317_144029.jpg",
+      "topic": "biotechnology and genetic engineering",
+      "prompt": "A serene digital art visualization of luminous double helix DNA strands woven through a vast, futuristic laboratory at golden hour, bathed in warm amber light streaming through floor-to-ceiling windows, where bioluminescent genes float like golden constellations against deep black void spaces, creating peaceful harmony between cutting-edge science and natural beauty in high contrast black and gold.",
+      "text_model": "minimax",
+      "image_model": "imagen-4",
+      "seed": 1950311006,
+      "created_at": "2026-03-17T14:40:29.675397+08:00"
+    },
+    {
       "id": "20260317_135542",
       "filename": "images/artwork_20260317_135542.jpg",
       "topic": "virtual reality and the metaverse",
