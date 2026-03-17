@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260317_174600",
+      "filename": "images/artwork_20260317_174600.jpg",
+      "topic": "mental health awareness in the digital age",
+      "prompt": "A solitary figure sits cross-legged atop a giant smartphone, their body partially dissolved into glowing moths and fragmented digital code, floating away into the dark void above while flickering candle flames from below cast warm amber shadows across their ethereal form, rendered in soft pastel blues, lavenders, and blush pinks in dreamlike surrealist style with drooping melting clocks and floating geometric shapes, melancholic and introspective mood.",
+      "text_model": "minimax",
+      "image_model": "klein",
+      "seed": 17118737,
+      "created_at": "2026-03-17T17:46:00.175310+08:00"
+    },
+    {
       "id": "20260317_172835",
       "filename": "images/artwork_20260317_172835.jpg",
       "topic": "future of human civilization and technology",
