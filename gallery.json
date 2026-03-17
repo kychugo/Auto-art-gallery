@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260317_153547",
+      "filename": "images/artwork_20260317_153547.jpg",
+      "topic": "cybersecurity and privacy in the digital world",
+      "prompt": "Concept art masterpiece, dramatic and intense, depicting a lone hacker figure silhouetted against a pulsating digital cityscape bathed in stark moonlight and deep, oppressive shadows. Vibrant neon blues, electric purples, and radioactive greens clash and bleed across intricate circuit board patterns and ethereal data streams, illustrating the high-stakes battle for cybersecurity and digital privacy. The atmosphere is thick with tension, with sharp, angular lines and a high level of detail emphasizing the complexity and danger of the modern digital frontier.",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 1410145140,
+      "created_at": "2026-03-17T15:35:47.934099+08:00"
+    },
+    {
       "id": "20260317_145030",
       "filename": "images/artwork_20260317_145030.jpg",
       "topic": "cultural diversity and global harmony",
