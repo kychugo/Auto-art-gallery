@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260318_050730",
+      "filename": "images/artwork_20260318_050730.jpg",
+      "topic": "quantum computing and the future",
+      "prompt": "A lone, silhouetted figure stands on a rain-slicked rooftop overlooking a sprawling metropolis bathed in the ethereal glow of neon signs, their reflections dancing on puddles below. This noir cityscape, rendered with whimsical, dreamlike flourishes, pulses with a cool blue and purple color palette, where intricate, luminescent quantum circuit pathways weave through skyscrapers like cosmic vines, hinting at a future where data flows as fluidly as dreams, all under a sky heavy with the promise of digital dawn.",
+      "text_model": "gemini-fast",
+      "image_model": "flux-2-dev",
+      "seed": 2136948705,
+      "created_at": "2026-03-18T05:07:30.934400+08:00"
+    },
+    {
       "id": "20260318_043134",
       "filename": "images/artwork_20260318_043134.jpg",
       "topic": "artificial intelligence reshaping society",
