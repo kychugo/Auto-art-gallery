@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260317_160612",
+      "filename": "images/artwork_20260317_160612.jpg",
+      "topic": "quantum computing and the future",
+      "prompt": "A surrealist landscape where glowing, ethereal quantum data streams intertwine with ancient, monolithic structures under a dramatic golden hour sky painted in soft pastel hues. Shimmering qubits float like celestial bodies amidst wisps of impossible geometry, casting long, dramatic shadows across a dreamlike terrain that suggests both immense power and fragile futures. The intense, warm sunlight pierces through pastel clouds, illuminating pathways of pure logic and data, creating a scene that is both awe-inspiring and deeply mysterious.",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 278419209,
+      "created_at": "2026-03-17T16:06:12.129094+08:00"
+    },
+    {
       "id": "20260317_155355",
       "filename": "images/artwork_20260317_155355.jpg",
       "topic": "renewable energy and sustainable living",
