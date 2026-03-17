@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260317_111716",
+      "filename": "images/artwork_20260317_111716.jpg",
+      "topic": "post-pandemic world transformation",
+      "prompt": "A whimsical dreamlike oil painting of a post-pandemic world transformation, where crumbling urban skyscrapers morph into lush, floating gardens intertwined with iridescent vines and holographic bridges connecting diverse communities in joyful reunion, people in flowing garments dance amidst levitating masks turning into butterflies under ethereal moonlight casting long, playful shadows across reborn public plazas filled with glowing sculptures and collaborative art installations. The holographic iridescent color palette shimmers with shifting pearlescent hues of teal, violet, rose gold, and emerald, evoking renewal and unity in a visually stunning, award-winning composition brimming with intricate details like dew-kissed petals refracting lunar light and ethereal figures exchanging stories around radiant communal fires.",
+      "text_model": "perplexity-fast",
+      "image_model": "imagen-4",
+      "seed": 1353685404,
+      "created_at": "2026-03-17T11:17:16.721740+08:00"
+    },
+    {
       "id": "20260317_100551",
       "filename": "images/artwork_20260317_100551.jpg",
       "topic": "fashion meets technology",
