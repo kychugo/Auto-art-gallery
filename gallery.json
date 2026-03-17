@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260318_065651",
+      "filename": "images/artwork_20260318_065651.jpg",
+      "topic": "cybersecurity and privacy in the digital world",
+      "prompt": "A solitary figure floats in a vast digital void, their transparent body filled with cascading holographic data streams that shift between cyan, magenta, and pearl-white iridescence, as floating locks and shields orbit around them in protective rings, rendered in ethereal watercolor techniques with soft diffusion edges contrasted by sharp dramatic studio light beams slicing through the darkness, creating an atmosphere of quiet mystery where privacy emerges as a glowing sanctuary against encroaching digital shadows.",
+      "text_model": "minimax",
+      "image_model": "flux-2-dev",
+      "seed": 1392076575,
+      "created_at": "2026-03-18T06:56:51.179801+08:00"
+    },
+    {
       "id": "20260318_062138",
       "filename": "images/artwork_20260318_062138.jpg",
       "topic": "blockchain and decentralized future",
