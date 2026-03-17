@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260317_182620",
+      "filename": "images/artwork_20260317_182620.jpg",
+      "topic": "biotechnology and genetic engineering",
+      "prompt": "In a sprawling megacity bathed in sickly emerald and deep forest green neon glow, massive bioengineered organisms spiral through the skeletal skyscrapers like living architecture, their bioluminescent veins pulsing with ancient and synthetic DNA merging into impossible new life forms. Massive greenhouse towers breach the smog-choked sky, their crystalline panels leaking toxic spores that drift through dystopian streets where genetically modified humans with glowing veins and modified organs wander like ghosts. Digital art style, hyper-detailed, cinematic lighting, dark dystopian atmosphere, award-winning concept art, volumetric fog, reflective wet surfaces, extreme detail.",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 631229695,
+      "created_at": "2026-03-17T18:26:20.107531+08:00"
+    },
+    {
       "id": "20260317_174600",
       "filename": "images/artwork_20260317_174600.jpg",
       "topic": "mental health awareness in the digital age",
