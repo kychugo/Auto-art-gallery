@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260318_043134",
+      "filename": "images/artwork_20260318_043134.jpg",
+      "topic": "artificial intelligence reshaping society",
+      "prompt": "In an impressionist style with visible, loose brushstrokes capturing fleeting moments of light and color, depict a serene futuristic cityscape where artificial intelligence gently reshapes society: ethereal holographic neural networks weave through peaceful parks and communal plazas, diverse people in relaxed poses interact harmoniously with glowing AI orbs and floating data streams, evoking a tranquil era of unity and enlightenment. Neon city glow bathes the scene in soft, diffused radiance from towering spires and hovering drones, while a **holographic iridescent** color palette of shifting pearlescent blues, violets, silvers, and rainbow sheens dances across wet paint layers, blending sky-reflected shadows and vibrant complementary hues without harsh contours. This award-winning, highly detailed vista radiates peaceful serenity, with open composition spilling beyond the frame to suggest infinite harmonious progress.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 1073415682,
+      "created_at": "2026-03-18T04:31:34.955899+08:00"
+    },
+    {
       "id": "20260318_000305",
       "filename": "images/artwork_20260318_000305.jpg",
       "topic": "animals and nature conservation",
