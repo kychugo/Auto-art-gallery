@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260317_113520",
+      "filename": "images/artwork_20260317_113520.jpg",
+      "topic": "news headlines of tomorrow",
+      "prompt": "A surreal newsstand floats through an ethereal dreamscape where giant watercolor headlines written in elegant script float weightlessly above empty streets, their black ink bleeding softly into cascading white ripples across the monochrome sky, soft diffused daylight casting gentle shadows that seem to whisper secrets of tomorrow while ethereal newspapers fold themselves into origami birds mid-flight, everything rendered in delicate layers of black and white watercolor with tender wet-on-wet blending and fine ink line details that capture the whimsy of time unfolding in impossible directions.",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 1786418467,
+      "created_at": "2026-03-17T11:35:20.519911+08:00"
+    },
+    {
       "id": "20260317_111716",
       "filename": "images/artwork_20260317_111716.jpg",
       "topic": "post-pandemic world transformation",
