@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260317_185402",
+      "filename": "images/artwork_20260317_185402.jpg",
+      "topic": "health and medicine breakthroughs",
+      "prompt": "A minimalist, dreamlike landscape where giant, smooth, earth-toned seed pods split open, revealing intricate, terracotta-colored neural networks unfurling like delicate roots under a moody, stormy overcast sky. Whimsical, ethereal wisps of light, akin to bioluminescence, emanate from the core of the breakthroughs, casting soft, diffused shadows across the muted terrain. The overall aesthetic evokes a sense of profound, quiet discovery, rendered with award-winning detail and a focus on organic forms against a subtly textured, barren backdrop.",
+      "text_model": "gemini-search",
+      "image_model": "gptimage",
+      "seed": 408624333,
+      "created_at": "2026-03-17T18:54:02.136415+08:00"
+    },
+    {
       "id": "20260317_182620",
       "filename": "images/artwork_20260317_182620.jpg",
       "topic": "biotechnology and genetic engineering",
