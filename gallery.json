@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260318_072837",
+      "filename": "images/artwork_20260318_072837.jpg",
+      "topic": "news headlines of tomorrow",
+      "prompt": "In an impressionist style with visible, loose brushstrokes and ethereal open composition, depict crumbling newspapers scattered across a shadowed antique wooden table, their bold headlines whispering cryptic prophecies of tomorrow—\"Quantum Veil Tears Open,\" \"Shadows Claim the Throne,\" \"Echoes from the Void Awaken\"—evoking a mysterious mood of impending revelation. Illuminate the scene with flickering candlelight ambiance casting dramatic chiaroscuro shadows and soft glows that dance across the textured paper, rendered in a stunning monochromatic black-and-white palette for haunting depth and subtlety. Highly detailed, award-winning masterpiece capturing fleeting light's impression on forgotten futures, alive with subtle movement and atmospheric energy.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 1302253619,
+      "created_at": "2026-03-18T07:28:37.773746+08:00"
+    },
+    {
       "id": "20260318_065651",
       "filename": "images/artwork_20260318_065651.jpg",
       "topic": "cybersecurity and privacy in the digital world",
