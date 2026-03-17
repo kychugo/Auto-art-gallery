@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260318_000305",
+      "filename": "images/artwork_20260318_000305.jpg",
+      "topic": "animals and nature conservation",
+      "prompt": "A lone red panda with subtle biomechanical implants rests peacefully on a gnarled, moss-covered branch in a cyberpunk rainforest sanctuary, under a stormy overcast sky. Monochromatic black and white tones dominate the scene, with rain-slicked neon vines casting a gentle, diffuse glow, highlighting intricate patterns of fur and synthetic fiber. Holographic projection rings subtly orbit the creature, displaying scrolling conservation data in a serene, almost sacred silence.",
+      "text_model": "deepseek",
+      "image_model": "grok-imagine",
+      "seed": 320451553,
+      "created_at": "2026-03-18T00:03:05.845634+08:00"
+    },
+    {
       "id": "20260317_233811",
       "filename": "images/artwork_20260317_233811.jpg",
       "topic": "revolution in education through technology",
