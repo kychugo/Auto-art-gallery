@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260318_100930",
+      "filename": "images/artwork_20260318_100930.jpg",
+      "topic": "artificial intelligence reshaping society",
+      "prompt": "A solitary humanoid figure sits at a minimalist wooden desk, bathed in warm candlelight while glowing neon cyan and magenta veins of light pulse through the shadows behind them, representing invisible AI networks silently weaving through daily life; the composition is stark and intimate yet vast, capturing the melancholic tension between human isolation and technological invisibility, with a dark background contrasting sharply against the flickering warm tones and electric neon accents.",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 151507182,
+      "created_at": "2026-03-18T10:09:30.776496+08:00"
+    },
+    {
       "id": "20260318_075151",
       "filename": "images/artwork_20260318_075151.jpg",
       "topic": "street food culture in Hong Kong",
