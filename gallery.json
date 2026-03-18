@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260318_112417",
+      "filename": "images/artwork_20260318_112417.jpg",
+      "topic": "Hong Kong protest art and resilience",
+      "prompt": "A surreal concept art tableau depicting Hong Kong's resilient spirit through cascading post-it notes and umbrella sculptures transforming into aurora borealis light, rendered in ethereal emerald and deep forest green tones that dance across an otherworldly sky. The scene blends whimsical, dreamlike imagery of protest banners floating through clouds like living organisms, street art murals seamlessly merging with natural landscapes, and delicate origami umbrellas catching rippling waves of arctic northern lights. Luminous, defiant figures emerge from the mist adorned with symbolic protest imagery—Lennon walls materializing as glowing tapestries, solidarity symbols radiating soft, ethereal light—all suspended in a timeless, magical realm where human creativity transcends physical space. Ultra-detailed, concept art style with award-winning composition, capturing the poignant beauty of collective expression and unbreakable hope through an enchanted, dreamlike visual narrative of emerald-hued artistic resistance.",
+      "text_model": "perplexity-fast",
+      "image_model": "gptimage",
+      "seed": 769062692,
+      "created_at": "2026-03-18T11:24:17.710232+08:00"
+    },
+    {
       "id": "20260318_100930",
       "filename": "images/artwork_20260318_100930.jpg",
       "topic": "artificial intelligence reshaping society",
