@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260318_144922",
+      "filename": "images/artwork_20260318_144922.jpg",
+      "topic": "music and the evolution of sound",
+      "prompt": "Concept art capturing the dramatic and intense evolution of sound, where ethereal waves of soft pastel hues spiral outwards from a central, glowing nexus of musical notation. This nexus, rendered with intricate detail, dissolves into abstract forms representing burgeoning sonic landscapes under soft, diffused daylight, evoking a sense of awe and powerful transformation in a visually stunning, award-winning composition.",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 1725889711,
+      "created_at": "2026-03-18T14:49:22.697467+08:00"
+    },
+    {
       "id": "20260318_144011",
       "filename": "images/artwork_20260318_144011.jpg",
       "topic": "biotechnology and genetic engineering",
