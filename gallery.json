@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260318_215706",
+      "filename": "images/artwork_20260318_215706.jpg",
+      "topic": "social media culture and human connection",
+      "prompt": "A group of diverse friends gathered on a city rooftop at golden hour, each person glowing with soft neon light emanating from their smartphones and tablets, their faces illuminated as they share stories and laughter together, captured in sweeping impressionist brushstrokes with bold strokes of coral, electric blue, magenta and lime green swirling around them in the warm amber sunlight, creating a mesmerizing dance of digital connection and genuine human intimacy that radiates hope and unity across the canvas.",
+      "text_model": "minimax",
+      "image_model": "klein",
+      "seed": 631087904,
+      "created_at": "2026-03-18T21:57:06.569078+08:00"
+    },
+    {
       "id": "20260318_211050",
       "filename": "images/artwork_20260318_211050.jpg",
       "topic": "renewable energy and sustainable living",
