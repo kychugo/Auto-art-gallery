@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260318_224538",
+      "filename": "images/artwork_20260318_224538.jpg",
+      "topic": "cultural diversity and global harmony",
+      "prompt": "First, the task is to create a single, detailed image generation prompt based on cultural diversity and global harmony. I must incorporate specific elements: art style (oil painting), mood (intimate and human), lighting (neon city glow), and color palette (warm amber and orange tones). The prompt should be 2-4 sentences long, visually stunning, award-winning, and highly detailed. I must respond with ONLY the prompt in English, no explanations or markdown.\n\nKey elements to include naturally:\n- Cultural diversity and global harmony: This should be the core theme. Think of scenes that show people from different cultures coming together in harmony.\n- Art style: Oil painting – so the prompt should mention or imply an oil painting aesthetic, with brushstrokes, texture, etc.\n- Mood: Intimate and human – focus on personal connections, emotions, and human interactions.\n- Lighting: Neon city glow – suggest urban nightlife with neon signs casting a glow.\n- Color palette: Warm amber and orange tones – dominate the color scheme with these hues.\n\nStructure the prompt:\n- Start by setting the scene that embodies cultural diversity and harmony.\n- Describe the visual details, incorporating the required elements.\n- Ensure it's vivid and detailed, painting a clear mental picture.\n- Keep it within 2-4 sentences.\n\nDraft an idea: Imagine a bustling city street at night, where people from various backgrounds are interacting peacefully. Neon signs illuminate the scene with a soft glow, and the whole image has the textured look of an oil painting in amber and orange colors.\n\nCraft the prompt:\nSentence 1: Introduce the scene with cultural diversity and harmony.\nSentence 2: Describe the art style, mood, and lighting.\nSentence 3: Add details about colors and visual elements.\nSentence 4: If needed, emphasize the intimacy and human aspect.\n\nEnsure it flows naturally and all elements are integrated.\n\nFinal prompt should be in English only, no extra text.\n\nLet me write a draft",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 713149555,
+      "created_at": "2026-03-18T22:45:38.870328+08:00"
+    },
+    {
       "id": "20260318_222245",
       "filename": "images/artwork_20260318_222245.jpg",
       "topic": "cybersecurity and privacy in the digital world",
