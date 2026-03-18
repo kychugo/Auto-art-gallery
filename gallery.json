@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260318_153624",
+      "filename": "images/artwork_20260318_153624.jpg",
+      "topic": "post-pandemic world transformation",
+      "prompt": "A serene, empty metro station bathed in dramatic studio lighting, rendered in a soft watercolor style, with crimson and deep red tones saturating abandoned medical masks and faded caution posters. Reflections pool on the polished floor, capturing a solitary, overgrown ivy plant climbing a turnstile, creating a melancholic and reflective mood of quiet reclamation. Detailed textures of peeling paint and rust are visible, while a single beam of light illuminates a forgotten playground ball, symbolizing a poignant transformation.",
+      "text_model": "deepseek",
+      "image_model": "grok-imagine",
+      "seed": 780755469,
+      "created_at": "2026-03-18T15:36:24.763728+08:00"
+    },
+    {
       "id": "20260318_144922",
       "filename": "images/artwork_20260318_144922.jpg",
       "topic": "music and the evolution of sound",
