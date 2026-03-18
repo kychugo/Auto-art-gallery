@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260318_144011",
+      "filename": "images/artwork_20260318_144011.jpg",
+      "topic": "biotechnology and genetic engineering",
+      "prompt": "Concept art illustration of an ethereal, bioluminescent laboratory chamber where tendrils of glowing DNA intertwine with delicate, crystalline structures, all bathed in a mysterious, cool blue and purple light that emanates from the very genetic material itself.",
+      "text_model": "gemini-fast",
+      "image_model": "grok-imagine",
+      "seed": 1395162636,
+      "created_at": "2026-03-18T14:40:11.410556+08:00"
+    },
+    {
       "id": "20260318_135914",
       "filename": "images/artwork_20260318_135914.jpg",
       "topic": "mental health awareness in the digital age",
