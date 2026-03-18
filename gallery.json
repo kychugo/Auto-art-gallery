@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260319_072721",
+      "filename": "images/artwork_20260319_072721.jpg",
+      "topic": "global climate crisis and environmental solutions",
+      "prompt": "A close-up, minimalist composition of diverse human hands, gently cradling a single, vibrant neon-green sapling against a backdrop of soft, diffused daylight, evoking an intimate and hopeful mood amidst the global climate crisis. The scene is rendered with a sophisticated color palette of electric blues and radiant magentas subtly intertwined with the verdant glow of the plant, suggesting innovative environmental solutions blooming from collective human effort. This visually stunning, award-winning image captures the delicate balance and profound responsibility we share for our planet.",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 742410987,
+      "created_at": "2026-03-19T07:27:21.201114+08:00"
+    },
+    {
       "id": "20260319_065314",
       "filename": "images/artwork_20260319_065314.jpg",
       "topic": "traditional vs modern culture clash in Asia",
