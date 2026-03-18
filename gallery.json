@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260318_230619",
+      "filename": "images/artwork_20260318_230619.jpg",
+      "topic": "ancient traditions meeting the modern world",
+      "prompt": "A bustling night market in an ancient mountain village where traditional lantern-lit wooden stalls sell handcrafted goods beneath a mesmerizing aurora borealis sky painted in brilliant waves of cyan-green and violet, with warm amber and orange neon signs glowing from modern storefronts seamlessly blended between centuries-old architecture. Anime-style illustration with flowing celestial ribbons of light illuminating snow-dusted rooftops, traditional pagodas, and contemporary glass buildings in sharp, vivid detail. The scene captures electric energy as merchants in traditional robes interact with visitors in modern clothing, their figures rendered in clean anime lines with rich, saturated colors—golds, warm ambers, and deep crimsons contrasting against the cool arctic palette above. Cinematic lighting with dramatic shadows and glowing halos around the aurora, creating an award-winning composition that feels both timeless and urgently alive, dreamlike yet photorealistic in its execution.",
+      "text_model": "perplexity-fast",
+      "image_model": "imagen-4",
+      "seed": 1593366463,
+      "created_at": "2026-03-18T23:06:19.556139+08:00"
+    },
+    {
       "id": "20260318_224538",
       "filename": "images/artwork_20260318_224538.jpg",
       "topic": "cultural diversity and global harmony",
