@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260319_065314",
+      "filename": "images/artwork_20260319_065314.jpg",
+      "topic": "traditional vs modern culture clash in Asia",
+      "prompt": "In a dark dystopian Asian megacity where ancient pagodas and samurai temples crumble amid towering holographic skyscrapers and neon-lit bullet trains, traditional geisha in silk kimonos clash with cyberpunk salarymen wielding glowing katanas against drone swarms, their faces illuminated by surreal arctic aurora borealis streaming unnaturally through smog-choked skies. Vibrant neon colors—electric pinks, cyans, and acid greens—explode across rain-slicked streets lined with fusion street food stalls blending rice burgers and ancestral altars, capturing a tense fusion of filial piety rituals disrupted by AR billboards advertising global monoculture. Highly detailed digital art in a visually stunning, award-winning style, evoking cyberpunk tension with intricate textures on ornate lanterns flickering against metallic megastructures and ethereal auroral veils draping the chaotic horizon.",
+      "text_model": "perplexity-fast",
+      "image_model": "imagen-4",
+      "seed": 1317294672,
+      "created_at": "2026-03-19T06:53:14.549425+08:00"
+    },
+    {
       "id": "20260319_062107",
       "filename": "images/artwork_20260319_062107.jpg",
       "topic": "space exploration and the cosmos",
