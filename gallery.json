@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260318_114213",
+      "filename": "images/artwork_20260318_114213.jpg",
+      "topic": "economic inequality and social justice",
+      "prompt": "An abstract expressionist dreamscape where soft pastel hues of lavender, peach, and seafoam green swirl in ethereal, translucent currents, illuminated by a mysterious bioluminescent glow emanating from unseen depths. Jagged, crystalline shards of opalescent color pierce through the nebulae of wealth disparity, their sharp edges softened by the ambient, glowing light, hinting at the silent struggle for social justice amidst the tranquil, yet unsettling, beauty.",
+      "text_model": "gemini-fast",
+      "image_model": "flux-2-dev",
+      "seed": 2064846280,
+      "created_at": "2026-03-18T11:42:13.785626+08:00"
+    },
+    {
       "id": "20260318_112417",
       "filename": "images/artwork_20260318_112417.jpg",
       "topic": "Hong Kong protest art and resilience",
