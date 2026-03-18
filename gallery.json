@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260318_222245",
+      "filename": "images/artwork_20260318_222245.jpg",
+      "topic": "cybersecurity and privacy in the digital world",
+      "prompt": "First, the user asked for a unique, detailed image generation prompt about \"cybersecurity and privacy in the digital world.\" I need to incorporate specific elements: surrealist art style, dark and dystopian mood, stormy overcast lighting, and a color palette of earth tones and terracotta.\n\nThe prompt should be 2-4 sentences long, visually stunning, award-winning, and highly detailed. I must respond with ONLY the image prompt itself, no explanations, titles, or markdown. Also, write exclusively in English.\n\nKey elements to include:\n- Theme: cybersecurity and privacy in the digital world.\n- Art style: surrealist – so think about dreamlike, bizarre, or illogical scenes.\n- Mood: dark and dystopian – implying a grim, oppressive future.\n- Lighting: stormy overcast light – suggesting gloomy, diffused light from storm clouds.\n- Color palette: earth tones and terracotta – colors like browns, oranges, reds, muted greens.\n\nI need to paint a clear mental picture. Since it's about cybersecurity and privacy, I should use metaphors or symbolic imagery. For example, data breaches, surveillance, digital locks, etc., represented in a surreal way.\n\nStructure the prompt:\n- Start with a scene description.\n- Incorporate the elements naturally.\n- Ensure it's detailed and vivid.\n\nBrainstorm ideas:\n- A surreal landscape where data streams are like vines or chains, entangled with human figures.\n- Stormy skies with terracotta-colored clouds.\n- Dark, dystopian elements like broken firewalls or shadowy surveillance eyes.\n- Use earth tones to give a natural but oppressive feel.\n\nCraft sentences:\n1. Set the scene with surreal elements and lighting.\n2. Describe key visual details integrating cybersecurity themes.\n3. Add more depth to mood and color palette.\n4. Keep it within 2-4 sentences.\n\nExample prompt: \"In a surrealist dystopia, stormy overcast light casts long shadows over a landscape",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 2085201705,
+      "created_at": "2026-03-18T22:22:45.882925+08:00"
+    },
+    {
       "id": "20260318_215706",
       "filename": "images/artwork_20260318_215706.jpg",
       "topic": "social media culture and human connection",
