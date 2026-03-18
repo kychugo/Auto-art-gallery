@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260319_050531",
+      "filename": "images/artwork_20260319_050531.jpg",
+      "topic": "traditional vs modern culture clash in Asia",
+      "prompt": "An oil painting, rendered with dramatic intensity, depicts a vibrant clash between ancient tradition and cutting-edge modernity in a fantastical Asian forest. Dappled sunlight filters through dense, neon-glowing foliage, illuminating a scene where a stoic samurai in ornate traditional armor stands defiantly against a horde of glitching, cybernetic geishas with luminous digital kimonos, their forms dissolving into streaks of vibrant, electric pink and cyan against the deep emerald and jade of the ancient trees. The mood is palpable, a high-stakes confrontation captured in sweeping brushstrokes and a color palette that pulsates with the energy of a digital dreamscape colliding with the soul of a forgotten era.",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 1770022481,
+      "created_at": "2026-03-19T05:05:31.261054+08:00"
+    },
+    {
       "id": "20260319_042824",
       "filename": "images/artwork_20260319_042824.jpg",
       "topic": "health and medicine breakthroughs",
