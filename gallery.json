@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260318_172813",
+      "filename": "images/artwork_20260318_172813.jpg",
+      "topic": "biotechnology and genetic engineering",
+      "prompt": "A colossal, intricately detailed chrome-and-glass laboratory structure, sculpted by moonlight and deep, dramatic shadows, looms against a starless, monochromatic sky. Within its cavernous interior, impossibly precise robotic arms manipulate ethereal strands of glowing DNA, hinting at the monumental power of biotechnology, rendered in a stark, award-winning photorealistic style with a striking black and white palette. The scene evokes a sense of awe and profound, untamed potential, where scientific ambition transcends the earthly realm.",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 1776470666,
+      "created_at": "2026-03-18T17:28:13.151141+08:00"
+    },
+    {
       "id": "20260318_163428",
       "filename": "images/artwork_20260318_163428.jpg",
       "topic": "social media culture and human connection",
