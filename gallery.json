@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260318_132347",
+      "filename": "images/artwork_20260318_132347.jpg",
+      "topic": "health and medicine breakthroughs",
+      "prompt": "A surreal oil painting of scientists in a luminous research laboratory surrounded by floating holographic DNA strands and gentle aurora borealis light streaming through crystalline windows, healing energy pulses emanating from glass containers filled with bioluminescent emerald liquid, peaceful and serene atmosphere where medical breakthroughs manifest as glowing botanical forms intertwining with ancient trees, the entire scene bathed in a dreamlike glow of emerald and deep forest green palette with dancing curtains of northern lights illuminating the hopeful future of medicine.",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 304449024,
+      "created_at": "2026-03-18T13:23:47.421336+08:00"
+    },
+    {
       "id": "20260318_131534",
       "filename": "images/artwork_20260318_131534.jpg",
       "topic": "human migration and global nomadism",
