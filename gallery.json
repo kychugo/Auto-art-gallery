@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260318_135914",
+      "filename": "images/artwork_20260318_135914.jpg",
+      "topic": "mental health awareness in the digital age",
+      "prompt": "In a lavish Baroque-style dreamscape, ethereal figures with spiraling drapery and emotive expressions emerge from swirling digital vortices of glowing smartphone screens and holographic neural networks, symbolizing the tangled dance between mental fragility and online connectivity, their faces a mix of whimsical serenity and hidden turmoil as fractured thought bubbles bloom into fantastical flowers and binary code angels. Bioluminescent glows in warm amber and orange tones illuminate ornate golden frames, intricate shell motifs, and trompe l'oeil ceilings that dissolve into infinite cyber-heavens, blending sensual drama with dreamlike infinity. Highly detailed, award-winning composition evoking Caravaggio's chiaroscuro infused with playful surrealism, capturing mental health awareness in the digital age through theatrical movement and emotional exuberance.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 1310873927,
+      "created_at": "2026-03-18T13:59:14.665087+08:00"
+    },
+    {
       "id": "20260318_134605",
       "filename": "images/artwork_20260318_134605.jpg",
       "topic": "Hong Kong city life and culture",
