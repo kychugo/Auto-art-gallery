@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260318_211050",
+      "filename": "images/artwork_20260318_211050.jpg",
+      "topic": "renewable energy and sustainable living",
+      "prompt": "A lone figure meticulously tends a rooftop garden under a sky choked with smog, the only illumination a flickering candlelight ambiance casting long, distorted shadows that evoke a dark and dystopian mood. Surrealist tendrils of artificial vines, glowing with a faint, trapped energy, intertwine with the sparse, resilient plants, all rendered in a warm amber and orange color palette that struggles against the encroaching gloom. This award-winning, highly detailed scene captures a desperate struggle for sustainable living amidst ecological collapse, with each leaf and shadow rendered with breathtaking precision.",
+      "text_model": "gemini-search",
+      "image_model": "flux-2-dev",
+      "seed": 91421694,
+      "created_at": "2026-03-18T21:10:50.949372+08:00"
+    },
+    {
       "id": "20260318_200257",
       "filename": "images/artwork_20260318_200257.jpg",
       "topic": "post-pandemic world transformation",
