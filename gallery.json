@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260319_062107",
+      "filename": "images/artwork_20260319_062107.jpg",
+      "topic": "space exploration and the cosmos",
+      "prompt": "In an impressionist style, depict a desolate, alien cityscape bathed in the dramatic, low-angled golden hour sunlight that casts long, distorted shadows across cracked and decaying structures. The scene should be awash in a vibrant neon color palette of electric blues, toxic greens, and searing magentas that bleed and shimmer against the oppressive, dark sky, evoking a profound sense of dark, dystopian dread. Use visible, textured brushstrokes to convey a futuristic, yet crumbling, world where nature is reclaiming the abandoned technological remnants, creating a visually stunning and unsettling juxtaposition.",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 825757005,
+      "created_at": "2026-03-19T06:21:07.660925+08:00"
+    },
+    {
       "id": "20260319_060223",
       "filename": "images/artwork_20260319_060223.jpg",
       "topic": "space exploration and the cosmos",
