@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260319_054305",
+      "filename": "images/artwork_20260319_054305.jpg",
+      "topic": "biotechnology and genetic engineering",
+      "prompt": "A photorealistic, whimsical scene unfolds in a bioluminescent cavern where delicate, gene-edited flora with crystalline structures sprout from moss-covered terracotta earth. Soft, ethereal light emanates from the plants themselves, casting warm, dreamlike shadows and highlighting the intricate patterns of DNA helices woven into their translucent petals, all rendered in a palette of rich earth tones and vibrant terracotta.",
+      "text_model": "gemini-fast",
+      "image_model": "flux-2-dev",
+      "seed": 1224227530,
+      "created_at": "2026-03-19T05:43:05.750991+08:00"
+    },
+    {
       "id": "20260319_050531",
       "filename": "images/artwork_20260319_050531.jpg",
       "topic": "traditional vs modern culture clash in Asia",
