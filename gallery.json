@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260318_131534",
+      "filename": "images/artwork_20260318_131534.jpg",
+      "topic": "human migration and global nomadism",
+      "prompt": "In a dark, dystopian oil painting, a solitary figure navigates a dense, primeval forest where sunlight filters through the canopy in stark, dappled patterns, illuminating trails of vibrant neon-colored dust left by countless unseen travelers. The oppressive atmosphere is rendered with deep shadows and a limited, yet intense, color palette that clashes in a beautiful, unsettling way, emphasizing the desperate journey of global nomads against the backdrop of a forgotten world. The brushstrokes are thick and textured, imbuing the scene with a sense of urgent movement and the harsh beauty of survival in a desolate landscape.",
+      "text_model": "gemini-search",
+      "image_model": "gptimage",
+      "seed": 1477363274,
+      "created_at": "2026-03-18T13:15:34.614938+08:00"
+    },
+    {
       "id": "20260318_130215",
       "filename": "images/artwork_20260318_130215.jpg",
       "topic": "global climate crisis and environmental solutions",
