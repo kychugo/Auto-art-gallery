@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260318_200257",
+      "filename": "images/artwork_20260318_200257.jpg",
+      "topic": "post-pandemic world transformation",
+      "prompt": "In a dimly lit, candlelit room bathed in cool blues and purples, a diverse group of intimate human figures gathers around a glowing holographic sculpture symbolizing post-pandemic renewal—flickering digital vines entwining physical hands in a tender embrace of connection. Concept art style, highly detailed with subtle textures of weathered masks on the floor and ethereal data streams merging with candle flames, evoking an intimate mood of quiet hope and human vulnerability amidst transformed reality. Award-winning composition, cinematic depth of field, soft volumetric lighting casting long shadows on faces etched with resilient stories.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 617441976,
+      "created_at": "2026-03-18T20:02:57.320185+08:00"
+    },
+    {
       "id": "20260318_194813",
       "filename": "images/artwork_20260318_194813.jpg",
       "topic": "news headlines of tomorrow",
