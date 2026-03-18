@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260319_000628",
+      "filename": "images/artwork_20260319_000628.jpg",
+      "topic": "fashion meets technology",
+      "prompt": "In a serene cyberpunk metropolis bathed in soft diffused daylight filtering through towering holographic skyscrapers, a poised model glides peacefully along a tranquil elevated walkway, her elegant trench coat fusing high-fashion techwear with glowing cybernetic arm enhancements and LED-illuminated exoskeleton gloves that pulse subtly with vibrant neon pinks, electric blues, and cyan accents against a palette of deep indigos and luminous yellows. Delicate AR projections of glitch-art florals and scannable NFC patterns shimmer ethereally on her sleek synthetic PVC skirt and boots, evoking a harmonious blend of futuristic humanity and advanced machinery in this award-winning, hyper-detailed vision of tranquil transhuman elegance.",
+      "text_model": "perplexity-fast",
+      "image_model": "klein",
+      "seed": 1564553357,
+      "created_at": "2026-03-19T00:06:28.876374+08:00"
+    },
+    {
       "id": "20260318_234809",
       "filename": "images/artwork_20260318_234809.jpg",
       "topic": "health and medicine breakthroughs",
