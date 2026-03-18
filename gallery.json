@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260318_120211",
+      "filename": "images/artwork_20260318_120211.jpg",
+      "topic": "cultural diversity and global harmony",
+      "prompt": "A surrealist dreamscape unfolds beneath a vibrant arctic aurora borealis, where diverse cultural symbols—like intricate mandalas, ancient hieroglyphs, and futuristic geometric patterns—intertwine and float harmoniously. Swirls of electric blues, vivid magentas, and radiant greens form the celestial light show, casting an otherworldly glow on translucent figures representing global unity reaching towards each other. The atmosphere is thick with an uplifting sense of connection, rendered with hyper-detailed textures and a luminous, ethereal quality that evokes awe and wonder.",
+      "text_model": "gemini-search",
+      "image_model": "gptimage",
+      "seed": 701266887,
+      "created_at": "2026-03-18T12:02:11.064427+08:00"
+    },
+    {
       "id": "20260318_114213",
       "filename": "images/artwork_20260318_114213.jpg",
       "topic": "economic inequality and social justice",
