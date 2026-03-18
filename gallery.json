@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260318_234809",
+      "filename": "images/artwork_20260318_234809.jpg",
+      "topic": "health and medicine breakthroughs",
+      "prompt": "A somber laboratory bathed in flickering candlelight, where loose impressionist brushstrokes in black and gold capture a solitary researcher gazing at glowing vials of breakthrough medicine, their face half-illuminated in melancholic reflection. Thick, visible strokes of paint blur the boundary between the scientist and their surroundings, creating an atmosphere of quiet contemplation as golden light dances across test tubes and medical instruments emerging from deep shadows. The composition feels spontaneous yet carefully arranged, with high-contrast blacks and warm gold hues suggesting both the weight of scientific burden and the luminous hope of healing discovery, rendered in the soft, textural style of impressionist oil painting with emphasis on how candlelight transforms the moment into something deeply human and introspective.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 1684352454,
+      "created_at": "2026-03-18T23:48:09.581771+08:00"
+    },
+    {
       "id": "20260318_230619",
       "filename": "images/artwork_20260318_230619.jpg",
       "topic": "ancient traditions meeting the modern world",
