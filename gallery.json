@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260318_160518",
+      "filename": "images/artwork_20260318_160518.jpg",
+      "topic": "street food culture in Hong Kong",
+      "prompt": "A melancholic abstract expressionist rendering of Hong Kong street food culture, where gestural brushstrokes and dynamic splatters of black and gold paint evoke the energy and emotion of bustling night markets, with candlelight casting flickering shadows across fragmented forms of steaming dim sum baskets, wonton stalls, and street vendors—all rendered in high contrast with luminescent gold accents that shimmer against deep blacks, creating an intimate yet monumental sense of urban longing and nostalgia. The composition employs an \"all-over\" approach with no clear focal point, allowing the viewer to be enveloped by the chaos and beauty of the scene, while soft-edged abstract shapes suggest steam rising from food, the silhouettes of crowds, and the emotional weight of fleeting human connections in this iconic culinary landscape. Candlelit ambiance suffuses the entire work, casting warm, trembling halos around fragmented imagery that conveys both the sensuality and the bittersweet contemplation of a culture in flux. Large-scale and meditative in its gestural intensity, the painting balances violent energy with reflective introspection, transforming ordinary street food into a profound expression of collective memory and individual loss.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux-2-dev",
+      "seed": 505913494,
+      "created_at": "2026-03-18T16:05:18.845553+08:00"
+    },
+    {
       "id": "20260318_155254",
       "filename": "images/artwork_20260318_155254.jpg",
       "topic": "sports and human physical achievement",
