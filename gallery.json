@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260318_123531",
+      "filename": "images/artwork_20260318_123531.jpg",
+      "topic": "blockchain and decentralized future",
+      "prompt": "An anime-inspired cityscape teeming with holographic iridescent data streams, depicting a vibrant and energetic decentralized future where glowing, interconnected nodes pulse with bioluminescent light against a deep cosmic background, rendered with award-winning detail and a sense of boundless possibility.",
+      "text_model": "gemini-fast",
+      "image_model": "gptimage",
+      "seed": 1340076765,
+      "created_at": "2026-03-18T12:35:31.226837+08:00"
+    },
+    {
       "id": "20260318_122838",
       "filename": "images/artwork_20260318_122838.jpg",
       "topic": "renewable energy and sustainable living",
