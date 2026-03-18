@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260319_042824",
+      "filename": "images/artwork_20260319_042824.jpg",
+      "topic": "health and medicine breakthroughs",
+      "prompt": "A dark dystopian medical laboratory illuminated solely by flickering candlelight, where intricate biological structures like glowing crystal growths and delicate fractal patterns emerge from human organs suspended in glass vats. Surgical instruments with soft pastel cyan and lavender handles rest beside anatomical charts, while ghostly holographic projections of DNA strands twist in the dim air, visualizing a breakthrough that feels both beautiful and unnervingly alien.",
+      "text_model": "deepseek",
+      "image_model": "klein",
+      "seed": 358876102,
+      "created_at": "2026-03-19T04:28:24.623825+08:00"
+    },
+    {
       "id": "20260319_000628",
       "filename": "images/artwork_20260319_000628.jpg",
       "topic": "fashion meets technology",
