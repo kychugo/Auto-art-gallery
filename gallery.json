@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260318_185511",
+      "filename": "images/artwork_20260318_185511.jpg",
+      "topic": "Hong Kong protest art and resilience",
+      "prompt": "In the heart of a neon-shadowed Hong Kong street shrouded in **mysterious ethereal mist**, resilient protesters clad in black attire and gas masks stand defiantly before a sprawling **Lennon Wall** overflowing with vibrant post-it notes forming Chinese characters of \"Hong Kong Withstand\" and yellow umbrellas, their forms glowing with **soft diffused daylight** filtering through towering skyscrapers. Rendered in a **highly detailed oil painting** style reminiscent of award-winning masters like John Singer Sargent, the scene pulses with **cool blues and purples** dominating the twilight haze, ethereal silhouettes of origami umbrellas and protest sculptures emerging like resilient spirits amid scattered tents and chalked flowers on rain-slicked pavement. Subtle rays of light catch determined faces etched with quiet resolve, symbolizing unbreakable solidarity against encroaching authoritarian shadows.",
+      "text_model": "perplexity-fast",
+      "image_model": "klein",
+      "seed": 1960807139,
+      "created_at": "2026-03-18T18:55:11.241522+08:00"
+    },
+    {
       "id": "20260318_182949",
       "filename": "images/artwork_20260318_182949.jpg",
       "topic": "sports and human physical achievement",
