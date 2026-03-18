@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260318_191404",
+      "filename": "images/artwork_20260318_191404.jpg",
+      "topic": "biotechnology and genetic engineering",
+      "prompt": "A mesmerizing close-up view of double helix DNA strands glowing with bioluminescent emerald light, suspended in crystalline laboratory glass vessels surrounded by lush hanging gardens of genetically modified plant tissue cultures, shot with dramatic studio lighting that casts ethereal shadows against deep forest green velvet backdrops, the delicate structures emerging from dark foliage like nature's secret code finally revealed, photorealistic style capturing every intricate molecular detail with surgical precision while maintaining an otherworldly serene atmosphere.",
+      "text_model": "minimax",
+      "image_model": "gptimage",
+      "seed": 1805832911,
+      "created_at": "2026-03-18T19:14:04.828068+08:00"
+    },
+    {
       "id": "20260318_185511",
       "filename": "images/artwork_20260318_185511.jpg",
       "topic": "Hong Kong protest art and resilience",
