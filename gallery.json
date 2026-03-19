@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260319_114209",
+      "filename": "images/artwork_20260319_114209.jpg",
+      "topic": "social media culture and human connection",
+      "prompt": "In a surreal landscape of towering, distorted digital monoliths under a stormy overcast sky, delicate threads of golden light stretch between the structures, representing fleeting connections. The high-contrast black and gold palette illuminates faint, ghostly reflections of faces within the cold",
+      "text_model": "deepseek",
+      "image_model": "imagen-4",
+      "seed": 181199870,
+      "created_at": "2026-03-19T11:42:09.731735+08:00"
+    },
+    {
       "id": "20260319_112447",
       "filename": "images/artwork_20260319_112447.jpg",
       "topic": "future of human civilization and technology",
