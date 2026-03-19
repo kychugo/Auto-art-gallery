@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260320_050427",
+      "filename": "images/artwork_20260320_050427.jpg",
+      "topic": "health and medicine breakthroughs",
+      "prompt": "A sweeping concept art illustration of medical breakthroughs unfolding across a luminous landscape, featuring symbolic representations of DNA helixes, microchips, and molecular structures emerging from soft pastel clouds of blue, lavender, and rose gold, bathed in dramatic stormy overcast light that creates ethereal highlights and deep shadows. The composition blends cutting-edge biotechnology imagery—gene-editing tools, advanced microscopy, and neural networks—with hopeful, uplifting human silhouettes reaching toward breakthrough moments, rendered in rich detail with translucent gradients and glowing accents that convey scientific wonder and triumph. Intricate details include flowing ribbons of genetic code, crystalline pharmaceutical structures, and luminescent pathways of innovation weaving through the scene, all unified by a sense of forward momentum and healing potential, reminiscent of award-winning medical illustration and concept art that transforms complex science into visually stunning, emotionally resonant imagery.",
+      "text_model": "perplexity-fast",
+      "image_model": "klein",
+      "seed": 2074646010,
+      "created_at": "2026-03-20T05:04:27.518584+08:00"
+    },
+    {
       "id": "20260320_042910",
       "filename": "images/artwork_20260320_042910.jpg",
       "topic": "space exploration and the cosmos",
