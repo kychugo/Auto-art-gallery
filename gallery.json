@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260320_055643",
+      "filename": "images/artwork_20260320_055643.jpg",
+      "topic": "revolution in education through technology",
+      "prompt": "A transformative classroom transforms into an ethereal sanctuary where ancient terracotta walls glow with bioluminescent light emanating from floating holographic books and luminous digital spheres that orbit curious students, their faces illuminated with wonder as they reach toward glowing glyphs that bloom into flowers of knowledge; watercolor brushstrokes blend warm sienna and burnt umber with soft amber bioluminescence, capturing the hopeful spirit of a world where technology and humanity harmonize in peaceful, uplifting educational revolution.",
+      "text_model": "minimax",
+      "image_model": "klein",
+      "seed": 933219402,
+      "created_at": "2026-03-20T05:56:43.407634+08:00"
+    },
+    {
       "id": "20260320_054409",
       "filename": "images/artwork_20260320_054409.jpg",
       "topic": "economic inequality and social justice",
