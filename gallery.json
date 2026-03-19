@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260319_125938",
+      "filename": "images/artwork_20260319_125938.jpg",
+      "topic": "biotechnology and genetic engineering",
+      "prompt": "A lone scientist in an ancient laboratory examines luminous DNA strands floating within a crystal vial, the double helix pulsing with otherworldly bioluminescence as delicate flowers and vines grow from microscopic genetic tendrils, bathed in soft candlelight from bronze sconces that cast dancing shadows across marble columns and scattered botanical specimens, the warm amber and orange tones creating an ethereal atmosphere where cutting-edge biotechnology meets timeless alchemical mystery.",
+      "text_model": "minimax",
+      "image_model": "imagen-4",
+      "seed": 1174602281,
+      "created_at": "2026-03-19T12:59:38.431963+08:00"
+    },
+    {
       "id": "20260319_123408",
       "filename": "images/artwork_20260319_123408.jpg",
       "topic": "health and medicine breakthroughs",
