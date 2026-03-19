@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260320_061553",
+      "filename": "images/artwork_20260320_061553.jpg",
+      "topic": "news headlines of tomorrow",
+      "prompt": "A desolate, rain-slicked metropolis at midnight, bathed in the eerie, shifting hues of holographic iridescent light emanating from broken news screens and flickering advertisements that project fragmented headlines of a grim tomorrow. Towering, decaying skyscrapers loom in the background, their edges softened by a pervasive, dark, and dystopian mist, while scattered, shadowy figures navigate the flooded streets below, their forms illuminated by the ethereal bioluminescent glow of forgotten technology. This award-winning concept art piece should evoke a profound sense of unease and foreboding, with a hyper-detailed, cinematic quality and a palette that seamlessly blends deep purples, electric blues, and toxic greens.",
+      "text_model": "gemini-search",
+      "image_model": "klein",
+      "seed": 1857029739,
+      "created_at": "2026-03-20T06:15:53.159260+08:00"
+    },
+    {
       "id": "20260320_055643",
       "filename": "images/artwork_20260320_055643.jpg",
       "topic": "revolution in education through technology",
