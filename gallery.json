@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260319_135431",
+      "filename": "images/artwork_20260319_135431.jpg",
+      "topic": "cybersecurity and privacy in the digital world",
+      "prompt": "In a desolate cyberpunk cityscape shrouded in shadow, a solitary figure stands before a massive, glowing firewall membrane that pulses with organic bioluminescent veins of warm amber and orange light, their digital identity fragmenting into scattered code particles around them as unseen surveillance eyes watch from the darkness, rendered in cinematic noir style with sharp chiaroscuro contrast, hyper-detailed chrome and glass textures, and a haunting dystopian atmosphere where privacy dies in glowing embers.",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 1241252757,
+      "created_at": "2026-03-19T13:54:31.088672+08:00"
+    },
+    {
       "id": "20260319_134245",
       "filename": "images/artwork_20260319_134245.jpg",
       "topic": "revolution in education through technology",
