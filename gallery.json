@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260319_170944",
+      "filename": "images/artwork_20260319_170944.jpg",
+      "topic": "renewable energy and sustainable living",
+      "prompt": "First, the user asks for an image generation prompt about renewable energy and sustainable living. I need to incorporate specific elements naturally: anime-inspired art style, powerful and monumental mood, dramatic studio lighting, and a holographic iridescent color palette.\n\nThe prompt must be visually stunning, award-winning, and highly detailed. It should be 2-4 sentences long and paint a clear mental picture. I can only respond with the prompt itself, no explanations, titles, or markdown, and it must be in English.\n\nI need to craft a single prompt that combines all these elements. Let me brainstorm how to weave them together.\n\nEnter a prompt like an anime epic with powerful vibes: maybe a scene where renewable energy sources are depicted in a grand, monumental way. For example, a giant wind turbine or solar panels that look majestic.\n\nUse dramatic studio lighting to highlight key elements, like beams of light cutting through the scene, creating contrasts and shadows.\n\nThe color palette should be holographic iridescent, so think of shimmering, rainbow-like colors that change with light, adding a futuristic or magical feel.\n\nIncorporate sustainable living aspects, such as green buildings, gardens, or people interacting with technology in a harmonious way.\n\nStructure it into 2-4 sentences. Ensure it's detailed and vivid.\n\nStart with the scene: perhaps a towering structure that represents renewable energy. Describe it with anime-inspired aesthetics, like sharp lines, expressive features, or dynamic poses.\n\nMood: powerful and monumental – so use words like \"towering,\" \"majestic,\" \"imposing,\" or \"awe-inspiring.\"\n\nLighting: dramatic studio lighting – mention \"spotlights,\" \"dramatic shadows,\" \"cinematic lighting,\" or \"studio-grade illumination.\"\n\nColor palette: holographic iridescent – describe colors that shift, like \"iridescent hues,\" \"prismatic reflections,\" or \"holographic sheen.\"\n\nCombine renewable energy and sustainable living: include elements like solar",
+      "text_model": "deepseek",
+      "image_model": "imagen-4",
+      "seed": 290034042,
+      "created_at": "2026-03-19T17:09:44.785971+08:00"
+    },
+    {
       "id": "20260319_162757",
       "filename": "images/artwork_20260319_162757.jpg",
       "topic": "fashion meets technology",
