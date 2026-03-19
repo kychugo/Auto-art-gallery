@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260319_123408",
+      "filename": "images/artwork_20260319_123408.jpg",
+      "topic": "health and medicine breakthroughs",
+      "prompt": "In a futuristic neon-lit cityscape at dusk, a diverse team of scientists in glowing lab coats huddles around a holographic DNA helix unraveling into blooming flowers symbolizing cured diseases, with robotic arms injecting vibrant serums into ethereal human silhouettes emerging healthy and radiant from shadowy illness forms. Rendered in a masterful oil painting style with thick, luminous brushstrokes blending realism and surrealism, the hopeful and uplifting mood bathes the scene in neon city glow lighting from towering skyscrapers pulsing with electric life. The vibrant neon color palette of fluorescent pinks, electric blues, lime greens, and blazing yellows creates award-winning visual drama, intricate details in every shimmering vial, pulsing vein, and triumphant smile evoking breakthroughs in health and medicine.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 1372421643,
+      "created_at": "2026-03-19T12:34:08.534292+08:00"
+    },
+    {
       "id": "20260319_122753",
       "filename": "images/artwork_20260319_122753.jpg",
       "topic": "news headlines of tomorrow",
