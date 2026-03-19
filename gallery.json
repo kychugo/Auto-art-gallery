@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260319_214556",
+      "filename": "images/artwork_20260319_214556.jpg",
+      "topic": "ocean conservation and marine life",
+      "prompt": "An impressionist seascape under a stormy, overcast sky, where the turbulent ocean waves, rendered in warm amber and deep orange tones, gently recede to reveal a serene underwater scene teeming with vibrant marine life. Sunlight, breaking through the clouds, casts a peaceful, ethereal glow upon coral reefs and schools of fish, creating a mood of tranquil resilience amidst the tempest. The visible, textured brushstrokes capture the dynamic interplay of light and water, imbuing the entire composition with a sense of calm and profound natural beauty.",
+      "text_model": "gemini-search",
+      "image_model": "imagen-4",
+      "seed": 1112185007,
+      "created_at": "2026-03-19T21:45:56.322223+08:00"
+    },
+    {
       "id": "20260319_210340",
       "filename": "images/artwork_20260319_210340.jpg",
       "topic": "street food culture in Hong Kong",
