@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260319_160141",
+      "filename": "images/artwork_20260319_160141.jpg",
+      "topic": "cybersecurity and privacy in the digital world",
+      "prompt": "A digital landscape of interconnected nodes and flowing data streams rendered in impressionist style, where crimson and deep red hues dominate the composition, with golden hour sunlight filtering through layers of translucent code and binary patterns, creating an ethereal, mysterious atmosphere. Visible brushstrokes of deep red and crimson paint dance across the canvas, depicting abstract representations of encryption keys, firewalls, and protective barriers that shimmer with an otherworldly glow. The composition captures the fleeting moment of data in transit, with soft, blurred edges between the digital and physical realms, while pockets of warm golden light pierce through shadowy layers of security protocols, evoking both protection and vulnerability. The overall mood is enigmatic and dreamlike, as if witnessing the invisible architecture of privacy being defended against unseen threats, rendered with loose, expressive brushwork that emphasizes light and atmosphere over precise detail.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 321497669,
+      "created_at": "2026-03-19T16:01:41.292117+08:00"
+    },
+    {
       "id": "20260319_154737",
       "filename": "images/artwork_20260319_154737.jpg",
       "topic": "sports and human physical achievement",
