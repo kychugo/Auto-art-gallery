@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260319_144327",
+      "filename": "images/artwork_20260319_144327.jpg",
+      "topic": "ocean conservation and marine life",
+      "prompt": "An impressionist painting captures a solitary, ancient sea turtle, its shell adorned with faint crimson patterns that seem to bleed into the surrounding deep red, murky water, evoking a profound sense of melancholy. Dramatic studio lighting casts long, despondent shadows, highlighting the creature's weary eyes and the subtle textures of its weathered skin, as if to reflect on the ocean's fading vitality. The scene is rendered with thick, emotive brushstrokes, imbuing the water with a somber, reflective quality and a rich, deep crimson and red color palette that speaks of both oceanic beauty and impending loss.",
+      "text_model": "gemini-search",
+      "image_model": "flux-2-dev",
+      "seed": 1063522616,
+      "created_at": "2026-03-19T14:43:27.297120+08:00"
+    },
+    {
       "id": "20260319_143520",
       "filename": "images/artwork_20260319_143520.jpg",
       "topic": "quantum computing and the future",
