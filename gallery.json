@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260319_143520",
+      "filename": "images/artwork_20260319_143520.jpg",
+      "topic": "quantum computing and the future",
+      "prompt": "A vibrant pop art scene depicts a colossal quantum computer in a futuristic cityscape at dusk, its towering circuits and qubits rendered in bold, high-contrast outlines with repeating motifs of entangled particles swirling like melancholic ghosts amid crumbling skyscrapers and abandoned data centers, evoking a reflective nostalgia for humanity's digital dreams. Ethereal bioluminescent glows emanate from glowing qubits and neural pathways in cool blues and shimmering purples, casting haunting neon halos that illuminate faded holographic screens displaying probabilistic futures and unraveling code. Highly detailed, award-winning composition with dynamic Ben-Day dots, dramatic shadows, and a poignant sense of quiet introspection over technological promise.",
+      "text_model": "perplexity-fast",
+      "image_model": "imagen-4",
+      "seed": 2036393279,
+      "created_at": "2026-03-19T14:35:20.339138+08:00"
+    },
+    {
       "id": "20260319_135431",
       "filename": "images/artwork_20260319_135431.jpg",
       "topic": "cybersecurity and privacy in the digital world",
