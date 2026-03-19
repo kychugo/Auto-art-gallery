@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260319_131132",
+      "filename": "images/artwork_20260319_131132.jpg",
+      "topic": "blockchain and decentralized future",
+      "prompt": "First, the user asks for a unique, detailed image generation prompt about \"blockchain and decentralized future.\" I need to incorporate specific elements naturally: surrealist art style, dark and dystopian mood, soft diffused daylight lighting, and a monochromatic black and white color palette.\n\nThe prompt should be visually stunning, award-winning, and highly detailed. It must be 2-4 sentences long and paint a clear mental picture. I can only respond with the prompt itself, no explanations, titles, or markdown. And it must be in English only.\n\nI need to craft a prompt that combines blockchain and decentralized future themes with the given elements. Blockchain often involves concepts like chains, nodes, networks, and decentralization. For a surrealist style, I can use imaginative, dream-like, or bizarre imagery. Dark and dystopian mood means it should feel ominous, foreboding, or pessimistic. Soft diffused daylight lighting suggests a gentle, even light that doesn't create harsh shadows, which can add to the surreal and dystopian feel. Monochromatic black and white means no colors, just shades of gray.\n\nLet's brainstorm imagery: Think of blockchain as interconnected chains or digital networks. For decentralization, perhaps floating islands or disconnected elements that are still linked. Surrealist elements could include melting chains, floating data nodes, or impossible architectures. Dark and dystopian could involve ruined landscapes, oppressive structures, or eerie silence.\n\nLighting: Soft diffused daylight – so, not bright sun, but a hazy, overcast light that evenly illuminates the scene.\n\nColor palette: Only black and white, so I need to describe scenes in terms of shades, contrasts, and monochrome.\n\nStructure the prompt in 2-4 sentences. Make it descriptive and vivid.\n\nStart with a central image: Perhaps a vast, dystopian cityscape where blockchain elements are integrated.\n\nSentence 1: Set the scene with the surreal and dystopian mood.\n\nSentence 2: Describe specific visual elements related",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 740079532,
+      "created_at": "2026-03-19T13:11:32.519464+08:00"
+    },
+    {
       "id": "20260319_125938",
       "filename": "images/artwork_20260319_125938.jpg",
       "topic": "biotechnology and genetic engineering",
