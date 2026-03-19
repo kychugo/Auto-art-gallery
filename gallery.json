@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260320_042910",
+      "filename": "images/artwork_20260320_042910.jpg",
+      "topic": "space exploration and the cosmos",
+      "prompt": "In an anime-inspired style, a daring space explorer in a sleek crimson spacesuit leaps from a battered spaceship towards a swirling crimson nebula, surrounded by energetic bursts of plasma storms and orbiting asteroid fields teeming with cosmic debris. Stormy overcast lighting casts dramatic shadows across the vibrant, deep red color palette of glowing red dwarf stars, ruby-hued gas clouds, and flickering energy shields, evoking a sense of thrilling discovery amid turbulent space exploration. Highly detailed, award-winning composition with dynamic motion lines, intricate mechanical details on the ship, and luminous particle effects for maximum visual impact.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 1856810952,
+      "created_at": "2026-03-20T04:29:10.916622+08:00"
+    },
+    {
       "id": "20260319_235158",
       "filename": "images/artwork_20260319_235158.jpg",
       "topic": "cultural diversity and global harmony",
