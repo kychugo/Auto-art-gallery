@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260320_072631",
+      "filename": "images/artwork_20260320_072631.jpg",
+      "topic": "street food culture in Hong Kong",
+      "prompt": "A whimsical, dreamlike watercolor scene unfolds in a bustling Hong Kong night market, illuminated by a soft candlelight ambiance that casts a magical glow. Emerald and deep forest green hues dominate the palette, infusing the air with an enchanting atmosphere as vendors display an array of tantalizing street food. Delicate brushstrokes capture the ephemeral nature of steam rising from woks and the vibrant details of exotic ingredients, creating a visually stunning and highly detailed masterpiece.",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 514656664,
+      "created_at": "2026-03-20T07:26:31.107378+08:00"
+    },
+    {
       "id": "20260320_065245",
       "filename": "images/artwork_20260320_065245.jpg",
       "topic": "street food culture in Hong Kong",
