@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260319_173523",
+      "filename": "images/artwork_20260319_173523.jpg",
+      "topic": "virtual reality and the metaverse",
+      "prompt": "A colossal, stylized avatar, rendered in vibrant pop art with bold outlines and flattened planes, stands defiantly against a turbulent, stormy overcast sky. Soft pastel hues of lavender, mint green, and peach emanate from the avatar's glowing, crystalline form, casting a monumental and powerful aura as it gazes out over a sprawling, abstract metaverse landscape composed of geometric shapes and glowing data streams. The scene should evoke a sense of awe and immense scale, bathed in dramatic, diffused light that emphasizes the stark contrast between the ethereal avatar and the digital expanse.",
+      "text_model": "gemini-fast",
+      "image_model": "flux-2-dev",
+      "seed": 1344196285,
+      "created_at": "2026-03-19T17:35:23.592521+08:00"
+    },
+    {
       "id": "20260319_170944",
       "filename": "images/artwork_20260319_170944.jpg",
       "topic": "renewable energy and sustainable living",
