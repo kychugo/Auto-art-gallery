@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260319_122753",
+      "filename": "images/artwork_20260319_122753.jpg",
+      "topic": "news headlines of tomorrow",
+      "prompt": "A dystopian newspaper front page from tomorrow's headlines floats ethereally in a crumbling urban wasteland at golden hour, where vibrant neon pinks, electric blues, and acid greens bleed through watercolor washes, casting an eerie glow on screaming titles like \"Climate Collapse: Billions Displaced,\" \"AI Overlords Declare Eternal War,\" and \"Surveillance State Crushes Last Rebels.\" Flickering holographic screens and shadowy figures in tattered rags huddle around ration crates under the blood-orange sun piercing smog-choked skies, blending Mad Max desperation with surveillance propaganda posters in hyper-detailed, award-winning watercolor artistry that evokes fragile apocalypse and hopeless defiance.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 876453805,
+      "created_at": "2026-03-19T12:27:53.684271+08:00"
+    },
+    {
       "id": "20260319_120105",
       "filename": "images/artwork_20260319_120105.jpg",
       "topic": "urban architecture of the future",
