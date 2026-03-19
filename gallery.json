@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260319_220914",
+      "filename": "images/artwork_20260319_220914.jpg",
+      "topic": "social media culture and human connection",
+      "prompt": "Digital art depicting a solitary figure gently touching a luminous, ethereal tree trunk in a tranquil forest, sunlight dappling through an impossibly dense canopy in striking high-contrast black and gold. Ornate, glowing golden threads, representing digital connections, weave from the figure's fingertips into the tree's roots, subtly pulsating with a peaceful, serene energy. The scene evokes a profound sense of quiet contemplation and the enduring, organic nature of human connection amidst the digital age.",
+      "text_model": "gemini-fast",
+      "image_model": "flux-2-dev",
+      "seed": 1282199000,
+      "created_at": "2026-03-19T22:09:14.352153+08:00"
+    },
+    {
       "id": "20260319_214556",
       "filename": "images/artwork_20260319_214556.jpg",
       "topic": "ocean conservation and marine life",
