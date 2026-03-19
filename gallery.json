@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260319_134245",
+      "filename": "images/artwork_20260319_134245.jpg",
+      "topic": "revolution in education through technology",
+      "prompt": "A group of rebellious students stand amid a dark, twisted forest, their faces illuminated by golden holographic data streams swirling around them like ethereal ribbons, as towering ancient trees filter dappled sunlight through canopies of gold-leafed circuitry, casting stark shadows across their determined faces while drones and floating screens float among the branches—cinematic dystopian vision, high contrast black and gold palette, dramatic chiaroscuro lighting, hyper-detailed award-winning digital art, film grain texture",
+      "text_model": "minimax",
+      "image_model": "flux",
+      "seed": 1611479133,
+      "created_at": "2026-03-19T13:42:45.825337+08:00"
+    },
+    {
       "id": "20260319_132116",
       "filename": "images/artwork_20260319_132116.jpg",
       "topic": "space exploration and the cosmos",
