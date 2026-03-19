@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260319_162757",
+      "filename": "images/artwork_20260319_162757.jpg",
+      "topic": "fashion meets technology",
+      "prompt": "In an anime-inspired art style with serene, peaceful mood, a graceful young woman stands poised in a sunlit terracotta atrium overgrown with ivy, her flowing terracotta gown seamlessly fused with subtle tech elements like glowing neural lace veins tracing her skin, holographic earth-tone embroidery blooming across silk sleeves, and delicate cybernetic flower petals unfurling from her collar in soft diffused daylight. Earth tones dominate—warm ochres, muted sages, and burnt siennas—casting gentle shadows that enhance the intricate details of her attire, from woven circuit-patterned corset to levitating data-crystal accessories hovering like fireflies. Highly detailed, award-winning composition with ethereal serenity, flawless anime linework, luminous highlights, and tranquil depth of field.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 1855100732,
+      "created_at": "2026-03-19T16:27:57.930974+08:00"
+    },
+    {
       "id": "20260319_160141",
       "filename": "images/artwork_20260319_160141.jpg",
       "topic": "cybersecurity and privacy in the digital world",
