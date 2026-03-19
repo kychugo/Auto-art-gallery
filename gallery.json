@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260319_132116",
+      "filename": "images/artwork_20260319_132116.jpg",
+      "topic": "space exploration and the cosmos",
+      "prompt": "A solitary astronaut floating through an infinite cosmic void, rendered in bold pop art style with exaggerated geometric forms and vibrant neon colors—electric magentas, cyan blues, and hot pinks—creating a striking contrast against deep blacks and purples of space. The figure is illuminated by ethereal neon city glow that seems to emanate from distant galaxies and nebulae, casting surreal shadows and halos around the suit. Swirling abstract cosmic elements—fragmented stars, crystalline asteroids, and wavelike energy patterns—dance around the astronaut in dynamic, kaleidoscopic layers, evoking a sense of mysterious wonder and otherworldly exploration. The composition balances the cosmic vastness with intimate, dreamlike details, capturing both the grandeur of space and the intimate awe of discovery in a contemporary pop art aesthetic.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux-2-dev",
+      "seed": 1280640162,
+      "created_at": "2026-03-19T13:21:16.328039+08:00"
+    },
+    {
       "id": "20260319_131132",
       "filename": "images/artwork_20260319_131132.jpg",
       "topic": "blockchain and decentralized future",
