@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260320_054409",
+      "filename": "images/artwork_20260320_054409.jpg",
+      "topic": "economic inequality and social justice",
+      "prompt": "In a whimsical, dreamlike pop art style, depict a vibrant forest clearing bathed in dappled light, where towering, stylized trees in shades of cool blues and purples cast ethereal shadows. Amongst the lush foliage, contrast meticulously detailed, almost hyperreal, gilded stacks of coins and discarded luxury goods with rudimentary, handcrafted tools and simple sustenance, visually symbolizing economic disparity. Subtle, almost hidden motifs of scales of justice and open hands reaching out, rendered in the same cool palette, weave through the scene, creating a dreamlike yet poignant commentary on social justice within the whimsical setting.",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 289607404,
+      "created_at": "2026-03-20T05:44:09.107411+08:00"
+    },
+    {
       "id": "20260320_050427",
       "filename": "images/artwork_20260320_050427.jpg",
       "topic": "health and medicine breakthroughs",
