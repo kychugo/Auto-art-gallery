@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260319_153220",
+      "filename": "images/artwork_20260319_153220.jpg",
+      "topic": "global climate crisis and environmental solutions",
+      "prompt": "A solitary figure stands among ancient trees, hands gently cradling a young seedling in the dappled forest light, as their face reveals quiet hope amid environmental loss — rendered in noir cinematic style with soft pastel blue and sage green hues creating an intimate, emotionally powerful scene about humanity's commitment to restoration and healing the planet.",
+      "text_model": "minimax",
+      "image_model": "imagen-4",
+      "seed": 1615782203,
+      "created_at": "2026-03-19T15:32:20.101225+08:00"
+    },
+    {
       "id": "20260319_144327",
       "filename": "images/artwork_20260319_144327.jpg",
       "topic": "ocean conservation and marine life",
