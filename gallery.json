@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260319_235158",
+      "filename": "images/artwork_20260319_235158.jpg",
+      "topic": "cultural diversity and global harmony",
+      "prompt": "A breathtaking cyberpunk cityscape at golden hour where people of diverse ethnicities, dressed in both traditional cultural garments and futuristic attire, gather on floating holographic platforms beneath a neon-drenched sunset sky, their hands reaching toward a massive glowing orb of unified light that pulses with amber and orange energy, while sleek hovering vehicles and ancient ceremonial banners drift together through the warm amber haze, creating a dramatic scene of global harmony where towering skyscrapers blend seamlessly with sacred temples from every continent, all illuminated by the intense golden sunlight casting long dramatic shadows across the seamless fusion of past and future.",
+      "text_model": "minimax",
+      "image_model": "klein",
+      "seed": 1772841938,
+      "created_at": "2026-03-19T23:51:58.094764+08:00"
+    },
+    {
       "id": "20260319_231229",
       "filename": "images/artwork_20260319_231229.jpg",
       "topic": "social media culture and human connection",
