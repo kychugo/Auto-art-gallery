@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260319_195551",
+      "filename": "images/artwork_20260319_195551.jpg",
+      "topic": "blockchain and decentralized future",
+      "prompt": "In a cinematic vista of a decentralized future, towering blockchain chains forged from glowing sapphire and amethyst crystals erupt from shattered corporate monoliths, linking ethereal nodes pulsing with cool blue data streams across a vast, neon-lit metropolis under perpetual twilight. Candlelight ambiance flickers dramatically from ancient lanterns suspended in the void, casting intense shadows that intensify the mood of revolutionary upheaval as holographic smart contracts and token flows cascade like digital waterfalls, symbolizing unbreakable autonomy and collective power. Award-winning hyper-detailed masterpiece in cool blues and purples, with volumetric god rays piercing the haze, evoking epic intensity and transformative hope.",
+      "text_model": "perplexity-fast",
+      "image_model": "imagen-4",
+      "seed": 667200769,
+      "created_at": "2026-03-19T19:55:51.882063+08:00"
+    },
+    {
       "id": "20260319_193721",
       "filename": "images/artwork_20260319_193721.jpg",
       "topic": "revolution in education through technology",
