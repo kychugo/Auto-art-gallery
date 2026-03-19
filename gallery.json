@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260319_231229",
+      "filename": "images/artwork_20260319_231229.jpg",
+      "topic": "social media culture and human connection",
+      "prompt": "An anime-inspired portrait of two figures, bathed in dramatic studio lighting, their faces illuminated by the crimson glow of a smartphone screen held between them, creating deep crimson shadows that accentuate an intimate, human connection amidst the isolating hum of social media. Their eyes lock, reflecting a shared digital world and a tangible, unspoken intimacy, rendered with exquisite detail in a limited color palette of crimson and deep red, evoking a mood of profound, melancholic warmth.",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 1010167206,
+      "created_at": "2026-03-19T23:12:29.900890+08:00"
+    },
+    {
       "id": "20260319_225211",
       "filename": "images/artwork_20260319_225211.jpg",
       "topic": "cultural diversity and global harmony",
