@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260319_180859",
+      "filename": "images/artwork_20260319_180859.jpg",
+      "topic": "Hong Kong city life and culture",
+      "prompt": "An Impressionist rendering of Hong Kong's bustling streets at night, shrouded in a mysterious and ethereal haze, where the only illumination emanates from the vibrant, yet monochromatic, glow of neon signs reflecting on wet pavement. Silhouetted figures move through the scene, their forms blurred and indistinct, adding to the enigmatic atmosphere as towering, abstract architectural shapes rise into the moody, atmospheric sky. The scene is captured with a shallow depth of field, drawing focus to the abstract interplay of light and shadow in a dreamlike, timeless urban landscape.",
+      "text_model": "gemini-search",
+      "image_model": "flux-2-dev",
+      "seed": 1450413076,
+      "created_at": "2026-03-19T18:08:59.806359+08:00"
+    },
+    {
       "id": "20260319_173523",
       "filename": "images/artwork_20260319_173523.jpg",
       "topic": "virtual reality and the metaverse",
