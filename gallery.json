@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260319_225211",
+      "filename": "images/artwork_20260319_225211.jpg",
+      "topic": "cultural diversity and global harmony",
+      "prompt": "A close-up, intimate portrait in a noir art style, capturing diverse human faces intertwined in a moment of shared understanding against a backdrop of a stormy, overcast sky. The lighting is dramatic yet subdued, casting deep shadows and highlighting the textures of skin and fabric, rendered in a rich palette of earth tones and terracotta, evoking a sense of ancient connection and quiet resilience. This award-winning, highly detailed image should convey a profound sense of global harmony through the shared gaze and gentle proximity of the individuals.",
+      "text_model": "gemini-search",
+      "image_model": "klein",
+      "seed": 2134354513,
+      "created_at": "2026-03-19T22:52:11.107664+08:00"
+    },
+    {
       "id": "20260319_221611",
       "filename": "images/artwork_20260319_221611.jpg",
       "topic": "animals and nature conservation",
