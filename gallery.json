@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260320_154846",
+      "filename": "images/artwork_20260320_154846.jpg",
+      "topic": "street food culture in Hong Kong",
+      "prompt": "A peaceful, abstract expressionist composition captures Hong Kong's street food culture as flowing ribbons of soft pastel hues—blush pink, sage green, warm cream, and gentle lavender—merging like whispers of steam rising from bustling food stalls, where gestural brushstrokes suggest the rhythmic movement of chefs and the quiet contemplation of a lone diner, bathed in dappled light that filters through an impossible forest canopy suspended above the urban scene, creating a serene moment where the energy of the city dissolves into tranquil, dreamlike abstraction.",
+      "text_model": "minimax",
+      "image_model": "flux",
+      "seed": 1409278502,
+      "created_at": "2026-03-20T15:48:46.736694+08:00"
+    },
+    {
       "id": "20260320_152947",
       "filename": "images/artwork_20260320_152947.jpg",
       "topic": "blockchain and decentralized future",
