@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260320_173420",
+      "filename": "images/artwork_20260320_173420.jpg",
+      "topic": "cultural diversity and global harmony",
+      "prompt": "A minimalist composition showing figures from diverse world cultures reaching toward each other in a circular arrangement, their silhouettes merging into unified forms against a soft diffused daylight backdrop, rendered in holographic iridescent colors that shift between pearl, rose gold, aquamarine and soft lavender, creating an intense yet serene atmosphere where harmony emerges from the interplay of different shapes and textures, with subtle prismatic light refractions dancing across the scene.",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 666214940,
+      "created_at": "2026-03-20T17:34:20.135232+08:00"
+    },
+    {
       "id": "20260320_170626",
       "filename": "images/artwork_20260320_170626.jpg",
       "topic": "renewable energy and sustainable living",
