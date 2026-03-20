@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260321_053820",
+      "filename": "images/artwork_20260321_053820.jpg",
+      "topic": "quantum computing and the future",
+      "prompt": "A whimsical watercolor painting depicting a futuristic quantum computer emerging from a soft, glowing amber vortex, its crystalline structures floating like luminescent jellyfish through a dreamlike void filled with floating mathematical symbols and swirling nebulae, illuminated by warm candlelight that casts gentle orange reflections across translucent quantum particles, the entire scene bathed in rich amber, burnt sienna, and golden honey tones with ethereal, dreamlike atmosphere blending technology and magic into a single fantastical vision of tomorrow.",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 1885033420,
+      "created_at": "2026-03-21T05:38:20.351653+08:00"
+    },
+    {
       "id": "20260321_045934",
       "filename": "images/artwork_20260321_045934.jpg",
       "topic": "economic inequality and social justice",
