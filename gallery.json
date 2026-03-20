@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260320_231035",
+      "filename": "images/artwork_20260320_231035.jpg",
+      "topic": "Hong Kong city life and culture",
+      "prompt": "A dynamic pop art scene capturing the vibrant, energetic pulse of Hong Kong street life, with neon signs in crimson and deep red casting dramatic studio lighting on bustling crowds and iconic architecture. Figures are stylized with bold outlines and flat colors, reflecting a modern, high-octane urban energy. The composition should be visually stunning, evoking a sense of exhilarating chaos and cultural fusion, rendered with exquisite detail and an award-winning aesthetic.",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 507066364,
+      "created_at": "2026-03-20T23:10:35.682861+08:00"
+    },
+    {
       "id": "20260320_224430",
       "filename": "images/artwork_20260320_224430.jpg",
       "topic": "cybersecurity and privacy in the digital world",
