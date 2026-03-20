@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260320_224430",
+      "filename": "images/artwork_20260320_224430.jpg",
+      "topic": "cybersecurity and privacy in the digital world",
+      "prompt": "In a surrealist dystopian tableau illuminated by flickering candlelight casting elongated shadows across crumbling terracotta walls, a colossal human eye made of fragmented circuit boards and glowing red circuit veins weeps binary code tears that morph into watchful surveillance drones swarming a labyrinth of rusted data cables entwining naked, shadowy figures huddled in prayer-like poses, their faces dissolving into ghostly exquisite corpse composites of stolen identities. Earth tones dominate the palette—deep umbers, burnt siennas, and muted ochres—evoking a dark, oppressive digital wasteland where privacy shatters like terracotta pottery under the weight of invasive algorithms, with ethereal malware tendrils coiling from antique security envelopes stitched with ominous phrases. This award-winning, hyper-detailed vision captures the haunting fusion of flesh and machine in a candlelit cyber purgatory, blending HR Giger-esque biomechanical horror with exquisite surrealist fragmentation for a visually stunning meditation on cybersecurity's erosion of self.",
+      "text_model": "perplexity-fast",
+      "image_model": "grok-imagine",
+      "seed": 1665971738,
+      "created_at": "2026-03-20T22:44:30.222559+08:00"
+    },
+    {
       "id": "20260320_221038",
       "filename": "images/artwork_20260320_221038.jpg",
       "topic": "cultural diversity and global harmony",
