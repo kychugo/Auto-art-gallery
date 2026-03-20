@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260321_042356",
+      "filename": "images/artwork_20260321_042356.jpg",
+      "topic": "post-pandemic world transformation",
+      "prompt": "A photorealistic, award-winning scene of an abandoned city street transformed into an ethereal sanctuary, bathed in the flickering, mysterious glow of countless hanging lanterns with real candle flames. A lush, silent garden of ferns, moss, and ivy in deep forest and emerald greens has completely overtaken the pavement and skeletal cars, with atmospheric fog catching the soft light. The mood is one of haunting peace and quiet transformation, where advanced technology lies silently entangled in roots under a canopy of glowing green leaves.",
+      "text_model": "deepseek",
+      "image_model": "flux-2-dev",
+      "seed": 560302462,
+      "created_at": "2026-03-21T04:23:56.474008+08:00"
+    },
+    {
       "id": "20260320_233909",
       "filename": "images/artwork_20260320_233909.jpg",
       "topic": "mental health awareness in the digital age",
