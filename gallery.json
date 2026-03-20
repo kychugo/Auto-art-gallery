@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260321_072518",
+      "filename": "images/artwork_20260321_072518.jpg",
+      "topic": "fashion meets technology",
+      "prompt": "A fashion-forward model, adorned in intricate, glowing circuitry integrated into flowing, translucent fabrics of deep amber and warm orange, stands on a rain-slicked, neon-lit street.  Bioluminescent flora entwines the futuristic architecture behind her, casting a hopeful, ethereal light that illuminates her determined, uplifted expression, rendered in a hyper-detailed cyberpunk art style.",
+      "text_model": "gemini-fast",
+      "image_model": "klein",
+      "seed": 1665881688,
+      "created_at": "2026-03-21T07:25:18.510229+08:00"
+    },
+    {
       "id": "20260321_065159",
       "filename": "images/artwork_20260321_065159.jpg",
       "topic": "virtual reality and the metaverse",
