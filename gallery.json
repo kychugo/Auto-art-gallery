@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260320_131429",
+      "filename": "images/artwork_20260320_131429.jpg",
+      "topic": "ocean conservation and marine life",
+      "prompt": "In a **baroque masterpiece** of dramatic intensity, majestic whales and swirling schools of tropical fish surge through turbulent ocean depths, their scales and fins rendered in ornate, spiraling gold filigree amid encroaching black shadows of pollution-shrouded nets and shattered coral, symbolizing the urgent call for ocean conservation. **Golden hour sunlight** pierces the waves from above in tenebrist chiaroscuro, casting high-contrast beams of radiant gold that spotlight ethereal sea guardians—mermaids with flowing tendrils clutching shattered plastic debris—evoking awe and tension in a visually stunning, award-winning tableau of movement, emotion, and infinite marine splendor. Intricate details of fantastical shells, undulating seaweed scrolls, and vortical water currents blur the line between painting and sculpture, immersing viewers in sensuous opulence and a passionate plea for the sea's salvation.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 983535136,
+      "created_at": "2026-03-20T13:14:29.671745+08:00"
+    },
+    {
       "id": "20260320_130454",
       "filename": "images/artwork_20260320_130454.jpg",
       "topic": "traditional vs modern culture clash in Asia",
