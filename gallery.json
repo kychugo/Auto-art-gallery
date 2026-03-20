@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260320_111413",
+      "filename": "images/artwork_20260320_111413.jpg",
+      "topic": "Hong Kong protest art and resilience",
+      "prompt": "First, the user wants a unique, detailed image generation prompt about Hong Kong protest art and resilience. I need to incorporate specific elements: abstract expressionist art style, hopeful and uplifting mood, golden hour sunlight lighting, and a color palette of earth tones and terracotta.\n\nThe prompt must be visually stunning, award-winning, and highly detailed. It should be 2-4 sentences long and paint a clear mental picture. I must respond with ONLY the image prompt in English, no explanations or markdown.\n\nKey elements to weave in:\n- Hong Kong protest art: This implies symbols or themes related to protests, like umbrellas, masks, or street art, but with a focus on resilience and hope.\n- Resilience: This suggests overcoming adversity, strength, and persistence.\n- Abstract expressionist style: Think of artists like Jackson Pollock or Willem de Kooning – expressive, emotional, non-representational but with symbolic elements.\n- Mood: Hopeful and uplifting – so positive, inspiring, perhaps with elements of light breaking through darkness.\n- Lighting: Golden hour sunlight – warm, soft, glowing light typical at sunrise or sunset.\n- Color palette: Earth tones and terracotta – browns, oranges, reds, muted greens, etc.\n\nI need to craft a prompt that combines these into a cohesive image. The prompt should describe the scene in detail, mentioning the art style, mood, lighting, colors, and specific visual elements related to Hong Kong protest art.\n\nStructure the prompt:\n- Start with a broad description setting the scene.\n- Incorporate the artistic style and mood.\n- Describe the lighting and color palette.\n- Include specific elements that evoke Hong Kong protest art and resilience.\n\nEnsure it's 2-4 sentences. Keep it concise but rich in detail.\n\nDraft:\n\"In the heart of Hong Kong, an abstract expressionist masterpiece emerges, depicting resilience through dynamic brushstrokes and symbolic protest imagery like umbrellas and doves, bathed in the",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 2036967409,
+      "created_at": "2026-03-20T11:14:13.303519+08:00"
+    },
+    {
       "id": "20260320_100507",
       "filename": "images/artwork_20260320_100507.jpg",
       "topic": "Hong Kong city life and culture",
