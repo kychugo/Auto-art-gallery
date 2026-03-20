@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260320_152947",
+      "filename": "images/artwork_20260320_152947.jpg",
+      "topic": "blockchain and decentralized future",
+      "prompt": "In a dimly lit, ancient forest clearing bathed in dappled sunlight filtering through an amber and orange-hued canopy, a lone figure is depicted with intimate, human emotion, their form rendered with the dramatic realism and ornate detail characteristic of the Baroque style. The scene embodies a decentralized future, with subtle, interwoven visual cues of interconnected nodes and flowing data streams integrated into the natural textures of the forest floor and ancient tree bark, all captured with a sense of quiet reverence and profound connection. This award-winning composition utilizes a warm amber and orange color palette, with the interplay of light and shadow creating a breathtaking, almost tangible atmosphere that speaks to both the dawn of a new era and the enduring spirit of humanity.",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 1031197279,
+      "created_at": "2026-03-20T15:29:47.157591+08:00"
+    },
+    {
       "id": "20260320_144026",
       "filename": "images/artwork_20260320_144026.jpg",
       "topic": "health and medicine breakthroughs",
