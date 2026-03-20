@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260320_221038",
+      "filename": "images/artwork_20260320_221038.jpg",
+      "topic": "cultural diversity and global harmony",
+      "prompt": "In the style of vibrant pop art, a diverse group of intimate human figures from around the world— an Indigenous woman in feathered headdress, a veiled Middle Eastern dancer, an African elder with tribal scars, an Asian monk in saffron robes, and a European folk musician with accordion—hold hands in a tight circle, their bold outlines and flat crimson and deep red color blocks popping against golden hour sunlight casting long, warm shadows and ethereal glows across their expressive, connected faces. Subtle global icons like floating peace doves, interlocking cultural symbols, and harmonious patterns from samplers and motifs surround them in a visually stunning, award-winning composition that radiates human unity and cultural diversity, with high-contrast halftone dots and dynamic layered silhouettes evoking emotional intimacy and global harmony.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 1144058951,
+      "created_at": "2026-03-20T22:10:38.933354+08:00"
+    },
+    {
       "id": "20260320_220225",
       "filename": "images/artwork_20260320_220225.jpg",
       "topic": "economic inequality and social justice",
