@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260321_055421",
+      "filename": "images/artwork_20260321_055421.jpg",
+      "topic": "cybersecurity and privacy in the digital world",
+      "prompt": "First, the user wants a unique, detailed image generation prompt about cybersecurity and privacy in the digital world. I need to incorporate specific elements: surrealist art style, intimate and human mood, stormy overcast lighting, and a color palette of cool blues and purples.\n\nThe prompt must be visually stunning, award-winning, and highly detailed. It should be 2-4 sentences long and paint a clear mental picture. I must respond with ONLY the image prompt in English, no explanations or markdown.\n\nKey points to cover:\n- Theme: cybersecurity and privacy in the digital world.\n- Art style: surrealist – so, elements that are dreamlike, bizarre, or illogical, blending reality with fantasy.\n- Mood: intimate and human – this suggests a personal, emotional touch, perhaps focusing on individuals or human connections amidst digital elements.\n- Lighting: stormy overcast light – think gloomy, diffused light from cloudy skies, with a sense of impending storm.\n- Color palette: cool blues and purples – dominant colors that evoke calmness, mystery, or technology.\n\nI need to weave these into a cohesive prompt. Start by setting the scene with the lighting and color palette. Then, introduce surrealist elements that represent cybersecurity and privacy. Ensure the mood is intimate and human, so maybe include human figures or emotions.\n\nBrainstorm ideas:\n- Cybersecurity might involve digital locks, shields, data streams, firewalls, etc.\n- Privacy could be about personal space, secrecy, protection from prying eyes.\n- Surrealist twist: maybe a human figure merging with digital elements, or abstract representations of data as physical objects.\n- Intimate mood: focus on a solitary figure or a close interaction that feels personal.\n- Stormy overcast light: creates a dramatic, atmospheric backdrop.\n- Cool blues and purples: enhance the digital, cold, yet mystical feel.\n\nStructure the prompt:\n1. Start with the overall scene, incorporating lighting and color.\n2. Describe key surreal",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 2037415529,
+      "created_at": "2026-03-21T05:54:21.938936+08:00"
+    },
+    {
       "id": "20260321_053820",
       "filename": "images/artwork_20260321_053820.jpg",
       "topic": "quantum computing and the future",
