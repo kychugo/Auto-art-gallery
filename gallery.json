@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260320_133539",
+      "filename": "images/artwork_20260320_133539.jpg",
+      "topic": "health and medicine breakthroughs",
+      "prompt": "A solitary figure lies in a dimly lit medical pod, their silhouette bathed in soft moonlight filtering through narrow windows, casting gentle shadows across their face and the advanced surgical nanites hovering above them like luminous fireflies. Intricate bioluminescent medical implants glow in pastel blues and purples beneath translucent skin, their gentle radiance contrasting the darkness of the cyberpunk room filled with sleek, chrome medical equipment. Warm peach and lavender light from holographic displays reflects off the figure's face, conveying both vulnerability and hope as streams of soft, ethereal particles drift through the air around them. The scene captures a moment of intimate human connection to futuristic medicine, rendered in hyper-detailed cyberpunk aesthetic with tender, dreamlike quality that emphasizes the beauty of healing technology rather than its cold machinery.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 242702769,
+      "created_at": "2026-03-20T13:35:39.495990+08:00"
+    },
+    {
       "id": "20260320_131429",
       "filename": "images/artwork_20260320_131429.jpg",
       "topic": "ocean conservation and marine life",
