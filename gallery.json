@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260321_065159",
+      "filename": "images/artwork_20260321_065159.jpg",
+      "topic": "virtual reality and the metaverse",
+      "prompt": "A surrealist dreamscape where glowing, interconnected neon pathways, shimmering with vibrant emeralds, magentas, and electric blues, weave through an ethereal, mist-filled metaverse. Golden hour sunlight, diffused and warm, casts long, soft shadows across floating islands adorned with impossible, bioluminescent flora, creating a profoundly peaceful and serene atmosphere, as if stepping into a tranquil digital afterlife. The scene should evoke a sense of wonder and gentle exploration, rendered with hyper-realistic detail that blurs the line between the digital and the sublime.",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 607154251,
+      "created_at": "2026-03-21T06:51:59.075335+08:00"
+    },
+    {
       "id": "20260321_061529",
       "filename": "images/artwork_20260321_061529.jpg",
       "topic": "global climate crisis and environmental solutions",
