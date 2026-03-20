@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260320_193337",
+      "filename": "images/artwork_20260320_193337.jpg",
+      "topic": "space exploration and the cosmos",
+      "prompt": "A minimalist yet visually stunning depiction of space exploration, featuring a sleek astronaut in a form-fitting suit floating gracefully towards a distant neon-glowing planet, with a streamlined rocket trail slicing through swirling cosmic vortices and distant stars, all rendered in clean geometric lines and bold negative space. Bathed in the warm, radiant glow of golden hour sunlight filtering through ethereal nebulae, the scene pulses with vibrant energetic mood through a striking palette of electric neon blues, hot pinks, vivid greens, and fiery oranges against deep black voids. Award-winning digital art masterpiece, highly detailed in subtle textures and dynamic motion blur, evoking boundless cosmic adventure and human ingenuity.",
+      "text_model": "perplexity-fast",
+      "image_model": "klein",
+      "seed": 1290131771,
+      "created_at": "2026-03-20T19:33:37.464038+08:00"
+    },
+    {
       "id": "20260320_190107",
       "filename": "images/artwork_20260320_190107.jpg",
       "topic": "future of human civilization and technology",
