@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260320_195035",
+      "filename": "images/artwork_20260320_195035.jpg",
+      "topic": "Hong Kong city life and culture",
+      "prompt": "A cinematic wide shot capturing the monumental grandeur of Hong Kong at night, with soft pastel hues bathing the towering skyscrapers that pierce a moonlit sky, their silhouettes accentuated by deep, dramatic shadows.  Strewn across the bustling street level below, a vibrant tapestry of neon signs and glowing lanterns cast a warm, diffused light, hinting at the dynamic energy and cultural pulse of the city, creating a mood of powerful, awe-inspiring urban majesty.",
+      "text_model": "gemini-fast",
+      "image_model": "klein",
+      "seed": 1759199209,
+      "created_at": "2026-03-20T19:50:35.446984+08:00"
+    },
+    {
       "id": "20260320_193337",
       "filename": "images/artwork_20260320_193337.jpg",
       "topic": "space exploration and the cosmos",
