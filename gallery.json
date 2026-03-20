@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260321_074802",
+      "filename": "images/artwork_20260321_074802.jpg",
+      "topic": "fashion meets technology",
+      "prompt": "A high fashion model posed in a dystopian cyberpunk setting, wearing avant-garde metallic garments with integrated circuit patterns and holographic accents, rendered in bold pop art style with exaggerated proportions and stark graphic outlines, dramatic studio lighting casting deep shadows across her angular features while neon-lit robotic limbs emerge from the shadows behind her, the entire scene washed in ethereal soft pastel hues of dusty rose, lavender mist and pale mint that contrast hauntingly with the dark apocalyptic atmosphere surrounding her.",
+      "text_model": "minimax",
+      "image_model": "klein",
+      "seed": 1150472243,
+      "created_at": "2026-03-21T07:48:02.502278+08:00"
+    },
+    {
       "id": "20260321_072518",
       "filename": "images/artwork_20260321_072518.jpg",
       "topic": "fashion meets technology",
