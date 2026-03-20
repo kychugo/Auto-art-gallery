@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260320_162712",
+      "filename": "images/artwork_20260320_162712.jpg",
+      "topic": "fashion meets technology",
+      "prompt": "A striking oil painting of a confident model striding through a futuristic urban nexus, her couture gown fusing terracotta earth tones with intricate technological marvels—circuitry veins pulsing with bioluminescent glows weaving through layered silk folds mimicking ancient brushstrokes, holographic neural interfaces adorning her neckline, and cybernetic jewelry embedded in flowing ruffles that blend organic fabric textures with metallic filaments. The vibrant, energetic mood bursts forth in dramatic chiaroscuro lighting from embedded neon implants and floating data orbs, casting ethereal turquoise and amber highlights against a palette dominated by warm terracotta reds, burnt siennas, and deep ochres. Rendered in hyper-detailed Renaissance oil techniques with impasto textures and luminous glazes, this award-winning masterpiece evokes the raw fusion of timeless fashion artistry and cutting-edge cyberpunk innovation.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 1350272054,
+      "created_at": "2026-03-20T16:27:12.615746+08:00"
+    },
+    {
       "id": "20260320_160248",
       "filename": "images/artwork_20260320_160248.jpg",
       "topic": "sports and human physical achievement",
