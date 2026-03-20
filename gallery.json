@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260321_045934",
+      "filename": "images/artwork_20260321_045934.jpg",
+      "topic": "economic inequality and social justice",
+      "prompt": "A stark watercolor scene, rendered in a dark, dystopian mood, depicts a fractured cityscape where towering, impossibly slender skyscrapers pierce a smoggy sky, their surfaces shimmering with a holographic iridescent sheen.  Below, a dense, shadowy sprawl of dilapidated structures is barely illuminated by the soft, diffused daylight filtering through the oppressive atmosphere, emphasizing the vast gulf between opulence and decay, with ghostly, almost translucent figures navigating the grimy streets.",
+      "text_model": "gemini-fast",
+      "image_model": "flux-2-dev",
+      "seed": 2033624726,
+      "created_at": "2026-03-21T04:59:34.839654+08:00"
+    },
+    {
       "id": "20260321_042356",
       "filename": "images/artwork_20260321_042356.jpg",
       "topic": "post-pandemic world transformation",
