@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260320_113137",
+      "filename": "images/artwork_20260320_113137.jpg",
+      "topic": "cultural diversity and global harmony",
+      "prompt": "An abstract expressionist piece evoking a hopeful and uplifting mood, where swirling forms in warm amber and orange tones blend seamlessly, representing the interconnectedness of global cultures. Moonlight casts dramatic shadows, highlighting the dynamic interplay of diverse elements, creating a visually stunning and deeply resonant artwork. The texture should be rich and painterly, with bold yet harmonious strokes that capture a sense of universal harmony and optimism.",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 840378259,
+      "created_at": "2026-03-20T11:31:37.107428+08:00"
+    },
+    {
       "id": "20260320_111413",
       "filename": "images/artwork_20260320_111413.jpg",
       "topic": "Hong Kong protest art and resilience",
