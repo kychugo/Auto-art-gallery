@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260320_170626",
+      "filename": "images/artwork_20260320_170626.jpg",
+      "topic": "renewable energy and sustainable living",
+      "prompt": "A serene watercolor cityscape at twilight, where buildings are adorned with lush vertical gardens and wind turbines integrated seamlessly into their architecture, all bathed in the ethereal glow of cool blue and purple neon lights reflecting on wet streets. Bioluminescent flora weaves through the urban landscape, casting a soft, otherworldly light, contributing to a peaceful, sustainable future. The overall mood is one of tranquil innovation and harmonious coexistence between nature and technology, rendered in a delicate, award-winning watercolor style.",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 1926974941,
+      "created_at": "2026-03-20T17:06:26.853429+08:00"
+    },
+    {
       "id": "20260320_162712",
       "filename": "images/artwork_20260320_162712.jpg",
       "topic": "fashion meets technology",
