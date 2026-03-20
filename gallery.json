@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260320_122558",
+      "filename": "images/artwork_20260320_122558.jpg",
+      "topic": "street food culture in Hong Kong",
+      "prompt": "An anime-inspired scene of a bustling Hong Kong night market, shrouded in a mysterious, ethereal mist, where glowing lanterns cast long, dramatic shadows under intense studio lighting. The color palette is dominated by cool blues and deep purples, highlighting the steam rising from exotic street food stalls laden with wonton noodles and dim sum, creating a visually stunning and award-winning composition. Detailed characters in the foreground are caught in moments of quiet anticipation, their features softly illuminated, adding to the overall enigmatic atmosphere.",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 1918680010,
+      "created_at": "2026-03-20T12:25:58.353438+08:00"
+    },
+    {
       "id": "20260320_121951",
       "filename": "images/artwork_20260320_121951.jpg",
       "topic": "Hong Kong protest art and resilience",
