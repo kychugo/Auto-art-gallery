@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260320_134740",
+      "filename": "images/artwork_20260320_134740.jpg",
+      "topic": "fashion meets technology",
+      "prompt": "A lone figure, their cybernetic enhancements gleaming, stands silhouetted against a colossal, glitching holographic advertisement, all rendered in a bold, graphic pop art style. The scene is cast in the eerie, saturated glow of golden hour sunlight, cutting sharply through the smoggy, dark, and dystopian cityscape, while a palette of deep, cool blues and vibrant purples dominates the urban decay and digital rain. This visually stunning, award-winning composition should capture the tension between humanity and runaway technology, with intricate details in the discarded cybernetics and the crumbling urban structures.",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 2033146400,
+      "created_at": "2026-03-20T13:47:40.260110+08:00"
+    },
+    {
       "id": "20260320_133539",
       "filename": "images/artwork_20260320_133539.jpg",
       "topic": "health and medicine breakthroughs",
