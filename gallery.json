@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260320_125201",
+      "filename": "images/artwork_20260320_125201.jpg",
+      "topic": "traditional vs modern culture clash in Asia",
+      "prompt": "A serene pop art composition depicting two flowing streams of culture merging in perfect harmony—one stream rendered in traditional Asian brushstrokes and muted earth tones showing ancient temples, family hierarchies, and ceremonial rituals, the other in bold graphic pop art lines with vibrant Western iconography of individualism and modernity—both streams bathed in ethereal bioluminescent glows of cool blues and purples that create a peaceful, almost meditative atmosphere where the collision becomes a beautiful dance rather than a clash. The foreground features silhouettes of people caught between both worlds, rendered in striking pop art contrast, while luminous particles drift through the composition like digital cherry blossoms meeting neon light, creating an award-winning visual metaphor for cultural confluence with intricate detail in every intersection point where tradition gracefully meets innovation.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 1947530776,
+      "created_at": "2026-03-20T12:52:01.421731+08:00"
+    },
+    {
       "id": "20260320_122558",
       "filename": "images/artwork_20260320_122558.jpg",
       "topic": "street food culture in Hong Kong",
