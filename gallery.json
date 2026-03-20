@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260320_121951",
+      "filename": "images/artwork_20260320_121951.jpg",
+      "topic": "Hong Kong protest art and resilience",
+      "prompt": "A dystopian digital art scene depicting Hong Kong's protest art and resilience, with storm clouds swirling overhead under dramatic stormy overcast light. Crimson and deep red hues dominate the palette as hundreds of umbrellas rise like shields in the foreground, their surfaces adorned with hand-painted protest slogans, golden lotus flowers, and symbolic calligraphy. Graffiti-covered walls drip with vibrant red paint down weathered concrete buildings, while distant neon signs flicker through the mist, casting ominous reflections on wet streets. The dark, tense atmosphere captures the unyielding spirit of resistance, with each artistic expression glowing like embers of defiance against the oppressive twilight.",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 1931705131,
+      "created_at": "2026-03-20T12:19:51.743801+08:00"
+    },
+    {
       "id": "20260320_114314",
       "filename": "images/artwork_20260320_114314.jpg",
       "topic": "biotechnology and genetic engineering",
