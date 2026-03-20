@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260321_061529",
+      "filename": "images/artwork_20260321_061529.jpg",
+      "topic": "global climate crisis and environmental solutions",
+      "prompt": "A colossal, intricately detailed terrestrial globe, half shrouded in shadow and the other half bathed in the ethereal glow of soft diffused daylight, revealing a starkly divided landscape of environmental devastation and burgeoning green solutions; the scene rendered in a photorealistic style with a high contrast black and gold color palette, evoking a powerful and monumental mood of urgent hope and immense responsibility. The planet's surface displays both scorched earth and vibrant, thriving ecosystems, with subtle gold accents highlighting technological innovations and natural regeneration, presented with award-winning clarity and breathtaking detail.",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 3908202,
+      "created_at": "2026-03-21T06:15:29.965643+08:00"
+    },
+    {
       "id": "20260321_055421",
       "filename": "images/artwork_20260321_055421.jpg",
       "topic": "cybersecurity and privacy in the digital world",
