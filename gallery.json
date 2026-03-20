@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260320_180558",
+      "filename": "images/artwork_20260320_180558.jpg",
+      "topic": "urban architecture of the future",
+      "prompt": "In an anime-inspired vision of future urban architecture, towering terracotta skyscrapers with organic, Metabolist-inspired curves and cascading green terraces rise harmoniously from a serene mega-city built on reclaimed bay land, evoking peaceful Neo-Tokyo serenity during golden hour sunlight that bathes earth-toned facades in warm amber and ochre glows. Gentle sunlight filters through layered flyovers and tranquil elevated gardens, casting soft shadows on wide pedestrian avenues lined with flowing water channels and subtle holographic vines, creating a breathtaking, award-winning panorama of harmonious human-nature fusion. Highly detailed cel-shaded aesthetics highlight intricate tile patterns, reflective glass accents in sienna hues, and distant horizons of misty spires under a calm, pastel sky.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 1817625381,
+      "created_at": "2026-03-20T18:05:58.158928+08:00"
+    },
+    {
       "id": "20260320_173420",
       "filename": "images/artwork_20260320_173420.jpg",
       "topic": "cultural diversity and global harmony",
