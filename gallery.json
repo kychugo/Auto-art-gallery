@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260320_130454",
+      "filename": "images/artwork_20260320_130454.jpg",
+      "topic": "traditional vs modern culture clash in Asia",
+      "prompt": "In a surrealist dreamscape of ancient Asian forest where dappled light filters through twisting banyan trees, a majestic terracotta temple morphs fluidly into a towering glass skyscraper, its ornate pagoda roofs melting like Dali's clocks into neon billboards advertising holographic smartphones, while ethereal geisha figures in silk kimonos dissolve into suited executives clutching VR headsets.[1][2][3] Traditional farmers with water buffalo unexpectedly juxtaposed against levitating bullet trains plow fields that warp into circuit-board patterns, evoking a melancholic clash between timeless rituals and relentless modernity.[1][4] Earth tones of ochre clay, mossy greens, and burnt sienna dominate this reflective scene, with gravity-defying vines entwining analog prayer wheels and digital drones in award-winning hyper-detailed veristic precision.[2][3]",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 675885186,
+      "created_at": "2026-03-20T13:04:54.533037+08:00"
+    },
+    {
       "id": "20260320_125201",
       "filename": "images/artwork_20260320_125201.jpg",
       "topic": "traditional vs modern culture clash in Asia",
