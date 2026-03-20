@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260320_233909",
+      "filename": "images/artwork_20260320_233909.jpg",
+      "topic": "mental health awareness in the digital age",
+      "prompt": "An impressionistic cityscape, bathed in the eerie neon glow of distant skyscrapers, depicts a lone figure hunched over a glowing screen, their silhouette fractured by flickering emerald light.  Deep forest greens bleed into the smog-choked air, creating a dark and dystopian mood, where fragmented digital synapses, rendered in loose, painterly strokes, form a claustrophobic halo around the weary individual, their essence dissolving into the pervasive digital noise.",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 2036955555,
+      "created_at": "2026-03-20T23:39:09.711551+08:00"
+    },
+    {
       "id": "20260320_231035",
       "filename": "images/artwork_20260320_231035.jpg",
       "topic": "Hong Kong city life and culture",
