@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260320_100507",
+      "filename": "images/artwork_20260320_100507.jpg",
+      "topic": "Hong Kong city life and culture",
+      "prompt": "A dramatic oil painting of Hong Kong's bustling street life rendered with thick, expressive brushstrokes, where towering neon-lit skyscrapers and iconic double-decker trams converge in a vibrant urban symphony bathed in dappled, ethereal light that filters through misty air. The scene captures the intense energy of crowded pedestrian streets and Victoria Harbour, with a holographic iridescent color palette of shimmering magentas, electric teals, and pearlescent golds that shift and dance across traditional architecture and modern cityscapes. Rich oils create luminous, jewel-toned reflections on wet pavement and water surfaces, while the atmospheric lighting creates dramatic shadows and highlights that emphasize the contrast between ancient temples and contemporary glass towers. The composition evokes the raw, pulsating spirit of Hong Kong culture—a mesmerizing blend of East-meets-West chaos, tradition, and cutting-edge modernity rendered with museum-quality mastery and cinematic grandeur.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 36267841,
+      "created_at": "2026-03-20T10:05:07.700600+08:00"
+    },
+    {
       "id": "20260320_075007",
       "filename": "images/artwork_20260320_075007.jpg",
       "topic": "cultural diversity and global harmony",
