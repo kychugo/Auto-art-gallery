@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260322_041755",
+      "filename": "images/artwork_20260322_041755.jpg",
+      "topic": "street food culture in Hong Kong",
+      "prompt": "In a minimalist style, capture the dramatic intensity of Hong Kong's bustling street food culture at night, where sleek silhouettes of vendors at glowing carts serve steaming siu mai in bamboo steamers, sizzling cha siu skewers, fluffy egg tarts, and fish balls under bioluminescent glows from ethereal lanterns hovering like neon spirits. Soft pastel hues of blush pinks, mint greens, lavender blues, and creamy yellows bathe the narrow alley scene, with sharp shadows and sparse details heightening the tense energy of hurried eaters clutching chopsticks amid towering neon signs. Award-winning composition with cinematic depth, glowing vapors rising dramatically from woks, evoking a surreal, pulse-pounding urban feast.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 683622612,
+      "created_at": "2026-03-22T04:17:55.578193+08:00"
+    },
+    {
       "id": "20260321_232219",
       "filename": "images/artwork_20260321_232219.jpg",
       "topic": "mental health awareness in the digital age",
