@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260321_130444",
+      "filename": "images/artwork_20260321_130444.jpg",
+      "topic": "urban architecture of the future",
+      "prompt": "First, the user has asked for a unique, detailed image generation prompt about urban architecture of the future. I need to incorporate specific elements: art style is digital art, mood is dramatic and intense, lighting is golden hour sunlight, and color palette is crimson and deep red.\n\nThe prompt should be 2-4 sentences long, visually stunning, award-winning, and highly detailed. I must write only in English and provide ONLY the image prompt itself, no explanations or extra text.\n\nI need to craft a prompt that paints a clear mental picture. Let me brainstorm the key components:\n\n- **Subject**: Urban architecture of the future. Think futuristic buildings, maybe sleek skyscrapers, advanced materials, innovative designs.\n\n- **Art style**: Digital art. This suggests a polished, computer-generated look, possibly with sharp details and vibrant effects.\n\n- **Mood**: Dramatic and intense. This implies a sense of awe, tension, or grandeur. Perhaps with dynamic angles or contrasting elements.\n\n- **Lighting**: Golden hour sunlight. That's the warm, soft light during sunrise or sunset, casting long shadows and glowing hues.\n\n- **Color palette**: Crimson and deep red. So, the dominant colors should be shades of red, from bright crimson to dark maroon.\n\nI need to weave these elements naturally into a cohesive description. The prompt should be descriptive and rich in visual detail.\n\nStructure the prompt in 2-4 sentences. Start by setting the scene, then add details about architecture, lighting, and colors, ensuring the mood is conveyed.\n\nExample outline:\n\n- Sentence 1: Introduce the futuristic urban scene with dramatic mood and golden hour lighting.\n\n- Sentence 2: Describe the architecture in detail, focusing on crimson and deep red colors.\n\n- Sentence 3: Add more specifics about the digital art style and intense atmosphere.\n\n- Sentence 4: If needed, reinforce the award-winning, stunning aspect through description.\n\nBut remember, I'm only writing the prompt, not",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 1805400316,
+      "created_at": "2026-03-21T13:04:44.845750+08:00"
+    },
+    {
       "id": "20260321_125344",
       "filename": "images/artwork_20260321_125344.jpg",
       "topic": "animals and nature conservation",
