@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260321_225248",
+      "filename": "images/artwork_20260321_225248.jpg",
+      "topic": "cybersecurity and privacy in the digital world",
+      "prompt": "A lone figure in a flowing dark coat stands on a floating marble platform in an endless digital void, their hands cradling a glowing golden sphere containing intricate circuitry and binarycode patterns, moonlight streaming from above casting dramatic silver illumination across sharp geometric shadows, as floating holographic locks and keys orbit protectively around them in perfect stillness, high contrast black and gold palette creating an ethereal noir atmosphere of serene digital guardianship.",
+      "text_model": "minimax",
+      "image_model": "klein",
+      "seed": 605163564,
+      "created_at": "2026-03-21T22:52:48.106863+08:00"
+    },
+    {
       "id": "20260321_222956",
       "filename": "images/artwork_20260321_222956.jpg",
       "topic": "human migration and global nomadism",
