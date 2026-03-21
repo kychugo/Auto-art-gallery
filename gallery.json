@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260321_140224",
+      "filename": "images/artwork_20260321_140224.jpg",
+      "topic": "renewable energy and sustainable living",
+      "prompt": "A lone figure meditates within a geodesic dome constructed of reclaimed timber and glowing, bioluminescent algae panels, bathed in the dramatic studio lighting that casts long, crimson shadows across the polished concrete floor, evoking a mood of profound peace and serenity. Outside, a crimson sunset bleeds into a deep red sky, silhouetting wind turbines and solar arrays that hum with silent, sustainable power, their forms rendered in a cinematic style with an award-winning level of detail and a rich, deep red color palette.",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 325330639,
+      "created_at": "2026-03-21T14:02:24.142384+08:00"
+    },
+    {
       "id": "20260321_133630",
       "filename": "images/artwork_20260321_133630.jpg",
       "topic": "cultural diversity and global harmony",
