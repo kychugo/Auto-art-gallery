@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260321_214451",
+      "filename": "images/artwork_20260321_214451.jpg",
+      "topic": "post-pandemic world transformation",
+      "prompt": "A solitary figure, cloaked in shadows, stands at the precipice of a city reclaimed by nature, its skeletal skyscrapers adorned with cascading holographic vines and bio-luminescent flora, rendered in a gritty, award-winning digital art style. Dramatic studio lighting casts sharp, ethereal beams through the dense, iridescent mist, illuminating fragmented digital remnants of a forgotten world against a dark, dystopian, and holographic iridescent color palette. The atmosphere is heavy with the quiet hum of advanced decay, where advanced technology has merged with organic regrowth in a stunning, melancholic rebirth.",
+      "text_model": "gemini-fast",
+      "image_model": "klein",
+      "seed": 921967725,
+      "created_at": "2026-03-21T21:44:51.608784+08:00"
+    },
+    {
       "id": "20260321_211454",
       "filename": "images/artwork_20260321_211454.jpg",
       "topic": "street food culture in Hong Kong",
