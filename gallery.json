@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260322_061146",
+      "filename": "images/artwork_20260322_061146.jpg",
+      "topic": "animals and nature conservation",
+      "prompt": "A minimalist scene bathed in soft diffused daylight, featuring a solitary endangered fox silhouette perched on a sparse amber-hued rock amid vast negative space of endless orange-toned savanna grasses gently swaying, symbolizing fragile nature conservation. Warm amber and orange palette evokes a melancholic, reflective mood, with clean geometric lines defining the animal's precise form against a harmonious horizon fading into emptiness, subtle textures on the fur and earth adding understated depth. Award-winning composition emphasizing balance, serenity, and the poignant beauty of wildlife preservation in a visually stunning, pared-down masterpiece.",
+      "text_model": "perplexity-fast",
+      "image_model": "gptimage",
+      "seed": 1212306329,
+      "created_at": "2026-03-22T06:11:46.728198+08:00"
+    },
+    {
       "id": "20260322_054940",
       "filename": "images/artwork_20260322_054940.jpg",
       "topic": "virtual reality and the metaverse",
