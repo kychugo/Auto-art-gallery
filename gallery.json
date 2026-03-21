@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260321_132758",
+      "filename": "images/artwork_20260321_132758.jpg",
+      "topic": "human migration and global nomadism",
+      "prompt": "A lone wanderer in traditional traveling clothes sits beside a dying campfire in an ancient forest, their silhouette framed by towering emerald trees as far as the eye can see, with anime-style soft edges and tear-track highlights on their weathered face reflecting the flickering candlelight in their dark eyes; the deep forest greens and amber glow create a hauntingly beautiful scene of quiet solitude and endless journey, with subtle volumetric fog rolling between moss-covered roots and distant mountain silhouettes on the horizon suggesting countless miles already traveled and countless more still to come.",
+      "text_model": "minimax",
+      "image_model": "flux-2-dev",
+      "seed": 1952679618,
+      "created_at": "2026-03-21T13:27:58.425732+08:00"
+    },
+    {
       "id": "20260321_130444",
       "filename": "images/artwork_20260321_130444.jpg",
       "topic": "urban architecture of the future",
