@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260321_161836",
+      "filename": "images/artwork_20260321_161836.jpg",
+      "topic": "revolution in education through technology",
+      "prompt": "In a dimly lit, rain-slicked cyberpunk cityscape, a lone student hunches over a holographic projector casting flickering data streams, their face illuminated by the surreal glow of scattered candlelight and the vibrant, clashing neon signs of a decaying urban sprawl. The scene embodies a dark, dystopian mood, with sharp contrasts between the warm, intimate candlelight and the cold, artificial brilliance of the city, all rendered in a hyper-detailed, award-winning art style that emphasizes the struggle for knowledge amidst technological oppression. This visually stunning image should capture the essence of revolution in education through a deeply atmospheric, cyberpunk lens, where emergent learning finds its light in the shadows of a controlled future.",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 187137036,
+      "created_at": "2026-03-21T16:18:36.696728+08:00"
+    },
+    {
       "id": "20260321_155258",
       "filename": "images/artwork_20260321_155258.jpg",
       "topic": "revolution in education through technology",
