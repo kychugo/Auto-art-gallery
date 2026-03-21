@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260321_112356",
+      "filename": "images/artwork_20260321_112356.jpg",
+      "topic": "social media culture and human connection",
+      "prompt": "A dramatic baroque composition depicting multiple human figures suspended in golden hour sunlight, their faces illuminated with intense emotional expression as they reach toward glowing smartphone screens floating in monochromatic black and white space, their ornate clothing rendered in rich chiaroscuro with swirling, dynamic folds that suggest frantic movement and yearning connection. The scene combines the sensuous grandeur of baroque painting with modern isolation—angels and mortals intertwined in a vortex of light and shadow, their gestures frozen mid-action as if caught between communion and solitude, with intricate baroque ornamentation dissolving into pixelated fragments where flesh meets technology. Deep contrasts of black and white create theatrical tension across the composition while warm golden rays pierce through like divine intervention, illuminating the raw, exuberant emotion etched across every face in this paradoxical celebration of connection through distance.",
+      "text_model": "perplexity-fast",
+      "image_model": "gptimage",
+      "seed": 987636731,
+      "created_at": "2026-03-21T11:23:56.702451+08:00"
+    },
+    {
       "id": "20260321_110556",
       "filename": "images/artwork_20260321_110556.jpg",
       "topic": "Hong Kong city life and culture",
