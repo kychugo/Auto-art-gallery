@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260321_113411",
+      "filename": "images/artwork_20260321_113411.jpg",
+      "topic": "cultural diversity and global harmony",
+      "prompt": "A dystopian oil painting depicting figures from diverse cultures standing together on the ruins of a shattered city, their silhouettes merging in unity as golden hour sunlight bleeds through a smoke-filled crimson sky, with shattered towers and abandoned streets bathed in rich burgundy and deep scarlet hues, the warm amber light catching their faces in stark relief against the surrounding apocalyptic darkness, capturing both the tragedy of a broken world and the resilient hope of human connection, highly detailed, award-winning style, dramatic chiaroscuro lighting, textured brushwork characteristic of master oil painters.",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 713455488,
+      "created_at": "2026-03-21T11:34:11.041893+08:00"
+    },
+    {
       "id": "20260321_112356",
       "filename": "images/artwork_20260321_112356.jpg",
       "topic": "social media culture and human connection",
