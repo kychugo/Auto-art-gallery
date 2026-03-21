@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260321_204731",
+      "filename": "images/artwork_20260321_204731.jpg",
+      "topic": "news headlines of tomorrow",
+      "prompt": "A monumental abstract expressionist canvas dominates the frame, with torn and layered fragments of tomorrow's news headlines—\"Global Unity Achieved,\" \"AI Cures Aging,\" \"Mars Colony Thrives\"—exploding in wild, gestural black ink strokes and dripping gold pigments that evoke seismic shifts in history, rendered in high-contrast black and gold palette for a sense of epic inevitability. Dramatic studio lighting casts sharp chiaroscuro shadows across the textured, impastoed surface, highlighting monumental sweeps of calligraphic energy and buried typographic chaos as if prophesying world-altering events from a divine oracle. This award-winning, hyper-detailed masterpiece pulses with powerful tension, blending raw emotional force and gilded futurism in the vein of Pollock and Kline reimagined for tomorrow's dawn.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux-2-dev",
+      "seed": 1741012544,
+      "created_at": "2026-03-21T20:47:31.222969+08:00"
+    },
+    {
       "id": "20260321_194246",
       "filename": "images/artwork_20260321_194246.jpg",
       "topic": "human migration and global nomadism",
