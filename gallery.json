@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260321_175500",
+      "filename": "images/artwork_20260321_175500.jpg",
+      "topic": "Hong Kong city life and culture",
+      "prompt": "A melancholic watercolor painting of Hong Kong's bustling streets under stormy, overcast skies, where towering skyscrapers loom softly through mist and rain, rendered in delicate pastel hues of pale grey, dusty blue, and muted rose. Narrow alleyways teem with subtle human figures and vintage cars, their forms blurred and dreamlike, as wet-on-wet watercolor techniques create atmospheric washes that blur the boundary between architecture and sky. The one-point perspective draws the viewer down rain-slicked streets lined with weathered storefronts and neon signs glowing faintly through the haze, capturing both the frenetic energy and quiet introspection of urban life. Soft, diffused light filters through the clouds, casting everything in a contemplative, nostalgic mood that speaks to Hong Kong's complex beauty—vibrant yet melancholic, modern yet timeless.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 844244178,
+      "created_at": "2026-03-21T17:55:00.476435+08:00"
+    },
+    {
       "id": "20260321_172356",
       "filename": "images/artwork_20260321_172356.jpg",
       "topic": "news headlines of tomorrow",
