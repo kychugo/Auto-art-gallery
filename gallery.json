@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260322_054940",
+      "filename": "images/artwork_20260322_054940.jpg",
+      "topic": "virtual reality and the metaverse",
+      "prompt": "A solitary figure, rendered in a hyperrealistic cinematic style, gazes outward from within a translucent, emerald-green VR headset, their face illuminated by the ethereal glow of a deep forest green aurora borealis shimmering across a vast, desolate digital landscape. The mood is profoundly melancholic and reflective, with fractured geometric shapes and ghost-like avatars drifting silently in the background, casting long, distorted shadows under the otherworldly arctic light. Every detail, from the subtle condensation on the headset lens to the faint pixelation of the virtual environment, contributes to a sense of poignant isolation and quiet contemplation within the boundless metaverse.",
+      "text_model": "gemini-fast",
+      "image_model": "gptimage",
+      "seed": 1837716189,
+      "created_at": "2026-03-22T05:49:40.863477+08:00"
+    },
+    {
       "id": "20260322_053355",
       "filename": "images/artwork_20260322_053355.jpg",
       "topic": "artificial intelligence reshaping society",
