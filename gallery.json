@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260321_194246",
+      "filename": "images/artwork_20260321_194246.jpg",
+      "topic": "human migration and global nomadism",
+      "prompt": "A surrealist masterpiece depicting human migration as a vibrant, energetic river of neon-colored figures flowing across a dreamlike landscape illuminated by a warm candlelight ambiance. This scene bursts with swirling, luminous trails of light, intricate geometric patterns woven into the fabric of reality, and symbolic representations of journeys and destinations, all rendered with hyper-realistic detail and a dramatic, award-winning composition. The overall impression is one of hopeful movement and interconnectedness, a visually stunning testament to global nomadism.",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 1365358741,
+      "created_at": "2026-03-21T19:42:46.517318+08:00"
+    },
+    {
       "id": "20260321_192522",
       "filename": "images/artwork_20260321_192522.jpg",
       "topic": "traditional vs modern culture clash in Asia",
