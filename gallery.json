@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260322_045253",
+      "filename": "images/artwork_20260322_045253.jpg",
+      "topic": "health and medicine breakthroughs",
+      "prompt": "In a cyberpunk dystopia bathed in ethereal moonlight and deep, enveloping shadows, a young woman with intricate neural implants glowing faintly under her skin sits intimately close to her elderly mentor in a cluttered neon-lit clinic, as he tenderly interfaces a revolutionary cybernetic heart directly into his chest, symbolizing a medical breakthrough in life-extending biotech. Their faces, etched with quiet hope and human vulnerability, are rendered in stark **monochromatic black and white**, with dramatic chiaroscuro lighting accentuating the raw fusion of flesh and machinery—prosthetic veins pulsing, holographic vitals flickering, and surgical nanites swarming like ethereal ghosts. This award-winning, hyper-detailed scene captures an intimate moment of healing amidst urban decay, in the style of Paolo Puggioni's gritty cyberpunk portraits blended with surgical precision, evoking profound emotional depth and futuristic awe.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 1788390988,
+      "created_at": "2026-03-22T04:52:53.890997+08:00"
+    },
+    {
       "id": "20260322_041755",
       "filename": "images/artwork_20260322_041755.jpg",
       "topic": "street food culture in Hong Kong",
