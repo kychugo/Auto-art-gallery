@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260321_121650",
+      "filename": "images/artwork_20260321_121650.jpg",
+      "topic": "music and the evolution of sound",
+      "prompt": "A serene oil painting depicting the evolution of sound as ethereal, glowing soundwaves gently unfurling from ancient instruments like lyres and flutes, transitioning through synthesizers and digital interfaces, culminating in abstract, luminous forms that represent the future of music. Bathed in the warm, golden hour sunlight, the scene is rendered in a soft pastel color palette of rose, lavender, and pale gold, evoking a peaceful and contemplative mood. The artwork should possess a visually stunning, award-winning quality with intricate details in the textures of the instruments and the flow of the light and sound.",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 1652149844,
+      "created_at": "2026-03-21T12:16:50.855884+08:00"
+    },
+    {
       "id": "20260321_120958",
       "filename": "images/artwork_20260321_120958.jpg",
       "topic": "future of human civilization and technology",
