@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260321_232219",
+      "filename": "images/artwork_20260321_232219.jpg",
+      "topic": "mental health awareness in the digital age",
+      "prompt": "An abstract expressionist painting, bathed in the melancholic, reflective glow of candlelight, depicting the struggle for connection in the digital age. Swirling, high-contrast black and gold forms represent fragmented identities and digital noise, with delicate, shimmering threads of gold reaching out from shadowy depths, searching for solace and understanding. The overall mood is one of quiet introspection and a yearning for authenticity amidst the digital ether.",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 1275109589,
+      "created_at": "2026-03-21T23:22:19.888284+08:00"
+    },
+    {
       "id": "20260321_225248",
       "filename": "images/artwork_20260321_225248.jpg",
       "topic": "cybersecurity and privacy in the digital world",
