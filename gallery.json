@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260321_110556",
+      "filename": "images/artwork_20260321_110556.jpg",
+      "topic": "Hong Kong city life and culture",
+      "prompt": "A dynamic oil painting capturing Hong Kong's iconic skyline at golden hour, where towering skyscrapers pierce the sky in dramatic silhouette against brilliant white and deep black contrast, their illuminated windows glowing like scattered stars as bustling streets below teem with vibrant energy; the scene rendered in striking monochromatic tones, with warm highlights suggesting the dying sun's amber glow through masterful brushwork and dramatic chiaroscuro, conveying the pulsating heartbeat of this cosmopolitan paradise where ancient temples stand beside futuristic towers and neon-lit markets buzz with life, each element rendered with photorealistic detail and the rich texture of traditional oil techniques.",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 149031734,
+      "created_at": "2026-03-21T11:05:56.843432+08:00"
+    },
+    {
       "id": "20260321_095852",
       "filename": "images/artwork_20260321_095852.jpg",
       "topic": "ancient traditions meeting the modern world",
