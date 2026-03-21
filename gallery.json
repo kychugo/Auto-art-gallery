@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260321_215648",
+      "filename": "images/artwork_20260321_215648.jpg",
+      "topic": "human migration and global nomadism",
+      "prompt": "A small caravan of modern nomads rests beneath ancient trees in a misty forest, their worn backpacks and weather-beaten faces illuminated by golden dappled light filtering through emerald canopies, rendered in rich oil painting style with deep forest greens and amber highlights creating an intimate, soulful mood that captures the quiet dignity of a wandering life.",
+      "text_model": "minimax",
+      "image_model": "klein",
+      "seed": 1763636365,
+      "created_at": "2026-03-21T21:56:48.864410+08:00"
+    },
+    {
       "id": "20260321_214451",
       "filename": "images/artwork_20260321_214451.jpg",
       "topic": "post-pandemic world transformation",
