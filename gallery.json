@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260321_150921",
+      "filename": "images/artwork_20260321_150921.jpg",
+      "topic": "social media culture and human connection",
+      "prompt": "A photorealistic dystopian scene at golden hour: a crowded rooftop silent except for glowing holographic social media interfaces hovering before each person's face. The warm, low sunlight casts long shadows and catches the dust in the air, contrasting starkly with the vibrant neon blues, pinks, and greens of the digital feeds that illuminate their disconnected, vacant expressions. Detailed elements include worn clothing, sleek augmented reality glasses reflecting data streams, and the distant skyline blurred by smog, creating a visually stunning and award-winning commentary on isolation in a hyper-connected world.",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 1107728460,
+      "created_at": "2026-03-21T15:09:21.581719+08:00"
+    },
+    {
       "id": "20260321_142955",
       "filename": "images/artwork_20260321_142955.jpg",
       "topic": "revolution in education through technology",
