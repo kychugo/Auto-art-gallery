@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260321_211454",
+      "filename": "images/artwork_20260321_211454.jpg",
+      "topic": "street food culture in Hong Kong",
+      "prompt": "A photorealistic scene captures the ephemeral glow of a Hong Kong night market, where steam rises from unseen food stalls, creating an ethereal mist under dramatic studio lighting. The air is thick with the warm, inviting hues of amber and orange, illuminating scattered droplets of moisture on dimly lit, textured surfaces. The focus is on the suggestion of culinary delights—perhaps a close-up of glistening skewers or a blurred background hinting at bustling activity—all rendered with an award-winning, hyper-detailed aesthetic that evokes a sense of mystery and culinary allure.",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 30562483,
+      "created_at": "2026-03-21T21:14:54.645727+08:00"
+    },
+    {
       "id": "20260321_204731",
       "filename": "images/artwork_20260321_204731.jpg",
       "topic": "news headlines of tomorrow",
