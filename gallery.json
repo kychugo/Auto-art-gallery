@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260321_184931",
+      "filename": "images/artwork_20260321_184931.jpg",
+      "topic": "renewable energy and sustainable living",
+      "prompt": "A vibrant abstract expressionist dreamscape of a sustainable village seamlessly woven into nature, where whirling wind turbines dissolve into shimmering vortexes and solar panel rooftops cascade like crystalline waterfalls, all bathed in dappled forest light that fractures into a shifting holographic iridescent palette of emerald, lavender, and prismatic silver, creating a whimsical tapestry of flowing organic forms and luminous energy currents.",
+      "text_model": "deepseek",
+      "image_model": "klein",
+      "seed": 298662049,
+      "created_at": "2026-03-21T18:49:31.744683+08:00"
+    },
+    {
       "id": "20260321_182946",
       "filename": "images/artwork_20260321_182946.jpg",
       "topic": "quantum computing and the future",
