@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260321_182946",
+      "filename": "images/artwork_20260321_182946.jpg",
+      "topic": "quantum computing and the future",
+      "prompt": "In a dramatic digital art piece, an intricate, ethereal quantum processor hums with latent energy beneath a sliver of cold moonlight, casting long, sharp shadows across a desolate, cracked earth landscape. Terracotta hues dominate the scene, symbolizing the ancient yet evolving nature of computation, while vibrant, almost aggressive geometric light patterns pulse from the processor's core, creating an intense, awe-inspiring spectacle against the oppressive darkness. The overall mood is one of profound mystery and power, hinting at the unfathomable future held within the quantum realm.",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 2006845719,
+      "created_at": "2026-03-21T18:29:46.999684+08:00"
+    },
+    {
       "id": "20260321_175500",
       "filename": "images/artwork_20260321_175500.jpg",
       "topic": "Hong Kong city life and culture",
