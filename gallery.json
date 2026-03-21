@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260322_053355",
+      "filename": "images/artwork_20260322_053355.jpg",
+      "topic": "artificial intelligence reshaping society",
+      "prompt": "Golden hour sunlight illuminates a watercolor cityscape, where vibrant neon circuits bloom like climbing vines over historic architecture, transforming into a lush garden of light. Ethereal data streams flow like glowing rivers through community squares, populated by diverse, joyful citizens interacting with benevolent, translucent AI forms. The hopeful, uplifting scene is rendered with a masterful blend of soft watercolor textures and vivid neon hues, evoking a harmonious symbiosis between technology and nature.",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 1675578761,
+      "created_at": "2026-03-22T05:33:55.058118+08:00"
+    },
+    {
       "id": "20260322_045253",
       "filename": "images/artwork_20260322_045253.jpg",
       "topic": "health and medicine breakthroughs",
