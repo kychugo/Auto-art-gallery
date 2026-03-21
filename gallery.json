@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260321_095852",
+      "filename": "images/artwork_20260321_095852.jpg",
+      "topic": "ancient traditions meeting the modern world",
+      "prompt": "An elderly artisan, her hands gnarled with generations of skill, meticulously applies intricate gold leaf to a digitally projected, ethereal mandala hovering in the dim, warm amber and orange glow of a dramatic studio light. Impressionistic brushstrokes capture the intimate, human connection between ancient tradition and the vibrant, fleeting modernity, creating a visually stunning, award-winning tableau bathed in soft, diffused light.",
+      "text_model": "gemini-fast",
+      "image_model": "gptimage",
+      "seed": 814317796,
+      "created_at": "2026-03-21T09:58:52.732413+08:00"
+    },
+    {
       "id": "20260321_074802",
       "filename": "images/artwork_20260321_074802.jpg",
       "topic": "fashion meets technology",
