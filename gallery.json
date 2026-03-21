@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260321_155258",
+      "filename": "images/artwork_20260321_155258.jpg",
+      "topic": "revolution in education through technology",
+      "prompt": "In a dramatic studio lighting setup, an abstract expressionist canvas emerges from muted earth tones and rich terracotta hues, depicting fragmented digital code and flowing organic shapes that symbolize the revolution in educational paradigms. The melancholic mood is underscored by chiaroscuro, with sharp contrasts between illuminated areas and deep shadows, evoking a sense of thoughtful introspection on the evolving landscape of learning. This visually stunning, award-winning piece captures the complex emotional undertones of technological advancement in education, blending raw emotion with intellectual exploration.",
+      "text_model": "gemini-search",
+      "image_model": "gptimage",
+      "seed": 1902885349,
+      "created_at": "2026-03-21T15:52:58.754074+08:00"
+    },
+    {
       "id": "20260321_153350",
       "filename": "images/artwork_20260321_153350.jpg",
       "topic": "quantum computing and the future",
