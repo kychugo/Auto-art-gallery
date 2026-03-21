@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260321_133630",
+      "filename": "images/artwork_20260321_133630.jpg",
+      "topic": "cultural diversity and global harmony",
+      "prompt": "First, the user wants me to create an image generation prompt. The topic is \"cultural diversity and global harmony.\" I need to incorporate specific elements: art style is cinematic, mood is mysterious and ethereal, lighting is candlelight ambiance, and color palette is high contrast black and gold.\n\nThe prompt must be 2-4 sentences long, visually stunning, award-winning, and highly detailed. I should write it in English only, with no explanations, titles, or markdown – just the prompt itself.\n\nI need to craft a prompt that paints a clear mental picture. Since it's cinematic, I should use language that evokes a film-like quality. The mood is mysterious and ethereal, so the scene should feel dreamy, otherworldly, and enigmatic. Lighting is candlelight ambiance, which implies soft, flickering light from candles. Color palette is high contrast black and gold, so there should be stark contrasts between dark blacks and bright golds.\n\nI have to incorporate cultural diversity and global harmony naturally. This could involve showing people from different cultures coming together in a harmonious setting, but with the mysterious and ethereal mood.\n\nLet me outline the prompt:\n\n- Start by setting the scene with cinematic style.\n\n- Describe elements that show cultural diversity, like symbols, artifacts, or people from various cultures.\n\n- Ensure the mood is mysterious and ethereal, perhaps through mist, soft focus, or surreal elements.\n\n- Use candlelight ambiance for lighting, so mention candles or similar light sources.\n\n- Emphasize the color palette of high contrast black and gold.\n\n- Make it detailed and vivid, so include specific visual details.\n\nFinally, keep it within 2-4 sentences.\n\nDraft a prompt:\n\n\"In a cinematic scene, diverse cultural symbols from around the world—like intricate masks, ancient scrolls, and traditional garments—float ethereally in a mysterious, candlelit hall, where the high contrast of black shadows and golden light creates a stunning visual harmony.\"\n\nThat's one sentence",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 1265568876,
+      "created_at": "2026-03-21T13:36:30.717566+08:00"
+    },
+    {
       "id": "20260321_132758",
       "filename": "images/artwork_20260321_132758.jpg",
       "topic": "human migration and global nomadism",
