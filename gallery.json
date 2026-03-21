@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260321_172356",
+      "filename": "images/artwork_20260321_172356.jpg",
+      "topic": "news headlines of tomorrow",
+      "prompt": "A dystopian noir newspaper pressroom bathed in eerie moonlight, where crimson headlines scream \"TOMORROW'S TRAGEDY\" in jagged metallic type, shadows of faceless journalists move like ghosts between towering stacks of blood-red newspapers, every headline predicting catastrophe—burning cities, falling governments, human despair—while deep red emergency lights flicker across weathered front pages, the entire scene dripping with apocalyptic tension, hyper-detailed chiaroscuro lighting, cinematic grain, dramatic shadows pooling across ancient printing presses, a nightmarish vision of information as prophecy.",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 477431387,
+      "created_at": "2026-03-21T17:23:57.002086+08:00"
+    },
+    {
       "id": "20260321_165748",
       "filename": "images/artwork_20260321_165748.jpg",
       "topic": "Hong Kong city life and culture",
