@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260321_222956",
+      "filename": "images/artwork_20260321_222956.jpg",
+      "topic": "human migration and global nomadism",
+      "prompt": "A lone figure, silhouetted against a vast, dusty plain, walks towards a shimmering, indistinct horizon, their tattered belongings carried on their back, rendered in stark, monochromatic black and white digital art. The scene is bathed in the melancholic, golden hour sunlight, casting long, dramatic shadows that evoke a profound sense of global nomadism and the quiet dignity of human migration. The composition is award-winning, with incredible detail in the textures of the earth and the worn fabric of the traveler's attire, conveying a reflective and deeply emotional narrative.",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 1289427926,
+      "created_at": "2026-03-21T22:29:56.164626+08:00"
+    },
+    {
       "id": "20260321_215648",
       "filename": "images/artwork_20260321_215648.jpg",
       "topic": "human migration and global nomadism",
