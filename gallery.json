@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260322_072039",
+      "filename": "images/artwork_20260322_072039.jpg",
+      "topic": "Hong Kong protest art and resilience",
+      "prompt": "First, the user has given me a specific task: Create a unique, detailed image generation prompt about Hong Kong protest art and resilience. I need to incorporate several required elements naturally:\n\n- Art style: anime-inspired\n\n- Mood: dark and dystopian\n\n- Lighting: arctic aurora borealis\n\n- Color palette: monochromatic black and white\n\nThe prompt should be visually stunning, award-winning, and highly detailed. It should be 2-4 sentences long and paint a clear mental picture. I must respond with ONLY the image prompt itself — no explanations, no titles, no markdown. I must write exclusively in English.\n\nI need to craft a prompt that combines Hong Kong protest art and resilience with the given elements. Hong Kong protest art often includes symbols like umbrellas, masks, and urban scenes, reflecting resistance and hope. Resilience suggests strength and endurance despite adversity.\n\nIncorporate the art style: anime-inspired. Anime often has dramatic expressions, dynamic compositions, and stylized characters.\n\nMood: dark and dystopian. This means the scene should feel oppressive, grim, or futuristic with a sense of despair or struggle.\n\nLighting: arctic aurora borealis. Aurora borealis is colorful, but the color palette is monochromatic black and white. So, I need to describe the lighting effect without color, perhaps focusing on the ethereal, swirling patterns of light in shades of gray.\n\nColor palette: monochromatic black and white. This means the entire image should be in black, white, and shades of gray. No other colors.\n\nThe prompt should be 2-4 sentences long. I need to be concise but descriptive.\n\nStructure the prompt: Start by setting the scene, include the elements naturally, and ensure it's vivid.\n\nBrainstorm key elements:\n\n- Hong Kong protest art: graffiti, posters, symbols like umbrellas, yellow helmets, etc.\n\n- Resilience: figures standing strong, defiant poses, perhaps in a damaged urban environment",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 1361206125,
+      "created_at": "2026-03-22T07:20:39.034670+08:00"
+    },
+    {
       "id": "20260322_064713",
       "filename": "images/artwork_20260322_064713.jpg",
       "topic": "Hong Kong protest art and resilience",
