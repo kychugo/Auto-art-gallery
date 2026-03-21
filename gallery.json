@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260321_153350",
+      "filename": "images/artwork_20260321_153350.jpg",
+      "topic": "quantum computing and the future",
+      "prompt": "Digital art in a dramatic and intense style, depicting a sprawling future metropolis bathed in the electric neon city glow, where colossal quantum processors hum with unseen energy against a backdrop of terracotta skyscrapers and deep earth tones, casting long, sharp shadows that hint at the immense power and unknown possibilities of tomorrow.",
+      "text_model": "gemini-fast",
+      "image_model": "flux-2-dev",
+      "seed": 145187740,
+      "created_at": "2026-03-21T15:33:50.374530+08:00"
+    },
+    {
       "id": "20260321_150921",
       "filename": "images/artwork_20260321_150921.jpg",
       "topic": "social media culture and human connection",
