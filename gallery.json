@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260322_232407",
+      "filename": "images/artwork_20260322_232407.jpg",
+      "topic": "Hong Kong city life and culture",
+      "prompt": "A neon-drenched Hong Kong street scene rendered in a stark noir style, capturing the city's vibrant energy under a pervasive bioluminescent glow. Towering, rain-slicked skyscrapers, their surfaces alive with holographic advertisements, dominate the frame, casting emerald and deep forest green reflections onto the bustling crowds below, their faces obscured by shadows and the humid, glowing mist. Intricate details of overflowing market stalls and stylized, speeding vehicles add to the kinetic dynamism, all saturated in the moody, almost alien luminescence.",
+      "text_model": "gemini-fast",
+      "image_model": "gptimage",
+      "seed": 435466749,
+      "created_at": "2026-03-22T23:24:07.158584+08:00"
+    },
+    {
       "id": "20260322_225342",
       "filename": "images/artwork_20260322_225342.jpg",
       "topic": "future of human civilization and technology",
