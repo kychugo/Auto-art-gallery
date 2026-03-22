@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260322_131841",
+      "filename": "images/artwork_20260322_131841.jpg",
+      "topic": "animals and nature conservation",
+      "prompt": "Cinematic, award-winning shot capturing a lone, ancient baobab tree silhouetted against a stormy, overcast sky, its gnarled branches reaching like skeletal fingers. Whispers of ethereal mist curl around its base, hinting at the vital, hidden ecosystem it shelters, rendered in rich earth tones and warm terracotta hues, evoking a mysterious and poignant mood of nature's resilience and fragility.",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 274923517,
+      "created_at": "2026-03-22T13:18:41.688730+08:00"
+    },
+    {
       "id": "20260322_130941",
       "filename": "images/artwork_20260322_130941.jpg",
       "topic": "renewable energy and sustainable living",
