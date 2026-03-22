@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260322_155612",
+      "filename": "images/artwork_20260322_155612.jpg",
+      "topic": "Hong Kong city life and culture",
+      "prompt": "In a whimsical Baroque dreamscape of Hong Kong city life, towering tong lau shophouses with ornate rusticated granite facades, intricate pediments, and gilded cornices blend seamlessly with neon-lit skyscrapers and bustling street markets alive with dim sum vendors, rickshaw pullers, and lantern-swinging festival dancers. Arctic aurora borealis lights cascade from the night sky in swirling emerald and violet ribbons, illuminating terracotta rooftops, earth-toned red-brick heritage walls, and throngs of silk-robed locals savoring bubble tea amid floating jade dragons and whimsical clockwork trams. Highly detailed, award-winning composition with dramatic chiaroscuro shadows, opulent textures, and a surreal fusion of colonial grandeur and vibrant Cantonese culture.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 2112291995,
+      "created_at": "2026-03-22T15:56:12.546925+08:00"
+    },
+    {
       "id": "20260322_153905",
       "filename": "images/artwork_20260322_153905.jpg",
       "topic": "artificial intelligence reshaping society",
