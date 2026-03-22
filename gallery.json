@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260323_041812",
+      "filename": "images/artwork_20260323_041812.jpg",
+      "topic": "health and medicine breakthroughs",
+      "prompt": "A monumental watercolor painting of health and medicine breakthroughs, depicting a colossal double helix DNA strand unfurling like a triumphant archway into the future, interwoven with glowing neural networks, regenerative human organs pulsing with life, and ethereal robotic nanobots repairing cellular structures, all rendered in intricate, translucent layers with wet-on-wet blooms and delicate dry-brush details for ethereal depth. Soft diffused daylight filters through, casting a powerful, awe-inspiring glow on the holographic iridescent color palette of shifting pearlescent blues, violets, silvers, and golds that shimmer and refract like prismatic light on water. The composition evokes unyielding hope and monumental progress, with bold architectural forms rising from microscopic origins in a visually stunning, award-winning masterpiece of fluid transparency and radiant luminosity.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 432993322,
+      "created_at": "2026-03-23T04:18:12.283355+08:00"
+    },
+    {
       "id": "20260322_232407",
       "filename": "images/artwork_20260322_232407.jpg",
       "topic": "Hong Kong city life and culture",
