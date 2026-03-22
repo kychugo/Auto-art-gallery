@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260322_185033",
+      "filename": "images/artwork_20260322_185033.jpg",
+      "topic": "revolution in education through technology",
+      "prompt": "First, the user wants a single image generation prompt. I must respond with ONLY the prompt itself—no explanations, no titles, no markdown. It has to be in English only.\n\nThe theme is \"revolution in education through technology.\" I need to incorporate the required elements naturally:\n\n- Art style: concept art\n\n- Mood: mysterious and ethereal\n\n- Lighting: candlelight ambiance\n\n- Color palette: earth tones and terracotta\n\nThe prompt should be 2-4 sentences long, vivid, detailed, and paint a clear mental picture. It should be visually stunning and award-winning.\n\nI need to craft a prompt that blends education, technology, and the given elements. Since it's concept art, it should have a futuristic or imaginative feel. The mood is mysterious and ethereal, so it should evoke a sense of wonder and ambiguity. Lighting is candlelight ambiance, which implies warm, soft, flickering light. Color palette is earth tones and terracotta, so think browns, oranges, reds, and natural hues.\n\nCombine education and technology: perhaps ancient or traditional education merging with futuristic tech. For example, an old library with holograms, or students using tech in a mystical setting.\n\nStructure the prompt:\n\n- Start with the main scene: describe where the revolution is happening.\n\n- Incorporate the elements: mention concept art style, mysterious and ethereal mood, candlelight lighting, and earth tones/terracotta colors.\n\n- Add specific visual details: things like holographic books, glowing interfaces, ancient architecture with tech integrations.\n\nEnsure it's 2-4 sentences. Make it cohesive and flowing.\n\nDraft:\n\n\"In a vast, ancient library illuminated solely by flickering candlelight, holographic data streams float ethereally above weathered stone tablets, symbolizing the fusion of traditional knowledge and cutting-edge technology. The scene is rendered in concept art style with a mysterious, dreamlike atmosphere, dominated by rich earth tones and terracotta hues",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 1140441482,
+      "created_at": "2026-03-22T18:50:33.736746+08:00"
+    },
+    {
       "id": "20260322_183041",
       "filename": "images/artwork_20260322_183041.jpg",
       "topic": "revolution in education through technology",
