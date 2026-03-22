@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260322_122449",
+      "filename": "images/artwork_20260322_122449.jpg",
+      "topic": "social media culture and human connection",
+      "prompt": "A group of stylized anime figures float in a dreamynight sky above a glowing digital city, their silhouettes connected by luminous threads of light representing social media connections, while swirling ribbons of arctic aurora borealis dance across the polar night in ethereal waves of cool blues and purples, their soft bioluminescent glow illuminating the characters' hopeful faces as they reach toward each other's projected avatars, creating a magical tapestry of virtual and real human bonds suspended in a whimsical celestial landscape where hashtags and hearts sparkle like constellations between the figures.",
+      "text_model": "minimax",
+      "image_model": "flux",
+      "seed": 1945163576,
+      "created_at": "2026-03-22T12:24:49.312695+08:00"
+    },
+    {
       "id": "20260322_115838",
       "filename": "images/artwork_20260322_115838.jpg",
       "topic": "ocean conservation and marine life",
