@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260322_153905",
+      "filename": "images/artwork_20260322_153905.jpg",
+      "topic": "artificial intelligence reshaping society",
+      "prompt": "A minimalist holographic iridescent cityscape under dramatic moonlight and deep encroaching shadows, where ethereal AI neural networks pulse with shifting rainbow spectra, reshaping society by morphing rigid human silhouettes into fluid, interconnected forms—some ascending toward luminous digital heavens, others fracturing into chaotic voids. Sparse geometric icons of fractured smartphones, swirling data streams, and mirrored societal reflections float ethereally, evoking intense tension between transformation and loss. Award-winning composition with stark negative space, hyper-detailed iridescent refractions, and cinematic chiaroscuro lighting for a visually stunning, profound visual metaphor.",
+      "text_model": "perplexity-fast",
+      "image_model": "gptimage",
+      "seed": 1697253264,
+      "created_at": "2026-03-22T15:39:05.334381+08:00"
+    },
+    {
       "id": "20260322_152415",
       "filename": "images/artwork_20260322_152415.jpg",
       "topic": "cybersecurity and privacy in the digital world",
