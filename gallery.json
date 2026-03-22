@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260322_215846",
+      "filename": "images/artwork_20260322_215846.jpg",
+      "topic": "future of human civilization and technology",
+      "prompt": "A sprawling futuristic metropolis rising through towering ancient forests, where sleek crystalline skyscrapers intertwine with massive emerald trees and deep forest green canopies, bathed in dramatic golden hour sunlight that casts long shadows and creates intense contrast between the organic and technological worlds. The scene is rendered as a bold, expressive oil painting with thick impasto brushwork, where warm golden rays pierce through the verdant foliage, illuminating glass and steel structures with luminous highlights while deep shadows ground the composition in mystery and drama. Luminescent circuits and bioluminescent networks glow softly within the canopy, hinting at a harmonious fusion of nature and advanced technology, with the saturated jewel tones of emerald and forest green dominating the atmospheric landscape. The painting captures a moment of transformative balance—humanity's future emerging from and integrated with the natural world, rendered with an award-winning mastery of light, depth, and emotional intensity.",
+      "text_model": "perplexity-fast",
+      "image_model": "gptimage",
+      "seed": 979900176,
+      "created_at": "2026-03-22T21:58:46.814226+08:00"
+    },
+    {
       "id": "20260322_214649",
       "filename": "images/artwork_20260322_214649.jpg",
       "topic": "artificial intelligence reshaping society",
