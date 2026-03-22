@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260322_115838",
+      "filename": "images/artwork_20260322_115838.jpg",
+      "topic": "ocean conservation and marine life",
+      "prompt": "An abstract expressionist explosion of marine life teems with vibrant energy, where swirling currents of cool blues and deep purples intertwine, illuminated by the ethereal, bioluminescent glow of unseen creatures. Award-winning detail captures the dynamic flow and interconnectedness of ocean conservation, with fragmented forms hinting at coral reefs and a majestic whale tail disappearing into the luminous depths. The mood is powerfully energetic, a celebration of the ocean's vital pulse, rendered with gestural brushstrokes and a rich, saturated palette.",
+      "text_model": "gemini-fast",
+      "image_model": "gptimage",
+      "seed": 1371578462,
+      "created_at": "2026-03-22T11:58:38.779380+08:00"
+    },
+    {
       "id": "20260322_114046",
       "filename": "images/artwork_20260322_114046.jpg",
       "topic": "human migration and global nomadism",
