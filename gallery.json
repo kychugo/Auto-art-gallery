@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260322_130941",
+      "filename": "images/artwork_20260322_130941.jpg",
+      "topic": "renewable energy and sustainable living",
+      "prompt": "A breathtaking oil painting, rendered in a hyperrealistic yet dreamlike style, depicts a futuristic utopian city bathed in ethereal moonlight. Vibrant neon colors – electric blues, fuchsia, and emerald greens – pulse from the integrated solar panels and wind turbines that seamlessly blend with organic, biophilic architecture, casting long, dramatic shadows that accentuate the hopeful and uplifting mood. Wisps of bioluminescent flora intertwine with sleek, sustainable transport systems, creating a visually stunning tableau of humanity living in perfect harmony with advanced renewable energy technology, evoking a sense of awe and optimism. This award-winning masterpiece captures the essence of a sustainable future, alive with the glow of innovation and the quiet power of nature.",
+      "text_model": "gemini-search",
+      "image_model": "gptimage",
+      "seed": 2073333024,
+      "created_at": "2026-03-22T13:09:41.368640+08:00"
+    },
+    {
       "id": "20260322_125800",
       "filename": "images/artwork_20260322_125800.jpg",
       "topic": "global climate crisis and environmental solutions",
