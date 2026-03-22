@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260322_114046",
+      "filename": "images/artwork_20260322_114046.jpg",
+      "topic": "human migration and global nomadism",
+      "prompt": "A Baroque-inspired cosmic migration unfolds under the ethereal glow of an arctic aurora borealis, where celestial bodies and spectral human figures drift through a swirling nebula of holographic iridescent hues. Ornate, dreamlike vessels, reminiscent of grand Baroque ships, carry ephemeral nomads across nebulae shaped like celestial atlases and impossible architecture, their forms dissolving and reforming in the shimmering, otherworldly light. The scene is imbued with a whimsical, yet profound sense of wonder and transient beauty, with dramatic contrasts of light and shadow emphasizing the vastness and mystery of the journey.",
+      "text_model": "gemini-search",
+      "image_model": "gptimage",
+      "seed": 842211887,
+      "created_at": "2026-03-22T11:40:46.115555+08:00"
+    },
+    {
       "id": "20260322_112353",
       "filename": "images/artwork_20260322_112353.jpg",
       "topic": "health and medicine breakthroughs",
