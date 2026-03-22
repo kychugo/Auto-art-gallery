@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260323_064818",
+      "filename": "images/artwork_20260323_064818.jpg",
+      "topic": "sports and human physical achievement",
+      "prompt": "Cinematic, dark dystopian scene of a lone, hulking cyborg athlete mid-leap across a vast, chasm-like urban decay, moonlight casting long, sharp shadows from shattered skyscrapers. The color palette is dominated by deep, cool blues and electric purples, highlighting the gleaming chrome of their augmented limbs and the strained, glowing energy coursing through their cybernetic implants, evoking a mood of intense, desperate physical achievement against a fallen world. Focus on extreme detail in the textures of rusted metal, cracked concrete, and the swirling atmospheric haze under the spectral glow.",
+      "text_model": "gemini-fast",
+      "image_model": "klein",
+      "seed": 874184324,
+      "created_at": "2026-03-23T06:48:18.065982+08:00"
+    },
+    {
       "id": "20260323_061338",
       "filename": "images/artwork_20260323_061338.jpg",
       "topic": "global climate crisis and environmental solutions",
