@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260323_055048",
+      "filename": "images/artwork_20260323_055048.jpg",
+      "topic": "Hong Kong city life and culture",
+      "prompt": "An impressionist painting of a solitary figure walking down a rain-slicked Hong Kong alleyway at twilight, bathed in the soft pastel hues of diffused neon city glow, capturing a melancholic and reflective mood with blurred neon signs casting ethereal reflections on the wet cobblestones, conveying a sense of quiet contemplation amidst the vibrant urban hum.",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 1019764025,
+      "created_at": "2026-03-23T05:50:48.854200+08:00"
+    },
+    {
       "id": "20260323_053428",
       "filename": "images/artwork_20260323_053428.jpg",
       "topic": "economic inequality and social justice",
