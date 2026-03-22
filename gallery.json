@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260322_183041",
+      "filename": "images/artwork_20260322_183041.jpg",
+      "topic": "revolution in education through technology",
+      "prompt": "A monumental anime-style tableau depicting the revolution in education through technology, where dozens of diverse students of all ages stand triumphantly within an enchanted forest, each surrounded by floating holographic screens glowing with知识的光芒, as ancient towering trees transform into digital networks of light and data streams. Dappled sunlight filters through the canopy in golden rays, illuminating the powerful scene while cool blues and purples dominate the palette, creating an ethereal atmosphere where the natural world merges seamlessly with technology, symbolizing education's transformative power.",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 2076710467,
+      "created_at": "2026-03-22T18:30:41.179135+08:00"
+    },
+    {
       "id": "20260322_175624",
       "filename": "images/artwork_20260322_175624.jpg",
       "topic": "music and the evolution of sound",
