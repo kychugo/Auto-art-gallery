@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260322_214649",
+      "filename": "images/artwork_20260322_214649.jpg",
+      "topic": "artificial intelligence reshaping society",
+      "prompt": "A cyberpunk metropolis at dusk, where towering skyscrapers pulse with **bioluminescent gold veins** weaving through **high-contrast black shadows**, symbolizing artificial intelligence reshaping society as ethereal neural networks cascade from holographic AI overlords, merging human silhouettes into glowing data streams that redefine urban life. Mysterious figures in augmented reality visors gaze upward in awe and trepidation, their forms half-dissolved into golden code fractals, evoking an **ethereal aura** of inevitable transformation amid rain-slicked streets reflecting neon glows. Award-winning masterpiece in gritty cyberpunk style, hyper-detailed, cinematic composition with dramatic volumetric lighting and intricate futuristic architecture.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 1199101518,
+      "created_at": "2026-03-22T21:46:49.410529+08:00"
+    },
+    {
       "id": "20260322_212413",
       "filename": "images/artwork_20260322_212413.jpg",
       "topic": "ancient traditions meeting the modern world",
