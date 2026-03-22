@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260322_205051",
+      "filename": "images/artwork_20260322_205051.jpg",
+      "topic": "animals and nature conservation",
+      "prompt": "In the style of a masterful oil painting, depict a serene misty valley at dawn where a majestic Bengal tiger pads gracefully alongside a family of endangered elephants, their forms intertwined with lush ferns, ancient trees, and delicate wildflowers symbolizing nature's fragile harmony and the urgent call for conservation. Soft diffused daylight filters through the canopy, casting ethereal glows in a cool palette of deep blues, soft purples, misty indigos, and subtle silvery highlights that evoke profound peace and quiet reverence. Highly detailed textures reveal the tiger's striped fur rippling in the gentle breeze, the elephants' wrinkled skin glistening with dew, and distant snow-capped peaks under a tranquil sky, creating an award-winning masterpiece of wildlife preservation.",
+      "text_model": "perplexity-fast",
+      "image_model": "klein",
+      "seed": 33029101,
+      "created_at": "2026-03-22T20:50:51.473110+08:00"
+    },
+    {
       "id": "20260322_194332",
       "filename": "images/artwork_20260322_194332.jpg",
       "topic": "street food culture in Hong Kong",
