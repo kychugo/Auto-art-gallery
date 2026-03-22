@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260322_125800",
+      "filename": "images/artwork_20260322_125800.jpg",
+      "topic": "global climate crisis and environmental solutions",
+      "prompt": "Surrealist dreamscape of massive ancient tree roots breaking through cracked earth to reveal a thriving underground network of glowing bioluminescent mushrooms, crystal-clear water streams, and interconnected fungal webs holding together fragmented pieces of a drowning city, while twisted metal and plastic debris transform into blooming flowers in the stormy overcast light, with emerald and deep forest green dominating the palette as brilliant shafts of pale green illumination pierce through heavy clouds, creating an award-winning composition that celebrates nature's power to heal and regenerate.",
+      "text_model": "minimax",
+      "image_model": "gptimage",
+      "seed": 1604282722,
+      "created_at": "2026-03-22T12:58:00.529256+08:00"
+    },
+    {
       "id": "20260322_123253",
       "filename": "images/artwork_20260322_123253.jpg",
       "topic": "human migration and global nomadism",
