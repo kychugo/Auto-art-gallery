@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260322_101108",
+      "filename": "images/artwork_20260322_101108.jpg",
+      "topic": "mental health awareness in the digital age",
+      "prompt": "A lone, stylized human silhouette, rendered in minimalist obsidian lines, stands against a vast, digitally fractured landscape bathed in the dramatic, intense glow of golden hour sunlight. Warm amber and orange tones saturate the scene, casting long, sharp shadows from fragmented data streams that subtly morph into a supportive, intertwined network around the figure, symbolizing the struggle and solace found within the digital age of mental health awareness. The lighting emphasizes the raw emotion and overwhelming yet hopeful atmosphere, creating an award-winning, visually stunning composition.",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 898721293,
+      "created_at": "2026-03-22T10:11:08.938570+08:00"
+    },
+    {
       "id": "20260322_074431",
       "filename": "images/artwork_20260322_074431.jpg",
       "topic": "sports and human physical achievement",
