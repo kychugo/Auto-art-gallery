@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260322_141124",
+      "filename": "images/artwork_20260322_141124.jpg",
+      "topic": "blockchain and decentralized future",
+      "prompt": "In a stark, minimalist composition, a network of glowing emerald and deep forest green lines forms an intricate, abstract representation of a decentralized future, suggesting both complex systems and organic growth. Dramatic studio lighting casts sharp, defined shadows, highlighting the tension and intensity of this interconnected digital landscape, evoking a sense of profound, almost foreboding transformation. The scene is rendered with hyper-realistic detail, emphasizing the clean lines and geometric precision inherent in the minimalist style while conveying the dramatic mood of a world on the cusp of radical change.",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 26807480,
+      "created_at": "2026-03-22T14:11:24.749976+08:00"
+    },
+    {
       "id": "20260322_134917",
       "filename": "images/artwork_20260322_134917.jpg",
       "topic": "news headlines of tomorrow",
