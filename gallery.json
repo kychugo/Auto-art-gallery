@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260322_123253",
+      "filename": "images/artwork_20260322_123253.jpg",
+      "topic": "human migration and global nomadism",
+      "prompt": "A surrealist panorama depicting ethereal figures, their forms dissolving into swirling patterns of warm amber and orange light, migrating across a dreamlike desert landscape under the soft, flickering glow of countless unseen candles.  Whispers of starlight pierce through an indigo sky, illuminating ancient, monumental relics that seem to have grown from the sand itself, casting long, mysterious shadows that dance with the nomadic souls.  The scene evokes a profound sense of universal journey and an enigmatic, otherworldly passage, rendered with hyperrealistic detail and a painterly, oil-on-canvas texture.",
+      "text_model": "gemini-fast",
+      "image_model": "gptimage",
+      "seed": 1026006338,
+      "created_at": "2026-03-22T12:32:53.612845+08:00"
+    },
+    {
       "id": "20260322_122449",
       "filename": "images/artwork_20260322_122449.jpg",
       "topic": "social media culture and human connection",
