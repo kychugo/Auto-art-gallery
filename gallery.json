@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260322_192538",
+      "filename": "images/artwork_20260322_192538.jpg",
+      "topic": "space exploration and the cosmos",
+      "prompt": "A massive futuristic spacecraft glides through a breathtaking cosmic vista filled with swirling nebulae, distant galaxies, and sparkling star fields, rendered in hyper-realistic detail with warm amber and fiery orange tones dominating the color palette, illuminated by the neon city glow of a massive space station colony below with countless glowing windows and luminescent structures casting dynamic reflections on the ship's polished hull while celestial auroras dance across the darkness, creating an energetic and vibrant atmosphere that captures the infinite wonder of humanity's expansion into the stars.",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 471861085,
+      "created_at": "2026-03-22T19:25:38.372421+08:00"
+    },
+    {
       "id": "20260322_185033",
       "filename": "images/artwork_20260322_185033.jpg",
       "topic": "revolution in education through technology",
