@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260322_161939",
+      "filename": "images/artwork_20260322_161939.jpg",
+      "topic": "mental health awareness in the digital age",
+      "prompt": "A solitary figure sits cross-legged in a misty forest, surrounded by glowing digital screens and ethereal holographic art floating in the air, rendered in noir style with dappled forest light filtering through canopy leaves in cool blues and purples, creating an atmosphere of quiet strength and digital connection. Tendrils of light weave between traditional paint strokes and pixel patterns, symbolizing the bridge between analog creativity and modern mental health awareness, while the figure's silhouette radiates a subtle inner glow of hope and healing. Intricate details show tangled threads of anxiety gradually unwinding into spiraling patterns of connection and resilience, with soft bioluminescent colors illuminating a path forward through the darkness. The composition captures a profound sense of solitude transformed into empowerment, where technology and art unite to support well-being in the digital age, shot with cinematic depth and award-winning visual storytelling.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 816228350,
+      "created_at": "2026-03-22T16:19:39.059349+08:00"
+    },
+    {
       "id": "20260322_155612",
       "filename": "images/artwork_20260322_155612.jpg",
       "topic": "Hong Kong city life and culture",
