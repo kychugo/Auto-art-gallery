@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260322_143709",
+      "filename": "images/artwork_20260322_143709.jpg",
+      "topic": "mental health awareness in the digital age",
+      "prompt": "In the dramatic studio lighting of a baroque masterpiece, a solitary figure is engulfed in an ethereal mist, their form sculpted by sharp contrasts of black and gold. Intricate, gilded digital threads, reminiscent of neural pathways, weave through the swirling ether, representing the complex and often mysterious nature of mental health in the digital age. The mood is one of profound introspection and elusive beauty, with deep shadows obscuring details and radiant gold highlights illuminating fragments of an unseen struggle, evoking a sense of awe and quiet contemplation.",
+      "text_model": "gemini-search",
+      "image_model": "gptimage",
+      "seed": 416062328,
+      "created_at": "2026-03-22T14:37:09.051398+08:00"
+    },
+    {
       "id": "20260322_141124",
       "filename": "images/artwork_20260322_141124.jpg",
       "topic": "blockchain and decentralized future",
