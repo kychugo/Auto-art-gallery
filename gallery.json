@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260323_053428",
+      "filename": "images/artwork_20260323_053428.jpg",
+      "topic": "economic inequality and social justice",
+      "prompt": "In a mysterious, ethereal watercolor painting bathed in dappled forest light filtering through ancient amber-leaved canopy, towering gilded spires of opulent palaces loom ethereally on one side, their warm orange glow casting long shadows over ragged figures of the impoverished huddled in tattered cloaks below, scales of justice tipping precariously amid swirling mist. Ethereal hands of spectral activists reach from the undergrowth, grasping at shimmering coins spilling from the elite's heights, symbolizing the elusive pursuit of social equity amid economic chasms. Rendered in highly detailed, award-winning watercolor style with translucent wet-on-wet blooms, textured dry-brush edges, and a dominant palette of warm amber and fiery orange tones evoking both hope and haunting disparity.",
+      "text_model": "perplexity-fast",
+      "image_model": "gptimage",
+      "seed": 1571669957,
+      "created_at": "2026-03-23T05:34:28.677118+08:00"
+    },
+    {
       "id": "20260323_045421",
       "filename": "images/artwork_20260323_045421.jpg",
       "topic": "Hong Kong protest art and resilience",
