@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260322_175624",
+      "filename": "images/artwork_20260322_175624.jpg",
+      "topic": "music and the evolution of sound",
+      "prompt": "First, the user is asking me to create an image generation prompt based on the topic: \"music and the evolution of sound.\" I need to incorporate specific elements: art style (surrealist), mood (vibrant and energetic), lighting (dappled forest light), and color palette (vibrant neon colors).\n\nThe prompt must be 2-4 sentences long, vivid, detailed, and paint a clear mental picture. I should respond with ONLY the image prompt itself—no explanations, titles, or markdown. Also, I must write exclusively in English.\n\nKey points from the user:\n- Art style: surrealist. This means the image should be dreamlike, with unexpected juxtapositions and fantastical elements.\n- Mood: vibrant and energetic. So, the scene should feel lively, dynamic, and full of movement.\n- Lighting: dappled forest light. Imagine light filtering through leaves in a forest, creating patches of light and shadow.\n- Color palette: vibrant neon colors. Bright, glowing colors like neon pinks, greens, blues, etc.\n\nThe theme is \"music and the evolution of sound.\" I need to represent this visually. Ideas could include musical instruments merging with natural elements, sound waves transforming into physical forms, or symbols of music history evolving in a surreal landscape.\n\nStructure the prompt:\n- Start with the main scene: perhaps a forest setting where music and sound are evolving.\n- Incorporate surrealist elements: like trees made of instruments or sound waves turning into neon streams.\n- Describe the lighting: dappled forest light casting patterns.\n- Use vibrant neon colors to enhance the energy.\n- Ensure it's award-winning and visually stunning.\n\nCraft 2-4 sentences that flow naturally. Keep it concise but rich in detail.\n\nDraft a prompt:\n\"In a surrealist forest, dappled light filters through neon-hued leaves, illuminating vibrant sound waves that evolve from classical instruments into futuristic digital forms. The scene pulses with energetic movement",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 160049846,
+      "created_at": "2026-03-22T17:56:24.682543+08:00"
+    },
+    {
       "id": "20260322_172409",
       "filename": "images/artwork_20260322_172409.jpg",
       "topic": "artificial intelligence reshaping society",
