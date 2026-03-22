@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260322_225342",
+      "filename": "images/artwork_20260322_225342.jpg",
+      "topic": "future of human civilization and technology",
+      "prompt": "A lone, silhouetted figure gazes out from a rain-streaked, neon-drenched skyscraper window, reflecting the vibrant, yet melancholic glow of a futuristic cityscape below, rendered in a bold pop art style with sharp, graphic lines and a limited, high-contrast color palette of electric blues, hot pinks, and deep purples. The scene is imbued with a contemplative mood, amplified by the soft, flickering candlelight ambiance that casts long, dancing shadows across the sparse, technologically advanced interior, hinting at a profound and solitary future for humanity. This award-winning, visually stunning prompt captures a moment of quiet introspection amidst overwhelming technological advancement, emphasizing the emotional resonance of a vibrant, yet isolated existence.",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 1150409686,
+      "created_at": "2026-03-22T22:53:42.053086+08:00"
+    },
+    {
       "id": "20260322_223115",
       "filename": "images/artwork_20260322_223115.jpg",
       "topic": "cultural diversity and global harmony",
