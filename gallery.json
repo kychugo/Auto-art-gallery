@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260322_165922",
+      "filename": "images/artwork_20260322_165922.jpg",
+      "topic": "virtual reality and the metaverse",
+      "prompt": "A lone figure, rendered in stark minimalist lines, stands at the precipice of an infinite, holographic iridescent metaverse. Soft diffused daylight bathes the scene, casting long, dramatic shadows that emphasize the figure's isolation and the immense, ethereal landscape stretching before them, evoking an intense sense of awe and trepidation. The iridescent, shimmering colors of the virtual world pulse with latent energy, reflecting in the figure's visor, creating a visually stunning and award-winning composition.",
+      "text_model": "gemini-fast",
+      "image_model": "gptimage",
+      "seed": 203376910,
+      "created_at": "2026-03-22T16:59:22.763673+08:00"
+    },
+    {
       "id": "20260322_161939",
       "filename": "images/artwork_20260322_161939.jpg",
       "topic": "mental health awareness in the digital age",
