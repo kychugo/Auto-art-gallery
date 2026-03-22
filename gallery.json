@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260322_112353",
+      "filename": "images/artwork_20260322_112353.jpg",
+      "topic": "health and medicine breakthroughs",
+      "prompt": "An abstract expressionist masterpiece depicting a monumental breakthrough in health and medicine, with swirling crimson and deep red hues coalescing into powerful, dynamic forms that suggest cellular regeneration and profound healing under dramatic studio lighting. The composition should evoke a sense of immense energy and triumph, with sharp, angular strokes interspersed with fluid, organic shapes, all rendered with breathtaking detail to convey the raw power of scientific advancement.",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 1769601695,
+      "created_at": "2026-03-22T11:23:53.348290+08:00"
+    },
+    {
       "id": "20260322_101108",
       "filename": "images/artwork_20260322_101108.jpg",
       "topic": "mental health awareness in the digital age",
