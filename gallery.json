@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260323_210554",
+      "filename": "images/artwork_20260323_210554.jpg",
+      "topic": "Hong Kong city life and culture",
+      "prompt": "First, the user wants a unique, detailed image generation prompt about Hong Kong city life and culture. I need to incorporate specific elements naturally: art style (baroque), mood (whimsical and dreamlike), lighting (neon city glow), and color palette (warm amber and orange tones).\n\nThe prompt should be visually stunning, award-winning, and highly detailed. It should be 2-4 sentences long and paint a clear mental picture. I must respond with ONLY the image prompt itself—no explanations, no titles, no markdown, and exclusively in English.\n\nKey elements to include:\n- **Hong Kong city life and culture**: Think of iconic aspects like bustling streets, neon signs, traditional elements mixed with modern, maybe temples, markets, or the skyline.\n- **Art style: Baroque**: Baroque art is known for its drama, richness, and ornate details. I need to translate that into a visual description—perhaps elaborate patterns, grandiosity, and dynamic compositions.\n- **Mood: Whimsical and dreamlike**: This suggests a fantastical, playful, and surreal touch. Things might be exaggerated or ethereal.\n- **Lighting: Neon city glow**: Hong Kong is famous for its neon lights, so this fits perfectly. The lighting should be described as glowing neon, illuminating the scene.\n- **Color palette: Warm amber and orange tones**: The overall colors should be in hues of amber and orange, creating a warm, inviting atmosphere.\n\nStructure the prompt to be 2-4 sentences. Start by setting the scene, then incorporate the elements naturally.\n\nDraft a prompt:\n1. Describe the Hong Kong scene with baroque elements.\n2. Integrate the mood, lighting, and colors.\n3. Ensure it's detailed and vivid.\n\nExample sentence starters:\n- \"A baroque-inspired depiction of Hong Kong's bustling city life, where...\"\n- \"Whimsical and dreamlike, the neon glow of the city casts warm amber and orange tones",
+      "text_model": "deepseek",
+      "image_model": "klein",
+      "seed": 1584479155,
+      "created_at": "2026-03-23T21:05:54.328131+08:00"
+    },
+    {
       "id": "20260323_195938",
       "filename": "images/artwork_20260323_195938.jpg",
       "topic": "revolution in education through technology",
