@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260323_132123",
+      "filename": "images/artwork_20260323_132123.jpg",
+      "topic": "news headlines of tomorrow",
+      "prompt": "A Baroque-style scene unfolds under a tranquil moonlight, where ethereal news headlines drift like illuminated celestial bodies amidst soft shadows. The color palette is a mesmerizing holographic iridescent, casting shifting, rainbow-like hues across the composition, imbuing the quiet night with a sense of futuristic serenity. Ornate, yet peaceful, architectural elements typical of the Baroque era are subtly visible, forming a dreamlike backdrop to the softly glowing, data-laden whispers of tomorrow's news.",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 930023697,
+      "created_at": "2026-03-23T13:21:23.915128+08:00"
+    },
+    {
       "id": "20260323_130908",
       "filename": "images/artwork_20260323_130908.jpg",
       "topic": "social media culture and human connection",
