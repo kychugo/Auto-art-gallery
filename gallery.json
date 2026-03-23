@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260323_175528",
+      "filename": "images/artwork_20260323_175528.jpg",
+      "topic": "economic inequality and social justice",
+      "prompt": "First, the user wants me to create an image generation prompt. The topic is \"economic inequality and social justice.\" I need to incorporate specific elements naturally: art style is anime-inspired, mood is melancholic and reflective, lighting is neon city glow, and color palette is cool blues and purples.\n\nThe prompt must be visually stunning, award-winning, and highly detailed. It should be 2-4 sentences long and paint a clear mental picture. I must respond with ONLY the image prompt in English, no explanations or markdown.\n\nI need to craft a prompt that describes a scene. Since it's about economic inequality and social justice, I should depict a contrast between wealth and poverty, possibly in an urban setting. The anime-inspired art style suggests a stylized, perhaps exaggerated visual approach. The mood is melancholic and reflective, so the scene should evoke sadness and thoughtfulness. Lighting from neon city glow implies a nighttime cityscape with neon signs. The color palette of cool blues and purples should dominate the image.\n\nTo make it detailed, I'll include specific visual elements like characters, settings, and emotions. I'll weave in the theme of economic inequality, such as showing a rich area next to a poor one, or a symbolic representation.\n\nStructure the prompt in 2-4 sentences. Start by setting the scene, then add details about the elements.\n\nDraft:\n\n\"In an anime-inspired cityscape bathed in the melancholic glow of neon lights, a young person gazes reflectively from a cramped, dimly lit alley towards a towering skyscraper adorned with luxurious signs, symbolizing economic inequality. The cool blues and purples of the night sky and neon reflections create a hauntingly beautiful atmosphere, with details like worn-out clothing contrasting sharply with the opulent distant structures. Rain-slicked streets mirror the neon hues, adding depth to the scene, while subtle graffiti messages about social justice fade into the shadows, evoking a sense of unresolved struggle and hope.\"\n\nThat",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 476669554,
+      "created_at": "2026-03-23T17:55:28.102741+08:00"
+    },
+    {
       "id": "20260323_173650",
       "filename": "images/artwork_20260323_173650.jpg",
       "topic": "street food culture in Hong Kong",
