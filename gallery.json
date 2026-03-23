@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260323_194451",
+      "filename": "images/artwork_20260323_194451.jpg",
+      "topic": "quantum computing and the future",
+      "prompt": "In a misty cyberpunk cityscape where floating crystalline quantum processors hum with impossible geometries, soft pastel lavender and rose light filters through stormy overcast skies, casting ethereal glows onto iridescent holographic circuits that twist and interlock like frozen lightning, while whimsical clockwork butterflies made of pure data flutter between towering neon spires, their wings leaving trails of shimmering probability equations that dissolve into clouds of pastel pink and powder blue mist.",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 1151933373,
+      "created_at": "2026-03-23T19:44:51.395522+08:00"
+    },
+    {
       "id": "20260323_191259",
       "filename": "images/artwork_20260323_191259.jpg",
       "topic": "music and the evolution of sound",
