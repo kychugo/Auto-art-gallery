@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260324_054613",
+      "filename": "images/artwork_20260324_054613.jpg",
+      "topic": "virtual reality and the metaverse",
+      "prompt": "A solitary figure sits alone in a vast, empty virtual void within the metaverse, their translucent digital avatar bathed in an ethereal bioluminescent glow emanating from the ground beneath them like luminescent moss in an endless forest. The noir composition reveals towering skeletal structures of corrupted data and fragmented code, fading like ancient ruins in the deep emerald and forest green darkness, creating an atmosphere of profound isolation and loss. Their hand reaches toward a flickering holographic memory—a ghost of a simpler world now extinct—illuminating their face with soft green light that catches the melancholy in their eyes, reflecting the loneliness of being the last conscious entity wandering through a beautiful but dead digital realm, where the once-vibrant metaverse has become a cemetery of abandoned dreams and corrupted memories.",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 1352163454,
+      "created_at": "2026-03-24T05:46:13.813845+08:00"
+    },
+    {
       "id": "20260324_050505",
       "filename": "images/artwork_20260324_050505.jpg",
       "topic": "space exploration and the cosmos",
