@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260323_185355",
+      "filename": "images/artwork_20260323_185355.jpg",
+      "topic": "virtual reality and the metaverse",
+      "prompt": "A peaceful virtual reality landscape rendered in sweeping impressionist brushstrokes, where translucent floating islands drift through an endless lavender and cobalt sky connected by shimmering data streams, while a serene figure sits peacefully on a cloud-like platform gazing at a distant neon city glowing softly in cool blues and electric purples, the aurora-borealis lights of the metaverse dancing above like living watercolors, soft volumetric lighting filtering through digital clouds, masterpiece award-winning quality.",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 2080020574,
+      "created_at": "2026-03-23T18:53:55.427668+08:00"
+    },
+    {
       "id": "20260323_183255",
       "filename": "images/artwork_20260323_183255.jpg",
       "topic": "music and the evolution of sound",
