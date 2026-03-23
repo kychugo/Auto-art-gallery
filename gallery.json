@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260323_135435",
+      "filename": "images/artwork_20260323_135435.jpg",
+      "topic": "biotechnology and genetic engineering",
+      "prompt": "First, the user specifies that I need to create an image generation prompt about biotechnology and genetic engineering. I must incorporate the required elements naturally: art style is watercolor, mood is dark and dystopian, lighting is dappled forest light, and color palette is emerald and deep forest green.\n\nThe prompt should be visually stunning, award-winning, and highly detailed. It should be 2-4 sentences long and paint a clear mental picture. I must respond with ONLY the image prompt itself, no explanations, titles, or markdown, and exclusively in English.\n\nI need to craft a single, vivid prompt. Let me brainstorm how to blend biotechnology and genetic engineering with the given elements. Since it's dystopian, I can imagine a scene where genetic engineering has gone wrong or is depicted in a eerie way.\n\nCombine watercolor style: this adds a fluid, organic feel, which fits with biotechnology. Dark and dystopian mood: so the scene should be ominous, perhaps showing mutated or engineered creatures in a foreboding setting. Dappled forest light: this suggests light filtering through trees, creating patches of light and shadow, adding to the mood. Color palette: emerald and deep forest green – so greens should dominate, fitting a forest scene.\n\nI should describe a specific scene. For example, a laboratory or biological elements integrated into a forest, showing genetic manipulation. Since it's watercolor, I can mention the style to ensure it's interpreted correctly.\n\nStructure the prompt: Start with the main subject, incorporate details, and ensure it flows naturally. Keep it within 2-4 sentences.\n\nPossible prompt: \"A watercolor painting depicting a dystopian forest where bioluminescent, genetically-engineered organisms glow under dappled sunlight filtering through dense canopy, with emerald and deep forest green hues dominating the scene, showing intricate DNA strands intertwined with twisted vines and mutated flora, evoking a dark, eerie atmosphere.\"\n\nThat's one sentence, but I need 2-4",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 1695619475,
+      "created_at": "2026-03-23T13:54:35.862326+08:00"
+    },
+    {
       "id": "20260323_132823",
       "filename": "images/artwork_20260323_132823.jpg",
       "topic": "renewable energy and sustainable living",
