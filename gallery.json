@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260323_225831",
+      "filename": "images/artwork_20260323_225831.jpg",
+      "topic": "ocean conservation and marine life",
+      "prompt": "In intimate concept art style, a young diver gently cradles a vibrant sea turtle amidst a lush underwater kelp forest, their hands almost touching as shafts of **dappled forest light** filter through the canopy above, casting ethereal patterns on the cool blues and purples of the rippling ocean depths. Surrounding them, schools of tiny fish weave protectively around bleached coral fragments being tenderly restored by bioluminescent anemones, symbolizing human commitment to **ocean conservation** and **marine life** revival. Highly detailed, award-winning composition with intricate textures on scales, fronds, and skin, evoking a profound, personal bond between humanity and the sea.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 692990866,
+      "created_at": "2026-03-23T22:58:31.255828+08:00"
+    },
+    {
       "id": "20260323_223708",
       "filename": "images/artwork_20260323_223708.jpg",
       "topic": "renewable energy and sustainable living",
