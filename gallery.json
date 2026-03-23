@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260323_191259",
+      "filename": "images/artwork_20260323_191259.jpg",
+      "topic": "music and the evolution of sound",
+      "prompt": "In a surrealist dreamscape bathed in soft diffused daylight, ethereal musical instruments morph and evolve through time: ancient bone flutes dissolve into melting vinyl records sprouting piano keys, which twist into glowing electronic synthesizers pulsing with human heartbeats, all cradled in the tender, veined hands of a lone musician whose face blends eras from Erik Satie's gaze to Björk's whispers. Intimate and profoundly human, the scene unfolds in soft pastel hues of lavender, mint, rose, and pale azure, with sound waves visualized as delicate, iridescent ribbons weaving through floating sheet music that defies gravity, evoking the subconscious evolution of sound in an award-winning masterpiece of intricate detail and emotional depth.",
+      "text_model": "perplexity-fast",
+      "image_model": "klein",
+      "seed": 1957312055,
+      "created_at": "2026-03-23T19:12:59.106716+08:00"
+    },
+    {
       "id": "20260323_185355",
       "filename": "images/artwork_20260323_185355.jpg",
       "topic": "virtual reality and the metaverse",
