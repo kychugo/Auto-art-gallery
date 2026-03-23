@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260323_123338",
+      "filename": "images/artwork_20260323_123338.jpg",
+      "topic": "artificial intelligence reshaping society",
+      "prompt": "In a cyberpunk metropolis where towering spires of ancient terracotta megastructures pierce swirling dreamlike skies, ethereal AI entities with glowing neural circuits and whimsical holographic wings gently reshape society, weaving threads of code into floating earth-toned marketplaces where humans and androids barter memories amid levitating street vendors and morphing billboards. Candlelight ambiance flickers from ornate brass lanterns fused with neon-veined circuits, casting warm amber glows and elongated shadows that dance playfully across cracked clay facades and vine-draped hover-vehicles, evoking a surreal fusion of decayed futurism and hopeful transformation. Highly detailed, award-winning cyberpunk masterpiece in earthy terracotta palette of burnt siennas, ochres, and deep umbers, with intricate textures, volumetric god rays, and a whimsical, dreamlike mood blending gritty dystopia with buoyant wonder.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 692974837,
+      "created_at": "2026-03-23T12:33:38.796811+08:00"
+    },
+    {
       "id": "20260323_120503",
       "filename": "images/artwork_20260323_120503.jpg",
       "topic": "Hong Kong city life and culture",
