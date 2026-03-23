@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260323_160223",
+      "filename": "images/artwork_20260323_160223.jpg",
+      "topic": "cultural diversity and global harmony",
+      "prompt": "A towering abstract monument composed of minimalist architectural silhouettes representing different global cultures—pagodas, minarets, domes, and spires—seamlessly merging into a single unified structure, backlit by the diffuse neon glow of a vast futuristic cityscape at dusk. The scene is rendered in striking monochromatic black and white, with sharp contrasts between deep shadow and the ethereal luminescence outlining the forms, creating a powerful and monumental presence. The style is hyper-clean and graphic, with flawless precision and noiseless gradients, evoking a sense of silent, awe-inspiring global harmony.",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 1928538640,
+      "created_at": "2026-03-23T16:02:23.462795+08:00"
+    },
+    {
       "id": "20260323_154532",
       "filename": "images/artwork_20260323_154532.jpg",
       "topic": "economic inequality and social justice",
