@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260323_140706",
+      "filename": "images/artwork_20260323_140706.jpg",
+      "topic": "revolution in education through technology",
+      "prompt": "An oil painting depicting a diverse group of jubilant students, bathed in dramatic studio lighting that casts vibrant neon streaks across their faces, engaging with holographic interactive learning modules that twist and bloom like digital flora, symbolizing a hopeful and uplifting revolution in education, rendered with hyperrealistic detail and painterly brushstrokes.",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 1929954616,
+      "created_at": "2026-03-23T14:07:06.852117+08:00"
+    },
+    {
       "id": "20260323_135435",
       "filename": "images/artwork_20260323_135435.jpg",
       "topic": "biotechnology and genetic engineering",
