@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260324_000022",
+      "filename": "images/artwork_20260324_000022.jpg",
+      "topic": "urban architecture of the future",
+      "prompt": "A photorealistic vista of a futuristic urban metropolis dominated by towering, mirror-clad megastructures like The Line and verdant vertical forests piercing stormy overcast skies, with sleek drone highways weaving between black-gold spires and hovering autonomous pods amid crackling lightning. High-contrast black and gold palette bathes the dramatic scene in intense shadows and gleaming metallic highlights, evoking a tense, dystopian intensity under diffused, brooding light that accentuates intricate details like recursive golden filigree on brutalist facades and rain-slicked reflective surfaces. Award-winning composition with hyper-detailed textures, volumetric god rays piercing the gloom, and a sense of monumental scale blending sustainable innovation with ominous futurism.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 352980454,
+      "created_at": "2026-03-24T00:00:22.705178+08:00"
+    },
+    {
       "id": "20260323_233602",
       "filename": "images/artwork_20260323_233602.jpg",
       "topic": "urban architecture of the future",
