@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260323_124107",
+      "filename": "images/artwork_20260323_124107.jpg",
+      "topic": "renewable energy and sustainable living",
+      "prompt": "A whimsical baroque dreamscape of sustainable living at dusk, where intricate, ornate wind turbines with scrolling ironwork and gilded vanes turn lazily against a warm amber sky, their bases entwined with cascading vines. The scene is bathed in the soft, flickering glow of countless hanging lanterns and candlelit windows of cozy, thatch-roofed cottages, with solar-paneled stained glass casting pools of orange light on cobblestone paths. Giant, dreamlike sunflowers with copper petal solar collectors tower over lush vegetable gardens, their faces following the last amber rays of the sun in a serene, candlelit ambiance.",
+      "text_model": "deepseek",
+      "image_model": "grok-imagine",
+      "seed": 1111561237,
+      "created_at": "2026-03-23T12:41:07.461135+08:00"
+    },
+    {
       "id": "20260323_123338",
       "filename": "images/artwork_20260323_123338.jpg",
       "topic": "artificial intelligence reshaping society",
