@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260323_154532",
+      "filename": "images/artwork_20260323_154532.jpg",
+      "topic": "economic inequality and social justice",
+      "prompt": "First, the user wants me to create an image generation prompt. I must respond with ONLY the prompt itself—no explanations, no titles, no markdown. The prompt must be in English only.\n\nThe topic is \"economic inequality and social justice.\" I need to incorporate the required elements naturally:\n\n- Art style: surrealist\n\n- Mood: mysterious and ethereal\n\n- Lighting: dramatic studio lighting\n\n- Color palette: soft pastel hues\n\nThe prompt should be visually stunning, award-winning, and highly detailed. It should be 2-4 sentences long and paint a clear mental picture.\n\nI need to craft a vivid, detailed prompt that combines these elements. Since it's surrealist, I can use imaginative and dream-like imagery. The mood should be mysterious and ethereal, so perhaps something that feels otherworldly or ambiguous. Dramatic studio lighting suggests controlled, intense light with sharp contrasts. Soft pastel hues mean light, muted colors.\n\nI should weave in economic inequality and social justice themes. For example, symbols like scales, broken chains, or contrasting scenes of wealth and poverty, but in a surreal way. Since it's surrealist, I can use metaphorical elements.\n\nLet me brainstorm some imagery:\n\n- Economic inequality: disparity in resources, gaps between rich and poor.\n\n- Social justice: balance, fairness, unity.\n\n- Surrealist: unexpected combinations, floating objects, distorted perspectives.\n\n- Mysterious and ethereal: fog, glow, subtle movements.\n\n- Dramatic studio lighting: spotlight effects, chiaroscuro.\n\n- Soft pastel hues: pinks, blues, lavenders, gentle tones.\n\nCombine these into a cohesive scene. Maybe a scene where symbols of wealth and poverty are intertwined in a surreal landscape.\n\nPrompt structure: 2-4 sentences, descriptive, rich in visual detail.\n\nDraft a prompt:\n\n\"In a surrealist dreamscape, a towering scale made of delicate crystal balances a gleaming gold coin against a feather-light bread crust, under dramatic studio",
+      "text_model": "deepseek",
+      "image_model": "grok-imagine",
+      "seed": 1468128102,
+      "created_at": "2026-03-23T15:45:32.485864+08:00"
+    },
+    {
       "id": "20260323_145631",
       "filename": "images/artwork_20260323_145631.jpg",
       "topic": "biotechnology and genetic engineering",
