@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260323_233602",
+      "filename": "images/artwork_20260323_233602.jpg",
+      "topic": "urban architecture of the future",
+      "prompt": "In a melancholic, concept art style, depict a future metropolis at twilight, where towering, impossibly intricate skyscrapers pierce a bruised-purple sky, their forms softened by a gentle, flickering candlelight ambiance that casts long, introspective shadows. Streets below are a dizzying cascade of vibrant neon colors—electric blues, vivid magentas, and acid greens—reflecting off rain-slicked surfaces and illuminating the quiet solitude of this advanced urban landscape. The overall mood is one of profound reflection, with a cinematic, highly detailed aesthetic that captures the lonely beauty of human ambition against the vastness of time.",
+      "text_model": "gemini-search",
+      "image_model": "klein",
+      "seed": 299013150,
+      "created_at": "2026-03-23T23:36:02.720122+08:00"
+    },
+    {
       "id": "20260323_225831",
       "filename": "images/artwork_20260323_225831.jpg",
       "topic": "ocean conservation and marine life",
