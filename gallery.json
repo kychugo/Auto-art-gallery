@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260323_130908",
+      "filename": "images/artwork_20260323_130908.jpg",
+      "topic": "social media culture and human connection",
+      "prompt": "A concept art scene depicting diverse figures gathered around a glowing digital interface floating in an ethereal arctic landscape, their silhouettes framed by swirling aurora borealis ribbons of soft pastel greens and pinks that dance across the night sky, creating a dramatic and intense atmosphere where virtual connections manifest as luminous threads of light weaving between the humans, while bioluminescent snowflakes drift around them and the aurora's diffused glow reflects off ice crystals forming intricate geometric patterns on frozen ground, capturing the fragile yet powerful intersection of digital intimacy and physical presence in a world where screens have become modern campfires for the human soul.",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 1437834092,
+      "created_at": "2026-03-23T13:09:08.162565+08:00"
+    },
+    {
       "id": "20260323_124107",
       "filename": "images/artwork_20260323_124107.jpg",
       "topic": "renewable energy and sustainable living",
