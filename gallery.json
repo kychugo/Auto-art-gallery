@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260323_173650",
+      "filename": "images/artwork_20260323_173650.jpg",
+      "topic": "street food culture in Hong Kong",
+      "prompt": "A monumental digital art piece capturing the powerful essence of Hong Kong street food culture, bathed in the vibrant neon city glow. Steam billows dramatically from bustling food stalls, rendered in rich earth tones and terracotta, highlighting intricate details of sizzling woks and patrons interacting amidst the energy. The scene evokes a sense of awe and grandeur, with a dynamic composition that feels both authentic and epic.",
+      "text_model": "gemini-search",
+      "image_model": "grok-imagine",
+      "seed": 2107186430,
+      "created_at": "2026-03-23T17:36:50.546995+08:00"
+    },
+    {
       "id": "20260323_164028",
       "filename": "images/artwork_20260323_164028.jpg",
       "topic": "renewable energy and sustainable living",
