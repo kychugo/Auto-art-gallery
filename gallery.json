@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260323_144756",
+      "filename": "images/artwork_20260323_144756.jpg",
+      "topic": "renewable energy and sustainable living",
+      "prompt": "A sprawling, abstract expressionist cityscape choked by industrial smog, where towering, skeletal structures of forgotten technology pierce a perpetually twilight sky illuminated by the harsh, warm amber and orange glow of distant neon signs. Twisted rebar and decaying concrete form the foundations of a new, unsustainable world, yet faint, resilient tendrils of bioluminescent flora push through the cracks, hinting at a struggle for survival amidst the pervasive, dystopian mood. The scene is rendered with aggressive, gestural brushstrokes, capturing the raw energy of decay and a desperate, flickering hope.",
+      "text_model": "gemini-search",
+      "image_model": "grok-imagine",
+      "seed": 1495845729,
+      "created_at": "2026-03-23T14:47:56.340216+08:00"
+    },
+    {
       "id": "20260323_140706",
       "filename": "images/artwork_20260323_140706.jpg",
       "topic": "revolution in education through technology",
