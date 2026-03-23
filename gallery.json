@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260323_112722",
+      "filename": "images/artwork_20260323_112722.jpg",
+      "topic": "economic inequality and social justice",
+      "prompt": "First, the user wants me to create an image generation prompt based on the theme of economic inequality and social justice. I need to incorporate specific elements naturally: art style is baroque, mood is powerful and monumental, lighting is dappled forest light, and color palette is emerald and deep forest green.\n\nThe prompt must be 2-4 sentences long, visually stunning, award-winning, and highly detailed. I should write only in English and provide only the prompt itself, no explanations or extra text.\n\nKey points to include:\n- Theme: economic inequality and social justice. This should be reflected in the visual elements, perhaps through contrasts or symbolic imagery.\n- Baroque style: known for its drama, richness, and elaborate details. Think of ornate compositions, dynamic movements, and deep emotions.\n- Mood: powerful and monumental – so the scene should feel grand, imposing, and impactful.\n- Lighting: dappled forest light – suggests light filtering through trees, creating patterns of light and shadow.\n- Color palette: emerald and deep forest green – so greens should dominate, with variations in shade.\n\nI need to weave these into a cohesive prompt that paints a clear mental picture. Since it's about economic inequality and social justice, I can use imagery that contrasts wealth and poverty, or symbols of justice and imbalance.\n\nBrainstorming visual elements:\n- Perhaps a scene in a forest where the dappled light highlights disparities.\n- Baroque elements like ornate frames, dramatic poses, or allegorical figures.\n- Symbols: scales of justice, broken chains, opulent vs. ragged clothing, etc.\n- Use the green palette to unify the scene, making it feel immersive.\n\nStructure the prompt:\n- Start with the setting or main subject.\n- Describe the style, mood, lighting, and colors.\n- Incorporate the theme through specific details.\n- Keep it within 2-4 sentences.\n\nFinal prompt should be in English only, and just the prompt.\n\nDraft:\n\"In a grand baroque",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 299487943,
+      "created_at": "2026-03-23T11:27:22.685452+08:00"
+    },
+    {
       "id": "20260323_101156",
       "filename": "images/artwork_20260323_101156.jpg",
       "topic": "mental health awareness in the digital age",
