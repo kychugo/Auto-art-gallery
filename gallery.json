@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260323_145631",
+      "filename": "images/artwork_20260323_145631.jpg",
+      "topic": "biotechnology and genetic engineering",
+      "prompt": "In a cyberpunk dystopia at golden hour, dramatic rays of sunlight pierce through towering biomechanical spires fused with human DNA helixes and glowing gene-editing vials, illuminating a lone genetic engineer in a trench coat hunched over a writhing, cybernetically augmented hybrid creature on a rain-slicked lab platform amid neon-lit biotech slums. The scene pulses with intense tension as organic flesh merges seamlessly with metallic implants, veins pulsing with engineered bioluminescence against a vast, shadowy metropolis of fleshy skyscrapers and hovering drone swarms. Rendered in hyper-detailed black and white monochromatic palette, award-winning cinematic composition with high contrast chiaroscuro lighting, intricate textures on scales, circuits, and sinew, H.R. Giger-inspired biopunk surrealism, ultra-realistic digital art masterpiece.",
+      "text_model": "perplexity-fast",
+      "image_model": "grok-imagine",
+      "seed": 1735163510,
+      "created_at": "2026-03-23T14:56:31.171230+08:00"
+    },
+    {
       "id": "20260323_144756",
       "filename": "images/artwork_20260323_144756.jpg",
       "topic": "renewable energy and sustainable living",
