@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260324_061912",
+      "filename": "images/artwork_20260324_061912.jpg",
+      "topic": "cultural diversity and global harmony",
+      "prompt": "In a lush, ancient forest bathed in **dappled emerald light** filtering through dense canopy leaves, diverse figures from global cultures—adorned in intricate traditional attire from Indigenous feathers and African beads to Asian silks and European lace—stand in a solemn circle, their hands gently interlinked in quiet unity. Rendered in **watercolor** with translucent washes and soft, bleeding edges that evoke spontaneity and depth, the scene employs a **deep forest green** and **emerald palette**, layered with subtle granulations for textured foliage and melancholic mist that blurs distant horizons. The **melancholic, reflective mood** permeates through shadowed faces lost in thoughtful gaze, faint raindrops on vibrant fabrics, and rays of light piercing like hopeful whispers amid overgrown mossy ruins symbolizing shared human legacy.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 1391507776,
+      "created_at": "2026-03-24T06:19:12.346053+08:00"
+    },
+    {
       "id": "20260324_055842",
       "filename": "images/artwork_20260324_055842.jpg",
       "topic": "quantum computing and the future",
