@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260323_164028",
+      "filename": "images/artwork_20260323_164028.jpg",
+      "topic": "renewable energy and sustainable living",
+      "prompt": "A peaceful sustainable village emerges at twilight beneath cascading aurora borealis, where wind turbines and solar panels gleam with crimson reflections amid the ethereal red-shifted sky, snow-covered homes with green rooftops glow warmly from within, frozen northern lakes mirror the spectacular dancing lights in deep red and crimson hues, while families walk peacefully between modern ecostructures surrounded by native birch forests, photorealistic style capturing every detailed texture of snow, glass, and auroral streaks in an award-winning composition of harmonious human innovation and pristine nature.",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 982556590,
+      "created_at": "2026-03-23T16:40:28.047751+08:00"
+    },
+    {
       "id": "20260323_161254",
       "filename": "images/artwork_20260323_161254.jpg",
       "topic": "artificial intelligence reshaping society",
