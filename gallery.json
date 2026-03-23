@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260323_120503",
+      "filename": "images/artwork_20260323_120503.jpg",
+      "topic": "Hong Kong city life and culture",
+      "prompt": "Golden hour sunlight filters through the abstract, fractured forms of towering Hong Kong skyscrapers, their reflections dissolving into a serene harbor of cool blues and deep purples. Traditional red-sailed junk boats are rendered as graceful, sweeping brushstrokes on the water, while the soft glow of neon signs becomes diffuse pools of color rather than text. The overall mood is one of peaceful abstraction, where the bustling energy of the city is transformed into a harmonious composition of light, shadow, and evocative, fluid shapes.",
+      "text_model": "deepseek",
+      "image_model": "grok-imagine",
+      "seed": 1064384128,
+      "created_at": "2026-03-23T12:05:03.339601+08:00"
+    },
+    {
       "id": "20260323_114501",
       "filename": "images/artwork_20260323_114501.jpg",
       "topic": "global climate crisis and environmental solutions",
