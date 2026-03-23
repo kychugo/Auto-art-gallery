@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260324_065628",
+      "filename": "images/artwork_20260324_065628.jpg",
+      "topic": "health and medicine breakthroughs",
+      "prompt": "First, the user asks me to create an image generation prompt. I must ensure it's a single prompt, vivid, detailed, and in English only. No explanations, titles, or markdown—just the prompt.\n\nThe theme is \"health and medicine breakthroughs.\" I need to incorporate the required elements naturally:\n\n- Art style: anime-inspired\n\n- Mood: peaceful and serene\n\n- Lighting: arctic aurora borealis\n\n- Color palette: high contrast black and gold\n\nThe prompt should be 2-4 sentences long, visually stunning, award-winning, and highly detailed. It must paint a clear mental picture.\n\nI need to weave these elements into a cohesive scene. Since it's about health and medicine breakthroughs, I can imagine a scene that symbolizes healing, advancement, or futuristic medicine in an anime style.\n\nThink about how to use the lighting: arctic aurora borealis. This suggests a northern lights effect, which can be magical and serene. The color palette is high contrast black and gold, so the scene should have deep blacks and brilliant golds, with the aurora adding ethereal colors.\n\nMood is peaceful and serene, so the scene should be calm and uplifting.\n\nAnime-inspired art style means it might have characteristics of anime, like expressive characters, detailed backgrounds, and a certain aesthetic.\n\nI need to make it about health and medicine breakthroughs. Perhaps show a futuristic medical facility, a healing moment, or a symbolic representation like a glowing cure or advanced technology.\n\nLet me draft a prompt:\n\nStart with the setting: maybe a serene arctic landscape with aurora borealis lighting.\n\nIncorporate medical elements: perhaps a sleek, gold-accented medical pod or a character in a peaceful healing pose.\n\nEnsure high contrast: black backgrounds with gold highlights.\n\nMake it anime-inspired: detailed characters, vibrant eyes, stylized features.\n\nKeep it peaceful: calm expressions, gentle movements.\n\nNow, write 2-4 sentences. Let's try:\n\n\"In an",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 366007102,
+      "created_at": "2026-03-24T06:56:28.603765+08:00"
+    },
+    {
       "id": "20260324_061912",
       "filename": "images/artwork_20260324_061912.jpg",
       "topic": "cultural diversity and global harmony",
