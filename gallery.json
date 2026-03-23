@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260323_223708",
+      "filename": "images/artwork_20260323_223708.jpg",
+      "topic": "renewable energy and sustainable living",
+      "prompt": "An abstract expressionist landscape erupts with vibrant neon colors, depicting a hopeful and uplifting vision of renewable energy sources seamlessly integrated into a sustainable living environment. Dynamic, gestural strokes of electric blues, vivid greens, and radiant pinks converge to form structures of wind turbines and solar panels that pulse with a soft, bioluminescent glow. Organic shapes morph into thriving ecosystems, all bathed in an ethereal light that emanates from the very energy sources themselves, creating a visually stunning and richly detailed scene brimming with positive futuristic energy.",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 985252434,
+      "created_at": "2026-03-23T22:37:08.952342+08:00"
+    },
+    {
       "id": "20260323_221653",
       "filename": "images/artwork_20260323_221653.jpg",
       "topic": "future of human civilization and technology",
