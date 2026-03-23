@@ -285,6 +285,44 @@ def save_gallery(gallery, gallery_file):
         json.dump(gallery, f, indent=2, ensure_ascii=False)
 
 
+def update_sitemap(sitemap_file="sitemap.xml"):
+    """Rewrite sitemap.xml with today's lastmod so crawlers know the page changed."""
+    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    content = (
+        '<?xml version="1.0" encoding="UTF-8"?>\n'
+        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+        "  <url>\n"
+        "    <loc>https://kychugo.github.io/Auto-art-gallery/</loc>\n"
+        f"    <lastmod>{today}</lastmod>\n"
+        "    <changefreq>hourly</changefreq>\n"
+        "    <priority>1.0</priority>\n"
+        "  </url>\n"
+        "</urlset>\n"
+    )
+    with open(sitemap_file, "w", encoding="utf-8") as f:
+        f.write(content)
+    print(f"Updated {sitemap_file} with lastmod: {today}")
+
+
+def ping_search_engines():
+    """Notify search engines that the sitemap has been updated.
+
+    Google deprecated their ping endpoint in 2023; Bing still supports it.
+    Both Google and Bing will pick up the updated sitemap on their next crawl
+    regardless, but the Bing ping can accelerate re-indexing.
+    """
+    sitemap_url = "https://kychugo.github.io/Auto-art-gallery/sitemap.xml"
+    ping_urls = [
+        f"https://www.bing.com/ping?sitemap={urllib.parse.quote(sitemap_url)}",
+    ]
+    for url in ping_urls:
+        try:
+            resp = requests.get(url, timeout=10)
+            print(f"  Pinged {url.split('?')[0]} — HTTP {resp.status_code}")
+        except Exception as exc:
+            print(f"  Ping failed ({url.split('?')[0]}): {exc}")
+
+
 def main():
     print("=" * 60)
     print("Auto Art Gallery - Artwork Generator")
@@ -346,6 +384,11 @@ def main():
     gallery["artworks"].insert(0, artwork)
     save_gallery(gallery, gallery_file)
     print(f"Updated {gallery_file} ({len(gallery['artworks'])} artworks total)")
+
+    # Keep sitemap fresh so search engines know the gallery has new content
+    update_sitemap()
+    print("\nNotifying search engines...")
+    ping_search_engines()
 
     print("\n✓ Artwork generation complete!")
     print("=" * 60)
