@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260324_223923",
+      "filename": "images/artwork_20260324_223923.jpg",
+      "topic": "cybersecurity and privacy in the digital world",
+      "prompt": "An abstract expressionist digital forest of cool blues and deep purples, where shimmering, translucent data streams twist like vines under a canopy of dappled, ethereal light. Fragmented firewalls and encryption ciphers glow softly, their geometric forms dissolving into fluid, mysterious washes of color, evoking both protection and unseen vulnerability. The composition feels like a half-remembered dream, with layers of translucent digital veils and ghostly, silhouetted figures acting as ethereal guardians of hidden information.",
+      "text_model": "deepseek",
+      "image_model": "grok-imagine",
+      "seed": 301171553,
+      "created_at": "2026-03-24T22:39:23.463319+08:00"
+    },
+    {
       "id": "20260324_222000",
       "filename": "images/artwork_20260324_222000.jpg",
       "topic": "ancient traditions meeting the modern world",
