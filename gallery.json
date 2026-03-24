@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260325_000404",
+      "filename": "images/artwork_20260325_000404.jpg",
+      "topic": "health and medicine breakthroughs",
+      "prompt": "In a dark dystopian oil painting, towering biopunk skyscrapers pulse with bioluminescent veins of engineered bacteria, their emerald and deep forest green glow illuminating breakthroughs in synthetic biology like CRISPR-modified cells curing plague-ridden patients in shadowed labs below. Hulking figures in tattered lab coats hover over petri-dish altars where glowing neural networks regenerate severed limbs and viral swarms dissolve into healing fractals, casting an eerie bioluminescent radiance across crumbling ruins overgrown with phosphorescent vines. The mood is oppressively tense, with hyper-detailed textures of dripping organic circuits and flickering metabolic lights evoking award-winning mastery in visceral, otherworldly realism.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 1695386908,
+      "created_at": "2026-03-25T00:04:04.798532+08:00"
+    },
+    {
       "id": "20260324_234221",
       "filename": "images/artwork_20260324_234221.jpg",
       "topic": "street food culture in Hong Kong",
