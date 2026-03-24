@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260324_172923",
+      "filename": "images/artwork_20260324_172923.jpg",
+      "topic": "cultural diversity and global harmony",
+      "prompt": "A photorealistic, monumental scene of global harmony where diverse people from Caucasian, Hispanic, Black, Middle-Eastern, and South Asian backgrounds stand hand-in-hand atop a colossal ancient stone pedestal etched with intertwined cultural symbols like intricate henna patterns, African masks, Asian lanterns, and Native American totems, their faces radiating powerful unity under soft diffused daylight that casts gentle shadows and highlights crimson robes, deep red banners, and richly textured traditional attire blending seamlessly. The composition evokes an award-winning epic scale, with a vast horizon of unified world landmarks fading into a harmonious crimson and deep red palette, symbolizing unbreakable bonds of cultural diversity amidst swirling mist for dramatic depth and stunning visual intensity.",
+      "text_model": "perplexity-fast",
+      "image_model": "grok-imagine",
+      "seed": 872097204,
+      "created_at": "2026-03-24T17:29:23.360296+08:00"
+    },
+    {
       "id": "20260324_163640",
       "filename": "images/artwork_20260324_163640.jpg",
       "topic": "sports and human physical achievement",
