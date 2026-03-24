@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260325_060216",
+      "filename": "images/artwork_20260325_060216.jpg",
+      "topic": "artificial intelligence reshaping society",
+      "prompt": "First, the user wants an image generation prompt about \"artificial intelligence reshaping society.\" I need to focus on that theme.\n\nThe required elements are:\n- Art style: oil painting\n- Mood: dark and dystopian\n- Lighting: stormy overcast light\n- Color palette: high contrast black and gold\n\nI must incorporate these naturally into the prompt. The prompt should be 2-4 sentences long, visually stunning, award-winning, and highly detailed. I need to write in English only and provide only the prompt itself, no explanations or markdown.\n\nStart by brainstorming the visual scene. Since it's dystopian and about AI reshaping society, I can imagine scenes like AI structures dominating a city, or humans interacting with AI in a bleak environment.\n\nUse oil painting style to give it an artistic feel. Dark and dystopian mood suggests something ominous, perhaps with elements of decay or control. Stormy overcast lighting means cloudy, dim light with possible rain or storms, adding to the gloomy atmosphere. High contrast black and gold palette: black for darkness and gold for accents, maybe representing AI or technology contrasting with the bleakness.\n\nStructure the prompt as 2-4 sentences that paint a clear mental picture. Ensure it's detailed and descriptive.\n\nDraft a prompt:\n\n\"In a dystopian cityscape, towering obsidian AI monoliths emit golden circuits that weave through decaying skyscrapers under a stormy overcast sky, captured in the style of a detailed oil painting with high contrast black and gold palette, conveying a dark mood as artificial intelligence reshapes society.\"\n\nThat's one sentence. I need 2-4 sentences. Let's expand.\n\n\"Under a stormy overcast sky, a bleak metropolis is dominated by sleek black AI structures that glow with intricate golden filaments, weaving through the ruins of human civilization. The scene is rendered as a masterful oil painting, with high contrast between the deep blacks and shimmering golds, evoking a dark and dyst",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 2063538336,
+      "created_at": "2026-03-25T06:02:16.840452+08:00"
+    },
+    {
       "id": "20260325_054648",
       "filename": "images/artwork_20260325_054648.jpg",
       "topic": "blockchain and decentralized future",
