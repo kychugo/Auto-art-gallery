@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260324_155340",
+      "filename": "images/artwork_20260324_155340.jpg",
+      "topic": "quantum computing and the future",
+      "prompt": "In a dimly lit cyberpunk chamber flickering with candlelight ambiance, a solitary human figure hunches intimately over a sleek quantum computer console, their face illuminated by the soft glow of ethereal qubits dancing as holographic particles in cool blues and purples, evoking a profound connection between fragile humanity and boundless computational futures. Neon-wired circuits pulse faintly along rusted walls etched with futuristic algorithms, while superimposed visions of entangled waveforms and probabilistic clouds swirl above, symbolizing the intimate dawn of a quantum era where personal discovery transcends silicon souls. Award-winning cyberpunk masterpiece, hyper-detailed, cinematic depth of field, moody atmospheric haze, intricate textures on skin and machinery.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 2009725713,
+      "created_at": "2026-03-24T15:53:40.547037+08:00"
+    },
+    {
       "id": "20260324_153612",
       "filename": "images/artwork_20260324_153612.jpg",
       "topic": "music and the evolution of sound",
