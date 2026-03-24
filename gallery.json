@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260325_075152",
+      "filename": "images/artwork_20260325_075152.jpg",
+      "topic": "renewable energy and sustainable living",
+      "prompt": "An impressionist painting bathed in the warm, intimate glow of candlelight, depicting a close-knit family tending to a vibrant, rooftop garden overflowing with terracotta pots and lush greenery. The scene is rendered in a rich palette of earthy browns, soft ochres, and deep terracotta hues, emphasizing sustainable living and a harmonious connection with nature. Subtle brushstrokes capture the quiet joy and human connection as hands gently water plants, bathed in the soft, dappled light that dances across their faces and the surrounding, organic architecture.",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 1382154660,
+      "created_at": "2026-03-25T07:51:52.580843+08:00"
+    },
+    {
       "id": "20260325_072808",
       "filename": "images/artwork_20260325_072808.jpg",
       "topic": "traditional vs modern culture clash in Asia",
