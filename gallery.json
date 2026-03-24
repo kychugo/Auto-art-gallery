@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260324_134323",
+      "filename": "images/artwork_20260324_134323.jpg",
+      "topic": "blockchain and decentralized future",
+      "prompt": "An abstract expressionist masterpiece depicting the dawn of a decentralized future, rendered in a high-contrast black and gold palette.  Ethereal, interconnected geometric forms pulse with a serene bioluminescent glow, suggesting the quiet hum of secure, distributed networks and fostering a mood of peaceful, boundless possibility.  Swirls of liquid gold paint and deep obsidian textures intermingle, creating a sense of profound, organic growth within the digital ether, a visually stunning testament to innovation.",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 1642108002,
+      "created_at": "2026-03-24T13:43:23.477528+08:00"
+    },
+    {
       "id": "20260324_132150",
       "filename": "images/artwork_20260324_132150.jpg",
       "topic": "renewable energy and sustainable living",
