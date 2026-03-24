@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260324_122408",
+      "filename": "images/artwork_20260324_122408.jpg",
+      "topic": "blockchain and decentralized future",
+      "prompt": "A whimsical cyberpunk cityscape bathed in ethereal moonlight, where towering servers made of crystalline data and winding blockchain vines glow with deep forest and emerald green luminescence. Holographic cryptocurrency symbols float like fireflies through shadowy alleys, and digital creatures made of shimmering code dance among decentralized network nodes that resemble glowing mushrooms. The atmosphere is dreamlike and mysterious, with moonlight casting long, dramatic shadows across organic data streams that flow like glowing rivers through the neon-drenched architecture.",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 1787963120,
+      "created_at": "2026-03-24T12:24:08.226927+08:00"
+    },
+    {
       "id": "20260324_115551",
       "filename": "images/artwork_20260324_115551.jpg",
       "topic": "urban architecture of the future",
