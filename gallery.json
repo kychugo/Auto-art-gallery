@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260324_200158",
+      "filename": "images/artwork_20260324_200158.jpg",
+      "topic": "biotechnology and genetic engineering",
+      "prompt": "An abstract expressionist visualization of biotechnology and genetic engineering emerges from darkness, where luminescent double helix forms twist and interweave like living brushstrokes, their delicate strands piercing through shadowy voids illuminated only by cold moonlight that casts dramatic shadows across towering glass laboratory structures. Vibrant neon colors of electric cyan, hot magenta, and toxic green pulse through translucent organic matter, transforming the melancholic scene into a mesmerizing symphony of light and darkness, while scattered DNA fragments float like forgotten memories in the ether, and silhouettes of anonymous figures stand reflecting at the edge of scientific revelation, their faces hidden in darkness but their presence felt as witnesses to the beautiful, tragic pursuit of nature's ultimate secrets.",
+      "text_model": "minimax",
+      "image_model": "flux",
+      "seed": 2125503293,
+      "created_at": "2026-03-24T20:01:58.155929+08:00"
+    },
+    {
       "id": "20260324_194641",
       "filename": "images/artwork_20260324_194641.jpg",
       "topic": "cybersecurity and privacy in the digital world",
