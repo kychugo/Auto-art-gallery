@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260324_163640",
+      "filename": "images/artwork_20260324_163640.jpg",
+      "topic": "sports and human physical achievement",
+      "prompt": "A lone, sculpted athlete, mid-air in a moment of impossible grace, their form rendered in hyper-detailed digital art, bathed in the ethereal, melancholic glow of bioluminescent light. Vibrant neon colors, shifting from deep sapphire to electric magenta, paint the scene, highlighting the sweat-sheened skin and the intense, yet reflective, gaze of human physical achievement pushed to its absolute zenith, set against an abstract, cosmic void. The mood is one of quiet contemplation, the transient beauty of peak performance illuminated by an otherworldly, neon luminescence.",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 1011768418,
+      "created_at": "2026-03-24T16:36:40.683910+08:00"
+    },
+    {
       "id": "20260324_160635",
       "filename": "images/artwork_20260324_160635.jpg",
       "topic": "urban architecture of the future",
