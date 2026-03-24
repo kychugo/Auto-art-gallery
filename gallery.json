@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260324_115551",
+      "filename": "images/artwork_20260324_115551.jpg",
+      "topic": "urban architecture of the future",
+      "prompt": "Giant baroque towers rise in an endless cityscape, their ornate facades twisted into impossible organic forms, each cornice and twisted column carved from obsidian-black stone that catches the faint bioluminescent glow emanating from the streets below, creating delicate threads of pale silver light that trace along the elaborateScrollwork and fractured domes, while above the heaven's dissolve into a fog of pearl-white mist that blurs the infinite spires into ghostly silhouettes against a deep charcoal sky, the whole scene bathed in an eerie monochromatic radiance that transforms elaborate classical balconies and excessive sculptural details into dreamlike shadows and soft luminous highlights that convey profound melancholy and contemplative solitude in this deserted metropolis of tomorrow.",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 1673028790,
+      "created_at": "2026-03-24T11:55:51.243605+08:00"
+    },
+    {
       "id": "20260324_113557",
       "filename": "images/artwork_20260324_113557.jpg",
       "topic": "human migration and global nomadism",
