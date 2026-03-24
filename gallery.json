@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260324_191231",
+      "filename": "images/artwork_20260324_191231.jpg",
+      "topic": "street food culture in Hong Kong",
+      "prompt": "A photorealistic scene of a bustling Hong Kong street food stall at midday, where a weathered vendor with focused eyes meticulously prepares wonton noodles in a steaming wok, surrounded by hanging lanterns casting gentle shadows and steel carts brimming with dim sum, dried seafood, and neon-signage in muted grayscale, captured in dramatic black-and-white with soft diffused daylight filtering through overhead canopies, conveying the intense energy and soul of this culinary tradition through every wrinkle on the vendor's hands and every curl of steam rising from the broth.",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 338567691,
+      "created_at": "2026-03-24T19:12:31.810732+08:00"
+    },
+    {
       "id": "20260324_185407",
       "filename": "images/artwork_20260324_185407.jpg",
       "topic": "fashion meets technology",
