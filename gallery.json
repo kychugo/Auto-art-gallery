@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260324_143945",
+      "filename": "images/artwork_20260324_143945.jpg",
+      "topic": "global climate crisis and environmental solutions",
+      "prompt": "An impressionist landscape unfolds under a monumental golden hour sky, where swirling cool blues and deep purples dominate the horizon, signaling both the crisis and the hope of environmental solutions. In the foreground, hints of verdant regrowth emerge amidst abstractly rendered, yet powerful, natural elements, all depicted with the characteristic visible brushstrokes and emphasis on light that define the impressionist style. The scene is imbued with a sense of awe and urgency, capturing the monumental scale of the global climate crisis while simultaneously suggesting the transformative power of nature and human innovation.",
+      "text_model": "gemini-search",
+      "image_model": "grok-imagine",
+      "seed": 1781559055,
+      "created_at": "2026-03-24T14:39:45.866286+08:00"
+    },
+    {
       "id": "20260324_135610",
       "filename": "images/artwork_20260324_135610.jpg",
       "topic": "virtual reality and the metaverse",
