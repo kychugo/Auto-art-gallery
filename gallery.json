@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260324_145019",
+      "filename": "images/artwork_20260324_145019.jpg",
+      "topic": "cultural diversity and global harmony",
+      "prompt": "A surrealist scene in stark monochromatic black and white where figures from diverse cultures—African, Asian, European, Indigenous—merge and float together like fragmented memories, their silhouettes intertwined forming a delicate human chain that stretches toward a glowing full moon, while twisted branches and distorted architectural elements cast long dramatic shadows across an ethereal misty landscape, evoking melancholic reflection on global unity and the fragile beauty of interconnected humanity.",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 2113206755,
+      "created_at": "2026-03-24T14:50:19.638998+08:00"
+    },
+    {
       "id": "20260324_143945",
       "filename": "images/artwork_20260324_143945.jpg",
       "topic": "global climate crisis and environmental solutions",
