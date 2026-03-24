@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260325_065514",
+      "filename": "images/artwork_20260325_065514.jpg",
+      "topic": "revolution in education through technology",
+      "prompt": "A surrealist landscape where towering chalkboards and vintage schoolhouse architecture dissolve into digital streams of gold light, their edges melting like Salvador Dalí's clocks against a stormy, brooding sky filled with turbulent charcoal clouds. Floating books with pages transforming into circuit pathways drift through the scene, while silhouettes of students and teachers emerge from shadows, their forms fragmenting into pixels and reforming as glowing equations, creating an ethereal bridge between analog and digital worlds. The composition bathes in high-contrast blacks and luminous gold accents, with lightning illuminating abandoned wooden desks juxtaposed against holographic interfaces, all rendered in the dreamlike, impossible geometry of surrealist art that captures both the melancholy of what's lost and the reflective wonder of educational transformation. Shot with the contemplative atmosphere of a museum piece, every element symbolizes the profound yet unsettling revolution occurring within learning spaces.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 510803399,
+      "created_at": "2026-03-25T06:55:14.333420+08:00"
+    },
+    {
       "id": "20260325_061836",
       "filename": "images/artwork_20260325_061836.jpg",
       "topic": "Hong Kong protest art and resilience",
