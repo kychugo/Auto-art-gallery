@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260324_153612",
+      "filename": "images/artwork_20260324_153612.jpg",
+      "topic": "music and the evolution of sound",
+      "prompt": "A sweeping impressionist canvas depicting the evolution of musical instruments emerging from swirling shadows and moonlit mist, with visible brushstrokes of terracotta, burnt sienna, and ochre dancing across the composition to suggest movement and temporal flow. Ancient lyres and modern synthesizers blur together in loose, energetic dabs of paint, their forms suggested rather than defined, while silvery moonlight catches the edges of each instrument creating a luminous, ethereal quality. The scene pulses with vibrant energy through complementary color contrasts—deep earth tones against glowing highlights—rendered in the impressionist technique of unblended, thick impasto strokes that evoke the very vibrations and frequencies of sound itself. Shadows pool dramatically across the canvas in rich terracotta and indigo hues, while wisps of light fracture across the surface, capturing the fleeting, ever-changing moment of music's transformation through time.",
+      "text_model": "perplexity-fast",
+      "image_model": "grok-imagine",
+      "seed": 1642801016,
+      "created_at": "2026-03-24T15:36:12.169492+08:00"
+    },
+    {
       "id": "20260324_145019",
       "filename": "images/artwork_20260324_145019.jpg",
       "topic": "cultural diversity and global harmony",
