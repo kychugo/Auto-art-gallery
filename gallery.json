@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260325_054648",
+      "filename": "images/artwork_20260325_054648.jpg",
+      "topic": "blockchain and decentralized future",
+      "prompt": "In a surrealist masterpiece evoking a powerful, monumental vision of blockchain's decentralized future, colossal chains of glowing, ethereal blocks morph into infinite, gravity-defying neural networks weaving through dreamlike pastel skies of soft lavender, mint, and rose hues, where fragmented corporate towers dissolve into organic vines of code sprouting liberated human figures ascending toward a radiant horizon. Dramatic studio lighting casts sharp, godlike shadows and volumetric beams that highlight the intricate, hyper-detailed engravings of cryptographic symbols and interlocking nodes on transforming metallic surfaces, blending mechanical precision with subconscious metamorphosis in an award-winning composition of awe-inspiring liberation and unity.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 185105507,
+      "created_at": "2026-03-25T05:46:48.750779+08:00"
+    },
+    {
       "id": "20260325_050710",
       "filename": "images/artwork_20260325_050710.jpg",
       "topic": "social media culture and human connection",
