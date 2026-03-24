@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260324_113557",
+      "filename": "images/artwork_20260324_113557.jpg",
+      "topic": "human migration and global nomadism",
+      "prompt": "A vast ethereal landscape of traveling figures, their flowing garments caught in perpetual motion as if swept by an invisible wind of migration, rendered in loose impressionist brushstrokes that blur the boundaries between human forms and the crimson horizon; dramatic studio lighting casts long, mysterious shadows across their journey, while deep red and burgundy tones wrap the scene in an otherworldly glow, their faces obscured by shadow yet full of hope and uncertainty, creating a breathtaking tableau that captures the timeless essence of humanity's endless wanderlust.",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 1512562238,
+      "created_at": "2026-03-24T11:35:57.624132+08:00"
+    },
+    {
       "id": "20260324_111754",
       "filename": "images/artwork_20260324_111754.jpg",
       "topic": "mental health awareness in the digital age",
