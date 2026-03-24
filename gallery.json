@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260324_123054",
+      "filename": "images/artwork_20260324_123054.jpg",
+      "topic": "cybersecurity and privacy in the digital world",
+      "prompt": "A solitary figure sits at a desk bathed in warm golden hour sunlight, her hands hovering protectively over a glowing digital shield that surrounds her like delicate stained glass, rendered in flowing watercolor strokes of deep violet and midnight blue with touches of amber light filtering through, her face illuminated with quiet determination as she guards her private digital world, the composition feeling intimate and deeply personal, soft wet-on-wet blending creating dreamlike edges where virtual and physical realms merge, with intricate patterns of binary code and protective symbols emerging from the watercolor washes like whispered secrets, the overall mood tender and protective rather than cold or technical.",
+      "text_model": "minimax",
+      "image_model": "flux",
+      "seed": 370541216,
+      "created_at": "2026-03-24T12:30:54.939728+08:00"
+    },
+    {
       "id": "20260324_122408",
       "filename": "images/artwork_20260324_122408.jpg",
       "topic": "blockchain and decentralized future",
