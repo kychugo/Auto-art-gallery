@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260325_061836",
+      "filename": "images/artwork_20260325_061836.jpg",
+      "topic": "Hong Kong protest art and resilience",
+      "prompt": "A lone Hong Kong demonstrator, their face obscured by a gas mask, stands resolute amidst a surreal, dreamlike cityscape where ancient neon signs flicker like dying embers. Above, the aurora borealis pulses with an otherworldly arctic glow, casting long, distorted shadows that dance with the warm amber and orange hues emanating from street-level barricades crafted from protest signs, evoking a mood of intimate, human resilience against overwhelming odds. The scene is rendered in a style that blends the dreamlike logic of surrealism with photorealistic detail, creating a visually stunning and emotionally resonant tableau.",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 1225596421,
+      "created_at": "2026-03-25T06:18:36.040101+08:00"
+    },
+    {
       "id": "20260325_060216",
       "filename": "images/artwork_20260325_060216.jpg",
       "topic": "artificial intelligence reshaping society",
