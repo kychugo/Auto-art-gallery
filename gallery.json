@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260325_072808",
+      "filename": "images/artwork_20260325_072808.jpg",
+      "topic": "traditional vs modern culture clash in Asia",
+      "prompt": "A vibrant pop art fusion depicting an ancient, ornate pagoda silhouetted against a futuristic Tokyo skyline, with children in traditional silk kimonos playing alongside holographic advertisements and sleek, neon-lit drones, all bathed in a hopeful, warm amber and orange bioluminescent glow that casts ethereal shadows, creating a visually stunning, award-winning masterpiece of cultural harmony.",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 339479820,
+      "created_at": "2026-03-25T07:28:08.787501+08:00"
+    },
+    {
       "id": "20260325_065514",
       "filename": "images/artwork_20260325_065514.jpg",
       "topic": "revolution in education through technology",
