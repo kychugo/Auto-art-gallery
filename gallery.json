@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260325_050710",
+      "filename": "images/artwork_20260325_050710.jpg",
+      "topic": "social media culture and human connection",
+      "prompt": "A solitary figure, their silhouette formed by a cascade of ethereal social media icons, drifts through a hyper-realistic, deserted metropolis bathed in the cool, pulsing glow of neon city lights. The atmosphere is whimsically dreamlike, with wisps of abstract data streams swirling around them, rendered in a surrealist style with a palette dominated by deep blues and vibrant purples, suggesting a profound yet isolated search for genuine human connection within the digital ether. Delicate, glowing tendrils of light, reminiscent of both fiber optic cables and celestial constellations, reach out from the figure, searching for an unseen anchor in the vast, luminous urban dreamscape.",
+      "text_model": "gemini-fast",
+      "image_model": "grok-imagine",
+      "seed": 1484082034,
+      "created_at": "2026-03-25T05:07:10.813178+08:00"
+    },
+    {
       "id": "20260325_043402",
       "filename": "images/artwork_20260325_043402.jpg",
       "topic": "street food culture in Hong Kong",
