@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260325_043402",
+      "filename": "images/artwork_20260325_043402.jpg",
+      "topic": "street food culture in Hong Kong",
+      "prompt": "A bustling Hong Kong street food stall at golden hour, bathed in the warm, ethereal glow of the setting sun, is rendered in a detailed cyberpunk art style. Intricate details of steam rising from woks and the subtle expressions of vendors and customers create an intimate, human mood, all set against a backdrop of vibrant, flickering neon signs that bleed into the dusky sky. The color palette is a striking juxtaposition of the golden hour's warmth against the electric blues, pinks, and purples of the neon, evoking a sense of gritty yet beautiful urban life.",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 146983741,
+      "created_at": "2026-03-25T04:34:02.356691+08:00"
+    },
+    {
       "id": "20260325_000404",
       "filename": "images/artwork_20260325_000404.jpg",
       "topic": "health and medicine breakthroughs",
