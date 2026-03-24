@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260324_160635",
+      "filename": "images/artwork_20260324_160635.jpg",
+      "topic": "urban architecture of the future",
+      "prompt": "A minimalist cityscape of future architecture, where sleek geodesic towers and fluid, ribbon-like bridges are carved from polished obsidian and chrome. A stormy overcast sky casts a diffused, dramatic light, causing the entire scene to glow with a vibrant, holographic iridescent sheen—surfaces shift from electric cyan to deep magenta as bio-luminescent data streams pulse along clean, geometric facades.",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 810729438,
+      "created_at": "2026-03-24T16:06:35.077859+08:00"
+    },
+    {
       "id": "20260324_155340",
       "filename": "images/artwork_20260324_155340.jpg",
       "topic": "quantum computing and the future",
