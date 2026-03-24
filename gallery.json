@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260324_131209",
+      "filename": "images/artwork_20260324_131209.jpg",
+      "topic": "animals and nature conservation",
+      "prompt": "In a baroque masterpiece of dramatic realism and ornate grandeur, a majestic endangered tiger with spiraling fur adorned in iridescent acanthus leaves and fantastical floral scrolls gazes melancholically from a shadowed throne of twisted ancient oaks, its piercing eyes reflecting the fragile infinity of vanishing wilderness, surrounded by ethereal birds and deer emerging from tenebrist mists like allegorical guardians of nature's splendor. Holographic iridescent hues of shimmering emerald, sapphire, and molten gold shift across voluptuous forms caught in mid-movement, evoking deep reflection on conservation's poignant urgency. Dramatic studio lighting casts chiaroscuro beams that spotlight the tiger's emotive face and rippling foliage, blurring boundaries between sculpture, painting, and divine infinity in this award-winning, highly detailed vision of sensual loss and hopeful reverence.",
+      "text_model": "perplexity-fast",
+      "image_model": "grok-imagine",
+      "seed": 1126618070,
+      "created_at": "2026-03-24T13:12:09.187920+08:00"
+    },
+    {
       "id": "20260324_125917",
       "filename": "images/artwork_20260324_125917.jpg",
       "topic": "biotechnology and genetic engineering",
