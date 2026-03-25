@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260325_210907",
+      "filename": "images/artwork_20260325_210907.jpg",
+      "topic": "economic inequality and social justice",
+      "prompt": "A minimalist composition showing weathered hands of a laborer reaching upward against a vast concrete wall, the figures on the other side blurred into shadow while golden afternoon light cuts through stormy overcast skies in earth tones and terracotta, capturing the weight of systemic division with haunting beauty.",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 1692277580,
+      "created_at": "2026-03-25T21:09:07.845671+08:00"
+    },
+    {
       "id": "20260325_200033",
       "filename": "images/artwork_20260325_200033.jpg",
       "topic": "blockchain and decentralized future",
