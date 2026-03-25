@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260325_215320",
+      "filename": "images/artwork_20260325_215320.jpg",
+      "topic": "blockchain and decentralized future",
+      "prompt": "An abstract expressionist landscape of a sprawling, decaying digital city rendered in stark monochromatic black and white, where fragmented data streams cascade like waterfalls through desolate, monolithic structures. Dappled forest light filters through unseen, glitching canopy high above, casting eerie, shifting patterns on the crumbling blockchain architecture below, creating a mood of dark, dystopian isolation and digital decay. The scene evokes a profound sense of a lost, decentralized future, with sharp, chaotic brushstrokes and dynamic, energetic forms conveying the unsettling beauty of technological collapse.",
+      "text_model": "gemini-search",
+      "image_model": "klein",
+      "seed": 442555890,
+      "created_at": "2026-03-25T21:53:20.861847+08:00"
+    },
+    {
       "id": "20260325_210907",
       "filename": "images/artwork_20260325_210907.jpg",
       "topic": "economic inequality and social justice",
