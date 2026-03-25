@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260325_113909",
+      "filename": "images/artwork_20260325_113909.jpg",
+      "topic": "ancient traditions meeting the modern world",
+      "prompt": "In a dramatic anime-inspired scene, a lone samurai, cloaked in deep indigo and accented with shimmering purple, stands defiantly against the backdrop of a neon-drenched, futuristic cityscape. Soft, diffused daylight filters through the towering holographic advertisements, casting long, cool shadows that accentuate the intense, determined expression on the samurai's face as ancient tradition clashes with a hyper-modern world. The color palette is dominated by cool blues and purples, with subtle hints of electric light reflecting off the wet, metallic streets, creating a visually stunning and emotionally charged tableau.",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 356790278,
+      "created_at": "2026-03-25T11:39:09.493552+08:00"
+    },
+    {
       "id": "20260325_112201",
       "filename": "images/artwork_20260325_112201.jpg",
       "topic": "health and medicine breakthroughs",
