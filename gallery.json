@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260326_050412",
+      "filename": "images/artwork_20260326_050412.jpg",
+      "topic": "biotechnology and genetic engineering",
+      "prompt": "An abstract expressionist piece depicting the intricate dance of genetic code, rendered as swirling, organic forms bathed in dappled forest light. Warm amber and orange tones dominate the palette, evoking an intimate and human sense of discovery as abstract representations of DNA strands intertwine and evolve. The mood is one of quiet contemplation and profound connection, with light filtering through unseen foliage, illuminating the fundamental beauty of biological engineering.",
+      "text_model": "gemini-search",
+      "image_model": "grok-imagine",
+      "seed": 1830336887,
+      "created_at": "2026-03-26T05:04:12.244020+08:00"
+    },
+    {
       "id": "20260326_043154",
       "filename": "images/artwork_20260326_043154.jpg",
       "topic": "Hong Kong protest art and resilience",
