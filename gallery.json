@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260325_123247",
+      "filename": "images/artwork_20260325_123247.jpg",
+      "topic": "Hong Kong city life and culture",
+      "prompt": "A sweeping watercolor painting captures the dynamic energy of Hong Kong's bustling cityscape during golden hour, where towering glass skyscrapers rise against warm amber sunlight piercing through misty mountains, while iconic double-decker buses and trams snake through crowded streets below, vibrant neon signs in electric pinks, cyans and oranges casting luminous reflections on wet pavement as traditional dim sum steam rises from street vendors and the famous Star Ferry crosses the glittering Victoria Harbour, rendered in bold expressive brushstrokes that blend dramatic shadows with luminous highlights in an intense, cinematic composition bursting with urban vitality and cultural richness.",
+      "text_model": "minimax",
+      "image_model": "flux",
+      "seed": 1935447124,
+      "created_at": "2026-03-25T12:32:47.449662+08:00"
+    },
+    {
       "id": "20260325_122606",
       "filename": "images/artwork_20260325_122606.jpg",
       "topic": "Hong Kong protest art and resilience",
