@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260326_062322",
+      "filename": "images/artwork_20260326_062322.jpg",
+      "topic": "mental health awareness in the digital age",
+      "prompt": "A solitary, silhouetted figure sits hunched over a glowing smartphone screen, its light casting stark, elongated shadows. The scene is rendered in a minimalist, monochromatic black and white, with dappled forest light filtering through unseen trees, creating an intense and dramatic mood. The stark contrast between the harsh digital glow and the organic shadows emphasizes the isolating nature of technology on mental well-being. This award-winning artwork should evoke a profound sense of digital solitude and the internal struggle of navigating mental health in an always-connected world.",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 309176013,
+      "created_at": "2026-03-26T06:23:22.831733+08:00"
+    },
+    {
       "id": "20260326_060350",
       "filename": "images/artwork_20260326_060350.jpg",
       "topic": "virtual reality and the metaverse",
