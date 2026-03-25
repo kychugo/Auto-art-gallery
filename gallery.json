@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260325_132200",
+      "filename": "images/artwork_20260325_132200.jpg",
+      "topic": "renewable energy and sustainable living",
+      "prompt": "In a abandoned futurist city where rusted solar panels and dead wind turbines stand like skeletal monuments, a solitary figure moves through the darkness carrying a bioluminescent lantern, their silhouette cast in dramatic noir shadows against towering columns of obsolete clean energy infrastructure. Cool blues and deep purples from dying LED strips create an atmospheric haze around cracked glass domes and overgrown gardens, while dozens of candles flicker in ancient handcrafted holders on makeshift wooden tables where survivors have gathered. The场景 is rendered in cinematic noir grain with stark chiaroscuro lighting, hyper-detailed industrial textures showing the decay of humanity's abandoned green dream, mysterious fog rising from underground geothermal vents, and a hauntingly beautiful sense of isolation mixed with fragile human resilience in a world where sustainable technology became a lost civilization's relic.",
+      "text_model": "minimax",
+      "image_model": "flux",
+      "seed": 1613026860,
+      "created_at": "2026-03-25T13:22:00.467553+08:00"
+    },
+    {
       "id": "20260325_131235",
       "filename": "images/artwork_20260325_131235.jpg",
       "topic": "animals and nature conservation",
