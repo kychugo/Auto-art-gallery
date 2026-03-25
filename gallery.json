@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260325_174412",
+      "filename": "images/artwork_20260325_174412.jpg",
+      "topic": "blockchain and decentralized future",
+      "prompt": "A cinematic scene depicting a sprawling, futuristic metropolis at night, where towering skyscrapers are interwoven with glowing, holographic data streams, casting a dramatic and intense neon city glow across the rain-slicked streets below. Figures clad in sleek, augmented reality gear move through the shadows, their forms partially illuminated by the holographic iridescent light, embodying the essence of a decentralized future. The overall mood is one of high-stakes intrigue and technological marvel, captured with hyper-realistic detail and a deep, dramatic color palette that accentuates the vibrant energy of the digital age.",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 1993731914,
+      "created_at": "2026-03-25T17:44:12.284534+08:00"
+    },
+    {
       "id": "20260325_172728",
       "filename": "images/artwork_20260325_172728.jpg",
       "topic": "biotechnology and genetic engineering",
