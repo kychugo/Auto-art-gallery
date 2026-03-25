@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260326_073026",
+      "filename": "images/artwork_20260326_073026.jpg",
+      "topic": "news headlines of tomorrow",
+      "prompt": "A solitary figure stands on a rain-slicked rooftop in a neon-drenched cyberpunk cityscape, surrounded by floating holographic newspapers displaying cryptic headlines from tomorrow, their glowing text reflecting in the character's melancholic eyes as pale moonlight casts long shadows across the wet concrete, while vibrant magenta and electric blue neon lights bleed into the dark sky, creating a beautiful yet sorrowful atmosphere where technology and human isolation intertwine in exquisite anime detail.",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 1108970508,
+      "created_at": "2026-03-26T07:30:26.773325+08:00"
+    },
+    {
       "id": "20260326_070020",
       "filename": "images/artwork_20260326_070020.jpg",
       "topic": "sports and human physical achievement",
