@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260325_122606",
+      "filename": "images/artwork_20260325_122606.jpg",
+      "topic": "Hong Kong protest art and resilience",
+      "prompt": "First, the user wants a unique, detailed image generation prompt about Hong Kong protest art and resilience. I need to incorporate specific elements naturally: art style is anime-inspired, mood is vibrant and energetic, lighting is soft diffused daylight, and color palette is monochromatic black and white.\n\nThe prompt must be visually stunning, award-winning, and highly detailed. It should be 2-4 sentences long and paint a clear mental picture. I must respond with ONLY the image prompt itself, no explanations, titles, or markdown, and write exclusively in English.\n\nKey elements to include:\n\n- Hong Kong protest art and resilience: This implies themes related to protests, possibly symbols like umbrellas, masks, or street art, combined with resilience, which could mean perseverance, strength, or hope.\n\n- Art style: anime-inspired – so, features like exaggerated expressions, dynamic poses, and stylized visuals common in anime.\n\n- Mood: vibrant and energetic – despite the monochromatic palette, I need to convey energy through composition and action.\n\n- Lighting: soft diffused daylight – this suggests natural, gentle light that doesn't create harsh shadows.\n\n- Color palette: monochromatic black and white – only shades of black, white, and gray.\n\nI need to craft a prompt that integrates all these into a cohesive image. Since it's about protest art and resilience, I can imagine scenes with street art, protesters, or symbolic elements.\n\nStructure the prompt: Start with a broad scene, add details about style, mood, lighting, and color. Keep it descriptive and vivid.\n\nDraft ideas:\n\n- A scene in Hong Kong with anime-style characters engaged in peaceful protest, creating art on walls.\n\n- Emphasize resilience through expressions and actions.\n\n- Use soft diffused daylight to illuminate the scene, making it feel hopeful.\n\n- Despite black and white, make it vibrant through dynamic compositions.\n\nEnsure it's 2-4 sentences. Let me write a draft:\n\n\"In the heart of Hong Kong,",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 1344994172,
+      "created_at": "2026-03-25T12:26:06.235897+08:00"
+    },
+    {
       "id": "20260325_115801",
       "filename": "images/artwork_20260325_115801.jpg",
       "topic": "blockchain and decentralized future",
