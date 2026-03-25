@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260325_160547",
+      "filename": "images/artwork_20260325_160547.jpg",
+      "topic": "renewable energy and sustainable living",
+      "prompt": "In a melancholic digital art scene of sustainable living at golden hour, a solitary figure in flowing robes contemplates a futuristic eco-village nestled in misty rolling hills, where iridescent holographic wind turbines spin gracefully, their blades shimmering with pearlescent rainbows refracting warm amber sunlight into ethereal glows that halo solar panels and lush vertical gardens overflowing with bioluminescent vines. Long dramatic shadows stretch across thatched rooftops adorned with living moss roofs and rainwater collectors, evoking reflective solitude amid whispering wildflowers and a distant horizon of geothermal spires pulsing with subtle neon veins. Rendered in hyper-detailed award-winning digital painting style with intricate textures, subsurface scattering on foliage for an enchanted fairy-tale luminescence, and a holographic iridescent color palette blending shifting opalescent blues, golds, and violets for profound visual depth and emotional resonance.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 933343290,
+      "created_at": "2026-03-25T16:05:47.279005+08:00"
+    },
+    {
       "id": "20260325_155249",
       "filename": "images/artwork_20260325_155249.jpg",
       "topic": "biotechnology and genetic engineering",
