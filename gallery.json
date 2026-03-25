@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260325_131235",
+      "filename": "images/artwork_20260325_131235.jpg",
+      "topic": "animals and nature conservation",
+      "prompt": "A majestic, lone wolf, its fur a tapestry of vibrant neon blues and purples, stands silhouetted against a dark, studio-lit backdrop, its eyes reflecting a profound, melancholic awareness of its dwindling wild habitat. The cinematic scene captures a single, dewy feather drifting from a critically endangered bird, illuminated by dramatic spotlights that cast long, introspective shadows, evoking a deep sense of loss and urgent conservation. This visually stunning, award-winning image should blend hyperrealism with an ethereal glow, emphasizing the fragile beauty of nature amidst encroaching darkness, with a color palette dominated by electric pinks and toxic greens contrasting with the wolf's cool tones.",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 1608091830,
+      "created_at": "2026-03-25T13:12:35.967815+08:00"
+    },
+    {
       "id": "20260325_125954",
       "filename": "images/artwork_20260325_125954.jpg",
       "topic": "renewable energy and sustainable living",
