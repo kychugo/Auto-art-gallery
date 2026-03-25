@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260325_115801",
+      "filename": "images/artwork_20260325_115801.jpg",
+      "topic": "blockchain and decentralized future",
+      "prompt": "A noir-style vision of a decentralized blockchain future, where towering ethereal chains of glowing pastel-hued blocks interconnect floating cyber-cities in a vibrant, energetic metropolis pulsing with communal energy and digital liberation. Dramatic studio lighting casts sharp shadows and radiant highlights on diverse figures—artists, coders, and dreamers—collaborating around holographic NFTs and swarm-sketched ledgers, their faces alive with electric determination amid swirling data streams and interconnected nodes. Rendered in highly detailed, award-winning cinematic artistry with soft pastel hues of mint green, lavender, blush pink, and pale cyan dominating the scene, evoking a moody yet dynamically alive techno-utopia.",
+      "text_model": "perplexity-fast",
+      "image_model": "grok-imagine",
+      "seed": 855834090,
+      "created_at": "2026-03-25T11:58:01.089256+08:00"
+    },
+    {
       "id": "20260325_113909",
       "filename": "images/artwork_20260325_113909.jpg",
       "topic": "ancient traditions meeting the modern world",
