@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260325_100923",
+      "filename": "images/artwork_20260325_100923.jpg",
+      "topic": "social media culture and human connection",
+      "prompt": "The user wants me to create an image generation prompt about social media culture and human connection. Let me craft something that incorporates all the required elements naturally:\n\n- Photorealistic style\n- Melancholic and reflective mood\n- Bioluminescent glow lighting\n- Earth tones and terracotta color palette\n\nI need to write this in 2-4 sentences, be very specific and detailed, and make it visually stunning. Let me create something that naturally blends these elements while capturing the theme of social media culture and human connection.\n\nLet me think about a scene that would capture this... Perhaps people in a modern setting, perhaps connected through technology but still feeling isolated or connected in meaningful ways. The bioluminescent glow could come from screens or environmental elements. Earth tones and terracotta would give it that warm but melancholic feel.\n\nLet me draft:\n\nOption 1: A group of friends sitting together on a terracotta rooftop at dusk, their faces illuminated by the soft bioluminescent glow of their smartphones, yet they're lost in their own digital worlds, looking at their screens rather than at each other - the contrast between physical proximity and digital isolation captured in photorealistic detail, with warm earth tones and terracotta walls casting long shadows as firefly-like bioluminescent particles float around them\n\nActually let me refine this more naturally...\n\nOption 2: Two old friends sitting on a weathered terracotta balcony at twilight, their faces softly lit by the bioluminescent glow emanating from a holographic display between them showing childhood photos, their expressions melancholic and reflective as they reconnect across the digital divide, photorealistic capture of this tender moment with warm earth tones and amber lighting\n\nLet me try to make it more about the broader social media culture theme...\n\nOption 3: A crowded urban café with terracotta walls and worn wooden tables, where a diverse group of young people sit together yet each is absorbed in their own screen, their faces bathed in an ethereal bioluminescent glow from their devices, creating pockets",
+      "text_model": "minimax",
+      "image_model": "flux",
+      "seed": 1451804881,
+      "created_at": "2026-03-25T10:09:23.758537+08:00"
+    },
+    {
       "id": "20260325_075152",
       "filename": "images/artwork_20260325_075152.jpg",
       "topic": "renewable energy and sustainable living",
