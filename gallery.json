@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260325_221940",
+      "filename": "images/artwork_20260325_221940.jpg",
+      "topic": "global climate crisis and environmental solutions",
+      "prompt": "A vast, regenerating forest with young trees growing through the ruins of an old industrial site, bathed in the warm, gentle glow of golden hour sunlight. Clean, geometric solar panel arrays rise gracefully from a field of wildflowers in soft pastel hues of lavender, mint, and peach, with butterflies floating on a gentle mist. In the style of serene and hopeful digital art, the scene captures a peaceful transition to renewable energy and ecological restoration, with every detail rendered in stunning, luminous clarity.",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 1804243524,
+      "created_at": "2026-03-25T22:19:40.249689+08:00"
+    },
+    {
       "id": "20260325_215320",
       "filename": "images/artwork_20260325_215320.jpg",
       "topic": "blockchain and decentralized future",
