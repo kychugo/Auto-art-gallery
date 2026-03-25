@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260325_185202",
+      "filename": "images/artwork_20260325_185202.jpg",
+      "topic": "ocean conservation and marine life",
+      "prompt": "A majestic humpback whale, silhouetted against a vibrant neon-drenched coral reef, breaches through the ocean's surface in a moment of dramatic intensity. Schools of bioluminescent fish, rendered in electric blues and pinks, swirl around its powerful form, their scales catching the soft diffused daylight filtering from above. The cinematic scene evokes a sense of awe and urgency for marine conservation, with every detail rendered in award-winning, hyper-realistic style.",
+      "text_model": "gemini-search",
+      "image_model": "klein",
+      "seed": 772752025,
+      "created_at": "2026-03-25T18:52:02.493731+08:00"
+    },
+    {
       "id": "20260325_182657",
       "filename": "images/artwork_20260325_182657.jpg",
       "topic": "ocean conservation and marine life",
