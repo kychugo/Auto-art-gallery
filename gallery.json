@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260326_043154",
+      "filename": "images/artwork_20260326_043154.jpg",
+      "topic": "Hong Kong protest art and resilience",
+      "prompt": "An oil painting captures the defiant spirit of Hong Kong's protests, rendered in a dark, dystopian style reminiscent of Goya. Dramatic studio lighting casts harsh shadows, highlighting figures clad in protective gear, their faces obscured by gas masks and determined gazes, symbolizing resilience amidst oppression. The high-contrast black and gold color palette evokes a sense of foreboding yet dignifies the struggle, with symbolic elements of shattered bauhinia flowers and interwoven chains representing both the damage inflicted and the unyielding spirit of the people.",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 920987410,
+      "created_at": "2026-03-26T04:31:54.910557+08:00"
+    },
+    {
       "id": "20260326_000728",
       "filename": "images/artwork_20260326_000728.jpg",
       "topic": "Hong Kong city life and culture",
