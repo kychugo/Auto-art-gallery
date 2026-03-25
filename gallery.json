@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260325_163529",
+      "filename": "images/artwork_20260325_163529.jpg",
+      "topic": "Hong Kong protest art and resilience",
+      "prompt": "A cinematic vista of Hong Kong's neon-drenched skyline at dusk, where monumental protest camps sprawl across occupied streets beneath towering skyscrapers, featuring giant yellow umbrellas forming resilient sculptures, a vibrant Lennon Wall exploding with post-it notes of defiance, and defiant figures in black attire raising fists amid intricate street art banners. Warm amber and orange tones from flickering city neon glow bathe the scene in powerful, unyielding light, casting dramatic shadows that evoke unbreakable solidarity and raw human perseverance against oppression. Highly detailed, award-winning composition with rain-slicked pavements reflecting glowing protests, intricate origami umbrellas fluttering in the wind, and a sea of determined faces united in monumental resilience.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 528791489,
+      "created_at": "2026-03-25T16:35:29.437648+08:00"
+    },
+    {
       "id": "20260325_160547",
       "filename": "images/artwork_20260325_160547.jpg",
       "topic": "renewable energy and sustainable living",
