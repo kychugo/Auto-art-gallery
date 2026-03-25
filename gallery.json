@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260326_000728",
+      "filename": "images/artwork_20260326_000728.jpg",
+      "topic": "Hong Kong city life and culture",
+      "prompt": "A peaceful golden hour scene in Hong Kong, rendered in concept art style with a monochromatic black and white palette. Sunlight filters through the gaps between towering skyscrapers, casting long, dramatic shadows across a serene, mist-shrouded temple courtyard where a single figure meditates beside gently smoking incense. Delicate paper lanterns sway in the soft breeze, their warm glow subtly contrasting with the cool grey stone, capturing a moment of profound stillness within the bustling city.",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 218824241,
+      "created_at": "2026-03-26T00:07:28.588039+08:00"
+    },
+    {
       "id": "20260325_234436",
       "filename": "images/artwork_20260325_234436.jpg",
       "topic": "space exploration and the cosmos",
