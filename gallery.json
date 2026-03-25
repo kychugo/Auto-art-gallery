@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260325_200033",
+      "filename": "images/artwork_20260325_200033.jpg",
+      "topic": "blockchain and decentralized future",
+      "prompt": "Concept art illustration in a vibrant and energetic style, depicting a decentralized future where interconnected crimson and deep red geometric nodes pulsate with soft diffused daylight, forming intricate networks that represent a global blockchain.  Whispers of data flow like ethereal energy between towering, abstract structures, hinting at boundless innovation and secure connectivity.",
+      "text_model": "gemini-fast",
+      "image_model": "grok-imagine",
+      "seed": 1367761366,
+      "created_at": "2026-03-25T20:00:33.452393+08:00"
+    },
+    {
       "id": "20260325_194249",
       "filename": "images/artwork_20260325_194249.jpg",
       "topic": "mental health awareness in the digital age",
