@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260326_070020",
+      "filename": "images/artwork_20260326_070020.jpg",
+      "topic": "sports and human physical achievement",
+      "prompt": "In a cyberpunk megacity bathed in the serene glow of golden hour sunlight, a lone athlete in sleek neon-trimmed athletic gear achieves transcendent physical prowess by leaping effortlessly across towering holographic skyscrapers, muscles rippling with quiet determination amid floating data streams and subtle cybernetic enhancements.[1][2] Warm amber and orange tones envelop the peaceful scene, casting long, ethereal shadows over rain-slicked rooftops and distant neon spires, evoking a mood of calm triumph and human resilience in a futuristic world.[3][4] Highly detailed, award-winning digital art in cyberpunk style, intricate textures on cyberware and fabrics, volumetric god rays piercing the tranquil dusk sky, ultra-realistic rendering with cinematic depth of field.[5]",
+      "text_model": "perplexity-fast",
+      "image_model": "gptimage",
+      "seed": 1723555004,
+      "created_at": "2026-03-26T07:00:20.375408+08:00"
+    },
+    {
       "id": "20260326_062322",
       "filename": "images/artwork_20260326_062322.jpg",
       "topic": "mental health awareness in the digital age",
