@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260325_223928",
+      "filename": "images/artwork_20260325_223928.jpg",
+      "topic": "animals and nature conservation",
+      "prompt": "An anime-inspired scene bursts with vibrant energy, showcasing a majestic crimson phoenix soaring through a dramatic stormy sky, its fiery plumage a stark contrast against the deep red of bruised clouds and the hint of a protected, lush green forest below, all illuminated by the cool, diffused light of an overcast, dramatic tempest.",
+      "text_model": "gemini-fast",
+      "image_model": "grok-imagine",
+      "seed": 1874056054,
+      "created_at": "2026-03-25T22:39:28.739521+08:00"
+    },
+    {
       "id": "20260325_221940",
       "filename": "images/artwork_20260325_221940.jpg",
       "topic": "global climate crisis and environmental solutions",
