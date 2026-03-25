@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260325_155249",
+      "filename": "images/artwork_20260325_155249.jpg",
+      "topic": "biotechnology and genetic engineering",
+      "prompt": "In a moonlit bioluminescent forest, a scientist with an expression of wonder holds a luminous, emerald-green DNA helix that gently pulses with life. Ethereal shadows dance around them as tendrils of glowing flora interweave with intricate genetic code, symbolizing the harmonious convergence of nature and cutting-edge biotechnology. This scene, bathed in the deep, hopeful glow of discovery, captures the uplifting spirit of genetic engineering unlocking the future.",
+      "text_model": "gemini-search",
+      "image_model": "grok-imagine",
+      "seed": 874695720,
+      "created_at": "2026-03-25T15:52:49.780685+08:00"
+    },
+    {
       "id": "20260325_153550",
       "filename": "images/artwork_20260325_153550.jpg",
       "topic": "Hong Kong protest art and resilience",
