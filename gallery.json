@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260325_125954",
+      "filename": "images/artwork_20260325_125954.jpg",
+      "topic": "renewable energy and sustainable living",
+      "prompt": "An impressionist cityscape, rendered in a high-contrast black and gold palette, depicts the stark beauty of a dystopian future where monolithic, decaying renewable energy structures loom against a bruised twilight sky, illuminated by dramatic studio lighting that casts long, skeletal shadows and glints off salvaged, repurposed materials, evoking a mood of grim perseverance. Amongst the ruins of a forgotten era, a single, luminous vine, woven with tiny, golden bio-luminescent flowers, tentatively climbs a rusting wind turbine blade, a fragile symbol of sustainable life clinging to the edges of an industrial wasteland.",
+      "text_model": "gemini-fast",
+      "image_model": "grok-imagine",
+      "seed": 199795603,
+      "created_at": "2026-03-25T12:59:54.534309+08:00"
+    },
+    {
       "id": "20260325_123247",
       "filename": "images/artwork_20260325_123247.jpg",
       "topic": "Hong Kong city life and culture",
