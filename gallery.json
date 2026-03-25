@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260325_144026",
+      "filename": "images/artwork_20260325_144026.jpg",
+      "topic": "cultural diversity and global harmony",
+      "prompt": "A vibrant pop art cityscape rendered in soft pastel hues, where diverse, silhouetted figures from around the globe, rendered with stark linework, merge and intertwine under a dark, dystopian sky illuminated by an otherworldly bioluminescent glow emanating from holographic advertisements that flicker with symbols of unity and subtle societal control, creating a visually stunning and melancholic scene of enforced global harmony.",
+      "text_model": "gemini-fast",
+      "image_model": "grok-imagine",
+      "seed": 1158229071,
+      "created_at": "2026-03-25T14:40:26.759596+08:00"
+    },
+    {
       "id": "20260325_135657",
       "filename": "images/artwork_20260325_135657.jpg",
       "topic": "economic inequality and social justice",
