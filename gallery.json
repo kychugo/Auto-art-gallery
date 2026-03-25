@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260325_194249",
+      "filename": "images/artwork_20260325_194249.jpg",
+      "topic": "mental health awareness in the digital age",
+      "prompt": "A solitary figure emerges from a monochromatic forest, dappled sunlight piercing through dense canopy to illuminate their face with striking chiaroscuro contrast, their expression raw with emotional intensity captured in baroque dramatic realism. Ornate baroque scrollwork and intricate natural motifs—twisted vines, flowing acanthus leaves, and ethereal birds—spiral dynamically around their form, blurring between physical and digital realms as crystalline screens and geometric code weave through organic baroque ornamentation. The composition emphasizes vertical and vortical movement, with the figure reaching upward toward heaven-breaking light, their garments billowing as if caught in spiritual wind, creating a sense of both tension and transcendence. Rendered in deep blacks and luminous whites with masterful baroque sensuality, the work evokes grandeur, profound emotion, and awe—a monumental meditation on human consciousness navigating the intersection of nature, technology, and inner transformation.",
+      "text_model": "perplexity-fast",
+      "image_model": "klein",
+      "seed": 508410216,
+      "created_at": "2026-03-25T19:42:49.873289+08:00"
+    },
+    {
       "id": "20260325_191046",
       "filename": "images/artwork_20260325_191046.jpg",
       "topic": "sports and human physical achievement",
