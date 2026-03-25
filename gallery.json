@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260325_134348",
+      "filename": "images/artwork_20260325_134348.jpg",
+      "topic": "ancient traditions meeting the modern world",
+      "prompt": "An elderly woman in traditional indigo robes performs an ancient ritual gesture, her weathered hands illuminated by soft diffused daylight streaming through a contemporary glass atrium that has replaced a temple's shattered dome, where baroque cherubs rendered in sculptural relief gaze down at her from the restored ceiling above—a fusion of weathered stone and crystalline modern architecture bathed in cool blues and purples that blend centuries of devotion into one intimate, achingly human moment.",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 1162076195,
+      "created_at": "2026-03-25T13:43:48.436531+08:00"
+    },
+    {
       "id": "20260325_132200",
       "filename": "images/artwork_20260325_132200.jpg",
       "topic": "renewable energy and sustainable living",
