@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260325_144920",
+      "filename": "images/artwork_20260325_144920.jpg",
+      "topic": "space exploration and the cosmos",
+      "prompt": "An impressionist vista of a lone astronaut, clad in worn earth-toned and terracotta hues, gazing out from a dusty, windswept alien planet towards a turbulent, stormy cosmos illuminated by a brooding, overcast sky. The scene evokes a profound sense of melancholic reflection, with swirling brushstrokes capturing distant, nebulae-laden galaxies and the faint, ethereal glow of alien suns through the tempestuous clouds, a silent testament to humanity's yearning for the unknown.",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 452955634,
+      "created_at": "2026-03-25T14:49:20.040201+08:00"
+    },
+    {
       "id": "20260325_144026",
       "filename": "images/artwork_20260325_144026.jpg",
       "topic": "cultural diversity and global harmony",
