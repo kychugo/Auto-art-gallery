@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260325_234436",
+      "filename": "images/artwork_20260325_234436.jpg",
+      "topic": "space exploration and the cosmos",
+      "prompt": "A lone astronaut floats through the skeletal remains of a massive space station orbiting a dying star, their helmet reflecting fractured holographic iridescent light in soft diffused daylight that seeps through translucent solar panels, while distant nebulae bloom in prismatic purple and silver hues against the bruised indigo void — digital art style capturing the haunting beauty of humanity's last outpost in a dark dystopian future, with intricate mechanical details on the derelict structure and ethereal chromatic auras surrounding the solitary figure.",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 1879786964,
+      "created_at": "2026-03-25T23:44:36.261876+08:00"
+    },
+    {
       "id": "20260325_230252",
       "filename": "images/artwork_20260325_230252.jpg",
       "topic": "renewable energy and sustainable living",
