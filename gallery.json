@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260325_153550",
+      "filename": "images/artwork_20260325_153550.jpg",
+      "topic": "Hong Kong protest art and resilience",
+      "prompt": "A monumental pop art masterpiece depicting resilient Hong Kong protesters forming a human chain around a towering Lady Liberty Hong Kong icon, clad in black bloc gear, yellow hardhats, and gas masks, wielding Bauhinia flags and Lennon Wall sticky notes that shimmer with \"Liberate Hong Kong, Revolution of Our Times\" slogans, their faces fierce yet unbreakable amidst swirling Pepe the Frog motifs and caricatured authoritarian figures crumbling like cockroaches. Dappled forest light filters through an ethereal canopy of holographic iridescent leaves in vibrant, shifting neon pinks, electric blues, and molten golds, casting powerful, prismatic glows that amplify the scene's defiant resilience and viral agitprop energy. Highly detailed, award-winning composition with bold outlines, explosive contrasts, and dynamic layering evoking Warhol's intensity fused with protest street art fluidity.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 1460367692,
+      "created_at": "2026-03-25T15:35:50.678241+08:00"
+    },
+    {
       "id": "20260325_144920",
       "filename": "images/artwork_20260325_144920.jpg",
       "topic": "space exploration and the cosmos",
