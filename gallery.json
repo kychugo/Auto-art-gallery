@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260326_173349",
+      "filename": "images/artwork_20260326_173349.jpg",
+      "topic": "quantum computing and the future",
+      "prompt": "A figure in flowing gold-threaded robes hovers above a massive crystalline quantum processor pulsing with swirling nebulae of golden light, its surface reflecting ethereal geometric patterns that seem to bend reality itself, while soft diffused daylight filters through a colossal transparent dome above the sprawling neon-drenched cyberpunk metropolis, creating a mysterious atmosphere where ancient symbolism merges with cutting-edge technology against a backdrop of towering black skyscrapers and floating holographic networks, rendered in hyper-detailed cyberpunk style with high contrast black shadows and luminous gold accents, ethereal and mysterious mood, cinematic soft natural daylight mixing with bioluminescent glow, award-winning composition, 8K resolution, intricate architectural details, volumetric god rays, crystalline textures, quantum particle effects.",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 1829298086,
+      "created_at": "2026-03-26T17:33:49.886613+08:00"
+    },
+    {
       "id": "20260326_163925",
       "filename": "images/artwork_20260326_163925.jpg",
       "topic": "Hong Kong city life and culture",
