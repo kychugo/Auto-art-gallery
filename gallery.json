@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260326_195145",
+      "filename": "images/artwork_20260326_195145.jpg",
+      "topic": "fashion meets technology",
+      "prompt": "A monumental, surrealist fashion statue stands in a vast gallery, her form dissolving into cascading iridescent silk that shimmers with holographic circuitry and prismatic light. Soft diffused daylight from a domed skylight wraps around her, making the flowing, tech-infused fabric glow with shifting colors from pearlescent pinks to electric blues. The atmosphere is powerful and cinematic, as if the garment is a living organism of light and data, blurring the boundary between the organic and the digital.",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 1549536213,
+      "created_at": "2026-03-26T19:51:45.500903+08:00"
+    },
+    {
       "id": "20260326_192617",
       "filename": "images/artwork_20260326_192617.jpg",
       "topic": "biotechnology and genetic engineering",
