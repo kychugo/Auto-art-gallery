@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260326_192617",
+      "filename": "images/artwork_20260326_192617.jpg",
+      "topic": "biotechnology and genetic engineering",
+      "prompt": "In a noir-infused cyberpunk laboratory shrouded in urban shadows and oblique angles, a brilliant genetic engineer in a trench coat hunches over a glowing DNA helix spiraling like a double-edged dagger, injecting vibrant biotech serums into pulsating hybrid organisms—part human, part bioluminescent flora—that writhe with energetic life on slick metallic tables. Neon city glow from towering skyscrapers outside pierces rain-slicked windows in dramatic chiaroscuro, casting warm amber and orange hues across high-contrast silhouettes of CRISPR tools, bubbling gene vats, and holographic gene maps flickering with forbidden potential. The scene pulses with vibrant, electric energy, evoking award-winning cyber-noir mastery in hyper-detailed 8K resolution.",
+      "text_model": "perplexity-fast",
+      "image_model": "klein",
+      "seed": 1128576863,
+      "created_at": "2026-03-26T19:26:17.613664+08:00"
+    },
+    {
       "id": "20260326_185417",
       "filename": "images/artwork_20260326_185417.jpg",
       "topic": "cybersecurity and privacy in the digital world",
