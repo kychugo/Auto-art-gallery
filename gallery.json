@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260326_185417",
+      "filename": "images/artwork_20260326_185417.jpg",
+      "topic": "cybersecurity and privacy in the digital world",
+      "prompt": "A whimsical oil painting where a digital knight, crafted from iridescent circuits, stands guard before a luminous, amber-hued portal representing the digital realm. Moonlight casts long, playful shadows across a landscape of data streams and glowing code, evoking a dreamlike sense of wonder and subtle intrigue. The color palette is dominated by warm amber and rich orange tones, with highlights of electric blue, creating a visually stunning and award-winning scene of cybersecurity and privacy.",
+      "text_model": "gemini-search",
+      "image_model": "klein",
+      "seed": 1751395752,
+      "created_at": "2026-03-26T18:54:17.253019+08:00"
+    },
+    {
       "id": "20260326_183013",
       "filename": "images/artwork_20260326_183013.jpg",
       "topic": "animals and nature conservation",
