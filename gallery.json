@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260326_160256",
+      "filename": "images/artwork_20260326_160256.jpg",
+      "topic": "quantum computing and the future",
+      "prompt": "A scene of a quantum computer’s intricate circuitry rendered in the opulent, ornate style of Baroque art, with delicate, glowing threads of holographic iridescent light weaving through complex, gilded mechanisms. The overall mood is profoundly peaceful and serene, bathed in the warm, diffused glow of simulated candlelight that accentuates the dramatic chiaroscuro and rich textures, creating a visually stunning and contemplative tableau of future technological advancement. Intricate details, reminiscent of Flemish masters, should be visible in the rendering of both the physical components and the ethereal light, emphasizing a harmonious blend of the tangible and the digital.",
+      "text_model": "gemini-search",
+      "image_model": "gptimage",
+      "seed": 1977760557,
+      "created_at": "2026-03-26T16:02:56.555103+08:00"
+    },
+    {
       "id": "20260326_154307",
       "filename": "images/artwork_20260326_154307.jpg",
       "topic": "music and the evolution of sound",
