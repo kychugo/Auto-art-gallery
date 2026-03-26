@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260326_161120",
+      "filename": "images/artwork_20260326_161120.jpg",
+      "topic": "renewable energy and sustainable living",
+      "prompt": "First, the user wants an image generation prompt about renewable energy and sustainable living. I need to incorporate specific elements naturally: art style is watercolor, mood is powerful and monumental, lighting is dramatic studio lighting, and color palette is high contrast black and gold.\n\nI must respond with ONLY the image prompt itself—no explanations, no titles, no markdown. The prompt should be 2-4 sentences long, vivid, detailed, and paint a clear mental picture. It should be visually stunning, award-winning, and highly detailed. And I must write in English only.\n\nKey components to weave in:\n- Renewable energy and sustainable living: Think of elements like solar panels, wind turbines, green buildings, or natural landscapes integrated with technology.\n- Art style: Watercolor – so the prompt should mention this style to give a soft, fluid, artistic feel.\n- Mood: Powerful and monumental – this suggests something grand, impressive, and awe-inspiring.\n- Lighting: Dramatic studio lighting – implies controlled, intense light with strong shadows and highlights, often used in professional photography or art.\n- Color palette: High contrast black and gold – so the image should have stark contrasts between black and gold tones, with gold possibly representing energy, wealth, or sunlight.\n\nStructure the prompt:\n- Start by setting the scene: Describe a scene that embodies renewable energy and sustainable living.\n- Incorporate the art style: Mention \"watercolor painting\" or \"in a watercolor style\".\n- Ensure the mood is powerful and monumental: Use words like \"towering,\" \"majestic,\" \"imposing,\" or \"awe-inspiring.\"\n- Describe the lighting: \"dramatic studio lighting\" should be included, perhaps emphasizing sharp contrasts and focused light.\n- Specify the color palette: \"high contrast black and gold\" – so describe elements in black and gold, with high contrast.\n\nMake it 2-4 sentences: Keep it concise but detailed enough to paint a clear picture.\n\nBrainstorm a scene: Maybe",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 1212464538,
+      "created_at": "2026-03-26T16:11:20.791887+08:00"
+    },
+    {
       "id": "20260326_160256",
       "filename": "images/artwork_20260326_160256.jpg",
       "topic": "quantum computing and the future",
