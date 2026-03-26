@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260326_141002",
+      "filename": "images/artwork_20260326_141002.jpg",
+      "topic": "economic inequality and social justice",
+      "prompt": "A monumental watercolor painting rendered in warm amber and orange tones, depicting a solitary, powerful figure casting a long, defiant shadow across a stark, dividing chasm. Soft diffused daylight illuminates a contrasting landscape, one side a flourishing, sun-drenched utopia, the other a desolate, poverty-stricken realm, the figure standing as a beacon of hope and unwavering resolve amidst the profound economic inequality. The artwork should evoke a sense of urgent social justice, with every brushstroke conveying strength and the monumental weight of disparity.",
+      "text_model": "gemini-fast",
+      "image_model": "gptimage",
+      "seed": 2089265156,
+      "created_at": "2026-03-26T14:10:02.529723+08:00"
+    },
+    {
       "id": "20260326_135701",
       "filename": "images/artwork_20260326_135701.jpg",
       "topic": "fashion meets technology",
