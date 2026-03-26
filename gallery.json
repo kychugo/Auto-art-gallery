@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260326_134002",
+      "filename": "images/artwork_20260326_134002.jpg",
+      "topic": "news headlines of tomorrow",
+      "prompt": "An oil painting in a monochromatic black and white palette, capturing a hopeful and uplifting mood under stormy overcast light. Glistening cobblestones reflect the faint glow of tomorrow's headlines, their bold typography hinting at triumphs and breakthroughs, while ethereal wisps of fog caress a distant, silhouetted cityscape, all rendered with thick, emotive brushstrokes that evoke a sense of optimistic anticipation.",
+      "text_model": "gemini-fast",
+      "image_model": "grok-imagine",
+      "seed": 635987501,
+      "created_at": "2026-03-26T13:40:02.177759+08:00"
+    },
+    {
       "id": "20260326_132405",
       "filename": "images/artwork_20260326_132405.jpg",
       "topic": "mental health awareness in the digital age",
