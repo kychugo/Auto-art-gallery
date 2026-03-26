@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260326_132405",
+      "filename": "images/artwork_20260326_132405.jpg",
+      "topic": "mental health awareness in the digital age",
+      "prompt": "In a watercolor style, a lone figure is engulfed by a dense, emerald and deep forest green woodland, where dappled sunlight pierces the canopy, casting an intense and dramatic play of light and shadow on the path ahead. The scene evokes a powerful sense of isolation and introspection, as digital threads subtly weave through the ancient trees, symbolizing the pervasive nature of the digital age on mental well-being. The overall mood is brooding yet hopeful, with a touch of ethereal magic in the air, inviting contemplation on connection and disconnection in our hyper-connected world.",
+      "text_model": "gemini-search",
+      "image_model": "gptimage",
+      "seed": 1447898271,
+      "created_at": "2026-03-26T13:24:05.495521+08:00"
+    },
+    {
       "id": "20260326_131204",
       "filename": "images/artwork_20260326_131204.jpg",
       "topic": "blockchain and decentralized future",
