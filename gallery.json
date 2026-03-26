@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260326_125536",
+      "filename": "images/artwork_20260326_125536.jpg",
+      "topic": "urban architecture of the future",
+      "prompt": "First, the user wants me to create an image generation prompt about urban architecture of the future. I need to incorporate specific elements: art style is pop art, mood is vibrant and energetic, lighting is bioluminescent glow, and color palette is crimson and deep red.\n\nThe prompt must be visually stunning, award-winning, and highly detailed. It should be 2-4 sentences long and paint a clear mental picture. I must respond with ONLY the image prompt in English, no explanations or markdown.\n\nI need to craft a vivid and descriptive prompt. Let me brainstorm how to blend these elements naturally.\n\n- Art style: Pop art – so I should mention elements like bold lines, bright colors, and possibly comic-book-like or graphic novel aesthetics.\n\n- Mood: Vibrant and energetic – this ties into pop art, so I can describe dynamic scenes, lively movements, or energetic compositions.\n\n- Lighting: Bioluminescent glow – this suggests that parts of the architecture emit light, like glowing surfaces or neon-like effects, especially in red tones.\n\n- Color palette: Crimson and deep red – so the dominant colors should be shades of red, from bright crimson to dark deep red.\n\nThe theme is future urban architecture, so I should imagine futuristic buildings, structures, and cityscapes with advanced designs.\n\nStructure the prompt in 2-4 sentences. Make it cohesive and flowing.\n\nStart by setting the scene: Describe the futuristic city with pop art style.\n\nIncorporate the lighting and colors: Mention bioluminescent glows in crimson and deep red.\n\nEnsure the mood is vibrant and energetic: Use words like bustling, lively, dynamic.\n\nEnd with details that make it award-winning: Specific visual elements like sleek skyscrapers, glowing pathways, etc.\n\nFinal prompt should be in English only and only the prompt itself.\n\nDraft:\n\n\"In a futuristic metropolis rendered in bold pop art style, towering skyscrapers with sleek, geometric facades emit a bioluminescent glow",
+      "text_model": "deepseek",
+      "image_model": "gptimage",
+      "seed": 1814094479,
+      "created_at": "2026-03-26T12:55:37.024340+08:00"
+    },
+    {
       "id": "20260326_123734",
       "filename": "images/artwork_20260326_123734.jpg",
       "topic": "Hong Kong protest art and resilience",
