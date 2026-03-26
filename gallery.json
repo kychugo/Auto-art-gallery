@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260326_113133",
+      "filename": "images/artwork_20260326_113133.jpg",
+      "topic": "biotechnology and genetic engineering",
+      "prompt": "A dreamlike scene where luminescent double helix structures spiral through a moonlit forest of translucent, bioengineered flowers and leaves, their delicate veins glowing with ethereal light as tiny floating DNA strands dance between the branches in a monochromatic black and white world where shadows from twisted organic forms stretch across the misty ground and moonlight filters through crystalline cellular structures, creating a whimsical fairy tale atmosphere rendered in stunning digital art with intricate genetic patterns etched into everything from massive ancient trees to miniature floating organisms.",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 1406376757,
+      "created_at": "2026-03-26T11:31:33.713646+08:00"
+    },
+    {
       "id": "20260326_102307",
       "filename": "images/artwork_20260326_102307.jpg",
       "topic": "biotechnology and genetic engineering",
