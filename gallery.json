@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260326_114903",
+      "filename": "images/artwork_20260326_114903.jpg",
+      "topic": "cultural diversity and global harmony",
+      "prompt": "A grand baroque-style composition depicting people of diverse ethnic backgrounds and cultural attires gathered in peaceful assembly beneath an enormous sky, their figures rendered in dramatic chiaroscuro with the soft melancholy of shared humanity, while stormy overcast light bleeds through heavy clouds in gentle pastel tones of dusty lavender, muted rose, and pale amber, casting ethereal reflections on wet cobblestones as rain drizzles gently, capturing a timeless moment of quiet unity and reflective hope.",
+      "text_model": "minimax",
+      "image_model": "gptimage",
+      "seed": 1882799157,
+      "created_at": "2026-03-26T11:49:03.909044+08:00"
+    },
+    {
       "id": "20260326_113133",
       "filename": "images/artwork_20260326_113133.jpg",
       "topic": "biotechnology and genetic engineering",
