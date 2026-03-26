@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260326_131204",
+      "filename": "images/artwork_20260326_131204.jpg",
+      "topic": "blockchain and decentralized future",
+      "prompt": "A minimalist, ethereal depiction of human hands gently cradling a softly glowing, decentralized network, rendered in cool blues and purples with the intimate ambiance of candlelight, evoking a sense of quiet trust and shared future. The subtle interplay of light and shadow emphasizes connection and community, creating a visually stunning and deeply human portrait of blockchain's promise.",
+      "text_model": "gemini-fast",
+      "image_model": "gptimage",
+      "seed": 514576493,
+      "created_at": "2026-03-26T13:12:04.104352+08:00"
+    },
+    {
       "id": "20260326_125536",
       "filename": "images/artwork_20260326_125536.jpg",
       "topic": "urban architecture of the future",
