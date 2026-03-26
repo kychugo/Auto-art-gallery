@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260327_050245",
+      "filename": "images/artwork_20260327_050245.jpg",
+      "topic": "blockchain and decentralized future",
+      "prompt": "A surrealist vision of a decentralized future where glowing holographic blocks float through a dreamlike cityscape at golden hour, their neon edges catching the warm amber sunlight as they interconnect into an infinite luminous web stretching across the sky, with ethereal translucent networks spiraling between floating islands and luminous nodes that pulse with vibrant cyan, magenta, and electric violet, celebrating human connection and digital unity in a hopeful, transcendent world where technology and nature blend beautifully together",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 2105764070,
+      "created_at": "2026-03-27T05:02:45.103977+08:00"
+    },
+    {
       "id": "20260327_042914",
       "filename": "images/artwork_20260327_042914.jpg",
       "topic": "Hong Kong protest art and resilience",
