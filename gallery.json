@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260326_183013",
+      "filename": "images/artwork_20260326_183013.jpg",
+      "topic": "animals and nature conservation",
+      "prompt": "A lone gray wolf stands on a charred hilltop overlooking a desolate valley of dead trees and polluted waterways, silhouetted against an ominous overcast sky swirling with muted lavender and pale rose storm clouds, soft pastel light filtering through breaks in the gloom to illuminate patches of dying grass and scattered animal bones while distant factory smokestacks belch haze into the saturated sky, photorealistic style capturing the haunting beauty of nature's last stand against environmental collapse.",
+      "text_model": "minimax",
+      "image_model": "gptimage",
+      "seed": 1699832706,
+      "created_at": "2026-03-26T18:30:13.680968+08:00"
+    },
+    {
       "id": "20260326_175402",
       "filename": "images/artwork_20260326_175402.jpg",
       "topic": "economic inequality and social justice",
