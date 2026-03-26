@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260326_135701",
+      "filename": "images/artwork_20260326_135701.jpg",
+      "topic": "fashion meets technology",
+      "prompt": "A hyper-detailed, award-winning pop art illustration of a futuristic supermodel with holographic iridescent skin, adorned in avant-garde haute couture interwoven with glowing circuitry, striking a defiant pose against a backdrop of a neon-drenched cityscape bathed in ethereal moonlight, casting sharp, dynamic shadows that enhance the vibrant, energetic mood. The scene explodes with a holographic iridescent color palette, reflecting across metallic fabrics and the model's augmented reality eyewear, capturing a moment where high fashion and advanced technology collide in a dazzling, visually arresting spectacle.",
+      "text_model": "gemini-fast",
+      "image_model": "gptimage",
+      "seed": 1515903216,
+      "created_at": "2026-03-26T13:57:01.723688+08:00"
+    },
+    {
       "id": "20260326_134002",
       "filename": "images/artwork_20260326_134002.jpg",
       "topic": "news headlines of tomorrow",
