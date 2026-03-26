@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260326_175402",
+      "filename": "images/artwork_20260326_175402.jpg",
+      "topic": "economic inequality and social justice",
+      "prompt": "A solitary figure stands beneath ancient trees, their tattered clothing contrasting with shimmering holographic iridescent light filtering through dappled forest canopies, as cracked earth beneath their bare feet reveals the divide between abundance and poverty through cascading ribbons of pearlescent color that twist between roots like forgotten wealth, while soft watercolor strokes blend melancholic shadows with hauntingly beautiful prismatic reflections that speak to systemic failure and quiet desperation",
+      "text_model": "minimax",
+      "image_model": "klein",
+      "seed": 1951544914,
+      "created_at": "2026-03-26T17:54:02.933036+08:00"
+    },
+    {
       "id": "20260326_173349",
       "filename": "images/artwork_20260326_173349.jpg",
       "topic": "quantum computing and the future",
