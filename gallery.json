@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260327_065313",
+      "filename": "images/artwork_20260327_065313.jpg",
+      "topic": "virtual reality and the metaverse",
+      "prompt": "A solitary figure, silhouetted against a vast, neon-drenched metaverse cityscape, contemplates their existence in a moment of quiet introspection. The cyberpunk aesthetic is evident in the towering, intricate architecture and holographic advertisements that pierce the smoggy, diffused daylight. A melancholic mood permeates the scene, emphasized by the high-contrast interplay of deep blacks and shimmering golds that define both the virtual world and the figure's subtle cybernetic enhancements.",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 1023952276,
+      "created_at": "2026-03-27T06:53:13.213455+08:00"
+    },
+    {
       "id": "20260327_061559",
       "filename": "images/artwork_20260327_061559.jpg",
       "topic": "sports and human physical achievement",
