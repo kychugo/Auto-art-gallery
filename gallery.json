@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260326_144554",
+      "filename": "images/artwork_20260326_144554.jpg",
+      "topic": "quantum computing and the future",
+      "prompt": "A photorealistic depiction of a colossal, impossibly intricate quantum computer humming with cosmic energy, its crystalline structures bathed in the ethereal glow of distant moonlight, casting long, dramatic shadows across a futuristic, obsidian landscape. Monumental in scale and mood, the scene is dominated by cool blues and deep purples, with veins of pulsating light tracing abstract patterns within the machine, hinting at the unfathomable power and infinite possibilities of the future. Abstract data streams, rendered as shimmering trails of light, weave through the air, symbolizing the quantum computations that will redefine our world.",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 1368519199,
+      "created_at": "2026-03-26T14:45:54.879792+08:00"
+    },
+    {
       "id": "20260326_141002",
       "filename": "images/artwork_20260326_141002.jpg",
       "topic": "economic inequality and social justice",
