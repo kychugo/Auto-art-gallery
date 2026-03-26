@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260326_230735",
+      "filename": "images/artwork_20260326_230735.jpg",
+      "topic": "animals and nature conservation",
+      "prompt": "A magnificent white stag, a living symbol of hope and resilience, stands serenely in a moonlit Baroque forest clearing. The scene is rendered in high contrast black and gold, with intricate gilded vines and ornate, luminescent flora framing the animal. Deep, dramatic shadows cast by ancient trees are pierced by ethereal moonlight, illuminating a single, glowing tree whose golden leaves form a protective canopy, while an open, ancient book at the stag's feet shows delicate engravings of interconnected ecosystems.",
+      "text_model": "deepseek",
+      "image_model": "gptimage",
+      "seed": 995368160,
+      "created_at": "2026-03-26T23:07:35.362855+08:00"
+    },
+    {
       "id": "20260326_224711",
       "filename": "images/artwork_20260326_224711.jpg",
       "topic": "animals and nature conservation",
