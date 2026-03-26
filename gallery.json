@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260326_154307",
+      "filename": "images/artwork_20260326_154307.jpg",
+      "topic": "music and the evolution of sound",
+      "prompt": "In a serene neon-lit cityscape at dusk, concept art depicts the evolution of sound as ethereal soundwaves in warm amber and orange tones cascade from ancient stone flutes and gramophones on the left, morphing through psychedelic vinyl records, electric guitars, and digital synthesizers toward futuristic holographic speakers on the right, all harmoniously floating above tranquil rooftops bathed in peaceful neon city glow. Gentle ripples of musical notation drift like fireflies, symbolizing peaceful transformation amid softly glowing skyscrapers and misty streets, evoking a serene journey through time with intricate details, luminous highlights, and award-winning visual depth. Highly detailed masterpiece, cinematic composition, vibrant yet calming atmosphere.",
+      "text_model": "perplexity-fast",
+      "image_model": "gptimage",
+      "seed": 1170866196,
+      "created_at": "2026-03-26T15:43:07.531734+08:00"
+    },
+    {
       "id": "20260326_145527",
       "filename": "images/artwork_20260326_145527.jpg",
       "topic": "blockchain and decentralized future",
