@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260326_220239",
+      "filename": "images/artwork_20260326_220239.jpg",
+      "topic": "traditional vs modern culture clash in Asia",
+      "prompt": "A monumental baroque composition depicting the collision between ancient Asian tradition and crushing modernity, where colossal neon-lit skyscrapers pierce through stormy skies while ancient stone temples and forgotten statues crumble beneath their shadow, ghostly figures in traditional hanfu and kimono wander through haunted streets illuminated by pale moonlight that casts dramatic chiaroscuro shadows across marble columns and rusted steel, the entire scene rendered in stark monochromatic black and white like a forgotten engraving, with dystopian atmospherics of mist and decay, dramatic angular shadows cutting across broken lanterns and floating paper cranes, creating a haunting elegy for forgotten cultures.",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 294677599,
+      "created_at": "2026-03-26T22:02:39.710660+08:00"
+    },
+    {
       "id": "20260326_211431",
       "filename": "images/artwork_20260326_211431.jpg",
       "topic": "street food culture in Hong Kong",
