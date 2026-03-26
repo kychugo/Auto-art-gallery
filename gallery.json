@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260326_235050",
+      "filename": "images/artwork_20260326_235050.jpg",
+      "topic": "blockchain and decentralized future",
+      "prompt": "Cinematic, monumental vision of a vast, interconnected network of obsidian towers piercing a turbulent, stormy sky, rendered in a stark, monochromatic black and white palette. Lightning cracks illuminate towering structures made of interwoven data streams, casting long, dramatic shadows, conveying a powerful, decentralized future where digital architecture reigns supreme under a moody, overcast light. The scene is intensely detailed, evoking a sense of awe and unstoppable progress.",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 1011063595,
+      "created_at": "2026-03-26T23:50:50.588299+08:00"
+    },
+    {
       "id": "20260326_230735",
       "filename": "images/artwork_20260326_230735.jpg",
       "topic": "animals and nature conservation",
