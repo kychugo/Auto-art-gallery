@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260327_061559",
+      "filename": "images/artwork_20260327_061559.jpg",
+      "topic": "sports and human physical achievement",
+      "prompt": "A photorealistic depiction of an athlete at the peak of human physical achievement, silhouetted against an ethereal, deep black background. The athlete is captured mid-motion, embodying grace and power, with subtle, organic lines of bioluminescent light tracing their musculature and the energy radiating from their form. This monochromatic scene, rendered in stark black and white, evokes a powerful sense of hope and triumph through the dramatic interplay of shadow and the internal, uplifting glow.",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 1518166380,
+      "created_at": "2026-03-27T06:15:59.116048+08:00"
+    },
+    {
       "id": "20260327_055457",
       "filename": "images/artwork_20260327_055457.jpg",
       "topic": "cultural diversity and global harmony",
