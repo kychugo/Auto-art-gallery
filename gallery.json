@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260327_000937",
+      "filename": "images/artwork_20260327_000937.jpg",
+      "topic": "news headlines of tomorrow",
+      "prompt": "A monumental watercolor painting of tomorrow's news headlines unfurling like ancient scrolls across a vast, shadowed cityscape under a luminous full moon, with bold black text proclaiming futuristic breakthroughs such as \"Quantum Leap Achieved\" and \"AI Dawn Breaks\" in dramatic, high-contrast black ink bleeding into golden glows. Powerful shadows carve deep crevices into crumpled newspaper towers rising like obelisks, illuminated by ethereal moonlight casting elongated golden highlights on textured, translucent pages that flutter ethereally. Render in intricate watercolor style with layered washes, stark black-gold palette, and award-winning detail evoking epic grandeur and prophetic mystery.",
+      "text_model": "perplexity-fast",
+      "image_model": "klein",
+      "seed": 1827794865,
+      "created_at": "2026-03-27T00:09:37.563241+08:00"
+    },
+    {
       "id": "20260326_235050",
       "filename": "images/artwork_20260326_235050.jpg",
       "topic": "blockchain and decentralized future",
