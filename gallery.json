@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260326_123734",
+      "filename": "images/artwork_20260326_123734.jpg",
+      "topic": "Hong Kong protest art and resilience",
+      "prompt": "A solitary figure stands silhouetted against a rain-soaked Hong Kong skyline, hands raised in a gesture of quiet defiance, as massive golden protest lanterns float upward through layers of neon pink and cyan mist, ancient calligraphy glowing on their surfaces like whispered prayers, the cyberpunk cityscape below alive with flickering holographic billboards and scaffolding structures that echo both fragility and strength, high contrast black shadows interweave with brilliant gold accents creating a cinematic tableau of melancholic resilience, where traditional Chinese ink painting meets digital decay in a haunting meditation on identity, hope and the enduring spirit of a city between worlds.",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 1024026859,
+      "created_at": "2026-03-26T12:37:34.316374+08:00"
+    },
+    {
       "id": "20260326_121038",
       "filename": "images/artwork_20260326_121038.jpg",
       "topic": "sports and human physical achievement",
