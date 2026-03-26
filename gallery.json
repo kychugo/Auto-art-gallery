@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260326_163925",
+      "filename": "images/artwork_20260326_163925.jpg",
+      "topic": "Hong Kong city life and culture",
+      "prompt": "A sweeping abstract expressionist canvas captures Hong Kong's neon-lit skyline dissolving into midnight mist, where towering skyscrapers become fragmented brushstrokes of soft lavender, rose quartz and pale cerulean bleeding into shadowed valleys, moonlight filtering through the urban geometry casting silver ribbons across Victoria Harbour while solitary figures on ferry decks appear as distant brush marks contemplating the city's transient beauty, the composition conveying melancholic introspection through gestural layers and whispered color gradients that speak to the soul of a place where ancient tradition meets modern ambition.",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 642495124,
+      "created_at": "2026-03-26T16:39:25.494827+08:00"
+    },
+    {
       "id": "20260326_161120",
       "filename": "images/artwork_20260326_161120.jpg",
       "topic": "renewable energy and sustainable living",
