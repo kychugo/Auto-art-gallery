@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260326_102307",
+      "filename": "images/artwork_20260326_102307.jpg",
+      "topic": "biotechnology and genetic engineering",
+      "prompt": "In an oil painting masterpiece, a whimsical dreamlike forest laboratory glows under the ethereal dance of arctic aurora borealis, casting vibrant emerald and deep forest green hues across hybrid chimeric creatures—glowing fluorescent rabbits with iridescent butterfly wings merging seamlessly into spiraling DNA helices that bloom like enchanted vines from ancient petri dishes. Ethereal scientists with elongated, vine-wrapped fingers delicately splice glowing genes between luminous flowers and bioluminescent fungi, their faces illuminated by swirling auroral lights that weave surreal patterns of genetic rebirth. Highly detailed textures capture the glossy sheen of engineered leaves, the intricate lattice of molecular strands, and a transcendent mood of playful wonder in this award-winning fusion of biotechnology and nature's alchemy.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 2054769964,
+      "created_at": "2026-03-26T10:23:07.066828+08:00"
+    },
+    {
       "id": "20260326_075514",
       "filename": "images/artwork_20260326_075514.jpg",
       "topic": "sports and human physical achievement",
