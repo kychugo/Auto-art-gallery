@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260326_222557",
+      "filename": "images/artwork_20260326_222557.jpg",
+      "topic": "Hong Kong protest art and resilience",
+      "prompt": "A lone figure stands defiant in a windswept clearing, draped in traditionalHanfu garments decorated with symbolic protest calligraphy that glows with inner fire, surrounded by shattered umbrellas taking root and blooming into steel-branched trees that pierce the canopy, rendered in hyper-detailed anime style with dramatic foreshortening and cinematic intensity. Dappled golden sunlight filters through the forest canopy, casting shifting patterns of amber and rust across the scene, while shadow play reveals ghostly images of protesters and lanterns rising from beneath the earth, the entire composition awash in a rich palette of deep terracotta, burnt sienna, warm ochre and deep umber tones that evoke both ancient resilience and modern resistance, achieving the emotional weight of award-winning concept art with meticulous linework and painterly textures that capture the unbreakable spirit of Hong Kong's struggle.",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 1392496525,
+      "created_at": "2026-03-26T22:25:57.649583+08:00"
+    },
+    {
       "id": "20260326_220239",
       "filename": "images/artwork_20260326_220239.jpg",
       "topic": "traditional vs modern culture clash in Asia",
