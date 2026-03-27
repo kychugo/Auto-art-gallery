@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260328_061917",
+      "filename": "images/artwork_20260328_061917.jpg",
+      "topic": "mental health awareness in the digital age",
+      "prompt": "A diverse group of individuals sit together on a misty mountain ledge, their silhouettes framed against shimmering curtains of arctic aurora borealis dancing across the night sky in soft pastel hues of lavender, rose, and mint green, each person glowing with a warm inner light that connects them through delicate threads of luminous data particles, symbolizing healing and digital connectivity, cinematic wide shot with breathtaking depth, hopeful and uplifting mood, hyper-realistic细节, award-winning photography",
+      "text_model": "minimax",
+      "image_model": "gptimage",
+      "seed": 1661753013,
+      "created_at": "2026-03-28T06:19:17.774156+08:00"
+    },
+    {
       "id": "20260328_055900",
       "filename": "images/artwork_20260328_055900.jpg",
       "topic": "post-pandemic world transformation",
