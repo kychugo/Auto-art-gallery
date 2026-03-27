@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260327_225305",
+      "filename": "images/artwork_20260327_225305.jpg",
+      "topic": "artificial intelligence reshaping society",
+      "prompt": "A surrealist landscape where towering AI circuits morph into melting human faces reminiscent of Dalí's dreamscapes, their features dissolving like wax beneath golden hour sunlight that casts long crimson shadows across an impossible terrain. Mechanical tendrils intertwine with organic neural pathways that float suspended in space, while deep red clouds swirl overhead in hypnotic patterns, creating a sense of profound melancholy and contemplation. In the foreground, recognizable objects—books, tools, human hands—transition seamlessly into abstract technological forms, their edges blurred and transformative, rendered with meticulous realistic detail that makes the irrational scene feel disturbingly plausible. The entire composition radiates an ethereal, bittersweet atmosphere, balancing wonder with existential uncertainty as nature and machine negotiate their uneasy coexistence beneath a blood-tinted sky.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 309614151,
+      "created_at": "2026-03-27T22:53:05.612282+08:00"
+    },
+    {
       "id": "20260327_223101",
       "filename": "images/artwork_20260327_223101.jpg",
       "topic": "street food culture in Hong Kong",
