@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260327_115050",
+      "filename": "images/artwork_20260327_115050.jpg",
+      "topic": "Hong Kong protest art and resilience",
+      "prompt": "First, the user wants me to create an image generation prompt. The topic is \"Hong Kong protest art and resilience.\" I need to incorporate specific elements: art style is baroque, mood is peaceful and serene, lighting is golden hour sunlight, and color palette is vibrant neon colors.\n\nI must ensure the prompt is unique, detailed, and visually stunning. It should be 2-4 sentences long and paint a clear mental picture. I can only respond with the prompt itself, no explanations, titles, or markdown. Also, I must write exclusively in English.\n\nBaroque art style is known for its dramatic, elaborate, and ornate details, often with a sense of movement and emotion. But here, the mood is peaceful and serene, so I need to blend baroque's richness with tranquility.\n\nGolden hour sunlight refers to the warm, soft light during sunrise or sunset, which can enhance the serene mood.\n\nVibrant neon colors are bright and eye-catching, often associated with Hong Kong's urban landscape, especially in signs and lights.\n\nHong Kong protest art typically includes symbols like umbrellas, masks, or graffiti, but I need to tie it with resilience in a peaceful and serene way, using baroque elements.\n\nThe prompt should naturally incorporate all required elements. Let me draft it step by step.\n\nStart with the setting: Perhaps a scene in Hong Kong, but with baroque embellishments.\n\nIncorporate protest art: Maybe imagery of murals or sculptures that reflect resilience.\n\nMood: Peaceful and serene, so avoid any violent or chaotic elements. Focus on hope and strength.\n\nLighting: Golden hour sunlight casting warm glows.\n\nColor palette: Vibrant neon colors, which could be in the art or the environment.\n\nBaroque style: Add ornate frames, intricate details, and dramatic compositions, but keep it serene.\n\nStructure the prompt into 2-4 sentences.\n\nFirst sentence: Set the scene with baroque style and Hong Kong elements.\n\nSecond sentence: Describe",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 678442765,
+      "created_at": "2026-03-27T11:50:50.875571+08:00"
+    },
+    {
       "id": "20260327_113651",
       "filename": "images/artwork_20260327_113651.jpg",
       "topic": "virtual reality and the metaverse",
