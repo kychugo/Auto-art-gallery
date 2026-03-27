@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260327_232554",
+      "filename": "images/artwork_20260327_232554.jpg",
+      "topic": "future of human civilization and technology",
+      "prompt": "A vibrant pop art vision of humanity's radiant future, featuring diverse crowds of people in sleek neural-linked exosuits and hovering arcologies intertwined with colossal AI spires and lush vertical gardens, all rendered in stark **monochromatic black and white** with bold outlines and explosive contrasts. Ethereal **bioluminescent glow** emanates from symbiotic microbial tech coating megastructures, pedestrian skyways, and human forms, illuminating hopeful scenes of global collaboration like shared holographic knowledge orbs and zero-waste fusion reactors pulsing with life. Uplifting and award-winning composition bursts with dynamic energy, intricate details in every gear, vine, and smiling face, evoking triumphant progress under a starlit cybernetic horizon.",
+      "text_model": "perplexity-fast",
+      "image_model": "grok-imagine",
+      "seed": 1177669257,
+      "created_at": "2026-03-27T23:25:54.959552+08:00"
+    },
+    {
       "id": "20260327_225305",
       "filename": "images/artwork_20260327_225305.jpg",
       "topic": "artificial intelligence reshaping society",
