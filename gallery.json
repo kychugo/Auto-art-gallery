@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260327_214727",
+      "filename": "images/artwork_20260327_214727.jpg",
+      "topic": "sports and human physical achievement",
+      "prompt": "In an abstract expressionist style, a serene human figure mid-leap captures the essence of athletic triumph, with sweeping brushstrokes of muscular forms exploding into dynamic yet peaceful energy, evoking profound physical achievement in sports like sprinting or basketball. Dramatic studio lighting casts elongated shadows and golden highlights across terracotta reds, warm earth tones of ochre, sienna, and muted browns, creating a tranquil mood of quiet victory and inner strength. Highly detailed textures blend raw canvas drips with ethereal glows, composing an award-winning masterpiece of harmonious motion frozen in contemplative glory.",
+      "text_model": "perplexity-fast",
+      "image_model": "gptimage",
+      "seed": 544071295,
+      "created_at": "2026-03-27T21:47:27.779161+08:00"
+    },
+    {
       "id": "20260327_210500",
       "filename": "images/artwork_20260327_210500.jpg",
       "topic": "blockchain and decentralized future",
