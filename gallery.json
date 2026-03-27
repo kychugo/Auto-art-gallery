@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260327_191015",
+      "filename": "images/artwork_20260327_191015.jpg",
+      "topic": "post-pandemic world transformation",
+      "prompt": "A surrealist cityscape where colossal, bioluminescent flora intertwine with abandoned, neon-drenched skyscrapers, bathed in the ethereal glow of an arctic aurora borealis that casts vibrant pinks, electric blues, and emerald greens across the scene. In the foreground, a solitary figure, rendered with intimate, human detail, gazes upwards, their silhouette reflecting the awe-inspiring cosmic dance, creating a mood of quiet introspection and hopeful transformation. The overall composition evokes a sense of profound rebirth, a testament to nature's reclaiming power amidst the remnants of human endeavor, all depicted with an award-winning level of hyper-realism and painterly texture.",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 1892597064,
+      "created_at": "2026-03-27T19:10:15.101519+08:00"
+    },
+    {
       "id": "20260327_185239",
       "filename": "images/artwork_20260327_185239.jpg",
       "topic": "Hong Kong city life and culture",
