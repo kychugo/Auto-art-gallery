@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260328_055900",
+      "filename": "images/artwork_20260328_055900.jpg",
+      "topic": "post-pandemic world transformation",
+      "prompt": "A deserted city street bathed in intense neon pink and electric blue light, where empty café tables and masked silhouettes pass through foggy glass panels, a lone child releases butterflies from a bright yellow jar into the luminous night, capturing the dramatic transformation of a post-pandemic world where isolation has become sanctuary — minimalist composition, high contrast, sharp details, cinematic wide-angle view, cyberpunk realism",
+      "text_model": "minimax",
+      "image_model": "gptimage",
+      "seed": 1826983359,
+      "created_at": "2026-03-28T05:59:00.265387+08:00"
+    },
+    {
       "id": "20260328_054537",
       "filename": "images/artwork_20260328_054537.jpg",
       "topic": "Hong Kong city life and culture",
