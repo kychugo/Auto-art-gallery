@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260327_210500",
+      "filename": "images/artwork_20260327_210500.jpg",
+      "topic": "blockchain and decentralized future",
+      "prompt": "An abstract expressionist digital painting, drenched in deep crimson and blood-red hues, depicts the ethereal concept of blockchain as an interconnected web of luminous, yet shadowed, data streams. Moonlight casts long, mysterious shadows across the fragmented forms, hinting at the unknown potential and inherent secrecy of a decentralized future. The overall mood is one of profound enigma and ethereal beauty, with textures that seem to shimmer and dissolve like digital mist.",
+      "text_model": "gemini-search",
+      "image_model": "grok-imagine",
+      "seed": 449362710,
+      "created_at": "2026-03-27T21:05:00.061853+08:00"
+    },
+    {
       "id": "20260327_200054",
       "filename": "images/artwork_20260327_200054.jpg",
       "topic": "post-pandemic world transformation",
