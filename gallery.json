@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260327_144624",
+      "filename": "images/artwork_20260327_144624.jpg",
+      "topic": "future of human civilization and technology",
+      "prompt": "First, the user asks me to create an image generation prompt. I must respond with ONLY the prompt itself—no explanations, no titles, no markdown. The prompt should be in English only.\n\nThe topic is: \"future of human civilization and technology.\" I need to incorporate specific elements naturally:\n\n- Art style: impressionist\n\n- Mood: intimate and human\n\n- Lighting: arctic aurora borealis\n\n- Color palette: cool blues and purples\n\nThe prompt should be visually stunning, award-winning, highly detailed, and 2-4 sentences long.\n\nI need to craft a single, vivid, detailed prompt. Let me structure it:\n\n- Start by setting the scene for the future of human civilization and technology.\n\n- Incorporate the art style: impressionist, so the description should evoke an impressionist painting style, with soft brushstrokes and emphasis on light and color.\n\n- Mood: intimate and human, so focus on personal, close-up, or emotional aspects, perhaps showing people interacting with technology in a heartfelt way.\n\n- Lighting: arctic aurora borealis, so describe the lighting as resembling the northern lights—swirling, colorful, ethereal.\n\n- Color palette: cool blues and purples, so ensure the colors mentioned are primarily blues and purples.\n\nMake it award-winning and highly detailed. The prompt should paint a clear mental picture.\n\nBrainstorm ideas: Future technology might include advanced cities, but with an intimate mood, perhaps a small scene within a larger setting. Since it's impressionist, it should be less about precise details and more about the overall impression.\n\nPossible scene: A family or individuals in a futuristic setting, with technology seamlessly integrated, under the glow of aurora borealis lighting.\n\nEnsure it's 2-4 sentences. Let me write a draft.\n\nDraft 1: \"In an impressionist painting, a futuristic cityscape is bathed in the ethereal glow of the arctic aurora borealis, with",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 1109047082,
+      "created_at": "2026-03-27T14:46:24.594721+08:00"
+    },
+    {
       "id": "20260327_140953",
       "filename": "images/artwork_20260327_140953.jpg",
       "topic": "global climate crisis and environmental solutions",
