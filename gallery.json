@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260327_174541",
+      "filename": "images/artwork_20260327_174541.jpg",
+      "topic": "artificial intelligence reshaping society",
+      "prompt": "A solitary elderly woman sits in a dimly lit study, her weathered hands gently cradling a luminous golden AI interface that floats above her palm like a living ember, the stormy overcast sky pouring diffused silver light through a high window behind her, casting dramatic shadows across the room as luminous gold circuits ripple across the device's surface, her face illuminated by its warm glow showing wonder and connection, photorealistic style capturing every pore and wrinkle in high contrast black and deep amber tones, a visual metaphor for humanity finding intimate connection with artificial intelligence in the quiet rebellion against isolation.",
+      "text_model": "minimax",
+      "image_model": "gptimage",
+      "seed": 120280543,
+      "created_at": "2026-03-27T17:45:41.593946+08:00"
+    },
+    {
       "id": "20260327_172736",
       "filename": "images/artwork_20260327_172736.jpg",
       "topic": "cultural diversity and global harmony",
