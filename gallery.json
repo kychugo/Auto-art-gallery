@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260327_123819",
+      "filename": "images/artwork_20260327_123819.jpg",
+      "topic": "traditional vs modern culture clash in Asia",
+      "prompt": "A serene, digitally painted scene depicting an elderly woman in a crimson silk traditional robe, gracefully meditating by candlelight amidst a stark, minimalist modern apartment, the deep red hues of her attire contrasting with cool, geometric furniture, all rendered with a painterly texture and a peaceful, contemplative mood.",
+      "text_model": "gemini-fast",
+      "image_model": "gptimage",
+      "seed": 553667046,
+      "created_at": "2026-03-27T12:38:19.117211+08:00"
+    },
+    {
       "id": "20260327_121130",
       "filename": "images/artwork_20260327_121130.jpg",
       "topic": "ancient traditions meeting the modern world",
