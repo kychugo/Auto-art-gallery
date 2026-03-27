@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260327_221358",
+      "filename": "images/artwork_20260327_221358.jpg",
+      "topic": "sports and human physical achievement",
+      "prompt": "First, the user has given a clear task: create a detailed image generation prompt based on sports and human physical achievement. I need to incorporate specific elements: art style (digital art), mood (peaceful and serene), lighting (stormy overcast light), and color palette (holographic iridescent). The prompt should be 2-4 sentences long, visually stunning, award-winning, and highly detailed. I must respond with ONLY the image prompt in English, no explanations or markdown.\n\nKey components to blend:\n- Sports and human physical achievement: This could involve athletes, movements, or moments of triumph. Think of something that captures effort, grace, or victory.\n- Digital art style: So, the prompt should mention digital art explicitly or imply it through terms like \"digital painting\" or \"CGI.\"\n- Peaceful and serene mood: Even though sports are often intense, I need to make it peaceful. Perhaps a moment of calm after exertion, or a solitary athlete in a tranquil setting.\n- Stormy overcast light: This suggests gloomy, diffused lighting from overcast skies, possibly with a stormy atmosphere but not necessarily chaotic—it should align with peaceful mood.\n- Holographic iridescent color palette: Colors that shift and shimmer, like rainbows or prismatic effects. This adds a unique, futuristic, or magical touch.\n\nI need to craft a prompt that paints a clear mental picture. Since it's about human physical achievement, I can focus on an athlete in a moment of achievement, but with serene and stormy elements.\n\nBrainstorming ideas:\n- A runner after a marathon, standing still in a stormy landscape, with holographic colors reflecting off sweat or the environment.\n- A gymnast in a graceful pose, under overcast skies, with iridescent light casting prismatic effects.\n- A swimmer emerging from water, with stormy clouds above, and water droplets reflecting holographic hues.\n\nEnsure it's 2",
+      "text_model": "deepseek",
+      "image_model": "gptimage",
+      "seed": 129256469,
+      "created_at": "2026-03-27T22:13:59.011576+08:00"
+    },
+    {
       "id": "20260327_214727",
       "filename": "images/artwork_20260327_214727.jpg",
       "topic": "sports and human physical achievement",
