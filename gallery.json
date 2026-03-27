@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260327_181216",
+      "filename": "images/artwork_20260327_181216.jpg",
+      "topic": "blockchain and decentralized future",
+      "prompt": "A monumental watercolor landscape depicts a vast network of glowing nodes and interconnected chains rising from ancient terracotta temples, their stone surfaces illuminated by thousands of warm candlelights that flicker like digital stars against the deepening amber dusk, while ethereal data streams flow between towering pillars in swirling earth-toned spirals, symbolizing the decentralized future emerging from humanity's timeless foundations.",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 1087332633,
+      "created_at": "2026-03-27T18:12:16.514930+08:00"
+    },
+    {
       "id": "20260327_174541",
       "filename": "images/artwork_20260327_174541.jpg",
       "topic": "artificial intelligence reshaping society",
