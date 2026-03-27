@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260327_160914",
+      "filename": "images/artwork_20260327_160914.jpg",
+      "topic": "blockchain and decentralized future",
+      "prompt": "In a mesmerizing noir-style scene, a complex network of ethereal data streams, depicted in earthy tones and terracotta hues, flows through a dreamlike cityscape bathed in the soft, warm glow of golden hour sunlight. Intricate, decentralized structures shimmer with an otherworldly luminescence, casting long, whimsical shadows that dance across ancient-looking, yet futuristic, architecture. The atmosphere is thick with a sense of profound mystery and quiet magic, as if the very fabric of reality is being rewoven in a delicate, imaginative dance of light and shadow.",
+      "text_model": "gemini-search",
+      "image_model": "gptimage",
+      "seed": 716383595,
+      "created_at": "2026-03-27T16:09:15.009523+08:00"
+    },
+    {
       "id": "20260327_160036",
       "filename": "images/artwork_20260327_160036.jpg",
       "topic": "virtual reality and the metaverse",
