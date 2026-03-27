@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260328_054537",
+      "filename": "images/artwork_20260328_054537.jpg",
+      "topic": "Hong Kong city life and culture",
+      "prompt": "A solitary figure stands on a rain-slicked rooftop overlooking a sprawling cyberpunk Hong Kong cityscape bathed in the ethereal, melancholic glow of an arctic aurora borealis, vibrant neon signs reflecting in their visor as towering skyscrapers pierce the bioluminescent sky, creating a mood of profound reflection amidst the dazzling urban chaos. The scene should be rendered in a hyperrealistic cyberpunk art style, with an emphasis on the interplay of cool, otherworldly aurora light and saturated, electric neon hues, showcasing intricate architectural details and the subtle shimmer of atmospheric effects.",
+      "text_model": "gemini-fast",
+      "image_model": "gptimage",
+      "seed": 319367175,
+      "created_at": "2026-03-28T05:45:37.199889+08:00"
+    },
+    {
       "id": "20260328_050436",
       "filename": "images/artwork_20260328_050436.jpg",
       "topic": "sports and human physical achievement",
