@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260328_143438",
+      "filename": "images/artwork_20260328_143438.jpg",
+      "topic": "human migration and global nomadism",
+      "prompt": "In a dystopian anime-inspired world of endless human migration and global nomadism, vast caravans of ragged wanderers with cybernetic limbs and tattered cloaks trudge across crumbling megacity ruins under soft diffused daylight filtering through perpetual smog, their faces etched with weary resolve amid towering skeletal skyscrapers overgrown with thorny vines and abandoned hover-vehicles. Monochromatic black and white palette heightens the stark contrasts of shadowy silhouettes against hazy horizons, where distant refugee camps flicker like ghosts in the gloom, evoking a haunting epic of survival and displacement. Highly detailed, award-winning composition with intricate linework, dramatic depth of field, and cinematic framing capturing the inexorable flow of nomadic humanity through a forsaken earth.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 1805182046,
+      "created_at": "2026-03-28T14:34:38.824510+08:00"
+    },
+    {
       "id": "20260328_135306",
       "filename": "images/artwork_20260328_135306.jpg",
       "topic": "quantum computing and the future",
