@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260329_072709",
+      "filename": "images/artwork_20260329_072709.jpg",
+      "topic": "artificial intelligence reshaping society",
+      "prompt": "A colossal golden AI core rises from a futuristic city, its radiant tendrils of bioluminescent light weaving through towering skyscrapers and floating transport pods, as diverse crowds of hopeful citizens gather beneath its warm glow, their faces illuminated with wonder and renewed purpose against the stark black night sky, rendered in striking anime style with crystalline highlights, dynamic perspective, and cinematic high-contrast blacks and golds creating an atmosphere of transformative hope.",
+      "text_model": "minimax",
+      "image_model": "flux",
+      "seed": 825090834,
+      "created_at": "2026-03-29T07:27:09.264434+08:00"
+    },
+    {
       "id": "20260329_065224",
       "filename": "images/artwork_20260329_065224.jpg",
       "topic": "ancient traditions meeting the modern world",
