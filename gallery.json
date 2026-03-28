@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260329_045734",
+      "filename": "images/artwork_20260329_045734.jpg",
+      "topic": "sports and human physical achievement",
+      "prompt": "A dramatic pop art masterpiece in vibrant neon colors—electric pinks, glowing blues, acid greens, and fiery yellows—depicts a muscular athlete mid-leap during an Olympic high jump, muscles straining against gravity in a pinnacle of human physical achievement, his silhouette exploding with dynamic speed lines and shattered barriers symbolizing triumph over limits.[1][2][3] Under a massive full moonlight casting elongated, intense shadows across a nocturnal stadium filled with cheering phantom crowds, the scene pulses with high-contrast edges and bold outlines, evoking the iconic energy of Andy Warhol's athletes fused with Charles Fazzino's intricate layered details.[2][3] Highly detailed, award-winning composition with textured halftone dots, radiant glows, and a sense of epic intensity, as if the night sky itself cheers the raw power of sports glory.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 1085121754,
+      "created_at": "2026-03-29T04:57:34.223971+08:00"
+    },
+    {
       "id": "20260329_042112",
       "filename": "images/artwork_20260329_042112.jpg",
       "topic": "future of human civilization and technology",
