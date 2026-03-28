@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260328_185539",
+      "filename": "images/artwork_20260328_185539.jpg",
+      "topic": "news headlines of tomorrow",
+      "prompt": "Impressionist masterpiece, news headlines of tomorrow swirling like an arctic aurora borealis, casting vibrant neon hues of electric blue, radioactive green, and fuchsia across a tumultuous cityscape. Dramatic, intense lighting pierces through the atmospheric glow, illuminating fragments of bold, unreadable text that evoke a sense of urgent, unfolding global events. The scene pulsates with a raw, captivating energy, hinting at both revelation and chaos within the luminous, electrified night.",
+      "text_model": "gemini-fast",
+      "image_model": "gptimage",
+      "seed": 1302353574,
+      "created_at": "2026-03-28T18:55:39.923268+08:00"
+    },
+    {
       "id": "20260328_183451",
       "filename": "images/artwork_20260328_183451.jpg",
       "topic": "ancient traditions meeting the modern world",
