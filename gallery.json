@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260328_225757",
+      "filename": "images/artwork_20260328_225757.jpg",
+      "topic": "renewable energy and sustainable living",
+      "prompt": "A hyper-detailed pop art cityscape bathed in the warm, flickering glow of candlelight, where towering windmills with vibrant amber and orange blades spin rhythmically alongside lush, cascading vertical gardens on sleek, modern buildings, all rendered with bold lines and saturated colors that exude a sense of vibrant, energetic optimism for sustainable living. Imagine this scene with a slightly retro, yet futuristic feel, emphasizing the harmonious integration of technology and nature, with subtle light flares catching on polished surfaces and the gentle luminescence of countless tiny lights within the eco-structures. The overall mood is one of joyful, bustling progress, a testament to a thriving, eco-conscious future painted with the iconic, graphic aesthetic of classic pop art.",
+      "text_model": "gemini-fast",
+      "image_model": "grok-imagine",
+      "seed": 2113748410,
+      "created_at": "2026-03-28T22:57:57.657913+08:00"
+    },
+    {
       "id": "20260328_223433",
       "filename": "images/artwork_20260328_223433.jpg",
       "topic": "news headlines of tomorrow",
