@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260328_152826",
+      "filename": "images/artwork_20260328_152826.jpg",
+      "topic": "space exploration and the cosmos",
+      "prompt": "A surrealist portrait of a lone astronaut tenderly cradling a glowing golden nebula in her gloved hands, her face illuminated with intimate wonder amid swirling cosmic vortices and melting star clusters that morph into ethereal human memories, captured under dramatic studio lighting with sharp chiaroscuro shadows carving out her features against infinite voids. High contrast black and gold color palette dominates, with veins of molten gold pulsing through obsidian space, evoking profound human connection to the cosmos in award-winning, hyper-detailed mastery blending Dali's dreamlike distortion with intimate emotional depth.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 1525591558,
+      "created_at": "2026-03-28T15:28:26.743401+08:00"
+    },
+    {
       "id": "20260328_144408",
       "filename": "images/artwork_20260328_144408.jpg",
       "topic": "artificial intelligence reshaping society",
