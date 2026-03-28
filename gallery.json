@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260328_162452",
+      "filename": "images/artwork_20260328_162452.jpg",
+      "topic": "space exploration and the cosmos",
+      "prompt": "In a serene anime-inspired vista of space exploration, a lone astronaut in intricate, flowing spacesuit drifts peacefully amid a vast cosmos of swirling nebulae, distant galaxies, and ethereal star clusters, gently touching the hull of an elegant, retrofuturistic spaceship reminiscent of classic anime designs like the Yamato, all rendered in stunning high-detail black-and-white monochromatic palette with subtle gradations of gray for depth. Candlelight ambiance casts soft, flickering glows from bioluminescent cosmic phenomena and the ship's portholes, evoking a tranquil, introspective mood as if lit by ancient stellar candles in the infinite void. Award-winning composition with masterful linework, dramatic chiaroscuro shadows, and hyper-detailed textures on metallic surfaces, starry expanses, and the astronaut's contemplative expression, capturing the profound serenity of humanity's quiet reach into the universe.",
+      "text_model": "perplexity-fast",
+      "image_model": "gptimage",
+      "seed": 228792337,
+      "created_at": "2026-03-28T16:24:52.402391+08:00"
+    },
+    {
       "id": "20260328_155935",
       "filename": "images/artwork_20260328_155935.jpg",
       "topic": "biotechnology and genetic engineering",
