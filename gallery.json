@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260329_061539",
+      "filename": "images/artwork_20260329_061539.jpg",
+      "topic": "traditional vs modern culture clash in Asia",
+      "prompt": "An anime-inspired scene depicting a serene, ancient Japanese garden bathed in ethereal moonlight, where traditional pagodas and cherry blossom trees stand in stark contrast to gleaming, futuristic neon skyscrapers that pierce the night sky in the distance. The mood is mysterious and ethereal, with sharp contrasts between deep shadows and pools of moonlight that highlight intricate details on the one hand, and the glowing, abstract shapes of modern technology on the other. The color palette is a high-contrast black and gold, with subtle hints of deep indigo and magenta in the luminous elements, creating a visually stunning and award-winning composition.",
+      "text_model": "gemini-search",
+      "image_model": "grok-imagine",
+      "seed": 1822002189,
+      "created_at": "2026-03-29T06:15:39.360620+08:00"
+    },
+    {
       "id": "20260329_055427",
       "filename": "images/artwork_20260329_055427.jpg",
       "topic": "post-pandemic world transformation",
