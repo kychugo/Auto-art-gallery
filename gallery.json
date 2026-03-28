@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260328_183451",
+      "filename": "images/artwork_20260328_183451.jpg",
+      "topic": "ancient traditions meeting the modern world",
+      "prompt": "A vibrant, energetic concept art piece depicting an ancient shamanic ritual seamlessly integrated into a bustling cyberpunk metropolis, illuminated by the pulsating bioluminescent glow of holographic flora and neon signage. Intricate tribal patterns adorn the shaman's attire and blend with the glowing circuitry of drones and augmented reality interfaces, all rendered with hyper-detailed textures and a palette of electric blues, fuchsias, and neon greens that create a visually stunning and award-winning aesthetic. The scene pulsates with life, blending the mystical past with a hyper-modern future in a dynamic, awe-inspiring display.",
+      "text_model": "gemini-search",
+      "image_model": "grok-imagine",
+      "seed": 1763428197,
+      "created_at": "2026-03-28T18:34:51.376830+08:00"
+    },
+    {
       "id": "20260328_180137",
       "filename": "images/artwork_20260328_180137.jpg",
       "topic": "traditional vs modern culture clash in Asia",
