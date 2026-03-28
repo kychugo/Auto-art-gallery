@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260328_123222",
+      "filename": "images/artwork_20260328_123222.jpg",
+      "topic": "mental health awareness in the digital age",
+      "prompt": "First, the user asks me to create an image generation prompt. I must respond with ONLY the prompt itself—no explanations, no titles, no markdown. I have to write exclusively in English.\n\nThe topic is \"mental health awareness in the digital age.\" I need to incorporate specific elements naturally:\n\n- Art style: concept art\n\n- Mood: intimate and human\n\n- Lighting: golden hour sunlight\n\n- Color palette: soft pastel hues\n\nThe prompt should be visually stunning, award-winning, and highly detailed. It should be 2-4 sentences long and paint a clear mental picture.\n\nI need to craft a prompt that combines these elements. Let me think about how to weave them together.\n\nStart with the art style: concept art. Concept art often involves imaginative and detailed scenes, sometimes used for films or games, but it can be applied here to create a vivid image.\n\nMood: intimate and human. This suggests a personal, emotional scene, perhaps focusing on individuals or close interactions.\n\nLighting: golden hour sunlight. This is the warm, soft light during sunrise or sunset, which can create a calming and hopeful atmosphere.\n\nColor palette: soft pastel hues. These are light, muted colors that can enhance the intimate and gentle mood.\n\nThe theme is mental health awareness in the digital age. So, I should include elements related to digital technology, like screens, devices, or digital interfaces, but balanced with human elements to show awareness or coping.\n\nI need to make it detailed and descriptive. The prompt should be 2-4 sentences long.\n\nBrainstorming a scene: Perhaps a person in a room with digital devices, but bathed in golden hour light, using soft pastel colors, showing a moment of connection or self-care.\n\nEnsure it's natural. Incorporate the elements seamlessly.\n\nDraft a prompt:\n\n\"Concept art of an intimate scene where a young person sits by a window during golden hour, soft pastel hues washing over the room as sunlight filters through,",
+      "text_model": "deepseek",
+      "image_model": "grok-imagine",
+      "seed": 2073812593,
+      "created_at": "2026-03-28T12:32:22.688285+08:00"
+    },
+    {
       "id": "20260328_122521",
       "filename": "images/artwork_20260328_122521.jpg",
       "topic": "space exploration and the cosmos",
