@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260328_125842",
+      "filename": "images/artwork_20260328_125842.jpg",
+      "topic": "traditional vs modern culture clash in Asia",
+      "prompt": "A striking cinematic scene where ancient Buddhist monks in golden robes meditate on ornate temple steps while massive neon-lit skyscrapers loom behind them like digital mountains, their silhouette merging with the smoke of thousands of floating paper lanterns, candlelight casting dramatic shadows across weathered stone faces and holographic advertisements flickering between them, the entire vista rendered in high-contrast black and midnight gold with ethereal mist swirling around incense burners, capturing the mystical tension between timeless tradition and relentless modernity in a once-ancient Asian metropolis now drowning in its own luminous future.",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 173708586,
+      "created_at": "2026-03-28T12:58:42.526834+08:00"
+    },
+    {
       "id": "20260328_123222",
       "filename": "images/artwork_20260328_123222.jpg",
       "topic": "mental health awareness in the digital age",
