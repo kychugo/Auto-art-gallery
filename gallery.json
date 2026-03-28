@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260328_113815",
+      "filename": "images/artwork_20260328_113815.jpg",
+      "topic": "music and the evolution of sound",
+      "prompt": "In a opulent Baroque chamber illuminated solely by flickering candlelight casting dramatic chiaroscuro shadows, a melancholic musician in voluminous velvet robes sits reflectively at a grand harpsichord, its keys morphing into swirling waves of ethereal sound that evolve through time—ancient bone flutes dissolving into medieval lutes, Renaissance viols twisting into ornate violins, and culminating in shadowy hints of modern electric guitars suspended in the air. Cool blues and deep purples dominate the palette, with intricate gold-leaf flourishes on sculpted putti and acanthus scrolls blurring the boundaries between painting, sculpture, and architecture, evoking a sense of infinite progression and poignant nostalgia for sound's transformative journey. Highly detailed, award-winning masterpiece in the style of Caravaggio meets Bernini, rich in tenebrism, emotional dynamism, and sensuous grandeur.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 100297928,
+      "created_at": "2026-03-28T11:38:15.627838+08:00"
+    },
+    {
       "id": "20260328_111957",
       "filename": "images/artwork_20260328_111957.jpg",
       "topic": "music and the evolution of sound",
