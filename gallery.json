@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260329_055427",
+      "filename": "images/artwork_20260329_055427.jpg",
+      "topic": "post-pandemic world transformation",
+      "prompt": "A group of diverse people emerge from a modern city square into brilliant golden light, their faces illuminated with hope as they cast long shadows across marble steps reclaimed by growing vines and flowers, rendered in rich impasto oil painting technique with dramatic volumetric lighting from above, cool cerulean and deep violet tones blending into warm amber highlights, capturing the triumphant spirit of rebirth and unity in a post-pandemic world, hyper-detailed realistic faces, textured brushstrokes visible throughout, cinematic composition with shallow focus on foreground figures",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 197738469,
+      "created_at": "2026-03-29T05:54:28.025968+08:00"
+    },
+    {
       "id": "20260329_053752",
       "filename": "images/artwork_20260329_053752.jpg",
       "topic": "sports and human physical achievement",
