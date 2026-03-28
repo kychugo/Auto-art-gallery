@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260329_065224",
+      "filename": "images/artwork_20260329_065224.jpg",
+      "topic": "ancient traditions meeting the modern world",
+      "prompt": "A stoic elder, adorned in intricately embroidered traditional ceremonial robes, stands amidst the bustling neon glow of a futuristic Tokyo street. Their weathered hands cradle a glowing, holographic scroll depicting ancient celestial maps, casting an emerald and deep forest green light onto the rain-slicked, chrome pavement. The scene is captured in a photorealistic style, imbued with a vibrant and energetic mood, under dramatic studio lighting that sculpts the textures of both ancient fabric and modern cityscape. The contrast between timeless wisdom and cutting-edge technology creates a visually stunning, award-winning composition.",
+      "text_model": "gemini-search",
+      "image_model": "grok-imagine",
+      "seed": 605980571,
+      "created_at": "2026-03-29T06:52:24.755590+08:00"
+    },
+    {
       "id": "20260329_061539",
       "filename": "images/artwork_20260329_061539.jpg",
       "topic": "traditional vs modern culture clash in Asia",
