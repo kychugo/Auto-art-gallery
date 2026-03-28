@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260328_232728",
+      "filename": "images/artwork_20260328_232728.jpg",
+      "topic": "mental health awareness in the digital age",
+      "prompt": "A solitary, silhouetted figure stands at the edge of a deep, enchanted forest, their outline dissolving into wisps of digital static that shimmer with ethereal gold against a backdrop of stark black. Dappled moonlight pierces the dense canopy, casting intricate, high-contrast patterns that highlight glowing, abstract fragments of code and fragmented social media icons scattered like fallen leaves, evoking a sense of mystery and the pervasive, yet often hidden, presence of digital life within the mind. The overall mood is one of profound introspection and quiet contemplation, rendered in a hyper-realistic digital art style with a breathtakingly rich black and gold color palette.",
+      "text_model": "gemini-fast",
+      "image_model": "grok-imagine",
+      "seed": 651684153,
+      "created_at": "2026-03-28T23:27:29.018266+08:00"
+    },
+    {
       "id": "20260328_225757",
       "filename": "images/artwork_20260328_225757.jpg",
       "topic": "renewable energy and sustainable living",
