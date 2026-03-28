@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260328_215237",
+      "filename": "images/artwork_20260328_215237.jpg",
+      "topic": "sports and human physical achievement",
+      "prompt": "A serene watercolor painting of a lone trail runner in mid-stride, embodying human physical achievement through the elegant stretch of toned muscles and determined poise amidst an ancient forest path, dappled sunlight filtering through whispering leaves to cast soft, ethereal glows on sweat-glistened skin and flowing hair. Earth tones and warm terracotta hues dominate the palette, with subtle ochres for the runner's simple attire, sienna shadows on mossy ground, and golden highlights evoking peaceful triumph and harmony with nature. Highly detailed, award-winning composition with delicate brushwork blending sharp anatomical forms into dreamy, translucent washes, capturing a moment of profound serenity and endurance.",
+      "text_model": "perplexity-fast",
+      "image_model": "grok-imagine",
+      "seed": 1877490612,
+      "created_at": "2026-03-28T21:52:37.359249+08:00"
+    },
+    {
       "id": "20260328_213028",
       "filename": "images/artwork_20260328_213028.jpg",
       "topic": "global climate crisis and environmental solutions",
