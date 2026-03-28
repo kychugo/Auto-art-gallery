@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260328_115723",
+      "filename": "images/artwork_20260328_115723.jpg",
+      "topic": "sports and human physical achievement",
+      "prompt": "A solitary marathon runner stands on a massive stone podium in an ancient amphitheater, muscles tensing in triumphant pose as hundreds of candlelit torches flicker around the arena, their warm amber flames casting dramatic shadows across the athlete's powerful frame and sweat-drenched skin, while the vaulted architecture fades into deep indigo and violet skies, creating a cinematic monument to human endurance rendered in cool blues and purples with dramatic chiaroscuro lighting that emphasizes the sweat droplets catching the candlelight like tiny stars.",
+      "text_model": "minimax",
+      "image_model": "gptimage",
+      "seed": 1335196513,
+      "created_at": "2026-03-28T11:57:23.617177+08:00"
+    },
+    {
       "id": "20260328_113815",
       "filename": "images/artwork_20260328_113815.jpg",
       "topic": "music and the evolution of sound",
