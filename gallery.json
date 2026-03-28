@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260328_170425",
+      "filename": "images/artwork_20260328_170425.jpg",
+      "topic": "sports and human physical achievement",
+      "prompt": "In a vibrant **pop art** style inspired by Andy Warhol's iconic athlete portraits, depict a lone marathon runner mid-stride on a misty forest trail at midnight, muscles glistening with sweat under silvery **moonlight** casting elongated **shadows** that emphasize raw human vulnerability and triumph.[3] Her determined face and powerful form explode in bold outlines and layered patterns using an **emerald and deep forest green** palette, with subtle pops of luminescent teal highlighting veins and tendons in intimate close-up.[1][2] Rendered in hyper-detailed, award-winning precision, the composition captures the **intimate and human** essence of physical achievement, sweat droplets suspended like jewels amid swirling leaf motifs and dynamic speed lines.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 1729236181,
+      "created_at": "2026-03-28T17:04:25.743623+08:00"
+    },
+    {
       "id": "20260328_162452",
       "filename": "images/artwork_20260328_162452.jpg",
       "topic": "space exploration and the cosmos",
