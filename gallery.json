@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260329_053752",
+      "filename": "images/artwork_20260329_053752.jpg",
+      "topic": "sports and human physical achievement",
+      "prompt": "An abstract expressionist depiction of athletic triumph, rendered in a torrent of cool blues and purples that bleed and blend with explosive energy, evoking the raw dynamism of human physical achievement under the vibrant, electric hum of neon city glow, capturing a moment of peak performance as if painted with pure, unadulterated motion and light.",
+      "text_model": "gemini-fast",
+      "image_model": "grok-imagine",
+      "seed": 1595433344,
+      "created_at": "2026-03-29T05:37:52.559228+08:00"
+    },
+    {
       "id": "20260329_045734",
       "filename": "images/artwork_20260329_045734.jpg",
       "topic": "sports and human physical achievement",
