@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260329_075101",
+      "filename": "images/artwork_20260329_075101.jpg",
+      "topic": "blockchain and decentralized future",
+      "prompt": "A solitary figure, rendered in the style of bold, yet soft-edged pop art, gazes at a fragmented, ethereal blockchain network shimmering with pastel hues of lavender, peach, and mint green, their silhouette cast by a warm, flickering candlelight ambiance that imbues the scene with a melancholic and reflective mood. Tiny, pixelated data shards drift like fallen leaves around them, hinting at a decentralized future both beautiful and tinged with quiet longing, captured with exquisite detail and award-winning composition.",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 130452760,
+      "created_at": "2026-03-29T07:51:01.250181+08:00"
+    },
+    {
       "id": "20260329_072709",
       "filename": "images/artwork_20260329_072709.jpg",
       "topic": "artificial intelligence reshaping society",
