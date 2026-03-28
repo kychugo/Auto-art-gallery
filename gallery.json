@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260328_135306",
+      "filename": "images/artwork_20260328_135306.jpg",
+      "topic": "quantum computing and the future",
+      "prompt": "An abstract expressionist visualization of quantum computing's future, where flowing, sweeping brushstrokes in rich terracotta, burnt sienna, and deep umber sweep across the canvas in harmonious swirling patterns, representing the delicate dance of qubits and quantum states, while diffuse stormy overcast light filters through moody, layered clouds of warm gray and ochre, casting contemplative shadows that suggest both the power and the peaceful serenity of computational transcendence, with subtle golden quantum entanglement threads weaving through the earthy composition like invisible connections between possibility and reality.",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 868996725,
+      "created_at": "2026-03-28T13:53:06.959503+08:00"
+    },
+    {
       "id": "20260328_134044",
       "filename": "images/artwork_20260328_134044.jpg",
       "topic": "revolution in education through technology",
