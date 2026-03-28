@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260328_172826",
+      "filename": "images/artwork_20260328_172826.jpg",
+      "topic": "traditional vs modern culture clash in Asia",
+      "prompt": "In a cyberpunk Asian megacity bathed in serene moonlight and elongated shadows, ancient pagodas with glowing red lanterns and robed elders in traditional silk hanbok harmoniously clash with hovering neon holograms of cherry blossoms, cyborg samurai wielding katanas fused with circuit implants, and sleek drones delivering street food amid misty alleyways. Soft pastel hues of lavender, mint green, and pale pink illuminate the peaceful scene, where forgotten shrines reflect in rain-slicked puddles beside towering arcologies pulsing with subtle data streams, evoking a tranquil fusion of heritage and futurism. Highly detailed, award-winning digital art with intricate textures, atmospheric depth, and ethereal glows.",
+      "text_model": "perplexity-fast",
+      "image_model": "grok-imagine",
+      "seed": 426293698,
+      "created_at": "2026-03-28T17:28:26.729121+08:00"
+    },
+    {
       "id": "20260328_170425",
       "filename": "images/artwork_20260328_170425.jpg",
       "topic": "sports and human physical achievement",
