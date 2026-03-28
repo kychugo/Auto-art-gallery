@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260329_042112",
+      "filename": "images/artwork_20260329_042112.jpg",
+      "topic": "future of human civilization and technology",
+      "prompt": "A solitary, stylized human silhouette, rendered in bold pop art lines, gazes out from a cracked, emerald-green observation dome at a sprawling, desolate cityscape draped in bioluminescent flora, casting an ethereal, deep forest green glow. The melancholic reflection of distant, forgotten megastructures shimmers in puddles of nutrient-rich water below, creating a poignant tableau of humanity's quiet technological ascent and its subsequent, gentle fading.",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 1192489124,
+      "created_at": "2026-03-29T04:21:12.122325+08:00"
+    },
+    {
       "id": "20260328_232728",
       "filename": "images/artwork_20260328_232728.jpg",
       "topic": "mental health awareness in the digital age",
