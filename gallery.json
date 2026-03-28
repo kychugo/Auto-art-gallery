@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260328_131950",
+      "filename": "images/artwork_20260328_131950.jpg",
+      "topic": "urban architecture of the future",
+      "prompt": "A hyper-detailed, award-winning vista of a futuristic cityscape rendered in a noir art style, where towering, impossibly sleek skyscrapers pierce a moonlit sky, casting long, dramatic shadows across empty, rain-slicked avenues. The mood is profoundly peaceful and serene, emphasized by the gentle glow of moonlight reflecting off the polished obsidian-like surfaces of the architecture and the subtle luminescence of hidden emerald and deep forest green accents woven into the urban design. This scene is a masterclass in atmospheric lighting, with deep chiaroscuro creating a sense of quiet contemplation amidst the advanced, silent metropolis.",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 114594906,
+      "created_at": "2026-03-28T13:19:50.706206+08:00"
+    },
+    {
       "id": "20260328_131051",
       "filename": "images/artwork_20260328_131051.jpg",
       "topic": "Hong Kong protest art and resilience",
