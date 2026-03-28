@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260328_180137",
+      "filename": "images/artwork_20260328_180137.jpg",
+      "topic": "traditional vs modern culture clash in Asia",
+      "prompt": "A bustling Asian metropolis at golden hour, where ornate Baroque architectural elements are dramatically integrated into hyper-modern skyscrapers, creating a vibrant clash of old and new. Figures in flowing, traditional silk garments are interspersed with individuals in sleek, contemporary streetwear, all bathed in the warm, ethereal glow of the setting sun, casting long, deep shadows that emphasize the energetic yet serene atmosphere. The color palette is dominated by cool blues and purples, creating a striking contrast with the golden light, highlighting intricate details and evoking a sense of dynamic cultural fusion.",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 1153756263,
+      "created_at": "2026-03-28T18:01:38.023603+08:00"
+    },
+    {
       "id": "20260328_172826",
       "filename": "images/artwork_20260328_172826.jpg",
       "topic": "traditional vs modern culture clash in Asia",
