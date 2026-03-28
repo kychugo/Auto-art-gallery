@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260328_100739",
+      "filename": "images/artwork_20260328_100739.jpg",
+      "topic": "ancient traditions meeting the modern world",
+      "prompt": "In a surrealist masterpiece evoking mysterious and ethereal depths, ancient stone monoliths etched with forgotten runes morph fluidly into towering skyscrapers under stormy overcast light, their monochromatic black-and-white forms twisting in gravity-defying spirals where robed shamans in ritual dance merge seamlessly with suited executives clutching glowing smartphones. Dreamlike juxtapositions abound as melting clocks drape over holographic billboards displaying tribal masks, while ethereal mists swirl around levitating pagodas entangled with neon-lit drone swarms, capturing the uncanny collision of timeless traditions and hyper-modern chaos in hyper-detailed, award-winning precision.",
+      "text_model": "perplexity-fast",
+      "image_model": "grok-imagine",
+      "seed": 1608021032,
+      "created_at": "2026-03-28T10:07:39.749676+08:00"
+    },
+    {
       "id": "20260328_074956",
       "filename": "images/artwork_20260328_074956.jpg",
       "topic": "global climate crisis and environmental solutions",
