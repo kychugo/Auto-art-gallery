@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260328_213028",
+      "filename": "images/artwork_20260328_213028.jpg",
+      "topic": "global climate crisis and environmental solutions",
+      "prompt": "A melancholic watercolor landscape painting captures the global climate crisis with a parched terracotta earth cracked under a hazy sky, receding ice caps on distant mountains melting into rising seas that swallow coastal villages, while foreground elements of hope emerge like vibrant community gardens with solar panels and wind turbines sprouting amid resilient green shoots, all rendered in soft diffused daylight that filters through atmospheric haze. Earth tones dominate—warm ochres, muted siennas, and dusty umbers—layered with wet-on-wet washes for ethereal depth, sharp wet-on-dry edges defining foreground renewal against blurred distant devastation, evoking a reflective mood of urgent transformation. Highly detailed textures reveal wilting leaves transitioning to budding life, subtle contrasts pulling solutions forward in this award-winning, visually stunning vista of environmental reckoning and renewal.",
+      "text_model": "perplexity-fast",
+      "image_model": "grok-imagine",
+      "seed": 1846235076,
+      "created_at": "2026-03-28T21:30:28.546156+08:00"
+    },
+    {
       "id": "20260328_205502",
       "filename": "images/artwork_20260328_205502.jpg",
       "topic": "traditional vs modern culture clash in Asia",
