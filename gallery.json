@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260328_220304",
+      "filename": "images/artwork_20260328_220304.jpg",
+      "topic": "ocean conservation and marine life",
+      "prompt": "First, the user asked for a unique, detailed image generation prompt about ocean conservation and marine life. I need to incorporate specific elements naturally: Baroque art style, peaceful and serene mood, dappled forest light, and vibrant neon colors.\n\nBaroque art style is known for its drama, richness, and intricate details, often with grandeur and movement. For a peaceful mood, I should tone down the drama slightly but keep the ornate elements. Dappled forest light suggests light filtering through leaves, creating patterns of light and shadow. Vibrant neon colors will add a modern, eye-catching twist to the classical Baroque style.\n\nThe prompt must be 2-4 sentences long, written exclusively in English, with no explanations or markdown. It should paint a clear mental picture and be visually stunning, award-winning, and highly detailed.\n\nStructure the prompt:\n\n1. Start by setting the scene with ocean conservation and marine life.\n\n2. Incorporate the Baroque style, perhaps by mentioning ornate details, dramatic compositions, but with a serene twist.\n\n3. Describe the lighting as dappled forest light, which can be adapted to underwater scenes with light filtering through water or coral structures.\n\n4. Use vibrant neon colors to highlight marine life and elements.\n\n5. Ensure it's cohesive and flows naturally.\n\nDraft sentences:\n\n- First sentence: Introduce the scene with marine life in a Baroque setting.\n\n- Second sentence: Add details about lighting and mood.\n\n- Third sentence: Describe colors and specific visual elements.\n\n- Optionally, a fourth sentence for extra detail.\n\nMake it award-winning: Use evocative language, precise adjectives, and immersive descriptions.\n\nFinal prompt should be only the image prompt itself.\n\nBrainstorm ideas:\n\n- Imagine a Baroque underwater scene with ornate coral reefs and majestic marine creatures.\n\n- Dappled light filtering through the ocean surface, creating serene patterns.\n\n- Neon colors glowing on fish, plants, and structures, emphasizing conservation themes like clean water or protected species.\n\nIncorporate ocean conservation subtly: perhaps by",
+      "text_model": "deepseek",
+      "image_model": "gptimage",
+      "seed": 1491672359,
+      "created_at": "2026-03-28T22:03:04.987270+08:00"
+    },
+    {
       "id": "20260328_215237",
       "filename": "images/artwork_20260328_215237.jpg",
       "topic": "sports and human physical achievement",
