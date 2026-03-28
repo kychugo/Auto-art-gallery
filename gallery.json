@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260328_131051",
+      "filename": "images/artwork_20260328_131051.jpg",
+      "topic": "Hong Kong protest art and resilience",
+      "prompt": "Cinematic, dark, and dystopian Hong Kong street art scene under a cold moonlight, casting long, deep shadows across graffiti-covered walls depicting defiant figures and abstract symbols of resilience. A narrow alleyway glows with cool blues and purples, illuminated by flickering neon signs reflecting in puddles, capturing a powerful mood of underground resistance and unwavering spirit. The hyper-detailed image emphasizes textures of weathered concrete, spray paint, and fragmented propaganda posters, evoking a sense of potent, unresolved struggle.",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 700972037,
+      "created_at": "2026-03-28T13:10:51.460455+08:00"
+    },
+    {
       "id": "20260328_125842",
       "filename": "images/artwork_20260328_125842.jpg",
       "topic": "traditional vs modern culture clash in Asia",
