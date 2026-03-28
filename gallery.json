@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260328_205502",
+      "filename": "images/artwork_20260328_205502.jpg",
+      "topic": "traditional vs modern culture clash in Asia",
+      "prompt": "First, the user wants a single, vivid, detailed image generation prompt. It must be about \"traditional vs modern culture clash in Asia.\" I need to incorporate specific elements: art style is surrealist, mood is dramatic and intense, lighting is neon city glow, and color palette is warm amber and orange tones.\n\nThe prompt should be visually stunning, award-winning, and highly detailed. It should be 2-4 sentences long and paint a clear mental picture. I must respond with ONLY the image prompt itself, no explanations, no titles, no markdown. Write exclusively in English.\n\nI need to craft this prompt to naturally include all required elements. Let's break it down:\n\n- **Theme**: Traditional vs modern culture clash in Asia. This could involve elements like ancient temples next to skyscrapers, traditional clothing in modern settings, etc.\n\n- **Art style**: Surrealist. So, the image should have dreamlike, bizarre, or fantastical elements that blend reality with imagination.\n\n- **Mood**: Dramatic and intense. This means the scene should evoke strong emotions, perhaps with contrasting elements in tension.\n\n- **Lighting**: Neon city glow. This suggests urban nightlife with neon signs, creating a vibrant, glowing atmosphere.\n\n- **Color palette**: Warm amber and orange tones. So, the dominant colors should be shades of amber and orange, giving a warm, possibly nostalgic or fiery feel.\n\nI need to weave these into a cohesive prompt. Since it's surrealist, I can mix unrealistic elements. For example, a traditional Asian structure might be melting into a modern building, or neon lights might be intertwined with ancient symbols.\n\nStructure the prompt in 2-4 sentences. Make it descriptive and rich.\n\nStart by setting the scene: Describe a surreal clash between traditional and modern Asia. Use vivid imagery.\n\nIncorporate the lighting: Neon city glow should be part of the environment.\n\nColor palette: Mention warm amber and orange tones dominating the scene.\n\nM",
+      "text_model": "deepseek",
+      "image_model": "gptimage",
+      "seed": 1101777281,
+      "created_at": "2026-03-28T20:55:02.816174+08:00"
+    },
+    {
       "id": "20260328_194840",
       "filename": "images/artwork_20260328_194840.jpg",
       "topic": "fashion meets technology",
