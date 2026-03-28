@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260328_155935",
+      "filename": "images/artwork_20260328_155935.jpg",
+      "topic": "biotechnology and genetic engineering",
+      "prompt": "First, the user specifies that I must create a single, vivid, detailed image generation prompt. The prompt should be about \"biotechnology and genetic engineering.\" I need to incorporate specific elements naturally: art style (cinematic), mood (powerful and monumental), lighting (soft diffused daylight), and color palette (cool blues and purples).\n\nI have to ensure the prompt is visually stunning, award-winning, and highly detailed. It should be 2-4 sentences long and paint a clear mental picture. I must write in English only and respond with ONLY the image prompt itself—no explanations, no titles, no markdown.\n\nKey elements to include:\n- Biotechnology and genetic engineering: I need to visualize scenes or concepts related to this, like DNA strands, lab equipment, futuristic biological structures, or genetic manipulation.\n- Art style: cinematic – so it should feel like a scene from a movie, with dramatic angles and high production value.\n- Mood: powerful and monumental – implying something grand, awe-inspiring, and significant.\n- Lighting: soft diffused daylight – not harsh, but gentle and natural, spreading evenly.\n- Color palette: cool blues and purples – dominant colors that set the tone.\n\nStructure the prompt to be descriptive and flow naturally. Since it's 2-4 sentences, I'll aim for around 3 sentences to cover all aspects.\n\nBrainstorm ideas for imagery:\n- A futuristic lab with glowing DNA helices.\n- Massive, intricate biological structures being engineered.\n- Scientists or androids working with advanced genetic tools.\n- A combination of organic and synthetic elements.\n\nIncorporate the required elements:\n- Start with a cinematic scene: \"A cinematic shot of...\"\n- Describe the subject: something related to biotechnology, like \"a colossal, translucent DNA helix being engineered in a vast laboratory.\"\n- Add mood: \"evoking a powerful and monumental sense of scientific achievement.\"\n- Lighting: \"bathed in soft diffused daylight that filters through high windows.\"\n-",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 2047321053,
+      "created_at": "2026-03-28T15:59:35.702570+08:00"
+    },
+    {
       "id": "20260328_154433",
       "filename": "images/artwork_20260328_154433.jpg",
       "topic": "sports and human physical achievement",
