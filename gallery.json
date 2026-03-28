@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260328_193033",
+      "filename": "images/artwork_20260328_193033.jpg",
+      "topic": "quantum computing and the future",
+      "prompt": "First, the user asks me to create an image generation prompt. I must respond with ONLY the prompt itself — no explanations, no titles, no markdown. I must write exclusively in English.\n\nThe topic is \"quantum computing and the future.\" I need to incorporate these required elements naturally:\n\n- Art style: oil painting\n\n- Mood: whimsical and dreamlike\n\n- Lighting: neon city glow\n\n- Color palette: holographic iridescent\n\nThe prompt should be 2-4 sentences long, visually stunning, award-winning, and highly detailed. It should paint a clear mental picture.\n\nI need to craft a single, vivid, detailed prompt. Let me brainstorm how to blend quantum computing with the future in an artistic way.\n\nQuantum computing often involves abstract concepts like qubits, superposition, and entanglement. For a whimsical and dreamlike mood, I can imagine a surreal scene. The neon city glow suggests an urban, futuristic setting. Holographic iridescent colors add a shimmering, ethereal quality.\n\nArt style is oil painting, so I should mention that to give it a classical yet modern twist. Oil paintings can have rich textures and depth.\n\nStructure the prompt: Start with the main scene, incorporate the elements, and ensure it's descriptive.\n\nPossible elements: quantum circuits, futuristic city, glowing elements, iridescent effects.\n\nDraft a prompt:\n\n\"In an oil painting style, a whimsical and dreamlike vision of the future where quantum computing manifests as floating crystalline structures and shimmering data streams, illuminated by the neon glow of a sprawling city below, all rendered in a holographic iridescent color palette that shifts between ethereal blues, purples, and greens.\"\n\nThat's one sentence. I need 2-4 sentences. Let me expand.\n\n\"Imagine a surreal landscape where quantum bits dance in the air like fireflies, against a backdrop of a futuristic metropolis bathed in neon city glow. The scene is painted in the style",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 1335143836,
+      "created_at": "2026-03-28T19:30:33.948741+08:00"
+    },
+    {
       "id": "20260328_185539",
       "filename": "images/artwork_20260328_185539.jpg",
       "topic": "news headlines of tomorrow",
