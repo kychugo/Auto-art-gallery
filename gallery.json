@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260328_194840",
+      "filename": "images/artwork_20260328_194840.jpg",
+      "topic": "fashion meets technology",
+      "prompt": "In a dark dystopian concept art style, a sleek cyberpunk model strides through neon-drenched ruins, her high-fashion ensemble fusing couture with advanced tech: a form-fitting black latex trench coat adorned with embedded golden neural circuits and holographic LED panels pulsing with bioluminescent glow. High-contrast black and gold palette dominates, with glowing veins of gold circuitry illuminating intricate smart textile weaves, augmented reality projections flickering from shoulder epaulets, and subtle 3D-printed armor accents catching ethereal light against shadowy, crumbling megacity backgrounds. Award-winning detail captures frayed fabric edges, reflective metallic threads, and atmospheric fog swirling around hovering data drones, evoking a haunting fusion of opulent style and impending technological apocalypse.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 189975032,
+      "created_at": "2026-03-28T19:48:40.252842+08:00"
+    },
+    {
       "id": "20260328_193033",
       "filename": "images/artwork_20260328_193033.jpg",
       "topic": "quantum computing and the future",
