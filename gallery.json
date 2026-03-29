@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260329_114247",
+      "filename": "images/artwork_20260329_114247.jpg",
+      "topic": "space exploration and the cosmos",
+      "prompt": "A monumental digital art masterpiece depicting a colossal interstellar spacecraft piercing through the infinite cosmos, its sleek hull etched with intricate biomechanical patterns glowing with ethereal bioluminescent veins against a vast monochromatic black and white starfield, surrounded by swirling nebulae, distant galaxies, and probing robotic explorers deploying towards alien worlds. Powerful rays of bioluminescent light emanate from the ship's core, casting dramatic chiaroscuro shadows that emphasize the epic scale and humanity's defiant reach into the void, highly detailed textures on metallic surfaces and cosmic dust, award-winning composition with perfect symmetry and infinite depth.",
+      "text_model": "perplexity-fast",
+      "image_model": "grok-imagine",
+      "seed": 581682353,
+      "created_at": "2026-03-29T11:42:47.944617+08:00"
+    },
+    {
       "id": "20260329_102649",
       "filename": "images/artwork_20260329_102649.jpg",
       "topic": "blockchain and decentralized future",
