@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260329_160222",
+      "filename": "images/artwork_20260329_160222.jpg",
+      "topic": "cultural diversity and global harmony",
+      "prompt": "An impressionist cityscape bursts with holographic iridescent colors, where figures of diverse global cultures, rendered with energetic brushstrokes, move through a warm, candlelight ambiance, their forms merging and dancing in a symphony of light and joyous connection, evoking a feeling of vibrant, unified harmony.",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 1336888021,
+      "created_at": "2026-03-29T16:02:22.694499+08:00"
+    },
+    {
       "id": "20260329_155146",
       "filename": "images/artwork_20260329_155146.jpg",
       "topic": "ancient traditions meeting the modern world",
