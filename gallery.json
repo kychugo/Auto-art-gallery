@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260329_153446",
+      "filename": "images/artwork_20260329_153446.jpg",
+      "topic": "social media culture and human connection",
+      "prompt": "First, the user wants an image generation prompt about \"social media culture and human connection.\" I need to incorporate specific elements: art style (oil painting), mood (hopeful and uplifting), lighting (bioluminescent glow), and color palette (monochromatic black and white). The prompt should be 2-4 sentences long, visually stunning, award-winning, and highly detailed. I must respond with ONLY the prompt in English, no explanations or markdown.\n\nKey points to cover:\n\n- **Social media culture and human connection**: I need to depict this in a way that shows the intersection of technology and human bonds. Maybe something like people interacting through digital devices but in a meaningful way.\n\n- **Art style**: Oil painting. So, the prompt should mention \"oil painting\" or imply it through descriptors like \"brushstrokes\" or \"textured.\"\n\n- **Mood**: Hopeful and uplifting. The scene should evoke positive emotions, perhaps showing connection and unity.\n\n- **Lighting**: Bioluminescent glow. This suggests a soft, organic light source, like from glowing plants or digital screens that mimic bioluminescence.\n\n- **Color palette**: Monochromatic black and white. Even though it's black and white, I can describe shades and contrasts. Bioluminescent glow might add subtle tones, but the palette should be primarily black and white.\n\nI need to craft a prompt that paints a clear mental picture. Since it's monochromatic black and white, I should focus on contrasts, shadows, and highlights from the bioluminescent glow.\n\nStructure the prompt in 2-4 sentences. Start with a vivid description, incorporate the elements naturally, and ensure it's detailed.\n\nBrainstorm an image: Perhaps a scene where people are gathered, their faces illuminated by the soft glow of their devices or bioluminescent elements in the environment, showing connection despite the digital medium. In oil painting style, with hopeful expressions.\n\nCombine elements:\n\n- Describe the setting: maybe a cozy indoor space or",
+      "text_model": "deepseek",
+      "image_model": "klein",
+      "seed": 1099276854,
+      "created_at": "2026-03-29T15:34:46.775261+08:00"
+    },
+    {
       "id": "20260329_145129",
       "filename": "images/artwork_20260329_145129.jpg",
       "topic": "Hong Kong city life and culture",
