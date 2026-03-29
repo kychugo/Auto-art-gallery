@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260329_125933",
+      "filename": "images/artwork_20260329_125933.jpg",
+      "topic": "blockchain and decentralized future",
+      "prompt": "A breathtaking oil painting depicting a futuristic blockchain network emerging from darkness into golden light, where holographic nodes and interconnected data streams form a radiant web of glowing gold circuits against a deep black void, illuminated by dramatic studio lighting that creates powerful contrast between shadows and luminescent gold highlights, capturing a vibrant and energetic vision of decentralized technological utopia with intricate details of glowing digital tokens, floating cryptographic symbols, and stylized human figures reaching toward interconnected platforms.",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 639902433,
+      "created_at": "2026-03-29T12:59:33.562572+08:00"
+    },
+    {
       "id": "20260329_124152",
       "filename": "images/artwork_20260329_124152.jpg",
       "topic": "renewable energy and sustainable living",
