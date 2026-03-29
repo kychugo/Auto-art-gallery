@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260329_223605",
+      "filename": "images/artwork_20260329_223605.jpg",
+      "topic": "cybersecurity and privacy in the digital world",
+      "prompt": "In an impressionist style with loose, visible brushstrokes and open composition capturing fleeting moments of digital dawn, depict a hopeful digital landscape where ethereal binary code streams and glowing padlocks form protective shields around serene human figures emerging from shadowy data clouds into a vast, luminous horizon symbolizing reclaimed privacy. Monochromatic black and white palette accentuates intricate cybersecurity motifs like fingerprint lattices and encrypted vines weaving through fractured firewalls, all bathed in uplifting bioluminescent glows from within circuits and shields, evoking triumph over chaos with soft, intermingling edges and dynamic movement toward boundless freedom. Highly detailed, award-winning masterpiece brimming with optimistic energy and textured impasto light effects.",
+      "text_model": "perplexity-fast",
+      "image_model": "grok-imagine",
+      "seed": 624606473,
+      "created_at": "2026-03-29T22:36:05.436391+08:00"
+    },
+    {
       "id": "20260329_220338",
       "filename": "images/artwork_20260329_220338.jpg",
       "topic": "sports and human physical achievement",
