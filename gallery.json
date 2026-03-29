@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260329_205449",
+      "filename": "images/artwork_20260329_205449.jpg",
+      "topic": "ocean conservation and marine life",
+      "prompt": "A vast, ghostly whale skeleton lies entangled in an ancient fishing net on the ocean floor, illuminated by a single flickering candle held by a silhouette figure standing nearby, while dying coral glows with bioluminescent amber light against the suffocating darkness of the deep sea, minimalist composition emphasizing the vast emptiness of this underwater cemetery.",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 1149465501,
+      "created_at": "2026-03-29T20:54:49.095441+08:00"
+    },
+    {
       "id": "20260329_194935",
       "filename": "images/artwork_20260329_194935.jpg",
       "topic": "space exploration and the cosmos",
