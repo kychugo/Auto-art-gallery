@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260329_162636",
+      "filename": "images/artwork_20260329_162636.jpg",
+      "topic": "traditional vs modern culture clash in Asia",
+      "prompt": "A surrealist dreamscape unfolds where ancient pagodas, rendered in ethereal neon blues and purples, are juxtaposed with hyper-modern skyscrapers that pierce a stormy, overcast sky crackling with vibrant, electric pink and yellow lightning. Ornate traditional lanterns float alongside holographic advertisements, casting an otherworldly glow on a desolate, rain-slicked street, evoking a mysterious and deeply ethereal atmosphere. This visual symphony of clashing aesthetics captures the intricate dance between Asia's rich heritage and its relentless march into the future.",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 921356414,
+      "created_at": "2026-03-29T16:26:36.888882+08:00"
+    },
+    {
       "id": "20260329_160222",
       "filename": "images/artwork_20260329_160222.jpg",
       "topic": "cultural diversity and global harmony",
