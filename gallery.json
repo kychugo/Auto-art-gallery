@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260330_042232",
+      "filename": "images/artwork_20260330_042232.jpg",
+      "topic": "economic inequality and social justice",
+      "prompt": "A dramatic watercolor painting depicts stark economic inequality through a dynamic, intense scene where figures representing the oppressed are illuminated by a vibrant, ethereal bioluminescent glow, contrasted against shadowy, oppressive structures bathed in chaotic neon colors. The lighting casts long, dramatic shadows, emphasizing the struggle for social justice amidst a palette of electric blues, fuchsias, and acid greens that pulsate with raw energy. This visually stunning composition captures the raw emotion and urgent call for change in a highly detailed, award-winning style.",
+      "text_model": "gemini-search",
+      "image_model": "klein",
+      "seed": 315497440,
+      "created_at": "2026-03-30T04:22:32.602898+08:00"
+    },
+    {
       "id": "20260329_232819",
       "filename": "images/artwork_20260329_232819.jpg",
       "topic": "music and the evolution of sound",
