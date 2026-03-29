@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260329_102649",
+      "filename": "images/artwork_20260329_102649.jpg",
+      "topic": "blockchain and decentralized future",
+      "prompt": "A vast abstract expressionist tapestry depicting a decentralized digital universe, where glowing interconnected nodes float like luminescent fireflies across an infinite midnight sky, their ethereal connections forming an ever-expanding web of trust and transparency, rendered in deep cobalt blues and twilight violets with candlelight warm golden accents creating a profoundly peaceful and serene atmosphere that embodies the harmony between human connection and technological evolution.",
+      "text_model": "minimax",
+      "image_model": "flux",
+      "seed": 1366693510,
+      "created_at": "2026-03-29T10:26:49.605359+08:00"
+    },
+    {
       "id": "20260329_075101",
       "filename": "images/artwork_20260329_075101.jpg",
       "topic": "blockchain and decentralized future",
