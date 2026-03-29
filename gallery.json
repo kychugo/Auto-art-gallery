@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260329_215505",
+      "filename": "images/artwork_20260329_215505.jpg",
+      "topic": "ancient traditions meeting the modern world",
+      "prompt": "A serene, abstract expressionist landscape where ancient, weathered stone monoliths, carved with faded, intricate symbols, rise from a terracotta-rich earth, bathed in the warm, golden hour sunlight. Swirls of soft, flowing paint in deep ochres, sienna, and muted greens blend and converge, evoking a sense of timeless peace as subtle, ethereal wisps of modern technology, like glowing circuit board patterns, are woven into the natural formations. The overall mood is one of profound tranquility and harmonious coexistence, capturing a visually stunning, award-winning moment of ancient traditions meeting the modern world.",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 1145512632,
+      "created_at": "2026-03-29T21:55:05.371189+08:00"
+    },
+    {
       "id": "20260329_213127",
       "filename": "images/artwork_20260329_213127.jpg",
       "topic": "global climate crisis and environmental solutions",
