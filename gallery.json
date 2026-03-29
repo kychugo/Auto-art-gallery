@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260329_213127",
+      "filename": "images/artwork_20260329_213127.jpg",
+      "topic": "global climate crisis and environmental solutions",
+      "prompt": "In an anime-inspired vista bathed in golden hour sunlight, a serene valley transitions from a ravaged, storm-battered wasteland of cracked earth and wilted forests—symbolizing the global climate crisis—to a thriving paradise where iridescent holographic rivers flow with purifying energy, solar-powered windmills shimmer in pastel blues and violets, and diverse communities plant glowing seedlings that bloom into lush canopies, evoking peaceful hope and renewal. Holographic iridescent colors dance across the scene in shifting pearlescent sheens of teal, magenta, and gold, with soft lens flares and ethereal particle effects highlighting verdant reforestation efforts, innovative clean energy tech, and harmonious wildlife returning in detailed, award-winning intricacy. Delicate anime linework blends hyper-realistic environmental details with stylized serenity, core shadows adding depth to every leaf and ripple under the warm, horizon-kissed glow.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 1752001688,
+      "created_at": "2026-03-29T21:31:27.120684+08:00"
+    },
+    {
       "id": "20260329_205449",
       "filename": "images/artwork_20260329_205449.jpg",
       "topic": "ocean conservation and marine life",
