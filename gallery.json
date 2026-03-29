@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260329_170500",
+      "filename": "images/artwork_20260329_170500.jpg",
+      "topic": "health and medicine breakthroughs",
+      "prompt": "A monumental surrealist landscape unfolds under a warm golden hour sun, where abstract, monumental forms representing cellular structures and DNA helixes rise like ancient monoliths from a dreamlike terrain. Swirling pastel hues of lavender, peach, and mint green blend seamlessly in the sky and across the undulating ground, creating an ethereal atmosphere. Within this powerful and serene vista, ethereal beams of light pierce through, illuminating intricate, glowing pathways that symbolize the flow of medical knowledge and the boundless potential of human healing.",
+      "text_model": "gemini-search",
+      "image_model": "klein",
+      "seed": 520327369,
+      "created_at": "2026-03-29T17:05:00.557558+08:00"
+    },
+    {
       "id": "20260329_162636",
       "filename": "images/artwork_20260329_162636.jpg",
       "topic": "traditional vs modern culture clash in Asia",
