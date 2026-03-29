@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260329_134137",
+      "filename": "images/artwork_20260329_134137.jpg",
+      "topic": "Hong Kong city life and culture",
+      "prompt": "A lone figure walks through the empty, rain-slicked streets of Hong Kong's Mong Kok district as moonlight filters through towering bamboo scaffolding, casting long emerald shadows across wet pavement and neon signs glowing deep forest green, captured in loose, expressive brushstrokes of impressionist style with a melancholic, dreamlike atmosphere where ancient tradition meets urban isolation.",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 2067905241,
+      "created_at": "2026-03-29T13:41:37.239272+08:00"
+    },
+    {
       "id": "20260329_132509",
       "filename": "images/artwork_20260329_132509.jpg",
       "topic": "renewable energy and sustainable living",
