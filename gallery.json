@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260329_144203",
+      "filename": "images/artwork_20260329_144203.jpg",
+      "topic": "blockchain and decentralized future",
+      "prompt": "First, the user wants me to create an image generation prompt about \"blockchain and decentralized future.\" I need to incorporate specific elements: Baroque art style, peaceful and serene mood, candlelight ambiance, and a color palette of earth tones and terracotta.\n\nThe prompt must be unique, detailed, and visually stunning. It should be 2-4 sentences long, written exclusively in English, and I should respond with only the prompt itself—no explanations or extra text.\n\nI need to brainstorm how to blend blockchain and decentralized future with Baroque style. Baroque art is known for its drama, richness, and ornate details, but the mood here is peaceful and serene, which might contrast with typical Baroque drama. I'll adapt by focusing on the serene aspects.\n\nCandlelight ambiance suggests warm, soft lighting, which fits with earth tones and terracotta. Earth tones include browns, greens, and tans, while terracotta is a reddish-orange clay color. This palette should create a cozy, natural feel.\n\nTo represent blockchain and decentralized future, I can use visual metaphors. For blockchain, think of interconnected nodes, chains, or digital networks. For decentralized future, it might imply community, equality, or distributed systems. I can symbolize these with elements like glowing chains, ethereal connections, or harmonious structures.\n\nCombine all this into a vivid prompt. Start by setting the scene in Baroque style, then describe the elements representing blockchain and decentralization, ensuring the mood is peaceful and serene with candlelight and the specified colors.\n\nStructure the prompt into 2-4 sentences. Make it descriptive and award-winning.\n\nPossible prompt: In a Baroque-inspired scene, serene candlelight illuminates a decentralized network of interconnected terracotta nodes, glowing with earth tones and ethereal connections, symbolizing a peaceful blockchain future.\n\nRefine it to be more detailed and stunning.\n\nFinal prompt idea: A Baroque composition depicting a serene, decentralized future where intricate blockchain networks are visualized as glowing terracotta chains and nodes",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 1601805892,
+      "created_at": "2026-03-29T14:42:03.843919+08:00"
+    },
+    {
       "id": "20260329_140908",
       "filename": "images/artwork_20260329_140908.jpg",
       "topic": "cultural diversity and global harmony",
