@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260329_124152",
+      "filename": "images/artwork_20260329_124152.jpg",
+      "topic": "renewable energy and sustainable living",
+      "prompt": "A silhouetted figure stands atop a wind turbine at sunset, arms outstretched toward the sky as emerald and deep forest green light bathes the landscape below, where thriving solar farms and peaceful sustainable villages nestle among ancient forests, the noir composition blending dramatic shadows with hopeful golden hour rays that signal a brighter future for humanity living in harmony with nature.",
+      "text_model": "minimax",
+      "image_model": "flux",
+      "seed": 1208049277,
+      "created_at": "2026-03-29T12:41:52.884988+08:00"
+    },
+    {
       "id": "20260329_121624",
       "filename": "images/artwork_20260329_121624.jpg",
       "topic": "sports and human physical achievement",
