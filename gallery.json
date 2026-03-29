@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260329_230001",
+      "filename": "images/artwork_20260329_230001.jpg",
+      "topic": "economic inequality and social justice",
+      "prompt": "A vibrant pop art composition depicting interconnected hands reaching across a divided landscape, bridging the gap between wealth and poverty through collaborative action, rendered in soft pastels of rose gold, lavender, mint green, and cream with bold graphic outlines reminiscent of Warhol's iconic style. Bioluminescent accents trace the contours of coins, buildings, and symbolic imagery of opportunity—education, housing, voting rights—glowing softly against the composition's heart to symbolize systemic change and equity. The overall mood radiates hope and possibility, with figures of diverse backgrounds unified in purpose, their forms simplified into clean, bold shapes characteristic of classic pop art, while intricate layered patterns and repeated motifs build momentum toward an inclusive, radiant future. Sharp contrasts between shadow and luminous detail create visual dynamism, with the bioluminescent elements forming a pathway of light that guides the viewer's eye toward a horizon where justice and equality converge in harmonious, uplifting unity.",
+      "text_model": "perplexity-fast",
+      "image_model": "grok-imagine",
+      "seed": 1083119771,
+      "created_at": "2026-03-29T23:00:01.650678+08:00"
+    },
+    {
       "id": "20260329_223605",
       "filename": "images/artwork_20260329_223605.jpg",
       "topic": "cybersecurity and privacy in the digital world",
