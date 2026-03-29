@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260329_132509",
+      "filename": "images/artwork_20260329_132509.jpg",
+      "topic": "renewable energy and sustainable living",
+      "prompt": "First, the task is to create an image generation prompt about renewable energy and sustainable living. The prompt must incorporate specific elements: art style (digital art), mood (intimate and human), lighting (neon city glow), and color palette (monochromatic black and white).\n\nThe prompt should be vivid, detailed, and 2-4 sentences long. It must be written exclusively in English, with no explanations, titles, or markdown. Just the prompt itself.\n\nKey elements to include:\n- Renewable energy and sustainable living: Think about symbols like solar panels, wind turbines, green buildings, etc., but integrated in a human, intimate way.\n- Art style: Digital art – so the prompt should specify this.\n- Mood: Intimate and human – focus on personal, close-up scenes, perhaps showing people interacting with sustainable elements in a relatable way.\n- Lighting: Neon city glow – this suggests urban nighttime scenes with neon lights, but since it's monochromatic black and white, the glow should be described in terms of contrast and luminance.\n- Color palette: Monochromatic black and white – so the entire image is in shades of black, white, and gray. This means no color, but emphasis on light and shadow.\n\nStructure the prompt to paint a clear mental picture. Make it award-winning and visually stunning, so use descriptive language.\n\nBrainstorm ideas: Combine renewable energy with an urban setting. Perhaps a scene where neon lights illuminate solar panels or wind turbines in a city. Since the mood is intimate, focus on a small-scale, human element – like a person on a rooftop garden with solar panels, bathed in neon glow.\n\nEnsure the prompt is 2-4 sentences. Start with a broad description, then add details.\n\nDraft a prompt:\n\"In a monochromatic black and white digital art piece, an intimate scene shows a young woman tending to a rooftop garden under the soft glow of neon city lights, with sleek solar panels seamlessly integrated into the urban architecture. The neon",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 1643809475,
+      "created_at": "2026-03-29T13:25:09.388041+08:00"
+    },
+    {
       "id": "20260329_131807",
       "filename": "images/artwork_20260329_131807.jpg",
       "topic": "renewable energy and sustainable living",
