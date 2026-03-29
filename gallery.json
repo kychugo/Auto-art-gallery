@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260329_140908",
+      "filename": "images/artwork_20260329_140908.jpg",
+      "topic": "cultural diversity and global harmony",
+      "prompt": "In a lush enchanted forest bathed in dappled sunlight filtering through iridescent leaves, people from every corner of the globe—adorned in vibrant traditional attire from African tribal prints to Asian silk robes, Indigenous feathers, and Middle Eastern veils—hold hands in a joyous circle dance around a glowing central tree of life, their faces alight with unity and shared laughter. Holographic iridescent colors shift dynamically across their skin, clothing, and surroundings, blending emerald greens, sapphire blues, fiery golds, and amethyst purples in a mesmerizing spectrum that symbolizes cultural fusion. Rendered in stunning concept art style, this vibrant, energetic scene pulses with award-winning detail, from intricate beadwork and embroidered patterns to dew-kissed ferns and floating musical notes, evoking boundless global harmony.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 1347576560,
+      "created_at": "2026-03-29T14:09:08.335090+08:00"
+    },
+    {
       "id": "20260329_135714",
       "filename": "images/artwork_20260329_135714.jpg",
       "topic": "animals and nature conservation",
