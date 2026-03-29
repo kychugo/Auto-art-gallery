@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260329_131807",
+      "filename": "images/artwork_20260329_131807.jpg",
+      "topic": "renewable energy and sustainable living",
+      "prompt": "A minimalist scene under a radiant full moon casts dramatic moonlight and deep shadows across sleek black silhouettes of wind turbines, solar panels, and a compact eco-home with vertical gardens, evoking vibrant, energetic sustainable living through high-contrast black and gold palette. Precise geometric forms and hard-edged shapes dominate the composition, with glowing golden edges highlighting flowing energy lines from renewable sources into a unified grid, amplified by negative space for serene harmony. Award-winning digital art, stunningly detailed in simplicity, viewer-focused perception, and dynamic nocturnal glow.",
+      "text_model": "perplexity-fast",
+      "image_model": "grok-imagine",
+      "seed": 1276665806,
+      "created_at": "2026-03-29T13:18:07.565347+08:00"
+    },
+    {
       "id": "20260329_125933",
       "filename": "images/artwork_20260329_125933.jpg",
       "topic": "blockchain and decentralized future",
