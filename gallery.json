@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260330_054020",
+      "filename": "images/artwork_20260330_054020.jpg",
+      "topic": "renewable energy and sustainable living",
+      "prompt": "In a dark, dystopian baroque metropolis, colossal wind turbines twist like ornate gargoyles against a perpetually twilight sky, their blades casting an eerie, rhythmic shadow across a dense cityscape illuminated by the stark, vibrant neon glow of towering skyscrapers. Rivers of electric blue and toxic green energy pulse through intricate, filigreed conduits that snake around the monolithic structures, reflecting a world where technology, though dazzlingly vibrant, has consumed nature in a symphony of artificial light and overwhelming architectural grandeur. The scene is a hyper-detailed, award-winning masterpiece, evoking a sense of awe and unease through its dramatic chiaroscuro and the oppressive, yet undeniably beautiful, spectacle of sustainable energy's grim triumph.",
+      "text_model": "gemini-fast",
+      "image_model": "klein",
+      "seed": 1810408536,
+      "created_at": "2026-03-30T05:40:20.498019+08:00"
+    },
+    {
       "id": "20260330_045857",
       "filename": "images/artwork_20260330_045857.jpg",
       "topic": "social media culture and human connection",
