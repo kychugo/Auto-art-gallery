@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260329_193116",
+      "filename": "images/artwork_20260329_193116.jpg",
+      "topic": "ancient traditions meeting the modern world",
+      "prompt": "A concept art piece depicting an ancient artisan, perhaps a scribe or metalsmith, hunched over a glowing, intricate contraption that pulses with a soft, bioluminescent light. The scene is bathed in warm amber and orange tones, casting long shadows and highlighting the delicate details of both the old tools and the futuristic machinery. The mood is intimate and human, focusing on the focused expression of the artisan and the tangible connection between forgotten techniques and cutting-edge innovation.",
+      "text_model": "gemini-search",
+      "image_model": "grok-imagine",
+      "seed": 368243209,
+      "created_at": "2026-03-29T19:31:16.390136+08:00"
+    },
+    {
       "id": "20260329_185656",
       "filename": "images/artwork_20260329_185656.jpg",
       "topic": "biotechnology and genetic engineering",
