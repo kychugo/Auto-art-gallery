@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260329_183633",
+      "filename": "images/artwork_20260329_183633.jpg",
+      "topic": "quantum computing and the future",
+      "prompt": "A whimsical dreamlike scene of a luminous quantum processor floating in ethereal space, its crystalline lattice structure glowing with soft pastel violet and mint ribbons of light that spiral around impossible geometric shapes hovering in midair, captured in dramatic studio lighting with deep shadows contrasting luminous glow, cinematic composition, hyperdetailed render, award-winning photography, soft diffuse bokeh, Dreamy color palette of pale rose, lavender, powder blue, and cream.",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 2104512220,
+      "created_at": "2026-03-29T18:36:33.063023+08:00"
+    },
+    {
       "id": "20260329_180209",
       "filename": "images/artwork_20260329_180209.jpg",
       "topic": "urban architecture of the future",
