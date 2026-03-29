@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260330_065521",
+      "filename": "images/artwork_20260330_065521.jpg",
+      "topic": "human migration and global nomadism",
+      "prompt": "A noir-inspired scene of nomadic travelers trekking through a vast canyon at dusk, their silhouettes vibrant and energetic against an immense terracotta landscape, illuminated by the bioluminescent glow emanating from their backpacks and portable shelters, casting long shadows and bathing the earth-toned rocks in hues of amber, ochre, and deep crimson.",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 1266187615,
+      "created_at": "2026-03-30T06:55:21.182188+08:00"
+    },
+    {
       "id": "20260330_061748",
       "filename": "images/artwork_20260330_061748.jpg",
       "topic": "quantum computing and the future",
