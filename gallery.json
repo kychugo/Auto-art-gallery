@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260329_194935",
+      "filename": "images/artwork_20260329_194935.jpg",
+      "topic": "space exploration and the cosmos",
+      "prompt": "A whimsical watercolor painting, bathed in ethereal moonlight and deep, elongated shadows, depicts a lone astronaut gently drifting through a nebula painted in warm amber and fiery orange tones. Luminescent cosmic dust swirls around them like dreamlike glitter, with distant, soft-focus planets peeking through the hazy celestial tapestry, creating an award-winning, highly detailed scene that evokes a sense of wonder and gentle exploration.",
+      "text_model": "gemini-fast",
+      "image_model": "grok-imagine",
+      "seed": 1912935296,
+      "created_at": "2026-03-29T19:49:35.973336+08:00"
+    },
+    {
       "id": "20260329_193116",
       "filename": "images/artwork_20260329_193116.jpg",
       "topic": "ancient traditions meeting the modern world",
