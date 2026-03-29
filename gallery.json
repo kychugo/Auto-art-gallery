@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260329_180209",
+      "filename": "images/artwork_20260329_180209.jpg",
+      "topic": "urban architecture of the future",
+      "prompt": "Towering, impossibly balanced structures of a surrealist future city pierce a bruised, twilight sky, their organic, melting forms illuminated by the ethereal, shifting greens and purples of an arctic aurora borealis. The mood is profoundly dark and dystopian, with the otherworldly glow casting long, distorted shadows across deserted, rain-slicked streets, and only soft pastel hues of lilac, mint, and rose provide a stark, dreamlike contrast to the oppressive, alien architecture. This award-winning, hyper-detailed image captures a hauntingly beautiful, desolate urban landscape where nature's most spectacular light show clashes with the remnants of a forgotten civilization.",
+      "text_model": "gemini-search",
+      "image_model": "klein",
+      "seed": 644447724,
+      "created_at": "2026-03-29T18:02:09.721717+08:00"
+    },
+    {
       "id": "20260329_172859",
       "filename": "images/artwork_20260329_172859.jpg",
       "topic": "artificial intelligence reshaping society",
