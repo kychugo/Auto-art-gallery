@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260329_121624",
+      "filename": "images/artwork_20260329_121624.jpg",
+      "topic": "sports and human physical achievement",
+      "prompt": "A lone, powerfully built athlete, rendered in a minimalist art style, pushes against an unseen force in a vast, desolate arena. The scene is bathed in a stormy overcast light, casting long, distorted shadows that enhance the dark and dystopian mood. A limited color palette of cool blues and deep purples dominates the composition, highlighting the raw exertion and isolated struggle of human physical achievement against overwhelming odds.",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 2049199496,
+      "created_at": "2026-03-29T12:16:24.743926+08:00"
+    },
+    {
       "id": "20260329_115551",
       "filename": "images/artwork_20260329_115551.jpg",
       "topic": "sports and human physical achievement",
