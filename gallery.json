@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260329_185656",
+      "filename": "images/artwork_20260329_185656.jpg",
+      "topic": "biotechnology and genetic engineering",
+      "prompt": "A chilling concept art depiction of a bio-engineering laboratory in a dark, dystopian future, where stormy overcast light filters through grimy windows onto intricate genetic sequencing machines and discarded vats of viscous fluids. The scene is rendered in a desaturated palette of earth tones and muted terracotta, emphasizing decay and oppressive atmosphere. Mutated organic samples and skeletal remains of failed experiments are subtly incorporated into the foreground, hinting at the horrific consequences of unchecked genetic manipulation.",
+      "text_model": "gemini-search",
+      "image_model": "klein",
+      "seed": 1454360927,
+      "created_at": "2026-03-29T18:56:56.468444+08:00"
+    },
+    {
       "id": "20260329_183633",
       "filename": "images/artwork_20260329_183633.jpg",
       "topic": "quantum computing and the future",
