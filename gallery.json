@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260329_145129",
+      "filename": "images/artwork_20260329_145129.jpg",
+      "topic": "Hong Kong city life and culture",
+      "prompt": "A Hong Kong street scene rendered in a noir art style, bathed in the ethereal glow of the arctic aurora borealis, casting long, dancing shadows and illuminating neon signs with a warm amber and orange palette. Whimsical figures, indistinct in the dreamlike haze, navigate overflowing market stalls and slick, rain-kissed pavements, creating a mesmerizing tapestry of urban magic that feels both familiar and utterly surreal. The overall mood is one of captivating mystery and enchanting luminescence, a fleeting moment captured in a vibrant, dreamlike fever dream of a bustling metropolis under an impossibly colored sky.",
+      "text_model": "gemini-fast",
+      "image_model": "grok-imagine",
+      "seed": 1930092965,
+      "created_at": "2026-03-29T14:51:29.872750+08:00"
+    },
+    {
       "id": "20260329_144203",
       "filename": "images/artwork_20260329_144203.jpg",
       "topic": "blockchain and decentralized future",
