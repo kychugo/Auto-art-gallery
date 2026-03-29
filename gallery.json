@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260329_155146",
+      "filename": "images/artwork_20260329_155146.jpg",
+      "topic": "ancient traditions meeting the modern world",
+      "prompt": "An ancient, dimly lit ceremonial chamber, rendered in the dramatic, intense style of Impressionism, where figures in traditional, deep forest green robes perform a ritual illuminated solely by the flickering glow of countless candles. Cascading emerald light spills from stained-glass windows, catching the ephemeral dance of smoke and casting long, dancing shadows that heighten the scene's dramatic tension and mystery. This juxtaposition of solemn, ancient tradition against the dynamic, fleeting light of candles creates a visually stunning and emotionally resonant tableau.",
+      "text_model": "gemini-search",
+      "image_model": "klein",
+      "seed": 1033674084,
+      "created_at": "2026-03-29T15:51:46.498113+08:00"
+    },
+    {
       "id": "20260329_153446",
       "filename": "images/artwork_20260329_153446.jpg",
       "topic": "social media culture and human connection",
