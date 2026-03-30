@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260331_055155",
+      "filename": "images/artwork_20260331_055155.jpg",
+      "topic": "Hong Kong protest art and resilience",
+      "prompt": "A solitary figure stands amid rain-slicked streets of Hong Kong, hands raised in quiet defiance before a massive crimson mural of a phoenix rising from flames, the bird's wings extending across a torn wall as dark silhouettes of protesters emerge from shadows like ghosts, while neon signs in bleeding reds and electric pinks reflect in puddles, casting an ethereal glow over the scene in noir cinematic style with dramatic chiaroscuro lighting, ultra-detailed textures of wet concrete and peeling paint, deep reds and burgundy tones dominating the palette, conveying mysterious resilience and the unbreakable spirit of a city fighting for its identity, award-winning composition with hyper-realistic details and cinematic depth of field.",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 2139536917,
+      "created_at": "2026-03-31T05:51:55.048712+08:00"
+    },
+    {
       "id": "20260331_051008",
       "filename": "images/artwork_20260331_051008.jpg",
       "topic": "street food culture in Hong Kong",
