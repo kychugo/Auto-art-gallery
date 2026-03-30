@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260330_200819",
+      "filename": "images/artwork_20260330_200819.jpg",
+      "topic": "mental health awareness in the digital age",
+      "prompt": "A vibrant pop art masterpiece in holographic iridescent colors, depicting a diverse young person surrounded by swirling smartphone screens and social media icons exploding with speech bubbles of mental health affirmations like \"Break the Silence\" and \"You Are Not Alone,\" their face transitioning from fragmented digital glitches to empowered unity under dramatic studio lighting with bold chiaroscuro shadows and neon rim glows. Energetic motifs of shattered screens reforming into blooming flowers and interconnected neural networks pulse with life, symbolizing resilience against digital-age anxiety, in hyper-detailed Andy Warhol-inspired style with crisp outlines, layered halftone dots, and radiant prismatic shifts from electric blues to fiery pinks. Award-winning composition with dynamic asymmetry, high contrast, and immersive depth, evoking hope and urgency in the digital mental health revolution.",
+      "text_model": "perplexity-fast",
+      "image_model": "grok-imagine",
+      "seed": 37357057,
+      "created_at": "2026-03-30T20:08:19.804850+08:00"
+    },
+    {
       "id": "20260330_195453",
       "filename": "images/artwork_20260330_195453.jpg",
       "topic": "news headlines of tomorrow",
