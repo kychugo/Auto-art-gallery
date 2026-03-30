@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260331_043720",
+      "filename": "images/artwork_20260331_043720.jpg",
+      "topic": "quantum computing and the future",
+      "prompt": "A monumental digital artwork depicting a vast quantum computer processor floating in an infinite void, its crystalline circuits glowing with ethereal energy while massive shadows of abstract data streams loom behind it, illuminated solely by pale moonlight streaming through an unseen opening above, creating a dramatic monochromatic black and white scene that conveys the awe-inspiring power and mysterious future potential of quantum computing.",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 1249918422,
+      "created_at": "2026-03-31T04:37:20.745482+08:00"
+    },
+    {
       "id": "20260331_000626",
       "filename": "images/artwork_20260331_000626.jpg",
       "topic": "Hong Kong protest art and resilience",
