@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260330_151400",
+      "filename": "images/artwork_20260330_151400.jpg",
+      "topic": "revolution in education through technology",
+      "prompt": "In an anime-inspired dystopian world, a massive holographic classroom tower pierces a crumbling megacity skyline at golden hour, where desperate students with cybernetic implants and glowing neural jacks desperately interface with towering AI overlords projecting revolutionary algorithms into their minds, their faces etched with a mix of awe and existential dread. Warm amber and orange sunlight bathes the scene in a deceptive glow, casting long shadows over rain-slicked streets filled with discarded textbooks and flickering neon signs proclaiming \"Education Evolved,\" while augmented rebels smash virtual barriers with data hammers, symbolizing technology's tyrannical grip on knowledge. Highly detailed, award-winning digital art with intricate linework, dramatic chiaroscuro lighting, and a brooding atmosphere of techno-oppression.",
+      "text_model": "perplexity-fast",
+      "image_model": "grok-imagine",
+      "seed": 373088874,
+      "created_at": "2026-03-30T15:14:00.705464+08:00"
+    },
+    {
       "id": "20260330_150727",
       "filename": "images/artwork_20260330_150727.jpg",
       "topic": "music and the evolution of sound",
