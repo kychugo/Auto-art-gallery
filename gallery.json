@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260330_222744",
+      "filename": "images/artwork_20260330_222744.jpg",
+      "topic": "biotechnology and genetic engineering",
+      "prompt": "An abstract expressionist explosion of organic forms, rendered in rich earth tones and terracotta, swirls around a central nexus of glowing, interwoven strands representing genetic code; this organic genesis is bathed in the ethereal neon city glow, casting long, hopeful shadows and evoking a mood of vibrant, uplifting renewal where the dawn of biotechnology promises a flourishing future.",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 898411863,
+      "created_at": "2026-03-30T22:27:44.874422+08:00"
+    },
+    {
       "id": "20260330_220527",
       "filename": "images/artwork_20260330_220527.jpg",
       "topic": "revolution in education through technology",
