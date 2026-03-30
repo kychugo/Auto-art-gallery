@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260330_133756",
+      "filename": "images/artwork_20260330_133756.jpg",
+      "topic": "news headlines of tomorrow",
+      "prompt": "Photorealistic, award-winning imagery captures a desolate cityscape under a stormy, overcast sky, the only illumination a ghastly crimson light bleeding from colossal, fragmented holographic news headlines that loom over crumbling skyscrapers, each headline projecting images of utter despair and societal collapse in a chilling deep red hue. The scene is dominated by a sense of oppressive finality, with rain-slicked streets reflecting the apocalyptic glow, amplifying the dark, dystopian mood.",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 1290220237,
+      "created_at": "2026-03-30T13:37:56.669719+08:00"
+    },
+    {
       "id": "20260330_133033",
       "filename": "images/artwork_20260330_133033.jpg",
       "topic": "space exploration and the cosmos",
