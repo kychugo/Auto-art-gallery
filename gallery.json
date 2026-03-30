@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260331_062155",
+      "filename": "images/artwork_20260331_062155.jpg",
+      "topic": "cybersecurity and privacy in the digital world",
+      "prompt": "A vibrant pop art scene bathed in dappled emerald and deep forest green light, where abstract, circuit-like vines intertwine with stylized, glowing digital locks and shields, projecting an atmosphere of hopeful resilience and empowerment. Sunlight filters through an ethereal canopy, casting playful patterns on a futuristic, organic landscape symbolizing secure and private digital existence, rendered with bold lines and a clean, optimistic aesthetic.",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 596279457,
+      "created_at": "2026-03-31T06:21:55.725738+08:00"
+    },
+    {
       "id": "20260331_060508",
       "filename": "images/artwork_20260331_060508.jpg",
       "topic": "traditional vs modern culture clash in Asia",
