@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260330_211747",
+      "filename": "images/artwork_20260330_211747.jpg",
+      "topic": "cybersecurity and privacy in the digital world",
+      "prompt": "An ethereal oil painting of a solitary, cloaked figure standing at the edge of a digital abyss, their silhouette outlined by the enigmatic bioluminescent glow of interwoven code streams. Deep forest greens and vibrant emerald hues dominate the scene, suggesting a mysterious, untouched digital realm where privacy is a sacred, yet vulnerable, frontier, rendered with meticulous brushwork and a dreamlike, otherworldly atmosphere. The lighting casts long, dancing shadows, hinting at unseen threats and unseen guardians within this hauntingly beautiful, secure digital sanctuary.",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 1800398381,
+      "created_at": "2026-03-30T21:17:47.763920+08:00"
+    },
+    {
       "id": "20260330_200819",
       "filename": "images/artwork_20260330_200819.jpg",
       "topic": "mental health awareness in the digital age",
