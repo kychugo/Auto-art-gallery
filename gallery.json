@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260330_195453",
+      "filename": "images/artwork_20260330_195453.jpg",
+      "topic": "news headlines of tomorrow",
+      "prompt": "A cinematic scene of crumpled, aged newspapers scattered across a weathered wooden table in a dimly lit chamber, their bold headlines screaming tomorrow's cataclysmic events like \"GLOBAL EMPIRES CRUMBLE\" and \"AI UPRISING DAWNS\" in massive, ink-smudged serif fonts, surrounded by subheadings detailing apocalyptic breakthroughs and shadowy conspiracies. Candlelight flickers dramatically from wrought-iron holders, casting intense, dancing shadows that carve deep contrasts across the textured paper and emboss edges with golden highlights, enveloped in a rich earth tones and terracotta color palette of burnt siennas, deep umbers, and muted ochres. Award-winning composition with hyper-detailed newsprint fibers, subtle creases, and volumetric god rays piercing the haze, evoking intense suspense in a 2.35:1 widescreen frame.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 193679870,
+      "created_at": "2026-03-30T19:54:53.823751+08:00"
+    },
+    {
       "id": "20260330_193105",
       "filename": "images/artwork_20260330_193105.jpg",
       "topic": "ancient traditions meeting the modern world",
