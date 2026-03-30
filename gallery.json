@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260330_114605",
+      "filename": "images/artwork_20260330_114605.jpg",
+      "topic": "traditional vs modern culture clash in Asia",
+      "prompt": "A watercolor scene under cold moonlight, where a grand ancient Asian pagoda with intricate curved roofs and red paper lanterns stands beside a sleek modern glass skyscraper, their silhouettes intertwined in crisp black and white. Wisps of charcoal smoke from a street food stall melt into the clean geometric lines of the skyscraper's facade, and traditional koi fish motifs swim across the surface of glass windows, creating a whimsical, dreamlike clash of shadows and textures.",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 764450368,
+      "created_at": "2026-03-30T11:46:05.971593+08:00"
+    },
+    {
       "id": "20260330_102946",
       "filename": "images/artwork_20260330_102946.jpg",
       "topic": "space exploration and the cosmos",
