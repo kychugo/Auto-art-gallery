@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260330_120944",
+      "filename": "images/artwork_20260330_120944.jpg",
+      "topic": "mental health awareness in the digital age",
+      "prompt": "First, the user wants a single, detailed image generation prompt about mental health awareness in the digital age. I need to incorporate specific elements naturally: art style is photorealistic, mood is vibrant and energetic, lighting is dramatic studio lighting, and color palette is high contrast black and gold.\n\nThe prompt should be visually stunning, award-winning, and highly detailed. It must be 2-4 sentences long and paint a clear mental picture. I can only respond with the image prompt itself—no explanations, titles, or markdown. And I must write exclusively in English.\n\nKey theme: mental health awareness in the digital age. This involves concepts like technology, screens, digital interfaces, but also mental well-being. Since the mood is vibrant and energetic, I should avoid dark or depressing tones. Instead, focus on positivity, awareness, and energy.\n\nIncorporate the elements:\n\n- Art style: photorealistic – so the image should look like a real photograph.\n\n- Mood: vibrant and energetic – use dynamic elements, action, or lively scenes.\n\n- Lighting: dramatic studio lighting – think of sharp contrasts, highlights, and shadows, as in a professional photo shoot.\n\n- Color palette: high contrast black and gold – dominant colors should be black and gold with strong contrasts.\n\nVisual elements for mental health in the digital age: could include a person interacting with digital devices, but in a way that promotes awareness. Maybe symbols like brain imagery combined with tech elements, or positive representations of balance.\n\nCraft a prompt that paints a clear picture. Since it's 2-4 sentences, I'll aim for concise but descriptive sentences.\n\nBrainstorm a scene: A person in a studio setting, surrounded by digital elements like holograms or screens, but with golden light representing mental clarity or energy. The person should look empowered, not overwhelmed.\n\nStructure the prompt:\n\nStart with the main subject and setting.\n\nDescribe the lighting and colors.\n\nAdd details about the mood and elements related to mental health and digital age",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 807379511,
+      "created_at": "2026-03-30T12:09:44.034831+08:00"
+    },
+    {
       "id": "20260330_114605",
       "filename": "images/artwork_20260330_114605.jpg",
       "topic": "traditional vs modern culture clash in Asia",
