@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260330_175541",
+      "filename": "images/artwork_20260330_175541.jpg",
+      "topic": "global climate crisis and environmental solutions",
+      "prompt": "In a vibrant **pop art** masterpiece bathed in the ethereal glow of **arctic aurora borealis** lighting, oversized icons of environmental renewal—towering wind turbines blooming with pastel leaves, solar panels morphing into lush green fields, and diverse hands planting tree saplings amid receding icy glaciers—float triumphantly against a fractured earth cracking under climate strain, all rendered in **soft pastel hues** of mint green, lavender, blush pink, and sky blue for a **hopeful and uplifting** mood. Bold black outlines and comic-book dot patterns amplify the visual drama, with shimmering auroral ribbons weaving through the sky like ribbons of promise, symbolizing humanity's innovative solutions triumphing over the global climate crisis. This award-winning, hyper-detailed composition pulses with optimistic energy, inviting viewers to envision a restored planet teeming with life.",
+      "text_model": "perplexity-fast",
+      "image_model": "grok-imagine",
+      "seed": 1965882174,
+      "created_at": "2026-03-30T17:55:41.745396+08:00"
+    },
+    {
       "id": "20260330_170119",
       "filename": "images/artwork_20260330_170119.jpg",
       "topic": "ancient traditions meeting the modern world",
