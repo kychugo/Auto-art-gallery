@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260330_160924",
+      "filename": "images/artwork_20260330_160924.jpg",
+      "topic": "global climate crisis and environmental solutions",
+      "prompt": "A lone figure with glowing bio-luminescent tree sap tubes threaded through their hands stands in an ancient forest, the dappled sunlight filtering through metallic leaves in stark black and white, as they breathe life into dying vegetation with impossible biotech—a tender, intimate moment of human restoration amid the silence of climate collapse, rendered in high-contrast monochrome with cyberpunk mechanical details woven into bark and root, cinematic depth of field capturing the sacred space between destruction and rebirth.",
+      "text_model": "minimax",
+      "image_model": "flux",
+      "seed": 1300297571,
+      "created_at": "2026-03-30T16:09:24.462437+08:00"
+    },
+    {
       "id": "20260330_151400",
       "filename": "images/artwork_20260330_151400.jpg",
       "topic": "revolution in education through technology",
