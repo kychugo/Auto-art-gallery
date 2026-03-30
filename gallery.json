@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260330_162126",
+      "filename": "images/artwork_20260330_162126.jpg",
+      "topic": "revolution in education through technology",
+      "prompt": "A monumental cyberpunk cityscape emerges from a stormy, overcast sky, its towering, data-stream-laced structures rendered in soft pastel hues that contrast with the dark, turbulent atmosphere. Holographic educational interfaces bloom like digital flora against the imposing architecture, symbolizing a powerful, revolutionary shift in knowledge dissemination. The scene is imbued with a sense of awe and transformation, as light from the ethereal interfaces cuts through the gloom, illuminating the monumental scale of this new era of learning.",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 1225118527,
+      "created_at": "2026-03-30T16:21:26.887777+08:00"
+    },
+    {
       "id": "20260330_160924",
       "filename": "images/artwork_20260330_160924.jpg",
       "topic": "global climate crisis and environmental solutions",
