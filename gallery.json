@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260330_180757",
+      "filename": "images/artwork_20260330_180757.jpg",
+      "topic": "Hong Kong protest art and resilience",
+      "prompt": "In the intimate glow of golden hour sunlight filtering through Hong Kong's towering skyscrapers, a resilient protester clasps a bloodied bauhinia flag and yellow umbrella, their face etched with quiet determination amid a Baroque tapestry of swirling Lennon Wall post-its and intertwined human chains symbolizing unbreakable unity. Earth tones and terracotta hues envelop the scene, with dramatic chiaroscuro lighting casting golden highlights on weathered skin and fabric folds, evoking raw humanity and defiant endurance in hyper-detailed, award-winning Baroque splendor.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 1512979716,
+      "created_at": "2026-03-30T18:07:57.274459+08:00"
+    },
+    {
       "id": "20260330_175541",
       "filename": "images/artwork_20260330_175541.jpg",
       "topic": "global climate crisis and environmental solutions",
