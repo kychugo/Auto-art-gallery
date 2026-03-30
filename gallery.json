@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260330_220527",
+      "filename": "images/artwork_20260330_220527.jpg",
+      "topic": "revolution in education through technology",
+      "prompt": "Surrealist dreamscape where crimson and deep red ink splatters morph into glowing digital streams, swirling around levitating, translucent books that emit soft diffused daylight, symbolizing a vibrant and energetic educational revolution; holographic algorithms interweave with anatomical diagrams, all rendered with hyper-detailed, award-winning clarity.",
+      "text_model": "gemini-fast",
+      "image_model": "grok-imagine",
+      "seed": 854966209,
+      "created_at": "2026-03-30T22:05:27.146004+08:00"
+    },
+    {
       "id": "20260330_211747",
       "filename": "images/artwork_20260330_211747.jpg",
       "topic": "cybersecurity and privacy in the digital world",
