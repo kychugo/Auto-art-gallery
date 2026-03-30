@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260330_230604",
+      "filename": "images/artwork_20260330_230604.jpg",
+      "topic": "mental health awareness in the digital age",
+      "prompt": "Cinematic, dramatic studio lighting casts long shadows across a solitary figure, bathed in the warm amber and orange glow of a multitude of glowing smartphone screens emanating from all directions, creating an intensely claustrophobic yet mesmerizing effect, highlighting the palpable isolation within overwhelming digital connection, award-winning, hyperrealistic.",
+      "text_model": "gemini-fast",
+      "image_model": "grok-imagine",
+      "seed": 679901387,
+      "created_at": "2026-03-30T23:06:04.172316+08:00"
+    },
+    {
       "id": "20260330_224735",
       "filename": "images/artwork_20260330_224735.jpg",
       "topic": "fashion meets technology",
