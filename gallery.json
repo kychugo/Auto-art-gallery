@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260330_141551",
+      "filename": "images/artwork_20260330_141551.jpg",
+      "topic": "urban architecture of the future",
+      "prompt": "Towering, obsidian structures with sharp, angular lines pierce the sky, their monumental forms silhouetted against an ethereal arctic aurora borealis. Intricate, glowing amber and orange energy conduits pulse along the colossal facades, casting a powerful, otherworldly light that reflects in the icy, atmospheric haze. This cinematic vision of future urban architecture evokes a sense of awe-inspiring, untamed power, rendered in hyper-realistic detail.",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 754952132,
+      "created_at": "2026-03-30T14:15:51.880763+08:00"
+    },
+    {
       "id": "20260330_135656",
       "filename": "images/artwork_20260330_135656.jpg",
       "topic": "blockchain and decentralized future",
