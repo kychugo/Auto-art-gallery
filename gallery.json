@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260330_131150",
+      "filename": "images/artwork_20260330_131150.jpg",
+      "topic": "economic inequality and social justice",
+      "prompt": "An anime-inspired cityscape is dramatically split by a chasm, with opulent, towering gold structures on one side casting long, deep shadows over a stark, impoverished district below. Figures in silhouette on the shadowed side gaze upwards with desperate hope, while silhouetted figures on the illuminated side appear detached, their forms sharp against the night. The scene is bathed in an eerie moonlight, highlighting the intense contrast between light and dark, opulence and despair, rendered in a high-contrast black and gold palette to evoke a powerful, dramatic mood.",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 404515923,
+      "created_at": "2026-03-30T13:11:50.803751+08:00"
+    },
+    {
       "id": "20260330_125007",
       "filename": "images/artwork_20260330_125007.jpg",
       "topic": "animals and nature conservation",
