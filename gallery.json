@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260330_184534",
+      "filename": "images/artwork_20260330_184534.jpg",
+      "topic": "traditional vs modern culture clash in Asia",
+      "prompt": "A solitary, ancient pagoda, its intricate wooden details softened by a misty rain, stands silhouetted against a brooding sky, a single vibrant neon kanji character glowing ethereally on a shattered pane of glass in its foreground, all rendered in a minimalist, award-winning style with a cool palette of deep blues and purples under stormy, overcast light, evoking a sense of mysterious, melancholic transition.",
+      "text_model": "gemini-fast",
+      "image_model": "grok-imagine",
+      "seed": 272728848,
+      "created_at": "2026-03-30T18:45:34.338212+08:00"
+    },
+    {
       "id": "20260330_180757",
       "filename": "images/artwork_20260330_180757.jpg",
       "topic": "Hong Kong protest art and resilience",
