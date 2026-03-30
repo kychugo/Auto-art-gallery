@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260330_135656",
+      "filename": "images/artwork_20260330_135656.jpg",
+      "topic": "blockchain and decentralized future",
+      "prompt": "A vibrant pop art portrait of interconnected individuals, their faces illuminated by the ethereal glow of an arctic aurora borealis, conveying an intimate and human sense of community within a decentralized future. The scene is dominated by a striking color palette of crimson and deep red, with subtle hints of electric blue and violet from the aurora, creating a visually stunning and emotionally resonant image that speaks to connection and shared destiny. Award-winning composition, hyper-detailed, 8k resolution.",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 1462393350,
+      "created_at": "2026-03-30T13:56:56.861523+08:00"
+    },
+    {
       "id": "20260330_133756",
       "filename": "images/artwork_20260330_133756.jpg",
       "topic": "news headlines of tomorrow",
