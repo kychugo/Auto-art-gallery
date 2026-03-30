@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260330_142735",
+      "filename": "images/artwork_20260330_142735.jpg",
+      "topic": "biotechnology and genetic engineering",
+      "prompt": "A watercolor painting of a serene, bioluminescent laboratory nestled within a tranquil, aurora-lit arctic landscape, where ethereal soft pastel hues blend seamlessly with the glowing tendrils of the northern lights, and delicate, genetically engineered flora gently unfurl amidst a peaceful, awe-inspiring scene. The lighting emanates from the pulsating aurora borealis, casting a soft, otherworldly glow upon intricate molecular structures and advanced scientific equipment, evoking a sense of wonder and profound calm.",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 1532580239,
+      "created_at": "2026-03-30T14:27:35.486360+08:00"
+    },
+    {
       "id": "20260330_141551",
       "filename": "images/artwork_20260330_141551.jpg",
       "topic": "urban architecture of the future",
