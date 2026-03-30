@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260330_170119",
+      "filename": "images/artwork_20260330_170119.jpg",
+      "topic": "ancient traditions meeting the modern world",
+      "prompt": "A solitary elderly woman in traditional, hand-embroidered attire sits cross-legged on a worn rug, her hands gently cradling a glowing, ethereal orb. She is positioned centrally within a bustling, futuristic cityscape, its towering skyscrapers casting long, sharp shadows infused with the cool blues and purples of omnipresent neon signs reflecting on rain-slicked streets, creating a surrealist juxtaposition that evokes an intimate and human sense of quiet contemplation amidst vibrant chaos. The lighting, a soft, diffused neon city glow, delicately illuminates her weathered face and the intricate details of her clothing, highlighting the profound connection between ancient wisdom and the encroaching modern world.",
+      "text_model": "gemini-fast",
+      "image_model": "grok-imagine",
+      "seed": 1559082830,
+      "created_at": "2026-03-30T17:01:19.469558+08:00"
+    },
+    {
       "id": "20260330_165448",
       "filename": "images/artwork_20260330_165448.jpg",
       "topic": "space exploration and the cosmos",
