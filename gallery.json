@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260331_155236",
+      "filename": "images/artwork_20260331_155236.jpg",
+      "topic": "social media culture and human connection",
+      "prompt": "A solitary figure bathed in the vibrant, pulsating neon glow of a futuristic city, their face obscured by a holographic veil reflecting fragmented social media icons and ephemeral digital connections. The mood is mysteriously ethereal, with streaks of electric blue, magenta, and emerald green illuminating the rain-slicked streets, blurring the lines between the digital and the real in this award-winning digital art piece. Intricate details of glowing data streams intertwine with wisps of digital smoke, emphasizing a sense of profound, yet distant, human connection within the overwhelming urban luminescence.",
+      "text_model": "gemini-fast",
+      "image_model": "grok-imagine",
+      "seed": 1037706303,
+      "created_at": "2026-03-31T15:52:36.595553+08:00"
+    },
+    {
       "id": "20260331_150016",
       "filename": "images/artwork_20260331_150016.jpg",
       "topic": "music and the evolution of sound",
