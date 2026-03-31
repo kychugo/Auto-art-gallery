@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260401_060447",
+      "filename": "images/artwork_20260401_060447.jpg",
+      "topic": "ancient traditions meeting the modern world",
+      "prompt": "An elderly calligrapher, strokes of crimson ink bleeding into the damp canvas of a rain-slicked alleyway, inscribes ancient characters under the melancholic hum of neon signs reflecting in puddles of deep red. The impressionist brushwork captures the fleeting dance between tradition and the city's modern pulse, a moment of quiet contemplation amidst the vibrant, overwhelming glow of the urban night.",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 1032490577,
+      "created_at": "2026-04-01T06:04:47.527631+08:00"
+    },
+    {
       "id": "20260401_054951",
       "filename": "images/artwork_20260401_054951.jpg",
       "topic": "mental health awareness in the digital age",
