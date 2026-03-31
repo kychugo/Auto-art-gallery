@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260331_230457",
+      "filename": "images/artwork_20260331_230457.jpg",
+      "topic": "cultural diversity and global harmony",
+      "prompt": "In an abstract expressionist masterpiece evoking cultural diversity and global harmony, explosive crimson and deep red brushstrokes swirl spontaneously across a vast canvas, merging diverse biomorphic forms—intertwined hands from varied ethnic silhouettes, fragmented global symbols like interlocking henna patterns, Celtic knots, African masks, and Asian mandalas—into a unified field of intimate human connection under dramatic studio lighting that casts sharp chiaroscuro shadows and glowing crimson highlights. The mood is profoundly personal and emotional, with thick impasto layers dripping dynamically to suggest heartfelt embraces transcending borders, rendered in award-winning detail with raw, gestural energy and subtle textural veils that pulse with vitality and shared humanity.",
+      "text_model": "perplexity-fast",
+      "image_model": "grok-imagine",
+      "seed": 875973881,
+      "created_at": "2026-03-31T23:04:58.005940+08:00"
+    },
+    {
       "id": "20260331_224527",
       "filename": "images/artwork_20260331_224527.jpg",
       "topic": "human migration and global nomadism",
