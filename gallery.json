@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260331_185516",
+      "filename": "images/artwork_20260331_185516.jpg",
+      "topic": "space exploration and the cosmos",
+      "prompt": "Cinematic wide shot of an ethereal celestial garden blooming within a nebula, where bioluminescent flora in shades of emerald and deep forest green unfurl delicate petals amidst swirling cosmic dust. The scene is softly illuminated by the warm, flickering glow of distant starlight, creating a whimsical and dreamlike ambiance that feels both ancient and alive. Intricate cosmic patterns weave through the flora, casting delicate, dancing shadows that contribute to the profound sense of wonder and peaceful mystery.",
+      "text_model": "gemini-search",
+      "image_model": "grok-imagine",
+      "seed": 1500346671,
+      "created_at": "2026-03-31T18:55:16.577905+08:00"
+    },
+    {
       "id": "20260331_183507",
       "filename": "images/artwork_20260331_183507.jpg",
       "topic": "ancient traditions meeting the modern world",
