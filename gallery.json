@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260331_200453",
+      "filename": "images/artwork_20260331_200453.jpg",
+      "topic": "street food culture in Hong Kong",
+      "prompt": "A powerful, monumental digital art composition capturing the sacred energy of Hong Kong street food culture, where ancient woka stalls and steaming bamboo baskets emerge from darkness like monuments to culinary devotion, vendors with weathered hands performing fluid tai chi-like movements as they toss w noodles and fold dumplings, dramatic studio lighting carving faces from shadow into stark relief against pure black, the entire scene rendered in monochromatic black and white with deep velvety shadows and blinding white steam creating a chiaroscuro masterwork that transforms humble street food into monumental temple ritual.",
+      "text_model": "minimax",
+      "image_model": "klein",
+      "seed": 4314973,
+      "created_at": "2026-03-31T20:04:53.268106+08:00"
+    },
+    {
       "id": "20260331_195153",
       "filename": "images/artwork_20260331_195153.jpg",
       "topic": "animals and nature conservation",
