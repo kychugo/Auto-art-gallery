@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260401_000340",
+      "filename": "images/artwork_20260401_000340.jpg",
+      "topic": "blockchain and decentralized future",
+      "prompt": "In a serene cyberpunk cityscape, towering structures of earth-toned terracotta rise organically, interwoven with networks of glowing bioluminescent flora that cast a gentle, peaceful light. This futuristic utopia, rendered in a detailed, painterly style, features clean, flowing lines and a soft, ambient glow that creates a tranquil atmosphere, showcasing a decentralized future built on harmony and natural integration. The scene is bathed in the warm, earthy hues of terracotta and ochre, accented by the cool, ethereal bioluminescence, evoking a sense of calm and sophisticated serenity.",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 1695490638,
+      "created_at": "2026-04-01T00:03:40.402511+08:00"
+    },
+    {
       "id": "20260331_234532",
       "filename": "images/artwork_20260331_234532.jpg",
       "topic": "quantum computing and the future",
