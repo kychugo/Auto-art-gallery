@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260401_075424",
+      "filename": "images/artwork_20260401_075424.jpg",
+      "topic": "human migration and global nomadism",
+      "prompt": "Concept art depicting a solitary figure silhouetted against a sprawling, melancholic metropolis bathed in the soft pastel hues of neon city glow. Dust motes drift in the humid air, illuminated by the ethereal light as the nomad, adorned with worn but intricate traveler's gear, gazes out at a distant, unknown horizon, evoking a profound sense of quiet reflection and the vastness of global journeys. The atmosphere is tinged with a poignant longing, the soft colors and diffused light creating a dreamlike, almost surreal quality to the scene.",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 488853986,
+      "created_at": "2026-04-01T07:54:24.564621+08:00"
+    },
+    {
       "id": "20260401_073029",
       "filename": "images/artwork_20260401_073029.jpg",
       "topic": "economic inequality and social justice",
