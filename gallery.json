@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260401_054951",
+      "filename": "images/artwork_20260401_054951.jpg",
+      "topic": "mental health awareness in the digital age",
+      "prompt": "An oil painting of a fragmented digital self-portrait, where the subject's face is partially obscured by a crumbling smartphone screen, with crimson and deep red data streams pouring out like liquid smoke or falling petals. Soft diffused daylight filters through the cracks, casting dramatic, intense shadows that intertwine with glowing notifications and distorted emojis. The scene is a surreal, emotionally charged landscape where digital vines made of binary code constrict around wilting flowers, symbolizing inner turmoil and connection.",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 218744838,
+      "created_at": "2026-04-01T05:49:51.507547+08:00"
+    },
+    {
       "id": "20260401_050515",
       "filename": "images/artwork_20260401_050515.jpg",
       "topic": "Hong Kong city life and culture",
