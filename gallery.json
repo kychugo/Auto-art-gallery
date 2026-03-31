@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260331_113641",
+      "filename": "images/artwork_20260331_113641.jpg",
+      "topic": "mental health awareness in the digital age",
+      "prompt": "A serene digital art piece depicting a lone figure finding peace amidst a swirling, ethereal representation of the digital world. Dappled forest light filters through abstract, glowing data streams, casting soft shadows on the figure who is calmly meditating. The color palette is dominated by rich emerald and deep forest greens, evoking a sense of tranquility and growth within the overwhelming digital landscape.",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 1579381517,
+      "created_at": "2026-03-31T11:36:41.312073+08:00"
+    },
+    {
       "id": "20260331_102435",
       "filename": "images/artwork_20260331_102435.jpg",
       "topic": "virtual reality and the metaverse",
