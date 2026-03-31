@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260331_132631",
+      "filename": "images/artwork_20260331_132631.jpg",
+      "topic": "fashion meets technology",
+      "prompt": "A high-fashion model, cloaked in an avant-garde gown woven with bioluminescent emerald circuitry that pulses with a soft, internal light, stands against a backdrop of ancient, moss-covered trees bathed in soft, diffused daylight. Her gaze is intense and unfocused, a stark contrast to the sleek, metallic prosthetic arm extending from her shoulder, its joints subtly glowing with the same verdant hue. The mood is dramatic and immersive, with the deep forest green of the environment seamlessly blending into the rich emerald tones of her attire and technology, creating a visually stunning and award-winning composition.",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 1098734672,
+      "created_at": "2026-03-31T13:26:31.540499+08:00"
+    },
+    {
       "id": "20260331_131534",
       "filename": "images/artwork_20260331_131534.jpg",
       "topic": "urban architecture of the future",
