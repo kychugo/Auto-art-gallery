@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260331_125847",
+      "filename": "images/artwork_20260331_125847.jpg",
+      "topic": "news headlines of tomorrow",
+      "prompt": "In an impressionist style, a fleeting moment is captured on a rain-slicked city street bathed in the soft, diffused glow of neon signs, where an intimate scene unfolds between two figures sharing a hushed conversation under a faded umbrella. The color palette consists of soft pastel hues—lavender, rose, mint, and pale peach—intermingling with the muted blues and purples of the twilight sky and reflecting off the wet pavement, evoking a mood of quiet introspection and shared humanity. Loose, visible brushstrokes define the forms, imbuing the scene with a sense of ephemeral beauty and the raw, tender essence of human connection amidst the urban landscape.",
+      "text_model": "gemini-search",
+      "image_model": "grok-imagine",
+      "seed": 1738790158,
+      "created_at": "2026-03-31T12:58:47.763999+08:00"
+    },
+    {
       "id": "20260331_124021",
       "filename": "images/artwork_20260331_124021.jpg",
       "topic": "street food culture in Hong Kong",
