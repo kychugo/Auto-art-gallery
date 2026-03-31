@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260401_065513",
+      "filename": "images/artwork_20260401_065513.jpg",
+      "topic": "Hong Kong city life and culture",
+      "prompt": "A breathtaking anime-inspired aerial view of Hong Kong at twilight, where towering skyscrapers and bustling street markets glow with soft bioluminescent light emanating from neon signs, lanterns, and floating particles in rose, lavender, and mint pastel hues, as animated citizens in stylish clothing stroll along illuminated pedestrian bridges and harbor promenades, the composition radiating hope and warmth with intricate architectural details, delicate light rays piercing through fluffy clouds, and a magical atmosphere that captures the vibrant energy and unity of Hong Kong's diverse culture in a visually stunning, award-winning tableau.",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 346931749,
+      "created_at": "2026-04-01T06:55:13.172117+08:00"
+    },
+    {
       "id": "20260401_062246",
       "filename": "images/artwork_20260401_062246.jpg",
       "topic": "ocean conservation and marine life",
