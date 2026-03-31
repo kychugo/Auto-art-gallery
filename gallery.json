@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260331_160901",
+      "filename": "images/artwork_20260331_160901.jpg",
+      "topic": "virtual reality and the metaverse",
+      "prompt": "A grand, Baroque-inspired metaverse vista unfolds under a stormy, overcast sky, with swirling, emerald and deep forest green clouds casting dramatic shadows. Within this digital landscape, ethereal avatars adorned in ornate, flowing garments composed of light and mist are engaged in hopeful, upward gestures, their forms subtly illuminated by an unseen, uplifting luminescence. The scene is rich with intricate, digital ornamentation reminiscent of Baroque architecture, blending the old world's opulence with the new frontier's limitless potential.",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 1280904708,
+      "created_at": "2026-03-31T16:09:01.866909+08:00"
+    },
+    {
       "id": "20260331_155236",
       "filename": "images/artwork_20260331_155236.jpg",
       "topic": "social media culture and human connection",
