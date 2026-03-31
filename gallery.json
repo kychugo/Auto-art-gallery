@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260331_175629",
+      "filename": "images/artwork_20260331_175629.jpg",
+      "topic": "ocean conservation and marine life",
+      "prompt": "A solitary human diver floats in darkness, her face illuminated by dramatic rim lighting as she gently cradles a wounded sea turtle, deep ocean waves neon cyan and electric pink cutting through the obsidian black water like vibrant streaks of living light, the intimate moment captured in cinematic noir style with high contrast shadows and glowing bioluminescent accents reflecting off her wet suit.",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 1505694954,
+      "created_at": "2026-03-31T17:56:29.528544+08:00"
+    },
+    {
       "id": "20260331_174022",
       "filename": "images/artwork_20260331_174022.jpg",
       "topic": "traditional vs modern culture clash in Asia",
