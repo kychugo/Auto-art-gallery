@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260401_043547",
+      "filename": "images/artwork_20260401_043547.jpg",
+      "topic": "Hong Kong protest art and resilience",
+      "prompt": "A surrealist cityscape of Hong Kong, alive with vibrant energy, where iconic skyscrapers morph into resilient figures crafted from paper lanterns, their forms illuminated by a soft, warm candlelight ambiance. Pastel hues of rose, lavender, and seafoam green dominate the color palette, with swirling motifs of protest symbols subtly woven into the dreamlike architecture, creating an award-winning, highly detailed scene that speaks to enduring spirit.",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 1977949827,
+      "created_at": "2026-04-01T04:35:47.474887+08:00"
+    },
+    {
       "id": "20260401_000340",
       "filename": "images/artwork_20260401_000340.jpg",
       "topic": "blockchain and decentralized future",
