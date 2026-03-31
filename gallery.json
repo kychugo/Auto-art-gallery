@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260401_073029",
+      "filename": "images/artwork_20260401_073029.jpg",
+      "topic": "economic inequality and social justice",
+      "prompt": "In an impressionistic style, create a dystopian scene where shadowy figures representing the working class toil endlessly under harsh, dramatic studio lighting that casts long, distorted shadows, emphasizing their struggle against a backdrop of crumbling terracotta-hued structures. The color palette should be dominated by deep earth tones and ochre, with stark contrasts to highlight the stark divide between opulence and poverty, evoking a somber and oppressive mood.",
+      "text_model": "gemini-search",
+      "image_model": "grok-imagine",
+      "seed": 1233663195,
+      "created_at": "2026-04-01T07:30:29.145896+08:00"
+    },
+    {
       "id": "20260401_065513",
       "filename": "images/artwork_20260401_065513.jpg",
       "topic": "Hong Kong city life and culture",
