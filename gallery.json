@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260331_220545",
+      "filename": "images/artwork_20260331_220545.jpg",
+      "topic": "global climate crisis and environmental solutions",
+      "prompt": "A lone, spectral polar bear, rendered in hyperrealistic digital art, stands silhouetted against a fractured glacial landscape.  Crimson and deep red hues dominate the sky, bleeding into the icy terrain like wounds, illuminated by the ethereal, dancing glow of an arctic aurora borealis that casts long, melancholic shadows. The scene evokes a profound sense of loss and reflection, hinting at the fragility of our planet and the desperate need for environmental salvation.",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 374049853,
+      "created_at": "2026-03-31T22:05:45.846193+08:00"
+    },
+    {
       "id": "20260331_211701",
       "filename": "images/artwork_20260331_211701.jpg",
       "topic": "space exploration and the cosmos",
