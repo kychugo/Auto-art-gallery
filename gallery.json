@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260331_164355",
+      "filename": "images/artwork_20260331_164355.jpg",
+      "topic": "health and medicine breakthroughs",
+      "prompt": "A surreal impressionist vision where towering golden DNA helices rise from black cosmic void, their strands glowing with warm golden hour light as ethereal molecules dance between them like whispers of healing, while beneath this celestial landscape countless tiny golden capsules and glowing syringes float upward in a dreamlike spiral, casting long amber reflections across the darkness—a whimsical celebration of medicine's transformative power rendered in bold brushstrokes of pure black and radiant gold.",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 1067552214,
+      "created_at": "2026-03-31T16:43:55.477094+08:00"
+    },
+    {
       "id": "20260331_163653",
       "filename": "images/artwork_20260331_163653.jpg",
       "topic": "virtual reality and the metaverse",
