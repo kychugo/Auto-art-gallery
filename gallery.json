@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260331_121351",
+      "filename": "images/artwork_20260331_121351.jpg",
+      "topic": "biotechnology and genetic engineering",
+      "prompt": "First, the user wants a detailed image generation prompt about biotechnology and genetic engineering. I need to incorporate specific elements: art style is pop art, mood is vibrant and energetic, lighting is arctic aurora borealis, and color palette is high contrast black and gold.\n\nI must respond with ONLY the image prompt itself—no explanations, no titles, no markdown. Also, write exclusively in English and keep it 2-4 sentences long.\n\nKey points to cover:\n- Topic: biotechnology and genetic engineering. This might involve DNA strands, lab equipment, genetic symbols, or futuristic biological elements.\n- Art style: pop art. So, think bold lines, vibrant colors, comic-book-like elements, and perhaps some repetition or iconic imagery.\n- Mood: vibrant and energetic. This means the scene should feel lively, dynamic, and full of movement.\n- Lighting: arctic aurora borealis. Imagine the flowing, colorful lights of the northern lights, with greens, purples, and blues, but since the color palette is black and gold, I need to adapt. Aurora borealis lighting often has shimmering, ethereal effects.\n- Color palette: high contrast black and gold. So, the dominant colors should be black and gold, with strong contrasts between them. Since aurora borealis typically has multiple colors, I'll focus on incorporating gold into that lighting effect.\n\nI need to make it visually stunning, award-winning, and highly detailed. The prompt should paint a clear mental picture.\n\nStructure the prompt in 2-4 sentences. Start by describing the scene, then incorporate the elements naturally.\n\nBrainstorm ideas:\n- A pop art depiction of DNA helices or genetic sequences.\n- Vibrant and energetic through dynamic composition, like swirling elements or action.\n- Lighting from aurora borealis: perhaps the aurora is illuminating the scene, with shimmering gold lights against a black background.\n- Color palette: black and gold high contrast. So, maybe black background with gold",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 382278476,
+      "created_at": "2026-03-31T12:13:51.463478+08:00"
+    },
+    {
       "id": "20260331_115121",
       "filename": "images/artwork_20260331_115121.jpg",
       "topic": "post-pandemic world transformation",
