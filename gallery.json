@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260331_195153",
+      "filename": "images/artwork_20260331_195153.jpg",
+      "topic": "animals and nature conservation",
+      "prompt": "A photorealistic depiction of a critically endangered snow leopard, perched defiantly on a jagged, moonlit peak, its form sharply defined by dramatic chiaroscuro. Intense, vibrant neon blues and purples streak through the dark, shadowy ravines and illuminate the sparse, windswept flora, creating an atmosphere of urgent, wild beauty. The piercing gaze of the leopard and the stark contrast between the neon luminescence and deep shadows convey a powerful, dramatic mood of nature's resilience against encroaching threats.",
+      "text_model": "gemini-search",
+      "image_model": "klein",
+      "seed": 1748953796,
+      "created_at": "2026-03-31T19:51:53.612260+08:00"
+    },
+    {
       "id": "20260331_191525",
       "filename": "images/artwork_20260331_191525.jpg",
       "topic": "street food culture in Hong Kong",
