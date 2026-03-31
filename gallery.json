@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260331_183507",
+      "filename": "images/artwork_20260331_183507.jpg",
+      "topic": "ancient traditions meeting the modern world",
+      "prompt": "First, the user wants an image generation prompt about \"ancient traditions meeting the modern world.\" I need to incorporate specific elements: art style is cinematic, mood is powerful and monumental, lighting is stormy overcast light, and color palette is cool blues and purples.\n\nI must respond with ONLY the image prompt itself. No explanations, no titles, no markdown. Write exclusively in English. The prompt should be 2-4 sentences long, descriptive, rich in visual detail, and paint a clear mental picture.\n\nKey points to include:\n- Ancient traditions meeting the modern world: Think of contrasting elements, like old rituals or structures in a contemporary setting.\n- Art style: cinematic – so it should feel like a movie scene, with dramatic angles and composition.\n- Mood: powerful and monumental – evoke a sense of grandeur and significance.\n- Lighting: stormy overcast light – implying dark clouds, diffused light, possibly with shadows and highlights.\n- Color palette: cool blues and purples – dominate the scene with these colors.\n\nI need to make it visually stunning, award-winning, and highly detailed. The prompt should be concise but packed with imagery.\n\nStructure the prompt:\n- Start by setting the scene: describe the ancient and modern elements colliding.\n- Incorporate the art style and mood.\n- Add lighting and color details.\n- Ensure it's vivid and detailed.\n\nExample mental picture: Perhaps a ancient ceremony taking place in a futuristic city, or old ruins juxtaposed with skyscrapers.\n\nCraft sentences:\n1. Describe the scene with ancient and modern elements.\n2. Add stylistic elements like cinematic style and mood.\n3. Specify lighting and color palette.\n4. Maybe add more details to enhance the image.\n\nEnsure it's 2-4 sentences. Aim for three sentences for balance.\n\nDraft:\n\"In a cinematic scene, ancient stone monoliths stand defiantly amidst the gleaming glass and steel of a futuristic metropolis, under a stormy overcast",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 61427297,
+      "created_at": "2026-03-31T18:35:07.183039+08:00"
+    },
+    {
       "id": "20260331_175629",
       "filename": "images/artwork_20260331_175629.jpg",
       "topic": "ocean conservation and marine life",
