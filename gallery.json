@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260331_131534",
+      "filename": "images/artwork_20260331_131534.jpg",
+      "topic": "urban architecture of the future",
+      "prompt": "An anime-inspired cityscape of towering, sleek skyscrapers adorned with intricate, golden filigree that catches the stormy overcast light, creating dramatic high-contrast shadows and highlights. Hopeful figures, silhouetted against the dramatic sky, ascend sky-bridges connecting these luminous structures, their forms rendered in a high-contrast black and gold palette, evoking a sense of optimistic progress amidst a brewing storm. The overall mood is one of serene determination and breathtaking future architecture.",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 94083799,
+      "created_at": "2026-03-31T13:15:34.159240+08:00"
+    },
+    {
       "id": "20260331_125847",
       "filename": "images/artwork_20260331_125847.jpg",
       "topic": "news headlines of tomorrow",
