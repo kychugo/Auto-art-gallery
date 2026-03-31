@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260331_224527",
+      "filename": "images/artwork_20260331_224527.jpg",
+      "topic": "human migration and global nomadism",
+      "prompt": "An anime-inspired scene depicting a diverse group of travelers, their silhouetted forms illuminated by a colossal, luminous moon, casting long, gentle shadows across a vast, desert landscape. Warm amber and orange hues dominate the sky, reflecting on their simple belongings and the quiet determination on their faces, conveying a mood of peaceful nomadism and enduring journeys under a serene, starlit sky.",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 35200870,
+      "created_at": "2026-03-31T22:45:27.924606+08:00"
+    },
+    {
       "id": "20260331_222724",
       "filename": "images/artwork_20260331_222724.jpg",
       "topic": "health and medicine breakthroughs",
