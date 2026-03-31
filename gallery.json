@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260331_234532",
+      "filename": "images/artwork_20260331_234532.jpg",
+      "topic": "quantum computing and the future",
+      "prompt": "A vibrant pop art masterpiece depicting the future of quantum computing, where colossal crimson qubits pulse with entangled energy amid stormy overcast skies, their deep red superposition waves exploding into multifaceted cityscapes of holographic processors and neon-lit supercomputers racing towards infinite possibilities. Bold outlines and high-contrast halftone dots amplify the energetic chaos of qubits morphing into futuristic human figures entangled in crimson data streams, illuminated by dramatic flashes of lightning piercing the brooding clouds. Award-winning composition bursts with deep red and crimson palette, evoking triumphant innovation in a hyper-detailed, visually stunning scene of quantum revolution.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 1197501101,
+      "created_at": "2026-03-31T23:45:32.306585+08:00"
+    },
+    {
       "id": "20260331_230457",
       "filename": "images/artwork_20260331_230457.jpg",
       "topic": "cultural diversity and global harmony",
