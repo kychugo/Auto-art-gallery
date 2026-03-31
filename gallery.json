@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260331_134247",
+      "filename": "images/artwork_20260331_134247.jpg",
+      "topic": "cultural diversity and global harmony",
+      "prompt": "A majestic baroque cathedral rises at the center of a serene global marketplace where people of every ethnicity gather in peaceful harmony, their diverse traditional garments flowing together as one, while bioluminescent glowing orbs and lanterns cast an ethereal crimson and deep red illumination across the marble statues, gilded arches, and cascading velvet drapery, creating an atmosphere of sacred unity and profound tranquility.",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 1174289920,
+      "created_at": "2026-03-31T13:42:47.411528+08:00"
+    },
+    {
       "id": "20260331_132631",
       "filename": "images/artwork_20260331_132631.jpg",
       "topic": "fashion meets technology",
