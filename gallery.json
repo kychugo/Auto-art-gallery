@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260331_222724",
+      "filename": "images/artwork_20260331_222724.jpg",
+      "topic": "health and medicine breakthroughs",
+      "prompt": "A vibrant pop art depiction of a groundbreaking medical discovery, rendered with dramatic intensity and a striking composition. Soft diffused daylight illuminates a scene where abstract representations of cellular structures intertwine with bold, graphic elements, all awash in a delicate, soft pastel color palette. The overall effect should be visually stunning, evoking a sense of awe and triumph in the face of complex scientific challenges, akin to an award-winning illustration.",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 151990764,
+      "created_at": "2026-03-31T22:27:24.342661+08:00"
+    },
+    {
       "id": "20260331_220545",
       "filename": "images/artwork_20260331_220545.jpg",
       "topic": "global climate crisis and environmental solutions",
