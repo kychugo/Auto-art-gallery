@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260331_124021",
+      "filename": "images/artwork_20260331_124021.jpg",
+      "topic": "street food culture in Hong Kong",
+      "prompt": "In a noir-style black and white photograph, a serene Hong Kong street food stall glows under flickering candlelight, casting long, dramatic shadows across steaming clay pots of beef offal stew, skewered fish balls, and wrinkled cheung fun on a quiet alley cart at dusk. A lone vendor in a worn apron tends to the wares with gentle poise, while misty neon signs from distant markets blur into the tranquil night, evoking peaceful nostalgia amid the monochromatic haze of deep blacks and silvery whites. Highly detailed, award-winning composition with intricate textures on bamboo steamers, dew-kissed metal surfaces, and subtle smoke tendrils, masterful chiaroscuro lighting for cinematic depth and haunting serenity.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 1152750069,
+      "created_at": "2026-03-31T12:40:21.943165+08:00"
+    },
+    {
       "id": "20260331_121351",
       "filename": "images/artwork_20260331_121351.jpg",
       "topic": "biotechnology and genetic engineering",
