@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260401_050515",
+      "filename": "images/artwork_20260401_050515.jpg",
+      "topic": "Hong Kong city life and culture",
+      "prompt": "A close-up, intimate portrait of a lone noodle vendor in a bustling Hong Kong alleyway, rendered in a bold pop art style with thick, graphic lines and saturated hues. The scene is bathed in a surreal, bioluminescent glow emanating from neon signs and steaming bowls, casting holographic iridescent reflections across the vendor's weathered face and the slick, rain-kissed pavement, evoking a sense of quiet humanity amidst the vibrant urban chaos. The overall mood is deeply human and observant, capturing a fleeting moment of everyday life with an award-winning, visually stunning aesthetic.",
+      "text_model": "gemini-fast",
+      "image_model": "grok-imagine",
+      "seed": 1594148427,
+      "created_at": "2026-04-01T05:05:15.628237+08:00"
+    },
+    {
       "id": "20260401_043547",
       "filename": "images/artwork_20260401_043547.jpg",
       "topic": "Hong Kong protest art and resilience",
