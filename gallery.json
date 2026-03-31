@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260331_174022",
+      "filename": "images/artwork_20260331_174022.jpg",
+      "topic": "traditional vs modern culture clash in Asia",
+      "prompt": "A vibrant anime-inspired illustration capturing the dynamic collision of traditional and modern Asia, where ornate crimson temple gates and ancestral altars seamlessly blend with neon-lit cityscapes, holographic billboards, and sleek modern architecture bathed in soft, diffused daylight. The composition features elegantly dressed figures in both traditional silk robes and contemporary urban fashion moving through this dual landscape, their silhouettes rendered in deep reds and crimson tones that create visual harmony between old and new. Cherry blossoms and incense smoke swirl through the air alongside digital particles and light trails, while traditional calligraphy and modern graffiti art coexist on the same surfaces, all rendered with meticulous anime detail and energy. The entire scene pulses with an energetic, celebratory atmosphere that honors both cultural streams flowing side by side, creating an award-winning visual metaphor for Asia's remarkable cultural continuity amid rapid modernization.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 337739883,
+      "created_at": "2026-03-31T17:40:22.842897+08:00"
+    },
+    {
       "id": "20260331_164355",
       "filename": "images/artwork_20260331_164355.jpg",
       "topic": "health and medicine breakthroughs",
