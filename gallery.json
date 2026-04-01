@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260401_230711",
+      "filename": "images/artwork_20260401_230711.jpg",
+      "topic": "fashion meets technology",
+      "prompt": "A lone figure stands in a cathedral-like server room, their elaborate anime-inspired couture gown woven from black silk and translucent optical fiber that glows with data streams. Their pose is monumental and powerful, illuminated solely by the flickering candlelight from ancient brass holders embedded in server racks, casting dramatic, long shadows across the stark monochromatic scene of black machinery and white marble floors.",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 520553338,
+      "created_at": "2026-04-01T23:07:11.864584+08:00"
+    },
+    {
       "id": "20260401_224804",
       "filename": "images/artwork_20260401_224804.jpg",
       "topic": "traditional vs modern culture clash in Asia",
