@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260401_142513",
+      "filename": "images/artwork_20260401_142513.jpg",
+      "topic": "renewable energy and sustainable living",
+      "prompt": "A surrealist dreamscape where an intimate family shares a meal under the soft glow of a bioluminescent tree, its roots intricately woven with solar panels that pulse with gentle moonlight. Shadows dance across their faces, cast by wind turbines shaped like delicate paper cranes, their forms rendered in a color palette of faded rose, lavender, and seafoam green, evoking a profound sense of peace and sustainable coexistence. The atmosphere is hushed and magical, a testament to human connection within a world powered by harmonious, eco-conscious innovation.",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 520742621,
+      "created_at": "2026-04-01T14:25:13.212743+08:00"
+    },
+    {
       "id": "20260401_141139",
       "filename": "images/artwork_20260401_141139.jpg",
       "topic": "artificial intelligence reshaping society",
