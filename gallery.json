@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260401_164505",
+      "filename": "images/artwork_20260401_164505.jpg",
+      "topic": "human migration and global nomadism",
+      "prompt": "First, the user wants a detailed image generation prompt about human migration and global nomadism. I need to incorporate specific elements: Baroque art style, dramatic and intense mood, stormy overcast lighting, and an emerald and deep forest green color palette.\n\nI must write only the image prompt itself—no explanations, no titles, no markdown. It should be 2-4 sentences long, vivid, and detailed, and written exclusively in English.\n\nKey points to include:\n- Baroque style: known for its ornate details, dramatic scenes, and emotional intensity. Think of dynamic compositions, rich textures, and contrast.\n- Mood: dramatic and intense. This should evoke strong emotions, perhaps conflict or struggle.\n- Lighting: stormy overcast light. This implies dark, cloudy skies with muted, diffused light, possibly with flashes of lightning.\n- Color palette: emerald and deep forest green. Greens should dominate, from bright emerald to dark, rich forest greens.\n- Theme: human migration and global nomadism. This involves people moving, possibly with belongings, across landscapes, symbolizing journey, displacement, or exploration.\n\nI need to weave these elements into a coherent prompt that paints a clear mental picture.\n\nStructure the prompt:\n- Start with a scene description that includes the movement of people.\n- Incorporate Baroque elements like dramatic poses, intricate details.\n- Use the lighting and color palette to set the atmosphere.\n- Ensure it's visually stunning and award-winning by adding specific, vivid details.\n\nExample ideas:\n- A caravan of migrants moving through a stormy forest, with Baroque-style clothing and expressions.\n- A dramatic scene of nomads under an overcast sky, with emerald hues in the landscape and clothing.\n\nCraft the prompt in 2-4 sentences. Keep it concise but detailed.\n\nDraft:\n\"In a Baroque-style composition, a group of global nomads traverses a storm-swept landscape under an intense overcast sky, their dramatic poses and expressions reflecting",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 1917479317,
+      "created_at": "2026-04-01T16:45:05.273939+08:00"
+    },
+    {
       "id": "20260401_161607",
       "filename": "images/artwork_20260401_161607.jpg",
       "topic": "ancient traditions meeting the modern world",
