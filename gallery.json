@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260401_133552",
+      "filename": "images/artwork_20260401_133552.jpg",
+      "topic": "cultural diversity and global harmony",
+      "prompt": "A monumental oil painting depicting people of diverse cultures and ethnicities gathered in a radiant circle beneath an ancient forest canopy, their hands clasped together in unity as dappled sunlight filters through verdant leaves above, casting gentle shadows on their faces rendered with masterful realism; soft pastel hues of rose, lavender, honey, and cerulean wash through the scene like a dream, creating an atmosphere of profound dignity and peaceful strength, the powerful figures rising like monuments against the ethereal glow, evoking the timeless beauty of human connection.",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 1203520834,
+      "created_at": "2026-04-01T13:35:52.357103+08:00"
+    },
+    {
       "id": "20260401_132859",
       "filename": "images/artwork_20260401_132859.jpg",
       "topic": "ancient traditions meeting the modern world",
