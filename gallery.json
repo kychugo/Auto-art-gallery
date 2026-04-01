@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260401_132859",
+      "filename": "images/artwork_20260401_132859.jpg",
+      "topic": "ancient traditions meeting the modern world",
+      "prompt": "A dystopian cityscape rendered in bold Pop Art style, where ancient, crumbling structures are interwoven with gleaming, oppressive modern architecture under a stormy, overcast sky. Terracotta and earth tones dominate the palette, emphasizing decay and a muted, fearful atmosphere, while stark, dramatic lighting cuts through the gloom, highlighting the stark contrast between tradition and a bleak, technologically advanced future. This visually arresting scene, teeming with intricate detail, should evoke a profound sense of unease and a critical commentary on societal evolution.",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 1038175962,
+      "created_at": "2026-04-01T13:28:59.987642+08:00"
+    },
+    {
       "id": "20260401_131145",
       "filename": "images/artwork_20260401_131145.jpg",
       "topic": "sports and human physical achievement",
