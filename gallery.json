@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260402_070150",
+      "filename": "images/artwork_20260402_070150.jpg",
+      "topic": "health and medicine breakthroughs",
+      "prompt": "A minimalist composition of a glowing DNA double helix at the center, bathed in golden hour sunlight that casts long shadows across a clean, sterile laboratory environment, with holographic iridescent light refracting through crystalline medical instruments and geometric forms, creating a monumental sense of scientific breakthrough and human achievement. The scene radiates power and reverence, with soft gradients of iridescent purples, teals, and golds merging seamlessly across the composition, while negative space emphasizes the profound simplicity of discovery. Ultra-detailed, cinematic, award-winning scientific visualization, shot with shallow depth of field and pristine clarity, evoking a sense of awe and transformative potential in modern medicine.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 940175690,
+      "created_at": "2026-04-02T07:01:50.105819+08:00"
+    },
+    {
       "id": "20260402_062429",
       "filename": "images/artwork_20260402_062429.jpg",
       "topic": "space exploration and the cosmos",
