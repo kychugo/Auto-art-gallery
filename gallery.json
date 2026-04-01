@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260402_055222",
+      "filename": "images/artwork_20260402_055222.jpg",
+      "topic": "Hong Kong protest art and resilience",
+      "prompt": "A solitary figure stands before a sprawling black-and-gold mural painted on a weathered concrete wall in a quiet Hong Kong alley, their fingertips gently tracing the textured paint of painted words and symbolic lotus flowers, moonlight slicing through surrounding darkness to illuminate the gold leaf details that shimmer like hope against the deep shadows, while additional protest art and small offerings accumulate at their feet, the scene captured in hyperrealistic detail with an intimate, reverent atmosphere that speaks to quiet resilience and collective memory.",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 1282194724,
+      "created_at": "2026-04-02T05:52:22.543247+08:00"
+    },
+    {
       "id": "20260402_051034",
       "filename": "images/artwork_20260402_051034.jpg",
       "topic": "global climate crisis and environmental solutions",
