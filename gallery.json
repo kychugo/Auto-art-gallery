@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260402_073242",
+      "filename": "images/artwork_20260402_073242.jpg",
+      "topic": "post-pandemic world transformation",
+      "prompt": "In a post-pandemic world transformed into ethereal ruins, colossal vine-choked skyscrapers pierce through swirling mist-shrouded streets where holographic ghosts of bustling crowds flicker faintly amid abandoned electric cars overgrown with bioluminescent fungi, evoking a mysterious rebirth from desolation. Captured in cinematic black-and-white with dramatic studio lighting—harsh key light from above-left carving deep chiaroscuro shadows and subtle rim light etching ghostly silhouettes—fine film grain, subtle lens flare, and volumetric fog enhance the haunting depth. Ultra-detailed award-winning composition, wide-angle 35mm lens at f/2.8, ISO 400, monochromatic palette of stark silvers, velvety blacks, and ghostly whites.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 53917162,
+      "created_at": "2026-04-02T07:32:42.923775+08:00"
+    },
+    {
       "id": "20260402_070150",
       "filename": "images/artwork_20260402_070150.jpg",
       "topic": "health and medicine breakthroughs",
