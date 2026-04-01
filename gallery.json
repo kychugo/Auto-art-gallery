@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260402_060457",
+      "filename": "images/artwork_20260402_060457.jpg",
+      "topic": "global climate crisis and environmental solutions",
+      "prompt": "In a cyberpunk dystopia ravaged by the global climate crisis, towering megastructures of corroded black neon-lit skyscrapers pierce a smog-choked sky, their bases flooded by rising acidic oceans littered with derelict drones and crumbling seawalls, while in the foreground innovative environmental solutions emerge: vast golden solar arrays unfurling like metallic lotus blooms on elevated platforms, vertical hydroponic farms pulsing with bioluminescent algae, and fusion-powered atmospheric scrubbers emitting purifying mist that catches the soft diffused daylight. High-contrast black and gold color palette bathes the scene in dramatic chiaroscuro, with gleaming gold accents on tech salvations stark against inky shadows of decay, evoking a dark, dystopian mood of precarious hope amid ruin. Award-winning cinematic composition with intricate details, holographic climate data overlays flickering in the haze, volumetric god rays piercing through polluted clouds, ultra-detailed textures, cyberpunk aesthetic by Syd Mead and Masamune Shirow.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 798297454,
+      "created_at": "2026-04-02T06:04:57.381719+08:00"
+    },
+    {
       "id": "20260402_055222",
       "filename": "images/artwork_20260402_055222.jpg",
       "topic": "Hong Kong protest art and resilience",
