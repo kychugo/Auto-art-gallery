@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260401_145945",
+      "filename": "images/artwork_20260401_145945.jpg",
+      "topic": "revolution in education through technology",
+      "prompt": "An anime-inspired scene bathed in the eerie glow of stormy overcast light, showcasing a solitary figure silhouetted against a vast, ethereal digital landscape that blurs the lines between a school and a cosmic entity. Think a single, powerful ray of light piercing the gloom, illuminating wisps of data and holographic textbooks swirling around a young student's outstretched hand, all rendered in a breathtaking monochromatic black and white palette that evokes a sense of profound, mysterious awakening and the dawn of a new technological educational era.",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 299018259,
+      "created_at": "2026-04-01T14:59:45.753275+08:00"
+    },
+    {
       "id": "20260401_142513",
       "filename": "images/artwork_20260401_142513.jpg",
       "topic": "renewable energy and sustainable living",
