@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260402_075338",
+      "filename": "images/artwork_20260402_075338.jpg",
+      "topic": "street food culture in Hong Kong",
+      "prompt": "In the heart of Hong Kong's bustling night market, street food vendors hawk steaming woks of crimson-spiced noodles and deep red char siu under a noir art style, their silhouettes etched in sharp moonlight and elongated shadows that dance across wet cobblestone alleys. Vibrant energy pulses through throngs of locals and tourists crowding around glowing stalls piled with glistening dumplings and skewered meats, the air thick with steam and neon haze. Award-winning composition in a rich palette of crimson and deep reds, highly detailed with intricate textures on sizzling pans, flickering lantern glows, and dynamic figures in motion, cinematic chiaroscuro lighting evoking nocturnal urban frenzy.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 308259678,
+      "created_at": "2026-04-02T07:53:38.356270+08:00"
+    },
+    {
       "id": "20260402_073242",
       "filename": "images/artwork_20260402_073242.jpg",
       "topic": "post-pandemic world transformation",
