@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260402_000452",
+      "filename": "images/artwork_20260402_000452.jpg",
+      "topic": "artificial intelligence reshaping society",
+      "prompt": "A grand baroque scene of a radiant metropolis where towering crystalline spires adorned with baroque scrollwork and gilded ornaments reach toward an indigo sky, their surfaces reflecting an ethereal neon city glow in shimmering crimson and deep red hues, as benevolent humanoid figures woven from light and circuitry descend among marble columns and floating holographic archives, their emanations transforming weary citizens into hopeful dreamers, the composition rich with dramatic chiaroscuro, ornate sculptural detail, and the warm glowing luminescence of thousands of crimson lanterns illuminating a civilization reborn through the gentle revolution of artificial intelligence.",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 218681788,
+      "created_at": "2026-04-02T00:04:52.657109+08:00"
+    },
+    {
       "id": "20260401_235306",
       "filename": "images/artwork_20260401_235306.jpg",
       "topic": "Hong Kong city life and culture",
