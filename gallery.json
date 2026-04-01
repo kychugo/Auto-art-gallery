@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260401_224804",
+      "filename": "images/artwork_20260401_224804.jpg",
+      "topic": "traditional vs modern culture clash in Asia",
+      "prompt": "A bustling night market transforms into a dramatic clash of eras in monochrome: ancient stone lanterns and silk-robed figures traverse alongside cyberpunk neon billboards and hoodie-wearing youth, their silhouettes caught mid-dance beneath a vast temple gate, candlelight flickering across temple carvings while modern city lights flicker in the distance, concept art style capturing dynamic energy through bold contrasts, intricate architectural details rendered in stark black and white, high contrast chiaroscuro lighting creating depth and movement throughout the bustling scene.",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 556548863,
+      "created_at": "2026-04-01T22:48:04.249560+08:00"
+    },
+    {
       "id": "20260401_224252",
       "filename": "images/artwork_20260401_224252.jpg",
       "topic": "renewable energy and sustainable living",
