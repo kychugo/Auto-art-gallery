@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260402_062429",
+      "filename": "images/artwork_20260402_062429.jpg",
+      "topic": "space exploration and the cosmos",
+      "prompt": "A colossal astronaut stands on the edge of a crystalline nebula, their silhouette dramatically backlit by swirling galaxies of vibrant neon cyan, magenta, and electric violet, while thousands of floating candles with flickering golden flames illuminate the cosmic void around them, casting warm candlelight ambiance across their weathered spacesuit in a breathtaking cinematic composition that feels powerful, monumental, and timeless.",
+      "text_model": "minimax",
+      "image_model": "klein",
+      "seed": 1326122222,
+      "created_at": "2026-04-02T06:24:29.436398+08:00"
+    },
+    {
       "id": "20260402_060457",
       "filename": "images/artwork_20260402_060457.jpg",
       "topic": "global climate crisis and environmental solutions",
