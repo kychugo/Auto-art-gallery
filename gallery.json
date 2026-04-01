@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260401_150712",
+      "filename": "images/artwork_20260401_150712.jpg",
+      "topic": "news headlines of tomorrow",
+      "prompt": "A solitary, translucent figure gazes at an ethereal cityscape where holographic news headlines, shimmering with a melancholic, iridescent glow, cascade and refract like fragmented memories through a neon-drenched twilight; the surrealist art style emphasizes the ephemeral nature of information and the quiet introspection of a future yet unwritten, bathed in the cool, electric hum of tomorrow's dawn.",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 1695032526,
+      "created_at": "2026-04-01T15:07:12.688788+08:00"
+    },
+    {
       "id": "20260401_145945",
       "filename": "images/artwork_20260401_145945.jpg",
       "topic": "revolution in education through technology",
