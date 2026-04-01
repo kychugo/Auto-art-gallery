@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260401_122652",
+      "filename": "images/artwork_20260401_122652.jpg",
+      "topic": "blockchain and decentralized future",
+      "prompt": "In a serene ancient forest bathed in **dappled light** filtering through terracotta-hued leaves, ethereal blockchain chains of glowing golden links weave organically among moss-covered trees, forming decentralized nodes that pulse with peaceful energy and connect floating holographic ledgers symbolizing a harmonious future.[1][2] Diverse figures in earth-toned robes meditate calmly at the roots, their hands touching translucent smart contracts that bloom like digital lotuses, evoking unity without hierarchy in this **cinematic masterpiece** of tranquil empowerment.[3][5] Rendered in hyper-detailed **award-winning cinematic style** with a **warm earth tones and terracotta palette**, soft volumetric god rays pierce the canopy, casting a **serene, hopeful glow** over intricate textures of bark, vines, and shimmering code streams, like a frame from an epic visionary film.[7]",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 849615960,
+      "created_at": "2026-04-01T12:26:52.114823+08:00"
+    },
+    {
       "id": "20260401_121317",
       "filename": "images/artwork_20260401_121317.jpg",
       "topic": "global climate crisis and environmental solutions",
