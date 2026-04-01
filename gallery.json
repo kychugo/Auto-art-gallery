@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260401_235306",
+      "filename": "images/artwork_20260401_235306.jpg",
+      "topic": "Hong Kong city life and culture",
+      "prompt": "A vibrant oil painting capturing the hopeful essence of Hong Kong city life and culture, where towering skyscrapers pierce misty hills under dramatic studio lighting that casts golden spotlights and deep shadows on bustling street markets alive with diverse crowds—Cantonese vendors hawking neon-lit wares, South Asian traders with colorful umbrellas, and joyful dragon dancers weaving through the throng. Uplifting neon colors explode in electric pinks, glowing turquoises, fiery oranges, and vivid cyans across wet cobblestone streets, tangled fuse boxes on tong lau facades, and daai6 paai4 dong2 stalls steaming with chopsticks and street food, evoking a futuristic fusion of ancient traditions and modern pulse at twilight. Highly detailed, award-winning masterpiece with textured brushstrokes, shimmering reflections, and an aura of resilient optimism radiating from every figure's smiling face.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 978584232,
+      "created_at": "2026-04-01T23:53:06.295736+08:00"
+    },
+    {
       "id": "20260401_230711",
       "filename": "images/artwork_20260401_230711.jpg",
       "topic": "fashion meets technology",
