@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260401_125119",
+      "filename": "images/artwork_20260401_125119.jpg",
+      "topic": "health and medicine breakthroughs",
+      "prompt": "First, the user wants an image generation prompt about \"health and medicine breakthroughs.\" I need to incorporate specific elements: art style is noir, mood is mysterious and ethereal, lighting is neon city glow, and color palette is earth tones and terracotta.\n\nI must ensure the prompt is unique, detailed, visually stunning, award-winning, and highly detailed. It should be 2-4 sentences long and paint a clear mental picture. I can only respond with the prompt itself, no explanations, titles, or markdown, and it must be in English.\n\nKey elements to blend:\n- Theme: health and medicine breakthroughs. Think about symbols like DNA strands, medical equipment, futuristic labs, but in a noir style.\n- Noir art style: typically involves dark, shadowy, gritty elements, often with a detective or urban feel. But here, it's combined with health breakthroughs, so I need to twist it creatively.\n- Mood: mysterious and ethereal. So, it should feel enigmatic and otherworldly, not just dark but also dreamlike.\n- Lighting: neon city glow. This suggests urban night scenes with neon lights, which can cast colorful glows.\n- Color palette: earth tones and terracotta. So, colors like browns, tans, oranges, reds, and muted greens. Terracotta is a clay-like orange-brown.\n\nI need to weave these into a coherent prompt. Since it's about breakthroughs, I can imagine a scene where medical advancements are depicted in a noir setting with neon lights and earth tones.\n\nPossible imagery: A clandestine lab in a dark city, with neon signs reflecting on wet streets, but the lab has earthy tones and terracotta accents. Or perhaps a symbolic representation like a glowing DNA helix in a noir environment.\n\nStructure the prompt in 2-4 sentences. Start with the setting, then describe key visual elements, and end with the mood and style.\n\nEnsure it's detailed: mention specific objects, textures",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 845609997,
+      "created_at": "2026-04-01T12:51:19.191413+08:00"
+    },
+    {
       "id": "20260401_122652",
       "filename": "images/artwork_20260401_122652.jpg",
       "topic": "blockchain and decentralized future",
