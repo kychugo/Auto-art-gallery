@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260401_161607",
+      "filename": "images/artwork_20260401_161607.jpg",
+      "topic": "ancient traditions meeting the modern world",
+      "prompt": "A lone priest in baroque-era flowing robes and elaborate ecclesiastical vestments stands atop a marble staircase, arms raised in ancient benediction as he confronts a sprawling futuristic metropolis of glass towers and neon signage, dramatic chiaroscuro lighting casting他的 silhouette against the cool blue and purple neon glow emanating from the city below, the composition rendered in the intricate, theatrical style of Caravaggio with dramatic intensity and theatrical depth, swirling Baroque clouds merging with digital billboards, sacred incense mingling with holographic light.",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 791695127,
+      "created_at": "2026-04-01T16:16:07.715138+08:00"
+    },
+    {
       "id": "20260401_160156",
       "filename": "images/artwork_20260401_160156.jpg",
       "topic": "quantum computing and the future",
