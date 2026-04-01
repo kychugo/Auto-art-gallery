@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260401_165135",
+      "filename": "images/artwork_20260401_165135.jpg",
+      "topic": "cultural diversity and global harmony",
+      "prompt": "In a dark dystopian digital art masterpiece, moonlight pierces through fractured skyscrapers overgrown with emerald vines and deep forest green foliage, casting elongated shadows over a fragile gathering of diverse humans from every culture—clad in tattered traditional garments fused with cybernetic implants—holding hands in a tense circle around a glowing holographic globe symbolizing strained global harmony. Their faces, illuminated by silvery lunar beams amid oppressive shadows, blend weary hope with underlying despair, as ruined landmarks from ancient pyramids to neon-lit pagodas crumble together in the background. Highly detailed, award-winning composition with intricate textures on moss-covered ruins, volumetric god rays filtering through toxic fog, and a moody palette dominated by emerald greens and deep forest shadows evoking fragile unity in a collapsing world.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 276557007,
+      "created_at": "2026-04-01T16:51:35.680629+08:00"
+    },
+    {
       "id": "20260401_164505",
       "filename": "images/artwork_20260401_164505.jpg",
       "topic": "human migration and global nomadism",
