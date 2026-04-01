@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260402_043705",
+      "filename": "images/artwork_20260402_043705.jpg",
+      "topic": "social media culture and human connection",
+      "prompt": "A lone figure, silhouetted against a vast, abstract digital landscape, scrolls through a luminous, ethereal feed of interconnected wisps, their face obscured by deep shadows cast by an unseen moon, evoking a sense of profound, melancholic isolation within a hyper-connected world. The art style is distinctly anime-inspired, with sharp lines and dramatic contrasts, rendered in a strictly monochromatic black and white palette, where moonlight glints off unseen screens and the pervasive darkness hints at the hidden depths of online personas. This image should feel like a moment frozen in time, mysterious and haunting, capturing the paradox of feeling both connected and utterly alone in the digital age.",
+      "text_model": "gemini-search",
+      "image_model": "klein",
+      "seed": 598317300,
+      "created_at": "2026-04-02T04:37:05.771677+08:00"
+    },
+    {
       "id": "20260402_000452",
       "filename": "images/artwork_20260402_000452.jpg",
       "topic": "artificial intelligence reshaping society",
