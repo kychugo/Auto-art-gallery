@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260401_160156",
+      "filename": "images/artwork_20260401_160156.jpg",
+      "topic": "quantum computing and the future",
+      "prompt": "A lone figure, cloaked in shadow and holographic data streams, stands before a colossal, pulsating quantum processor rendered in intricate cyberpunk detail, its crimson and deep red circuitry glowing with an ethereal, mysterious light under a neon city glow that casts long, distorted reflections on the rain-slicked ground, hinting at a future on the cusp of incomprehensible transformation.",
+      "text_model": "gemini-fast",
+      "image_model": "grok-imagine",
+      "seed": 26740118,
+      "created_at": "2026-04-01T16:01:56.225632+08:00"
+    },
+    {
       "id": "20260401_150712",
       "filename": "images/artwork_20260401_150712.jpg",
       "topic": "news headlines of tomorrow",
