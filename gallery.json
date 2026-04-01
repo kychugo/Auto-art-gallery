@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260401_224252",
+      "filename": "images/artwork_20260401_224252.jpg",
+      "topic": "renewable energy and sustainable living",
+      "prompt": "Photorealistic scene of a sustainable eco-village nestled in a dense ancient forest at twilight, where towering wind turbines with sleek emerald blades blend seamlessly with moss-covered trees, solar panels on thatched roofs glisten like dew-kissed leaves, and a communal hearth glows with holographic energy displays powering hydroponic gardens overflowing with vibrant ferns and bioluminescent fungi. Candlelight ambiance from flickering beeswax lanterns and firefly-like renewable orbs casts dramatic, intense shadows across wooden bridges, rainwater collectors, and residents in earth-toned attire tending vertical farms, evoking a moody fusion of primal wilderness and futuristic harmony. Deep forest green and emerald color palette dominates with subtle golden flickers, ultra-detailed textures on bark, rustling leaves, and dew droplets, captured with 35mm lens at f/2.8, ISO 100, award-winning cinematic composition brimming with intense ecological vitality.[1][2][4]",
+      "text_model": "perplexity-fast",
+      "image_model": "grok-imagine",
+      "seed": 927816472,
+      "created_at": "2026-04-01T22:42:52.782549+08:00"
+    },
+    {
       "id": "20260401_220934",
       "filename": "images/artwork_20260401_220934.jpg",
       "topic": "Hong Kong protest art and resilience",
