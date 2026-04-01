@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260401_185930",
+      "filename": "images/artwork_20260401_185930.jpg",
+      "topic": "economic inequality and social justice",
+      "prompt": "An oil painting of a lone, silhouetted figure, their face obscured, reaching out towards a distant, glowing red sun breaking through dark, textured clouds. Dramatic studio lighting casts deep, crimson shadows that accentuate the stark contrast between the figure's outstretched hand and the opulent, overflowing cornucopia of crimson jewels and coins at their feet. The mood is profoundly peaceful and serene, with a sense of quiet contemplation and yearning for justice amidst the overwhelming visual of economic disparity.",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 154497299,
+      "created_at": "2026-04-01T18:59:30.360124+08:00"
+    },
+    {
       "id": "20260401_183508",
       "filename": "images/artwork_20260401_183508.jpg",
       "topic": "Hong Kong city life and culture",
