@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260401_121317",
+      "filename": "images/artwork_20260401_121317.jpg",
+      "topic": "global climate crisis and environmental solutions",
+      "prompt": "A melancholic watercolor painting of a devastated industrial cityscape beneath tumultuous overcast skies, where abandoned factories and withered trees stand as monuments to climate failure, yet emerge vibrant neon-green sprigs of new life from cracked concrete and flowing rivers of glowing bioluminescent water that wind through the ruins, capturing the fragile hope of environmental renewal in stormy twilight light with swirling electric cyan, toxic magenta, and luminous lime accents bleeding across the canvas.",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 3551460,
+      "created_at": "2026-04-01T12:13:17.720474+08:00"
+    },
+    {
       "id": "20260401_114844",
       "filename": "images/artwork_20260401_114844.jpg",
       "topic": "cultural diversity and global harmony",
