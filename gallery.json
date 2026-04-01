@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260401_200616",
+      "filename": "images/artwork_20260401_200616.jpg",
+      "topic": "renewable energy and sustainable living",
+      "prompt": "A wind turbine emerges from misty fields under a luminous full moon, its spinning blades catching pale silver light while solar panels ripple like a lake of liquid amber across rolling hills, all rendered in loose, dreamlike brushstrokes of soft pastel lavender, blush pink and gentle mint green, creating an ethereal scene where sustainable technology harmonizes with nature in mysterious twilight stillness.",
+      "text_model": "minimax",
+      "image_model": "klein",
+      "seed": 384225365,
+      "created_at": "2026-04-01T20:06:17.024771+08:00"
+    },
+    {
       "id": "20260401_195427",
       "filename": "images/artwork_20260401_195427.jpg",
       "topic": "human migration and global nomadism",
