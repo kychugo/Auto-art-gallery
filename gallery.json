@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260401_174625",
+      "filename": "images/artwork_20260401_174625.jpg",
+      "topic": "fashion meets technology",
+      "prompt": "First, the user wants a prompt for image generation. The topic is \"fashion meets technology.\" I need to incorporate specific elements naturally: art style as oil painting, mood as peaceful and serene, lighting as arctic aurora borealis, and color palette as vibrant neon colors.\n\nI must make the prompt visually stunning, award-winning, and highly detailed. It should be 2-4 sentences long and paint a clear mental picture. I can only respond with the prompt itself, in English, with no explanations or markdown.\n\nSo, I need to craft a prompt that blends fashion and technology. For example, I could describe a scene where technology-infused clothing is in a serene setting with aurora borealis lighting.\n\nBreak down the elements:\n\n- **Art style:** Oil painting – so the prompt should evoke the texture and feel of an oil painting.\n\n- **Mood:** Peaceful and serene – the scene should be calm, perhaps with gentle movements or a tranquil environment.\n\n- **Lighting:** Arctic aurora borealis – this means the Northern Lights, which have shimmering, colorful lights in the sky. It should be the primary light source, casting ethereal glows.\n\n- **Color palette:** Vibrant neon colors – even though it's an oil painting, the colors should be bright and neon-like, which can contrast with the serene mood but still fit if done well.\n\nCombine these: A fashion model wearing tech-enhanced clothing, standing in a peaceful arctic landscape under the aurora borealis. The clothing could have neon accents that interact with the lights.\n\nStructure the prompt into 2-4 sentences. Make it descriptive and detailed.\n\nStart with setting the scene: In a serene arctic night, under the shimmering aurora borealis, a model wears a sleek, technology-infused gown.\n\nDescribe the clothing: The gown emits gentle neon glows that harmonize with the aurora, creating a peaceful atmosphere.\n\nAdd details about the art style: Rendered",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 1117892549,
+      "created_at": "2026-04-01T17:46:25.854200+08:00"
+    },
+    {
       "id": "20260401_165135",
       "filename": "images/artwork_20260401_165135.jpg",
       "topic": "cultural diversity and global harmony",
