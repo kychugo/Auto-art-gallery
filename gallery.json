@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260401_114844",
+      "filename": "images/artwork_20260401_114844.jpg",
+      "topic": "cultural diversity and global harmony",
+      "prompt": "A dreamscape unfolds where figures from diverse world cultures embrace in a.circle, their flowing forms rendered in translucent watercolor strokes merged with sharp neon accents—crimson, electric blue, magenta, and lime—bathed in dramatic studio lighting that casts bold shadows and luminous highlights, creating a whimsical ethereal scene where traditional garments and symbols glow against deep violet backgrounds, celebrating global unity through vibrant chromatic harmony and surreal, fantastical beauty",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 102417197,
+      "created_at": "2026-04-01T11:48:44.347874+08:00"
+    },
+    {
       "id": "20260401_103444",
       "filename": "images/artwork_20260401_103444.jpg",
       "topic": "sports and human physical achievement",
