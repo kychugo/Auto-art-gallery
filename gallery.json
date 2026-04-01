@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260401_135302",
+      "filename": "images/artwork_20260401_135302.jpg",
+      "topic": "biotechnology and genetic engineering",
+      "prompt": "In an anime-inspired biopunk laboratory shrouded in mystery and ethereal haze, a lone scientist with glowing golden eyes manipulates a colossal double helix of black-veined DNA strands pulsing with genetic code, surrounded by writhing biomechanical tentacles and chimeric hybrid creatures emerging from shadowy incubation pods. Arctic aurora borealis lighting cascades through a fractured ice-dome ceiling, casting high-contrast beams of shimmering gold against inky black voids, illuminating intricate circuits of engineered cells and floating holographic gene sequences in a visually stunning, award-winning composition of otherworldly biotechnology. The scene evokes forbidden genetic engineering rituals, with luminous particles dancing in the air like ethereal fireflies amidst towering vats of bubbling synth-biology.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 1257418226,
+      "created_at": "2026-04-01T13:53:02.896278+08:00"
+    },
+    {
       "id": "20260401_133552",
       "filename": "images/artwork_20260401_133552.jpg",
       "topic": "cultural diversity and global harmony",
