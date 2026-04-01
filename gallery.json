@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260401_195427",
+      "filename": "images/artwork_20260401_195427.jpg",
+      "topic": "human migration and global nomadism",
+      "prompt": "A vast caravan of silhouetted travelers descends through an ancient primeval forest, their weathered cloaks and scattered belongings glowing faintly as they navigate moss-covered stone paths beneath a dramatic stormy sky, where jagged bolts of emerald lightning pierce through billowing clouds, creating an ethereal atmosphere of mysterious Wandering spirits; concept art style with hyper-detailed foliage, volumetric fog rolling between towering cedar and pine trees, a moody color palette dominated by deep forest greens, bruised teal, and luminous emerald highlights, cinematic composition with depth of field emphasizing the leading nomad figure carrying a lantern that casts dancing shadows across the misty path.",
+      "text_model": "minimax",
+      "image_model": "klein",
+      "seed": 633228663,
+      "created_at": "2026-04-01T19:54:27.454214+08:00"
+    },
+    {
       "id": "20260401_192812",
       "filename": "images/artwork_20260401_192812.jpg",
       "topic": "mental health awareness in the digital age",
