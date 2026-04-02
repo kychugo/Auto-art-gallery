@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260402_130839",
+      "filename": "images/artwork_20260402_130839.jpg",
+      "topic": "music and the evolution of sound",
+      "prompt": "A breathtaking cyberpunk cityscape unfolds beneath an ethereal arctic aurora borealis, casting soft pastel hues across rain-slicked, neon-drenched streets. Towering, oppressive architecture, etched with holographic advertisements, looms over a gritty, low-life dystopia where sonic energy manifest as visible, flowing waves of light and data, symbolizing the evolution of sound. The mood is somber yet wondrous, with intricate details depicting the fusion of technology and humanity against a backdrop of societal decay, illuminated by the mystical, otherworldly glow of the northern lights.",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 982997640,
+      "created_at": "2026-04-02T13:08:39.544003+08:00"
+    },
+    {
       "id": "20260402_124140",
       "filename": "images/artwork_20260402_124140.jpg",
       "topic": "renewable energy and sustainable living",
