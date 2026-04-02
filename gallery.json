@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260402_133949",
+      "filename": "images/artwork_20260402_133949.jpg",
+      "topic": "mental health awareness in the digital age",
+      "prompt": "A cinematic, whimsical, and dreamlike scene unfolds, bathed in a soft candlelight ambiance with a striking color palette of crimson and deep red hues. Delicate, ethereal digital threads weave through a surreal landscape, symbolizing the intricate connection between our minds and the online world, evoking a sense of profound introspection and hopeful resilience. This award-winning visual should capture the beautiful complexity of navigating mental well-being in the modern, digitally-connected era.",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 935128975,
+      "created_at": "2026-04-02T13:39:49.419400+08:00"
+    },
+    {
       "id": "20260402_132133",
       "filename": "images/artwork_20260402_132133.jpg",
       "topic": "biotechnology and genetic engineering",
