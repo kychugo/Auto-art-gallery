@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260403_050415",
+      "filename": "images/artwork_20260403_050415.jpg",
+      "topic": "Hong Kong city life and culture",
+      "prompt": "First, the user wants an image generation prompt about Hong Kong city life and culture. It must incorporate specific elements: baroque art style, melancholic and reflective mood, moonlight and shadows lighting, and a vibrant neon color palette.\n\nI need to ensure the prompt is vivid, detailed, and paints a clear mental picture. It should be 2-4 sentences long and written in English only, with no explanations or extra text.\n\nKey elements to weave in naturally:\n\n- **Baroque art style**: Baroque is known for its drama, rich detail, and emotional intensity. I should include terms like ornate, dramatic, or intricate to reflect this style.\n\n- **Melancholic and reflective mood**: Words like somber, wistful, or introspective can convey this mood.\n\n- **Lighting: moonlight and shadows**: Emphasize moonlight casting long shadows, creating contrasts between light and dark.\n\n- **Color palette: vibrant neon colors**: Hong Kong is famous for its neon signs, so I should mention neon lights in vivid colors like pink, blue, green, etc.\n\n- **Hong Kong city life and culture**: Include iconic elements like crowded streets, towering skyscrapers, traditional aspects like temples or markets, and the hustle and bustle.\n\nThe prompt should be award-winning and visually stunning, so I need to use descriptive language that evokes imagery.\n\nStructure the prompt into 2-4 sentences. Start by setting the scene with the baroque style and mood, then describe the lighting and colors, and finally tie in Hong Kong specifics.\n\nDraft an outline:\n\n1. Introduce the scene with baroque elements and mood.\n\n2. Describe the lighting and color palette.\n\n3. Add specific Hong Kong details.\n\nEnsure it flows naturally and all required elements are incorporated.\n\nFinal response must be ONLY the image prompt, no other text.\n\nLet me write a draft:\n\n\"In the baroque-inspired streets of Hong Kong, a melancholic and reflective atmosphere pervades as moonlight casts intricate shadows across ornate",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 1762448317,
+      "created_at": "2026-04-03T05:04:15.170160+08:00"
+    },
+    {
       "id": "20260403_042801",
       "filename": "images/artwork_20260403_042801.jpg",
       "topic": "ocean conservation and marine life",
