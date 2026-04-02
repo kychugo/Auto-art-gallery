@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260402_120539",
+      "filename": "images/artwork_20260402_120539.jpg",
+      "topic": "urban architecture of the future",
+      "prompt": "In an impressionist style reminiscent of Monet's loose brushstrokes capturing fleeting light, depict a dystopian future cityscape where towering, jagged skyscrapers pierce stormy overcast skies, their crimson-tinted facades dripping with rain and flickering neon veins in deep red hues. Huddled figures in tattered coats navigate flooded streets lined with crumbling megastructures and hovering surveillance drones, evoking a dark, oppressive mood under diffused, brooding illumination that casts elongated shadows across rusted bridges and derelict walkways. Render with award-winning detail: visible brush textures blending vibrant crimson gradients into abyssal blacks, atmospheric mist blurring distant spires, and subtle crimson glows from cracked holographic billboards piercing the gloom.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 2041371354,
+      "created_at": "2026-04-02T12:05:39.881120+08:00"
+    },
+    {
       "id": "20260402_114457",
       "filename": "images/artwork_20260402_114457.jpg",
       "topic": "Hong Kong protest art and resilience",
