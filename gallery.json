@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260402_194733",
+      "filename": "images/artwork_20260402_194733.jpg",
+      "topic": "news headlines of tomorrow",
+      "prompt": "In an Impressionist style, monumental news headlines of tomorrow emerge from the dappled, golden light filtering through a dense forest, casting long, high-contrast shadows in deep blacks and shimmering golds. The scene conveys a powerful and epic mood, as if uncovering significant, world-altering events from a mystical, ancient source. This visual masterpiece captures the profound and often hidden truths that future news may reveal, rendered with evocative, painterly strokes that suggest both mystery and undeniable importance.",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 1361228283,
+      "created_at": "2026-04-02T19:47:33.505828+08:00"
+    },
+    {
       "id": "20260402_191355",
       "filename": "images/artwork_20260402_191355.jpg",
       "topic": "cultural diversity and global harmony",
