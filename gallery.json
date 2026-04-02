@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260402_175225",
+      "filename": "images/artwork_20260402_175225.jpg",
+      "topic": "economic inequality and social justice",
+      "prompt": "A surrealist scene bathed in dramatic, cool studio lighting, where towering skyscrapers of solid gold coins cast long, melancholic shadows over a desolate, cracked earth. Scattered figures, rendered in muted purples and blues, are dwarfed by the opulent structures, reaching out with desperate, elongated hands towards a distant, hazy horizon. The mood is reflective, a stark visual metaphor for economic inequality and the yearning for social justice, captured with an award-winning level of detail and breathtaking composition.",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 1289885109,
+      "created_at": "2026-04-02T17:52:25.592881+08:00"
+    },
+    {
       "id": "20260402_173434",
       "filename": "images/artwork_20260402_173434.jpg",
       "topic": "Hong Kong protest art and resilience",
