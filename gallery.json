@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260402_135641",
+      "filename": "images/artwork_20260402_135641.jpg",
+      "topic": "ocean conservation and marine life",
+      "prompt": "A colossal, ethereal whale composed of swirling soft pastel hues breaks through a deep, inky ocean, its immense form illuminated by the spectral glow of an arctic aurora borealis painting the night sky.  Dramatic, painterly strokes in a pop art style emphasize the intensity of the moment, with tiny, vibrant marine life clinging to its barnacle-covered body, creating a visually stunning and poignant plea for marine conservation against a backdrop of breathtaking, otherworldly light. The scene is charged with a dramatic, intense mood, highlighting the fragility and power of ocean life under the aurora's mystical embrace.",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 251649947,
+      "created_at": "2026-04-02T13:56:41.528652+08:00"
+    },
+    {
       "id": "20260402_133949",
       "filename": "images/artwork_20260402_133949.jpg",
       "topic": "mental health awareness in the digital age",
