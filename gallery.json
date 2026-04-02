@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260402_132133",
+      "filename": "images/artwork_20260402_132133.jpg",
+      "topic": "biotechnology and genetic engineering",
+      "prompt": "A swirling abstract expressionist composition depicting the intricate dance of DNA helixes and molecular structures fragmenting and reforming, rendered in holographic iridescent tones of electric cyan, magenta, and opalescent silver, with bioluminescent organisms and genetic strands pulsing with ethereal light against a deep obsidian void. Dramatic volumetric lighting creates intense halos around biological elements, while crackling energy and luminous particles flow through the composition in violent, gestural brushstrokes that suggest both creation and transformation. The scene captures the raw power of genetic engineering at the moment of breakthrough, with microscopic components magnified into cosmic proportions, rendered in a style reminiscent of abstract expressionist action painting merged with cutting-edge scientific visualization, maintaining sharp focus on central genetic elements while the periphery dissolves into ethereal, iridescent mist and bioluminescent fog.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 1092308151,
+      "created_at": "2026-04-02T13:21:33.290254+08:00"
+    },
+    {
       "id": "20260402_130839",
       "filename": "images/artwork_20260402_130839.jpg",
       "topic": "music and the evolution of sound",
