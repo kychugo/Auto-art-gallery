@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260402_173434",
+      "filename": "images/artwork_20260402_173434.jpg",
+      "topic": "Hong Kong protest art and resilience",
+      "prompt": "A lone figure, face obscured by a gas mask, stands amidst the aftermath of a Hong Kong protest, graffiti art blooming like defiant flowers on a rain-slicked street. Cinematic lighting casts long shadows from towering skyscrapers, their neon signs bleeding vibrant, melancholic colors onto the scene. The mood is deeply reflective, capturing a moment of quiet resilience in the heart of the electric cityscape, with a color palette dominated by saturated blues, purples, and fiery oranges.",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 280497902,
+      "created_at": "2026-04-02T17:34:34.773021+08:00"
+    },
+    {
       "id": "20260402_164254",
       "filename": "images/artwork_20260402_164254.jpg",
       "topic": "biotechnology and genetic engineering",
