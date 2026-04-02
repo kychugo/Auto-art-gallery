@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260402_123433",
+      "filename": "images/artwork_20260402_123433.jpg",
+      "topic": "ancient traditions meeting the modern world",
+      "prompt": "In a vibrant **pop art** style, an ancient tribal shaman in crimson-embroidered robes and feathered headdress stands dramatically atop a gleaming glass skyscraper at **golden hour**, his outstretched hands summoning glowing runes that clash intensely with holographic billboards flashing neon ads below. **Crimson and deep red** dominate the color palette, with bold black outlines and high-contrast halftone dots amplifying the tension between weathered stone idols at his feet and sleek drones buzzing through fiery sunset skies. The mood is intensely dramatic, shadows carving sharp edges as warm sunlight bathes the scene in epic, award-winning detail, capturing the explosive fusion of timeless rituals and futuristic chaos.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 749060417,
+      "created_at": "2026-04-02T12:34:33.098251+08:00"
+    },
+    {
       "id": "20260402_120539",
       "filename": "images/artwork_20260402_120539.jpg",
       "topic": "urban architecture of the future",
