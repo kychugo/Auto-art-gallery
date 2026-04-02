@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260402_154807",
+      "filename": "images/artwork_20260402_154807.jpg",
+      "topic": "virtual reality and the metaverse",
+      "prompt": "An anime-inspired digital painting of a solitary figure adrift in a vast, shimmering metaverse, their form partially obscured by luminous, swirling nebulae of cool blues and deep purples. The scene is illuminated by the soft, flickering glow of scattered digital candlelight, casting long, mysterious shadows that dance across the ethereal landscape, evoking a profound sense of wonder and introspective solitude. Intricate, glowing geometric patterns subtly manifest in the background, hinting at hidden code and unseen pathways within this digital dreamscape, rendered with award-winning detail and an ethereal, otherworldly ambiance.",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 1361334960,
+      "created_at": "2026-04-02T15:48:07.152146+08:00"
+    },
+    {
       "id": "20260402_145847",
       "filename": "images/artwork_20260402_145847.jpg",
       "topic": "renewable energy and sustainable living",
