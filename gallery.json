@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260403_054828",
+      "filename": "images/artwork_20260403_054828.jpg",
+      "topic": "artificial intelligence reshaping society",
+      "prompt": "An anime-inspired cityscape where organic, flowing AI structures made of glowing terracotta and intricate earth-toned circuitry intertwine with ancient stone architecture, bathed in the warm, flickering glow of countless virtual candlelight sources. Vibrant energy streams pulse through the urban landscape, illuminating determined figures with determined expressions as they interact with holographic interfaces, all rendered in a style evoking the dynamism of Studio Ghibli but with a futuristic, slightly melancholic edge. The overall mood is one of energetic, hopeful transformation under a twilight sky, emphasizing the profound and beautiful integration of technology into the human experience.",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 1744675971,
+      "created_at": "2026-04-03T05:48:28.323307+08:00"
+    },
+    {
       "id": "20260403_050415",
       "filename": "images/artwork_20260403_050415.jpg",
       "topic": "Hong Kong city life and culture",
