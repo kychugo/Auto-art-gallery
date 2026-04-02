@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260402_185306",
+      "filename": "images/artwork_20260402_185306.jpg",
+      "topic": "animals and nature conservation",
+      "prompt": "A whimsical and dreamlike pop art scene bathed in cool blues and purples, where a majestic, stylized elephant, its silhouette subtly adorned with constellations, drinks from a shimmering, moonlit waterhole. Shadows playfully dance around ancient, bioluminescent trees, casting ethereal glows on a lone, vibrant phoenix feather floating on the water's surface, embodying the delicate balance of nature conservation. The overall aesthetic is award-winning, with intricate details and a captivating, otherworldly atmosphere.",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 223183086,
+      "created_at": "2026-04-02T18:53:06.172630+08:00"
+    },
+    {
       "id": "20260402_183038",
       "filename": "images/artwork_20260402_183038.jpg",
       "topic": "Hong Kong protest art and resilience",
