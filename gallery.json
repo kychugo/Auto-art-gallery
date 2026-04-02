@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260402_235752",
+      "filename": "images/artwork_20260402_235752.jpg",
+      "topic": "renewable energy and sustainable living",
+      "prompt": "An oil painting in a whimsical, dreamlike style, depicting a vibrant neon cityscape powered by bioluminescent wind turbines and glowing solar flowers, with tiny inhabitants tending to rooftop gardens under the soft, ethereal glow of candlelight ambiance, creating a scene of harmonious, sustainable living bathed in an otherworldly, joyful luminescence.",
+      "text_model": "gemini-fast",
+      "image_model": "klein",
+      "seed": 418196467,
+      "created_at": "2026-04-02T23:57:52.127037+08:00"
+    },
+    {
       "id": "20260402_233506",
       "filename": "images/artwork_20260402_233506.jpg",
       "topic": "space exploration and the cosmos",
