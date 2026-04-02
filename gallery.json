@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260402_113009",
+      "filename": "images/artwork_20260402_113009.jpg",
+      "topic": "Hong Kong city life and culture",
+      "prompt": "In a dramatic digital art style, depict the pulsating heart of Hong Kong city life under stormy overcast skies, where towering skyscrapers pierce through brooding clouds, their facades alive with vibrant neon pinks, electric blues, and fiery reds reflecting off rain-slicked streets teeming with diverse crowds. Bustling night markets overflow with steaming street food stalls, traditional red lanterns swaying beside holographic ads, as performers in ornate dragon costumes weave through throngs of suited professionals, elderly tai chi practitioners, and laughing families amid the intense fusion of ancient temples and futuristic trams. Highly detailed, award-winning composition with cinematic depth, sharp contrasts of glowing neon against shadowy depths, and a moody intensity capturing the raw energy of cultural convergence.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 2037172671,
+      "created_at": "2026-04-02T11:30:09.381246+08:00"
+    },
+    {
       "id": "20260402_101331",
       "filename": "images/artwork_20260402_101331.jpg",
       "topic": "street food culture in Hong Kong",
