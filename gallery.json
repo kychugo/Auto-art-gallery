@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260402_211213",
+      "filename": "images/artwork_20260402_211213.jpg",
+      "topic": "post-pandemic world transformation",
+      "prompt": "A post-pandemic world transformation scene bathed in golden hour sunlight, where nature reclaims abandoned cyberpunk megacities with bioluminescent vines spiraling through sleek neon architecture, cool blues and purples bleeding through the warm light as if dusk and dawn collide. Mysterious, ethereal atmosphere with overgrown vertical gardens intertwining with high-tech infrastructure, cinematic lighting casting dramatic shadows across rain-slicked surfaces, distant holographic advertisements flickering softly against receding clouds. Highly detailed digital painting with art deco influences and futuristic elements, surreal and dreamlike, 8k resolution, evoking both hope and haunting solitude as humanity rebuilds among the remnants of technology and resurgent wilderness.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 1073628931,
+      "created_at": "2026-04-02T21:12:13.398590+08:00"
+    },
+    {
       "id": "20260402_200341",
       "filename": "images/artwork_20260402_200341.jpg",
       "topic": "quantum computing and the future",
