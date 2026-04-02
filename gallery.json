@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260402_200341",
+      "filename": "images/artwork_20260402_200341.jpg",
+      "topic": "quantum computing and the future",
+      "prompt": "A hopeful watercolor painting of a futuristic quantum computer core, glowing with ethereal qubits entangled in radiant superposition waves that ripple outward like hopeful dawn light breaking through uncertainty, symbolizing humanity's uplifting leap into boundless computational futures. Warm amber and orange tones dominate the palette, bathed in soft candlelight ambiance that casts gentle, flickering highlights on translucent circuit lattices and ascending data streams morphing into blooming starfields. Intricately detailed with fluid brushstrokes blending quantum superposition motifs into organic, ascending spirals, evoking award-winning visionary art that's visually stunning and profoundly optimistic.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 1038979037,
+      "created_at": "2026-04-02T20:03:41.613008+08:00"
+    },
+    {
       "id": "20260402_194733",
       "filename": "images/artwork_20260402_194733.jpg",
       "topic": "news headlines of tomorrow",
