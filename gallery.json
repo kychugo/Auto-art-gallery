@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260402_160725",
+      "filename": "images/artwork_20260402_160725.jpg",
+      "topic": "Hong Kong protest art and resilience",
+      "prompt": "A minimalist digital artwork depicting Hong Kong's skyline silhouetted against an arctic aurora borealis casting emerald and deep forest green light across towering buildings, with stark black brushstrokes forming abstract protest symbols and raised fists emerging from the geometric architecture, dystopian mood with haunting beauty, award-winning concept art capturing resilience through shadow and luminescence, high contrast photography aesthetic blended with ink-wash painting techniques, moody atmospheric rendering with ethereal aurora illuminating the determination etched into the cityscape.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 1584890875,
+      "created_at": "2026-04-02T16:07:25.642771+08:00"
+    },
+    {
       "id": "20260402_154807",
       "filename": "images/artwork_20260402_154807.jpg",
       "topic": "virtual reality and the metaverse",
