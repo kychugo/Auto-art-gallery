@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260403_060316",
+      "filename": "images/artwork_20260403_060316.jpg",
+      "topic": "quantum computing and the future",
+      "prompt": "In a serene cyberpunk metropolis of the future, towering quantum computers with glowing emerald circuits and deep forest green qubits hum peacefully under a vast moonlight sky, their holographic interfaces casting intricate shadows across rain-slicked rooftops and vine-draped skyscrapers. Ethereal data streams flow like bioluminescent rivers between colossal, crystalline processors suspended in zero-gravity chambers, evoking a tranquil fusion of ancient forest mysticism and advanced nanotechnology. Rendered in hyper-detailed cyberpunk style, award-winning cinematic composition with soft moonlight illumination, subtle volumetric shadows, and a dominant palette of emerald greens and deep forest hues for a profoundly calming, otherworldly serenity.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 433568075,
+      "created_at": "2026-04-03T06:03:16.338591+08:00"
+    },
+    {
       "id": "20260403_054828",
       "filename": "images/artwork_20260403_054828.jpg",
       "topic": "artificial intelligence reshaping society",
