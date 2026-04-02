@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260402_144957",
+      "filename": "images/artwork_20260402_144957.jpg",
+      "topic": "post-pandemic world transformation",
+      "prompt": "A serene, moonlit cyberpunk cityscape bathed in warm amber and orange hues, where bioluminescent flora has reclaimed towering, sleek skyscrapers, casting long, dancing shadows across empty, clean boulevards, evoking a peaceful transformation after a global crisis. The atmosphere is tranquil, with gentle light reflecting off polished chrome and lush, glowing greenery, a testament to nature's quiet resurgence and humanity's harmonious integration.",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 466420514,
+      "created_at": "2026-04-02T14:49:57.945773+08:00"
+    },
+    {
       "id": "20260402_140824",
       "filename": "images/artwork_20260402_140824.jpg",
       "topic": "traditional vs modern culture clash in Asia",
