@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260402_191355",
+      "filename": "images/artwork_20260402_191355.jpg",
+      "topic": "cultural diversity and global harmony",
+      "prompt": "A watercolor painting capturing **cultural diversity and global harmony** through an intimate circle of diverse humans from around the world— an Indigenous woman in feathered headdress, a veiled Middle Eastern man, an African elder with tribal scars, an Asian child in silk robes, and a European elder with folk embroidery—holding hands tenderly under **dramatic studio lighting** that casts soft shadows and golden highlights on their expressive faces and intertwined fingers, evoking deep human connection. Rendered in **soft pastel hues** of blush pinks, mint greens, lavender blues, and warm ochres blending seamlessly like watercolor washes, with intricate details in fabrics, skin textures, and subtle symbolic motifs like olive branches and interlocking patterns emerging from their unity. Award-winning, highly detailed, visually stunning composition with ethereal glows and emotional depth, portrait-style intimacy in a harmonious mosaic of global kinship.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 1525419235,
+      "created_at": "2026-04-02T19:13:55.973788+08:00"
+    },
+    {
       "id": "20260402_185306",
       "filename": "images/artwork_20260402_185306.jpg",
       "topic": "animals and nature conservation",
