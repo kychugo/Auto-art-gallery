@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260403_075500",
+      "filename": "images/artwork_20260403_075500.jpg",
+      "topic": "post-pandemic world transformation",
+      "prompt": "A vibrant city park in soft pastel hues, where nature gently reclaims urban spaces, with lush vines climbing over renovated buildings and wildflowers sprouting through repurposed pavement. Under a canopy of blossoming trees, a diverse community gathers in peaceful unity—children play near a solar-powered fountain, elders converse on benches, and artists paint en plein air, all bathed in soft, diffused daylight that casts a luminous haze and long, gentle shadows. The scene is rendered in an impressionist style, with visible, expressive brushstrokes blending the colors of renewal—lavender skies, mint green foliage, and peach-toned architecture—into a texture of shimmering, hopeful light.",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 526332907,
+      "created_at": "2026-04-03T07:55:00.520555+08:00"
+    },
+    {
       "id": "20260403_073145",
       "filename": "images/artwork_20260403_073145.jpg",
       "topic": "space exploration and the cosmos",
