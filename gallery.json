@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260402_225846",
+      "filename": "images/artwork_20260402_225846.jpg",
+      "topic": "Hong Kong protest art and resilience",
+      "prompt": "A lone, defiant figure, cloaked in shadow and rendered in stark noir style, stands amidst a surreal Hong Kong street scene transformed into an ethereal, crimson-drenched forest. Dappled, otherworldly light filters through unseen canopy, casting an intoxicating glow on protest iconography subtly woven into moss-covered lampposts and blooming, deep-red paper lotuses, evoking a mood of whimsical resilience.",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 1432580107,
+      "created_at": "2026-04-02T22:58:46.288346+08:00"
+    },
+    {
       "id": "20260402_223754",
       "filename": "images/artwork_20260402_223754.jpg",
       "topic": "future of human civilization and technology",
