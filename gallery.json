@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260402_183038",
+      "filename": "images/artwork_20260402_183038.jpg",
+      "topic": "Hong Kong protest art and resilience",
+      "prompt": "A noir-style portrait of Hong Kong resilience, where vibrant graffiti-covered alley walls glow under an arctic aurora borealis, its ethereal greens and purples dancing across terracotta rooftops and earth-toned protest art. Dynamic, energetic figures are silhouetted against stenciled messages of hope, their forms merging with shadows cast by glowing paper lanterns and weathered umbrellas. The scene is a detailed tapestry of cracked concrete adorned with golden dragons and neon Chinese characters, all bathed in the surreal, cinematic light of the celestial display.",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 1109857040,
+      "created_at": "2026-04-02T18:30:38.317451+08:00"
+    },
+    {
       "id": "20260402_175225",
       "filename": "images/artwork_20260402_175225.jpg",
       "topic": "economic inequality and social justice",
