@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260403_042801",
+      "filename": "images/artwork_20260403_042801.jpg",
+      "topic": "ocean conservation and marine life",
+      "prompt": "A photorealistic, monumental seascape captures the raw power of ocean conservation, where colossal crimson-tinted waves crash against jagged cliffs etched with urgent messages like \"Save Our Seas\" formed by thriving marine life—schools of vibrant coral reefs, majestic whales breaching through foaming crests, and swirling pods of dolphins guarding ancient shipwrecks reclaimed by kelp forests. Under stormy overcast light, deep red and crimson hues dominate the turbulent palette, with lightning-veined thunderheads casting dramatic shadows on bioluminescent sea creatures rising defiantly from the abyss, evoking an award-winning epic of nature's resilience and humanity's call to protect the deep. Ultra-detailed textures on every scale, from iridescent fish scales to frothing wave spume, in fine art photography style.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 754287963,
+      "created_at": "2026-04-03T04:28:01.453257+08:00"
+    },
+    {
       "id": "20260402_235752",
       "filename": "images/artwork_20260402_235752.jpg",
       "topic": "renewable energy and sustainable living",
