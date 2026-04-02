@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260402_164254",
+      "filename": "images/artwork_20260402_164254.jpg",
+      "topic": "biotechnology and genetic engineering",
+      "prompt": "First, the user specifies that I must respond with ONLY the image prompt itself. No explanations, no titles, no markdown. So, my response should be purely the prompt in plain English.\n\nThe prompt needs to be about biotechnology and genetic engineering. I have to incorporate these elements naturally:\n\n- Art style: pop art\n\n- Mood: dark and dystopian\n\n- Lighting: dramatic studio lighting\n\n- Color palette: emerald and deep forest green\n\nIt should be visually stunning, award-winning, and highly detailed. The prompt should be 2-4 sentences long and paint a clear mental picture.\n\nI need to write in English only.\n\nLet me brainstorm how to combine these elements:\n\n- **Biotechnology and genetic engineering**: Think of labs, DNA strands, genetic modifications, futuristic devices, or perhaps hybrid creatures.\n\n- **Pop art style**: This involves bold colors, comic-book-like elements, and often a graphic, stylized look. Pop art can be vibrant, but since the mood is dark and dystopian, I should adapt it to have a grim tone.\n\n- **Dark and dystopian mood**: So, the scene should feel ominous, futuristic but bleak, perhaps showing the negative side of biotech.\n\n- **Dramatic studio lighting**: This implies controlled lighting with strong contrasts, like in a photo studio, highlighting specific areas with shadows.\n\n- **Color palette: emerald and deep forest green**: Dominant colors should be shades of green, from bright emerald to dark forest green.\n\nNow, structure the prompt into 2-4 sentences. It should be descriptive and detailed.\n\nStart with the main subject: perhaps a genetically engineered organism or a biotech lab scene.\n\nIncorporate the art style early: mention \"in the style of pop art\" or describe pop art elements.\n\nSet the mood: use words like \"dark,\" \"dystopian,\" \"ominous.\"\n\nDescribe the lighting: \"dramatic studio lighting\" with highlights and shadows.\n\nEnsure",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 1763715552,
+      "created_at": "2026-04-02T16:42:54.858775+08:00"
+    },
+    {
       "id": "20260402_163415",
       "filename": "images/artwork_20260402_163415.jpg",
       "topic": "renewable energy and sustainable living",
