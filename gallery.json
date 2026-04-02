@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260403_065601",
+      "filename": "images/artwork_20260403_065601.jpg",
+      "topic": "economic inequality and social justice",
+      "prompt": "An impressionist painting captures a poignant scene of economic disparity, where soft, diffused daylight illuminates a stark contrast between two figures: one, adorned in a simple, worn garment, sits hunched on a shadowed doorstep, their face turned away in quiet resignation, while across a narrow, rain-slicked alleyway, another figure, vibrantly lit, stands silhouetted against a neon-drenched cityscape, their posture suggesting prosperity and detachment. The overall mood is intimate yet socially critical, with the impressionistic brushstrokes rendering the scene with emotional depth, using a palette of deep blues and muted earth tones for the shadowed figure and juxtaposing them with luminous, vibrant neon pinks, electric blues, and sharp yellows that bleed into the background, emphasizing the chasm between their realities.",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 759583457,
+      "created_at": "2026-04-03T06:56:01.066755+08:00"
+    },
+    {
       "id": "20260403_062103",
       "filename": "images/artwork_20260403_062103.jpg",
       "topic": "traditional vs modern culture clash in Asia",
