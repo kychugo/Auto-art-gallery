@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260402_222307",
+      "filename": "images/artwork_20260402_222307.jpg",
+      "topic": "biotechnology and genetic engineering",
+      "prompt": "A surrealist vision of biotechnology, where intricate, bioluminescent strands of DNA, rendered in luminous emerald and deep forest green, twist and intertwine around a crystalline, ancient tree trunk that seems to pulse with ethereal light.  Candlelight ambiance casts long, dancing shadows, creating a mysterious and otherworldly atmosphere, with microscopic cellular structures blooming like strange, otherworldly flora within the scene. The overall mood is one of profound, unexplored wonder, as if witnessing the very genesis of life in a dreamlike, otherworldly laboratory.",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 101955319,
+      "created_at": "2026-04-02T22:23:07.517606+08:00"
+    },
+    {
       "id": "20260402_215955",
       "filename": "images/artwork_20260402_215955.jpg",
       "topic": "cybersecurity and privacy in the digital world",
