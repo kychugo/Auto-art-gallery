@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260402_163415",
+      "filename": "images/artwork_20260402_163415.jpg",
+      "topic": "renewable energy and sustainable living",
+      "prompt": "A dramatic cinematic shot of a futuristic sustainable city at dusk, where towering wind turbines and massive solar panel arrays rise alongside sleek glass skyscrapers, bathed in an intense neon city glow that illuminates the sky in warm amber and orange tones, with light rays piercing through glowing wind turbine blades as electric vehicles glide silently through tree-lined streets, creating a breathtaking interplay between nature and technology that captures the dramatic intensity of humanity's renewable energy revolution.",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 245687978,
+      "created_at": "2026-04-02T16:34:15.311554+08:00"
+    },
+    {
       "id": "20260402_160725",
       "filename": "images/artwork_20260402_160725.jpg",
       "topic": "Hong Kong protest art and resilience",
