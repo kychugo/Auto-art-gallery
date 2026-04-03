@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260403_124219",
+      "filename": "images/artwork_20260403_124219.jpg",
+      "topic": "future of human civilization and technology",
+      "prompt": "First, the user wants me to create an image generation prompt. I am to act as a world-class creative director and AI artist. My response must be ONLY the image prompt itself—no explanations, no titles, no markdown. I must write exclusively in English.\n\nThe prompt topic is \"future of human civilization and technology.\" I need to incorporate specific elements:\n\n- Art style: watercolor\n\n- Mood: dramatic and intense\n\n- Lighting: dramatic studio lighting\n\n- Color palette: vibrant neon colors\n\nThe prompt should be 2-4 sentences long, vivid, detailed, and paint a clear mental picture. It should be visually stunning and award-winning.\n\nI need to combine these elements naturally into a cohesive description. Since it's watercolor art style, I should mention the fluidity or blending effects typical of watercolor. The mood is dramatic and intense, so the scene should evoke strong emotions. Lighting is dramatic studio lighting, which might imply sharp contrasts, highlights, and shadows, like in a professional photo shoot. The color palette is vibrant neon colors, so think of bright, glowing hues like neon pinks, greens, blues, etc., which can contrast with darker areas for drama.\n\nThe theme is the future of human civilization and technology. So, I should depict a futuristic scene that shows advanced technology integrated with human life. Ideas could include cyberpunk cities, advanced AI, human augmentation, or harmonious tech-nature blends.\n\nStructure the prompt: Start with the main subject, describe the scene, incorporate the art style, mood, lighting, and colors. Make it descriptive and detailed.\n\nPossible elements: A futuristic cityscape with neon lights, people using advanced tech, all rendered in watercolor. But watercolor might soften the edges, so I need to balance that with dramatic lighting.\n\nEnsure it's 2-4 sentences. Let's draft:\n\nSentence 1: Set the scene with the future theme and incorporate watercolor style.\n\nSentence 2: Add details about",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 778375805,
+      "created_at": "2026-04-03T12:42:19.968189+08:00"
+    },
+    {
       "id": "20260403_123420",
       "filename": "images/artwork_20260403_123420.jpg",
       "topic": "health and medicine breakthroughs",
