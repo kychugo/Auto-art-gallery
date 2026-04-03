@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260403_114633",
+      "filename": "images/artwork_20260403_114633.jpg",
+      "topic": "cybersecurity and privacy in the digital world",
+      "prompt": "First, the user wants a detailed image generation prompt. It must be about \"cybersecurity and privacy in the digital world.\" I need to incorporate specific elements: art style is baroque, mood is dark and dystopian, lighting is dappled forest light, and color palette is soft pastel hues. The prompt should be 2-4 sentences long, visually stunning, award-winning, and highly detailed. I must respond with ONLY the prompt in English, no explanations or markdown.\n\nKey elements to blend:\n- **Cybersecurity and privacy**: This involves digital concepts like data, encryption, surveillance, networks, etc. I need to represent this visually.\n- **Art style: Baroque**: Baroque art is known for its drama, richness, detail, and movement. Think ornate, elaborate, with strong contrasts and emotional intensity.\n- **Mood: Dark and dystopian**: This suggests a grim, oppressive future, possibly with themes of control, decay, or danger.\n- **Lighting: Dappled forest light**: This is light filtering through leaves, creating patterns of light and shadow. It adds a natural, organic feel.\n- **Color palette: Soft pastel hues**: Pastels are light, muted colors. Soft pastel hues might include pale pinks, blues, greens, lavenders, etc. This contrasts with the dark mood, so I need to balance that.\n\nI need to create a mental picture that combines these. For example, a baroque-style scene with dystopian elements, using dappled light and pastel colors to depict cybersecurity themes.\n\nBrainstorming imagery:\n- Represent cybersecurity with digital elements like glowing data streams, encrypted symbols, or shadowy figures representing hackers or surveillance.\n- Privacy could be shown through motifs like masks, shields, or hidden spaces.\n- Baroque elements: ornate frames, intricate patterns, dramatic poses.\n- Dappled forest light: light breaking through a canopy, maybe in a digital forest or a mix of nature and technology",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 264486243,
+      "created_at": "2026-04-03T11:46:33.634887+08:00"
+    },
+    {
       "id": "20260403_113137",
       "filename": "images/artwork_20260403_113137.jpg",
       "topic": "revolution in education through technology",
