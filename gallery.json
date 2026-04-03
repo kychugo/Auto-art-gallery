@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260404_065748",
+      "filename": "images/artwork_20260404_065748.jpg",
+      "topic": "health and medicine breakthroughs",
+      "prompt": "A group of young, diverse scientists in a modern laboratory, viewed through an impressionist lens with soft, blended brushstrokes that capture the ethereal play of light and shadow from dramatic studio lighting, their poised figures expressing focused hope as they observe a glowing, holographic double-helix and a glimmer of translucent cells, rendered in a stunning monochromatic black and white palette with subtle gradations that create a luminous, uplifting and award-winning scene of medical discovery.",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 420685789,
+      "created_at": "2026-04-04T06:57:48.304852+08:00"
+    },
+    {
       "id": "20260404_062006",
       "filename": "images/artwork_20260404_062006.jpg",
       "topic": "artificial intelligence reshaping society",
