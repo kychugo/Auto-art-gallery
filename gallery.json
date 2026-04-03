@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260403_131055",
+      "filename": "images/artwork_20260403_131055.jpg",
+      "topic": "traditional vs modern culture clash in Asia",
+      "prompt": "First, the user specifies: \"Create a unique, detailed image generation prompt about: traditional vs modern culture clash in Asia.\" I need to focus on the clash between traditional and modern elements in an Asian context.\n\nRequired elements:\n- Art style: abstract expressionist. This means the prompt should evoke an artistic style that is abstract, with expressive, non-representational forms, often emotional and dynamic.\n- Mood: powerful and monumental. The image should feel grand, impactful, and significant, like a large-scale work.\n- Lighting: candlelight ambiance. This suggests soft, warm, flickering light from candles, creating a intimate or dramatic atmosphere.\n- Color palette: monochromatic black and white. So, the entire image should be in shades of black, white, and gray, no colors.\n\nThe prompt should be 2-4 sentences long, visually stunning, award-winning, and highly detailed. I need to paint a clear mental picture and write only in English. No explanations or markdown, just the prompt itself.\n\nStructure the prompt:\n- Start by setting the scene for the culture clash in Asia.\n- Incorporate the abstract expressionist style naturally.\n- Ensure the mood is powerful and monumental.\n- Describe the lighting as candlelight ambiance.\n- Use a monochromatic black and white color palette.\n- Make it detailed and vivid.\n\nPossible elements for traditional vs modern clash in Asia: things like ancient temples next to skyscrapers, traditional clothing versus modern fashion, old rituals in urban settings, etc. Since it's abstract expressionist, I can use symbolic or distorted forms to represent these elements.\n\nBrainstorm ideas:\n- Represent traditional aspects with elements like lanterns, calligraphy, traditional architecture (e.g., pagodas), or cultural symbols.\n- Modern aspects could be represented by geometric shapes, sleek lines, technology symbols, or urban structures.\n- Clash could be shown through contrasting forms, overlapping, or dynamic interactions.\n\nIncorporate lighting: candlelight ambiance – so,",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 1745657921,
+      "created_at": "2026-04-03T13:10:55.309293+08:00"
+    },
+    {
       "id": "20260403_124219",
       "filename": "images/artwork_20260403_124219.jpg",
       "topic": "future of human civilization and technology",
