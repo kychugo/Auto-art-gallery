@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260404_062006",
+      "filename": "images/artwork_20260404_062006.jpg",
+      "topic": "artificial intelligence reshaping society",
+      "prompt": "An ethereal oil painting depicting a serene, futuristic cityscape bathed in the soft, undulating glow of an emerald and deep forest green aurora borealis, where advanced AI seamlessly integrates with nature, illuminating tranquil plazas and bio-luminescent pathways, creating an atmosphere of profound peace and harmonious evolution.",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 2012079898,
+      "created_at": "2026-04-04T06:20:06.619501+08:00"
+    },
+    {
       "id": "20260404_055855",
       "filename": "images/artwork_20260404_055855.jpg",
       "topic": "fashion meets technology",
