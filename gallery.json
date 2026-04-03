@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260404_055855",
+      "filename": "images/artwork_20260404_055855.jpg",
+      "topic": "fashion meets technology",
+      "prompt": "A striking fashion model stands in a rain-soaked urban plaza, wearing a breathtaking structural garment that seamlessly blends organic fabric with illuminated geometric metal panels that pulse with soft bioluminescent patterns, her confident pose and serene expression conveying resilient hope amid the dramatic stormy overcast skies, captured in hyperrealistic black and white photography with striking chiaroscuro lighting that emphasizes the innovative fusion of couture artistry and cutting-edge technology.",
+      "text_model": "minimax",
+      "image_model": "flux",
+      "seed": 1334843666,
+      "created_at": "2026-04-04T05:58:56.006503+08:00"
+    },
+    {
       "id": "20260404_054158",
       "filename": "images/artwork_20260404_054158.jpg",
       "topic": "sports and human physical achievement",
