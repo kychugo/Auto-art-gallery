@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260403_163908",
+      "filename": "images/artwork_20260403_163908.jpg",
+      "topic": "space exploration and the cosmos",
+      "prompt": "An anime-inspired astronaut with flowing silver hair visible through a cracked helmet visor floats dramatically amid swirling emerald nebulae and deep forest green cosmic voids, gripping a glowing control panel as ancient alien ruins emerge from a black hole's event horizon, intense candlelight ambiance flickering from bioluminescent thrusters casting long, eerie shadows across the starry expanse. The scene pulses with high-stakes tension, sharp cel-shaded lines defining hyper-detailed suit textures etched with glowing runes, massive planetary rings fracturing in the distance under volumetric god rays piercing the darkness. Award-winning masterpiece in vibrant emerald and deep forest green palette, ultra-detailed 8K resolution, cinematic composition with lens flares and dynamic particle effects evoking epic space exploration peril.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 552250531,
+      "created_at": "2026-04-03T16:39:08.863104+08:00"
+    },
+    {
       "id": "20260403_161138",
       "filename": "images/artwork_20260403_161138.jpg",
       "topic": "health and medicine breakthroughs",
