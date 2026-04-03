@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260403_161138",
+      "filename": "images/artwork_20260403_161138.jpg",
+      "topic": "health and medicine breakthroughs",
+      "prompt": "A whimsical, dreamlike cinematic scene unfolds in a softly lit studio, where iridescent, ethereal strands of DNA intertwine with glowing, miniature anatomical models of the human heart and brain, all bathed in dramatic studio lighting that casts gentle shadows. Delicate, translucent bubbles, infused with soft pastel hues of lavender, mint, and rose, drift through the air, symbolizing the breakthroughs in health and medicine, creating a visually stunning and award-winning composition. The intricate details of microscopic cellular structures are rendered with exquisite clarity, hinting at the boundless potential of future medical advancements.",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 787095762,
+      "created_at": "2026-04-03T16:11:38.594281+08:00"
+    },
+    {
       "id": "20260403_160229",
       "filename": "images/artwork_20260403_160229.jpg",
       "topic": "ancient traditions meeting the modern world",
