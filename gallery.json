@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260403_123420",
+      "filename": "images/artwork_20260403_123420.jpg",
+      "topic": "health and medicine breakthroughs",
+      "prompt": "In a Baroque style, an intimate scene unfolds where a scientist, bathed in dappled forest light filtering through ancient trees, gazes with profound empathy at a holographic representation of a cellular breakthrough, rendered in high-contrast black and shimmering gold. The atmosphere is one of quiet revelation and human connection to discovery, with ornate, almost organic, golden filigree subtly weaving around the scientific imagery, emphasizing the deep, almost spiritual, beauty of medical advancement. The overall mood is intensely human and reverent, capturing a moment of private awe at a monumental leap in understanding.",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 1618577268,
+      "created_at": "2026-04-03T12:34:20.956364+08:00"
+    },
+    {
       "id": "20260403_120653",
       "filename": "images/artwork_20260403_120653.jpg",
       "topic": "virtual reality and the metaverse",
