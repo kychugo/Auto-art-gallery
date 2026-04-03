@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260403_134027",
+      "filename": "images/artwork_20260403_134027.jpg",
+      "topic": "traditional vs modern culture clash in Asia",
+      "prompt": "A scene depicting a vibrant digital art masterpiece where ancient Asian traditions collide with hyper-modernity, rendered with an ethereal, mysterious mood. Intricate, almost ghostly, holographic geishas and samurai figures emerge from the earth tones and terracotta hues, their forms illuminated by a soft, otherworldly bioluminescent glow that casts deep, alluring shadows. The background is a breathtaking blend of ancient pagodas and futuristic neon cityscapes, all rendered with hyper-detailed textures and a sense of profound depth, creating a visually stunning, award-winning composition.",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 493925820,
+      "created_at": "2026-04-03T13:40:27.040689+08:00"
+    },
+    {
       "id": "20260403_132310",
       "filename": "images/artwork_20260403_132310.jpg",
       "topic": "news headlines of tomorrow",
