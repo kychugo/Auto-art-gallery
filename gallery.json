@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260403_113137",
+      "filename": "images/artwork_20260403_113137.jpg",
+      "topic": "revolution in education through technology",
+      "prompt": "A surrealist scene where towering ancient textbooks transform into glowing floating monoliths emitting neon violet and electric blue light, as students with luminous circuitry running through their hands reach toward holographic flying creatures representing knowledge, all beneath tempestuous overcast skies with swirling silver and magenta storm clouds, the storm-lit scene blending dark stormy atmosphere with vivid neon pathways of enlightenment streaming between the metamorphosing books and the ethereal winged symbols of wisdom.",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 978908818,
+      "created_at": "2026-04-03T11:31:37.588712+08:00"
+    },
+    {
       "id": "20260403_102240",
       "filename": "images/artwork_20260403_102240.jpg",
       "topic": "mental health awareness in the digital age",
