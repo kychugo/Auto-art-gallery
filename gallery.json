@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260403_172909",
+      "filename": "images/artwork_20260403_172909.jpg",
+      "topic": "global climate crisis and environmental solutions",
+      "prompt": "A surrealist masterpiece depicting the global climate crisis transformed into serene harmony, where crimson-tinted melting ice caps morph into lush, bioluminescent forests of deep red foliage on floating islands connected by vine bridges, waterfalls of purified water cascading into abyssal voids below, with ethereal figures planting radiant seeds that bloom into protective canopies shielding the earth. Gentle bioluminescent glows in shades of crimson and deep red emanate from glowing crystals and flora, casting peaceful volumetric light rays through misty veils, evoking a tranquil mood of hopeful renewal amid surreal, award-winning details like iridescent dew-kissed leaves, distant crimson auroras, and harmonious wildlife drifting in the serene air. Ultra-detailed, dreamlike composition in the style of Salvador Dalí meets contemporary eco-fantasy, high-resolution, cinematic depth of field.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 1932367539,
+      "created_at": "2026-04-03T17:29:09.161817+08:00"
+    },
+    {
       "id": "20260403_163908",
       "filename": "images/artwork_20260403_163908.jpg",
       "topic": "space exploration and the cosmos",
