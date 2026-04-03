@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260404_073012",
+      "filename": "images/artwork_20260404_073012.jpg",
+      "topic": "fashion meets technology",
+      "prompt": "A futuristic fashion model walks down an illuminated runway draped in flowing holographic garments that shimmer with iridescent pastel threads, her silhouette defined by dramatic moonlight streaming through glass ceiling panels and casting elongated shadows across the floor as she passes through shafts of silver-blue light. The scene pulses with vibrant energy, with digital displays flanking the catwalk showing glitched fashion animations in lavender, blush pink, and mint green tones while smart fabrics glow softly against her skin. Cinematic composition captures the moment in rich detail, with bokeh neon accents blurring in the background and the moon's gentle illumination highlighting the intersection of organic beauty and technological innovation in every sequin and fiber optic detail.",
+      "text_model": "minimax",
+      "image_model": "flux",
+      "seed": 191793989,
+      "created_at": "2026-04-04T07:30:12.639949+08:00"
+    },
+    {
       "id": "20260404_065748",
       "filename": "images/artwork_20260404_065748.jpg",
       "topic": "health and medicine breakthroughs",
