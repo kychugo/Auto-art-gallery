@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260403_230833",
+      "filename": "images/artwork_20260403_230833.jpg",
+      "topic": "ocean conservation and marine life",
+      "prompt": "A photorealistic underwater scene of a melancholic coral reef ravaged by pollution, where vibrant neon-colored marine life—glow-in-the-dark jellyfish, electric-blue parrotfish, and neon-pink sea turtles—gracefully navigate tangled plastic debris and faded corals, evoking deep reflection on ocean conservation. Candlelight ambiance filters through the depths as soft, flickering god rays mimic submerged flames, casting ethereal caustic patterns on ghostly shipwrecks and bioluminescent plankton blooms. Rendered in award-winning hyper-detailed 8K resolution with a palette of vivid neon blues, pinks, greens, and purples contrasting muted grays, capturing a hauntingly beautiful call to protect marine ecosystems.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 45598075,
+      "created_at": "2026-04-03T23:08:33.381683+08:00"
+    },
+    {
       "id": "20260403_224615",
       "filename": "images/artwork_20260403_224615.jpg",
       "topic": "biotechnology and genetic engineering",
