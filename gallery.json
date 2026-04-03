@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260403_102240",
+      "filename": "images/artwork_20260403_102240.jpg",
+      "topic": "mental health awareness in the digital age",
+      "prompt": "A Baroque-inspired digital landscape unfolds under the ethereal glow of an arctic aurora borealis, casting mysterious, elongated shadows across a scene rich with earth tones and terracotta hues. Human figures, rendered with dramatic realism, appear partially obscured by swirling digital mist and fragmented data streams, symbolizing the complex interplay between mental well-being and the pervasive influence of the digital age. The lighting is dynamic, with luminous greens and blues of the aurora piercing the earthy palette, creating a sense of both awe and unease, and hinting at the hidden depths of the subconscious.",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 810405954,
+      "created_at": "2026-04-03T10:22:40.258715+08:00"
+    },
+    {
       "id": "20260403_075500",
       "filename": "images/artwork_20260403_075500.jpg",
       "topic": "post-pandemic world transformation",
