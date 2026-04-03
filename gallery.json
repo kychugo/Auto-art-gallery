@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260403_221030",
+      "filename": "images/artwork_20260403_221030.jpg",
+      "topic": "human migration and global nomadism",
+      "prompt": "A vibrant watercolor wash depicts a diverse throng of figures in constant motion, their forms rendered with energetic, fluid lines that convey the dynamism of human migration. Subtle yet striking bioluminescent trails emanate from their footsteps and outstretched hands, casting an ethereal glow that illuminates their path through a stark, monochromatic black and white landscape. This creates a visually stunning contrast, where the luminous pathways symbolize hope and resilience against a backdrop of uncertainty, evoking a mood of vibrant, unstoppable energy.",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 297549071,
+      "created_at": "2026-04-03T22:10:30.600248+08:00"
+    },
+    {
       "id": "20260403_220307",
       "filename": "images/artwork_20260403_220307.jpg",
       "topic": "biotechnology and genetic engineering",
