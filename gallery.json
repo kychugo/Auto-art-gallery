@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260404_042746",
+      "filename": "images/artwork_20260404_042746.jpg",
+      "topic": "blockchain and decentralized future",
+      "prompt": "A digital art masterpiece rendered in stark monochromatic black and white, depicting an intricate network of glowing blockchain nodes interconnected by luminous chains suspended in an ethereal void. The scene is bathed in cool moonlight and deep shadows, creating a melancholic atmosphere that evokes both wonder and isolation, with towering crystalline structures representing decentralized systems emerging from darkness. Fine details include circuit-like pathways, hovering geometric data fragments, and distant silhouettes of individuals reaching toward the interconnected nodes, their forms fragmented and ethereal against the vast digital landscape. The composition balances intricate technical precision with emotional depth, rendered with award-winning clarity and atmospheric depth through strategic use of shadows and moonlit highlights casting across the monochromatic digital realm.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 1841856378,
+      "created_at": "2026-04-04T04:27:46.311711+08:00"
+    },
+    {
       "id": "20260403_233641",
       "filename": "images/artwork_20260403_233641.jpg",
       "topic": "post-pandemic world transformation",
