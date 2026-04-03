@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260403_120653",
+      "filename": "images/artwork_20260403_120653.jpg",
+      "topic": "virtual reality and the metaverse",
+      "prompt": "A surrealist digital avatar materializing within an impossible metaverse landscape, their form fractured into crystalline fragments that shimmer between emerald and deep forest green, suspended within a gravity-defying cityscape of floating geometric platforms and liquid glass bridges. Dramatic studio lighting pierces through prismatic beams, casting sharp shadows and radiant highlights across translucent virtual surfaces that ripple like water, creating an ethereal glow around interconnected nodes of bioluminescent data. The figure's silhouette trails luminous code and abstract symbols while drifting weightlessly through layers of surreal, dreamlike architecture where physical laws dissolve into painted brushstrokes and fractal patterns. Ultra-detailed 8K rendering with iridescent color gradients, soft bloom effects, and a whimsical atmosphere that blends technology with organic otherworldliness, evoking wonder and cosmic intrigue.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 1724896448,
+      "created_at": "2026-04-03T12:06:53.483005+08:00"
+    },
+    {
       "id": "20260403_114633",
       "filename": "images/artwork_20260403_114633.jpg",
       "topic": "cybersecurity and privacy in the digital world",
