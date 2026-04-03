@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260403_214041",
+      "filename": "images/artwork_20260403_214041.jpg",
+      "topic": "Hong Kong city life and culture",
+      "prompt": "A minimalist, award-winning digital painting capturing the essence of Hong Kong's vibrant street life, where towering, abstract skyscrapers are softened by ethereal, dappled forest light filtering through unseen canopies, creating a hopeful and uplifting mood. The high-contrast black and gold color palette emphasizes geometric architectural lines and subtle cultural motifs, imbuing the scene with a sense of sophisticated dynamism. This highly detailed composition evokes a futuristic yet grounded urban landscape, where nature and city coexist in a striking visual harmony.",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 1665679419,
+      "created_at": "2026-04-03T21:40:41.496614+08:00"
+    },
+    {
       "id": "20260403_210224",
       "filename": "images/artwork_20260403_210224.jpg",
       "topic": "future of human civilization and technology",
