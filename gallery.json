@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260403_135638",
+      "filename": "images/artwork_20260403_135638.jpg",
+      "topic": "biotechnology and genetic engineering",
+      "prompt": "A single, ethereal bioluminescent cell drifts within a baroque laboratory, its holographic iridescent glow casting long, melancholic shadows across ornate, gilded surfaces, while moonlight filters through a high, arched window, illuminating motes of dust dancing in the contemplative, somber atmosphere. Intricate genetic code, visualized as shimmering, holographic strands, weaves through the scene, hinting at the profound and beautiful mysteries of life's engineered future. The overall aesthetic is one of profound, somber beauty, reminiscent of old master paintings but infused with futuristic, otherworldly luminescence.",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 1064909587,
+      "created_at": "2026-04-03T13:56:38.367841+08:00"
+    },
+    {
       "id": "20260403_134027",
       "filename": "images/artwork_20260403_134027.jpg",
       "topic": "traditional vs modern culture clash in Asia",
