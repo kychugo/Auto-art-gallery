@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260403_195741",
+      "filename": "images/artwork_20260403_195741.jpg",
+      "topic": "mental health awareness in the digital age",
+      "prompt": "An anime-inspired, dark, and dystopian scene where a lone figure, bathed in the dappled light filtering through a dense, stylized forest canopy, navigates a path illuminated by vibrant, flickering neon signs that cast an unsettling glow. The mood is heavy and introspective, with sharp, angular character designs and a color palette dominated by electric blues, piercing magentas, and toxic greens contrasting with deep, shadowy purples, all rendered with a hyper-detailed, cinematic aesthetic. This digital-age manifestation of mental struggle unfolds as the neon lights glitch and distort, symbolizing fractured perceptions and overwhelming information, while the natural forest elements represent a yearning for peace amidst the chaos.",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 1847291530,
+      "created_at": "2026-04-03T19:57:41.213400+08:00"
+    },
+    {
       "id": "20260403_184533",
       "filename": "images/artwork_20260403_184533.jpg",
       "topic": "sports and human physical achievement",
