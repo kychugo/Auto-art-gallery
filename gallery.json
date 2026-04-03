@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260403_145614",
+      "filename": "images/artwork_20260403_145614.jpg",
+      "topic": "artificial intelligence reshaping society",
+      "prompt": "A highly detailed digital art masterpiece depicting artificial intelligence reshaping society, where colossal ethereal neural networks of glowing amber circuits weave through a stormy overcast skyline of crumbling megacities and floating holographic human figures merging with code streams, evoking a mysterious and ethereal mood of transformation and uncertainty. Warm amber and orange tones dominate the palette, pierced by dramatic stormy overcast lighting that casts elongated shadows and radiant glows from pulsing AI cores, rendering intricate textures on fractured skyscrapers, vaporous data clouds, and translucent cybernetic limbs in award-winning hyper-realism. Viewed from a low dramatic angle, cinematic composition with volumetric god rays filtering through thunderheads, ultra-detailed, 8k resolution.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 1961544129,
+      "created_at": "2026-04-03T14:56:14.896677+08:00"
+    },
+    {
       "id": "20260403_144705",
       "filename": "images/artwork_20260403_144705.jpg",
       "topic": "news headlines of tomorrow",
