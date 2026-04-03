@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260403_144705",
+      "filename": "images/artwork_20260403_144705.jpg",
+      "topic": "news headlines of tomorrow",
+      "prompt": "A dramatic concept art scene of towering newspaper stands and crumpled headlines swirling in a futuristic city alley at dawn on April 4, 2026, proclaiming cataclysmic tomorrow's news like \"AI Uprising Begins,\" \"Global Blackout Hits,\" and \"Lost City Rises from Sea,\" rendered in stark monochromatic black and white with intense high-contrast details on bold typography and torn paper edges. Neon city glow from overhead signs casts ethereal volumetric god rays and sharp rim lighting on the chaotic composition, heightening the intense, foreboding mood through deep shadows, intricate textures, and cinematic depth of field. Highly detailed, award-winning visual masterpiece evoking dystopian thriller atmosphere with dynamic motion blur on flying headlines and subtle atmospheric fog.[1][2][3]",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 1381375326,
+      "created_at": "2026-04-03T14:47:06.004928+08:00"
+    },
+    {
       "id": "20260403_140916",
       "filename": "images/artwork_20260403_140916.jpg",
       "topic": "ocean conservation and marine life",
