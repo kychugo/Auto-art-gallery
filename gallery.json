@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260403_224615",
+      "filename": "images/artwork_20260403_224615.jpg",
+      "topic": "biotechnology and genetic engineering",
+      "prompt": "First, the user wants me to create an image generation prompt about biotechnology and genetic engineering. I need to incorporate specific elements: surrealist art style, powerful and monumental mood, dappled forest lighting, and a color palette of earth tones and terracotta.\n\nThe prompt should be 2-4 sentences long, visually stunning, award-winning, and highly detailed. I must respond with ONLY the image prompt in English, no explanations or extra text.\n\nKey elements to weave in:\n- Surrealist art style: This means the image should have dreamlike, bizarre, or fantastical elements that defy reality. Think of artists like Salvador Dalí.\n- Mood: Powerful and monumental. So, the scene should feel grand, impactful, and awe-inspiring, like something huge or significant.\n- Lighting: Dappled forest light. This suggests light filtering through trees, creating patches of light and shadow, like in a forest.\n- Color palette: Earth tones and terracotta. Colors like browns, greens, oranges, and reddish-browns, reminiscent of natural materials.\n\nTheme: Biotechnology and genetic engineering. I need to visualize something related to this, such as DNA, cells, genetic structures, or engineered organisms, but in a surreal way.\n\nStructure the prompt:\n- Start by setting the scene with the surrealist style and mood.\n- Describe the lighting and color palette.\n- Incorporate biotechnology elements naturally, making them part of the surreal imagery.\n- Ensure it's detailed and paints a clear mental picture.\n\nDraft a prompt:\n- Sentence 1: Introduce the surreal scene with biotechnology elements, set in a forest-like environment with dappled light.\n- Sentence 2: Add details about the monumental aspects and color palette.\n- Sentence 3: Maybe elaborate on the genetic engineering aspects or the powerful mood.\n- Keep it within 2-4 sentences.\n\nExample idea: A giant, twisting DNA helix made of terracotta and organic materials, glowing with dappled forest light",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 875695183,
+      "created_at": "2026-04-03T22:46:15.071933+08:00"
+    },
+    {
       "id": "20260403_221030",
       "filename": "images/artwork_20260403_221030.jpg",
       "topic": "human migration and global nomadism",
