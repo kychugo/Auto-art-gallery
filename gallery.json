@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260403_132310",
+      "filename": "images/artwork_20260403_132310.jpg",
+      "topic": "news headlines of tomorrow",
+      "prompt": "Photorealistic, melancholic scene depicting a solitary, antique printing press bathed in the ethereal, otherworldly glow of a vibrant arctic aurora borealis; headlines of tomorrow, printed on aged parchment in cool blues and purples, cascade onto a frost-covered floor, reflecting the distant, shimmering lights in a mood of quiet, profound reflection.",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 1179178306,
+      "created_at": "2026-04-03T13:23:10.141357+08:00"
+    },
+    {
       "id": "20260403_131055",
       "filename": "images/artwork_20260403_131055.jpg",
       "topic": "traditional vs modern culture clash in Asia",
