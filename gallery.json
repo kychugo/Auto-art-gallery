@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260403_210224",
+      "filename": "images/artwork_20260403_210224.jpg",
+      "topic": "future of human civilization and technology",
+      "prompt": "A lone, silhouetted figure stands on a crystalline skyscraper, gazing out at a sprawling, hyper-futuristic cityscape bathed in an ethereal, bioluminescent glow. Emerald and deep forest green hues dominate the scene, reflecting off polished chrome and pulsating holographic advertisements, creating a mood of mysterious wonder, all rendered in a bold, graphic pop art style with sharp lines and vibrant, contrasting textures.  Floating orbs of light drift through the humid, verdant atmosphere, casting an otherworldly, dappled illumination on the advanced, organic architecture that climbs towards a star-dusted, emerald sky.",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 648933793,
+      "created_at": "2026-04-03T21:02:24.460841+08:00"
+    },
+    {
       "id": "20260403_195741",
       "filename": "images/artwork_20260403_195741.jpg",
       "topic": "mental health awareness in the digital age",
