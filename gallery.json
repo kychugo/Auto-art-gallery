@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260404_050351",
+      "filename": "images/artwork_20260404_050351.jpg",
+      "topic": "future of human civilization and technology",
+      "prompt": "A breathtaking, award-winning cinematic panorama unfolds as golden hour sunlight streams through a hyper-detailed, ethereal cityscape where colossal, bioluminescent flora intertwines with sleek, towering architecture. Mysterious, shimmering energy currents flow between impossibly advanced structures, casting vibrant neon hues of electric blue, vivid magenta, and toxic green across the scene, creating an atmosphere of profound wonder and serene otherworldliness. Intricate holographic advertisements flicker amidst the towering skyscrapers, while silent, levitating vehicles navigate sky-high transit lanes, all rendered with a photorealistic yet dreamlike quality.A breathtaking, award-winning cinematic panorama unfolds as golden hour sunlight streams through a hyper-detailed, ethereal cityscape where colossal, bioluminescent flora intertwines with sleek, towering architecture. Mysterious, shimmering energy currents flow between impossibly advanced structures, casting vibrant neon hues of electric blue, vivid magenta, and toxic green across the scene, creating an atmosphere of profound wonder and serene otherworldliness. Intricate holographic advertisements flicker amidst the towering skyscrapers, while silent, levitating vehicles navigate sky-high transit lanes, all rendered with a photorealistic yet dreamlike quality.",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 61562727,
+      "created_at": "2026-04-04T05:03:51.243813+08:00"
+    },
+    {
       "id": "20260404_042746",
       "filename": "images/artwork_20260404_042746.jpg",
       "topic": "blockchain and decentralized future",
