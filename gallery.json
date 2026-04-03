@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260403_174453",
+      "filename": "images/artwork_20260403_174453.jpg",
+      "topic": "fashion meets technology",
+      "prompt": "Photorealistic portrait of a fashion model with intricate bio-luminescent circuitry subtly woven into her haute couture gown, bathed in the warm amber and orange glow of golden hour sunlight, creating an intimate and human mood as she gently touches a holographic interface projected from her own wrist; award-winning detail, cinematic lighting.",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 1861025762,
+      "created_at": "2026-04-03T17:44:53.742800+08:00"
+    },
+    {
       "id": "20260403_172909",
       "filename": "images/artwork_20260403_172909.jpg",
       "topic": "global climate crisis and environmental solutions",
