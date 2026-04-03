@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260404_075314",
+      "filename": "images/artwork_20260404_075314.jpg",
+      "topic": "renewable energy and sustainable living",
+      "prompt": "A solitary figure stands on a windswept hill at night, gazing at massive wind turbines silhouetted against a luminous full moon, their massive blades turning slowly like breathing giants in the monochromatic darkness; cascading shadows stretch across rolling wheat fields where ancient oak trees stand beside gleaming solar panels, capturing the quiet poetry of harmony between technology and nature in this anime-inspired scene of melancholic beauty, rendered in stark black and white with dramatic chiaroscuro lighting that emphasizes the solitary human presence against the vast, contemplative landscape of sustainable tomorrow.",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 2025450565,
+      "created_at": "2026-04-04T07:53:14.786186+08:00"
+    },
+    {
       "id": "20260404_073012",
       "filename": "images/artwork_20260404_073012.jpg",
       "topic": "fashion meets technology",
