@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260403_160229",
+      "filename": "images/artwork_20260403_160229.jpg",
+      "topic": "ancient traditions meeting the modern world",
+      "prompt": "A towering samurai warrior in ancient armor stands motionless in a rain-slicked, noir metropolis, their silhouette cast in long shadows by the stark neon glow of towering skyscrapers, a powerful and monumental figure. The entire scene is bathed in an emerald and deep forest green palette, where neon signage and wet asphalt reflect the same deep green hues, creating a visually stunning contrast. Mist hangs in the air between glass towers and the figure's traditional lacquered armor, masterfully blending the old world with the new in a cinematic, award-winning composition of profound silence and scale.",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 1048021738,
+      "created_at": "2026-04-03T16:02:29.083434+08:00"
+    },
+    {
       "id": "20260403_154438",
       "filename": "images/artwork_20260403_154438.jpg",
       "topic": "biotechnology and genetic engineering",
