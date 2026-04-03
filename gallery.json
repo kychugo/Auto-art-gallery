@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260403_140916",
+      "filename": "images/artwork_20260403_140916.jpg",
+      "topic": "ocean conservation and marine life",
+      "prompt": "A snorkeler floats peacefully in crystal-clear shallow waters, her silhouette captured from below as golden diffused sunlight streams through the surface, illuminating a graceful sea turtle gliding beside her with ancient, knowing eyes; the ocean floor below reveals a vibrant coral reef in warm terracotta and amber hues, while delicate seagrass sways in the gentle current, creating an intimate moment of connection between human and marine life that celebrates conservation through reverence rather than intervention.",
+      "text_model": "minimax",
+      "image_model": "flux",
+      "seed": 290061974,
+      "created_at": "2026-04-03T14:09:16.158286+08:00"
+    },
+    {
       "id": "20260403_135638",
       "filename": "images/artwork_20260403_135638.jpg",
       "topic": "biotechnology and genetic engineering",
