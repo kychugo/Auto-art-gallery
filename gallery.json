@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260404_172957",
+      "filename": "images/artwork_20260404_172957.jpg",
+      "topic": "health and medicine breakthroughs",
+      "prompt": "In an impressionist style evoking a whimsical, dreamlike mood, depict a surreal meadow where ethereal doctors in flowing robes dance with glowing DNA helices and blooming prosthetic hearts, celebrating health and medicine breakthroughs like levitating vaccine vials morphing into butterflies and neural networks weaving into luminous trees. Illuminate the scene with the soft, rippling glow of arctic aurora borealis arching overhead, casting warm amber and orange tones that bathe floating stethoscopes, radiant pill capsules, and hybrid human-plant figures in a magical, award-winning haze of shimmering brushstrokes and intricate light refractions. Highly detailed, visually stunning masterpiece with textured impasto layers and vibrant ethereal particles drifting through the transformative night sky.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 537499064,
+      "created_at": "2026-04-04T17:29:57.289916+08:00"
+    },
+    {
       "id": "20260404_170632",
       "filename": "images/artwork_20260404_170632.jpg",
       "topic": "sports and human physical achievement",
