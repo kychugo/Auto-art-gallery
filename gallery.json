@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260404_134025",
+      "filename": "images/artwork_20260404_134025.jpg",
+      "topic": "urban architecture of the future",
+      "prompt": "A monumental futuristic urban skyline towers over a sprawling metropolis, with sleek skyscrapers featuring flowing parametric curves, massive cantilevered platforms, and iridescent holographic facades that shift between electric blues, vibrant violets, and molten golds under golden hour sunlight casting long dramatic shadows and radiant god rays. Digital art style renders intricate details like glowing energy conduits weaving through transparent megastructures, elevated sky bridges connecting colossal spires, and hovering drone traffic amidst misty aerial gardens, evoking a powerful sense of awe-inspiring dominance and infinite possibility in hyper-detailed 8K resolution.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 890798001,
+      "created_at": "2026-04-04T13:40:25.535902+08:00"
+    },
+    {
       "id": "20260404_131959",
       "filename": "images/artwork_20260404_131959.jpg",
       "topic": "quantum computing and the future",
