@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260404_153252",
+      "filename": "images/artwork_20260404_153252.jpg",
+      "topic": "revolution in education through technology",
+      "prompt": "A cinematic, award-winning image capturing the revolution in education; visualize students and holographic projections of complex data interwoven with soft, bioluminescent light, creating an ethereal glow within a futuristic, yet serene, classroom. The scene should evoke a dramatic and intense mood through dynamic compositions and the stark contrast between digital interfaces and the organic light sources, all rendered in a breathtaking palette of soft pastel hues.",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 526831028,
+      "created_at": "2026-04-04T15:32:52.328239+08:00"
+    },
+    {
       "id": "20260404_144521",
       "filename": "images/artwork_20260404_144521.jpg",
       "topic": "health and medicine breakthroughs",
