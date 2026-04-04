@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260404_112005",
+      "filename": "images/artwork_20260404_112005.jpg",
+      "topic": "economic inequality and social justice",
+      "prompt": "A lone, tattered figure in shades of muted earth tones sits on a moss-covered root, gazing into a sun-dappled clearing where vibrant, emerald-hued coins and jewels cascade from an unseen source, illuminating the deep forest greens of the surrounding ancient trees; watercolor wash style, evoking a melancholic and reflective mood through soft edges and atmospheric light filtering through the canopy, hinting at an unbridgeable divide.",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 1876229222,
+      "created_at": "2026-04-04T11:20:05.058362+08:00"
+    },
+    {
       "id": "20260404_100732",
       "filename": "images/artwork_20260404_100732.jpg",
       "topic": "future of human civilization and technology",
