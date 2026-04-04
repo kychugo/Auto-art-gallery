@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260404_205417",
+      "filename": "images/artwork_20260404_205417.jpg",
+      "topic": "artificial intelligence reshaping society",
+      "prompt": "A lone figure stands in a vast, dimly lit studio space contemplating a massive, ethereal digital brain that hovers above them, its neural pathways glowing with deep crimson light as it slowly transforms the world around them into fragments of binary code and fragmented memories; dramatic studio lighting carves dramatic shadows across the scene, casting the humanoid in silhouette against walls lined with fading photographs of humanity being replaced by glowing screens, while crimson and deep red tones wash over everything like a melancholic sunset, capturing the bittersweet moment when artificial intelligence reshapes society into something beautiful yet haunting, rendered in cinematic concept art style with incredible detail and emotional depth.",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 1004453841,
+      "created_at": "2026-04-04T20:54:17.081731+08:00"
+    },
+    {
       "id": "20260404_195043",
       "filename": "images/artwork_20260404_195043.jpg",
       "topic": "ocean conservation and marine life",
