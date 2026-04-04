@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260404_115516",
+      "filename": "images/artwork_20260404_115516.jpg",
+      "topic": "space exploration and the cosmos",
+      "prompt": "An abstract expressionist cosmic explosion, rendered with thick, impasto brushstrokes of vibrant cool blues and deep purples, channeling a palpable sense of energetic exploration. Moonlight spills across the swirling nebulae and nascent star clusters, casting dynamic shadows that carve out celestial forms, evoking a mood of awe-inspiring wonder and boundless potential. The composition hums with an ethereal energy, as if the universe itself is captured mid-creation, a symphony of color and light in perpetual motion.",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 841182757,
+      "created_at": "2026-04-04T11:55:16.194651+08:00"
+    },
+    {
       "id": "20260404_113515",
       "filename": "images/artwork_20260404_113515.jpg",
       "topic": "virtual reality and the metaverse",
