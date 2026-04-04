@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260404_183632",
+      "filename": "images/artwork_20260404_183632.jpg",
+      "topic": "blockchain and decentralized future",
+      "prompt": "A solitary figure stands on a frozen digital glacier, gazing upward at cascading ribbons of arctic aurora borealis that fracture into holographic iridescent spectrums—opal pinks, electric teals, impossible violets—illuminating a vast network of glowing blockchain nodes rising from the ice like crystalline ancient monoliths, their interconnected threads shimmering with decentralized light; rendered as a sweeping oil painting with thick impasto textures and dramatic chiaroscuro, capturing a melancholic yet transcendent mood of humanity's quiet transition into an invisible digital future, with subtle digital artifacts and glitches woven into the aurora's ethereal folds.",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 1464478226,
+      "created_at": "2026-04-04T18:36:32.118077+08:00"
+    },
+    {
       "id": "20260404_180232",
       "filename": "images/artwork_20260404_180232.jpg",
       "topic": "economic inequality and social justice",
