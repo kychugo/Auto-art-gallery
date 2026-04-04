@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260404_185637",
+      "filename": "images/artwork_20260404_185637.jpg",
+      "topic": "quantum computing and the future",
+      "prompt": "A intimate close-up portrait of a human hand gently cradling luminous quantum particles that shimmer in soft pastel blues, pinks, and lavenders, rendered in bold pop art style with high contrast outlines and geometric abstraction. Dappled forest light filters through canopy leaves, casting delicate shadows across the scene while the quantum data flows like liquid light between fingertips, creating an ethereal bridge between human consciousness and machine intelligence. The composition balances photorealistic skin texture with vibrant, almost psychedelic quantum visualizations, highly detailed and award-winning in its execution, capturing a deeply human moment of connection with the future of technology.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 1181792437,
+      "created_at": "2026-04-04T18:56:37.714550+08:00"
+    },
+    {
       "id": "20260404_183632",
       "filename": "images/artwork_20260404_183632.jpg",
       "topic": "blockchain and decentralized future",
