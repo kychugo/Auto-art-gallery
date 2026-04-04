@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260404_125647",
+      "filename": "images/artwork_20260404_125647.jpg",
+      "topic": "mental health awareness in the digital age",
+      "prompt": "In a dystopian cyberpunk metropolis under a swirling arctic aurora borealis sky, fractured holographic screens flicker with glitchy brain scans and shattered mental health icons, symbolizing digital overload's toll on the human psyche. A lone figure in a trench coat stands on a rain-slicked rooftop amid towering neon spires, their face half-obscured by a glowing neural implant cracking like fragile glass, eyes hollow with isolation. Rendered in high-contrast black and gold palette with dramatic aurora lighting casting ethereal green-gold veils over dark shadows, intricate cybernetic details, volumetric fog, award-winning cinematic composition, ultra-detailed 8K masterpiece.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 1648276131,
+      "created_at": "2026-04-04T12:56:47.703469+08:00"
+    },
+    {
       "id": "20260404_122929",
       "filename": "images/artwork_20260404_122929.jpg",
       "topic": "blockchain and decentralized future",
