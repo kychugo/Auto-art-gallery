@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260404_195043",
+      "filename": "images/artwork_20260404_195043.jpg",
+      "topic": "ocean conservation and marine life",
+      "prompt": "A breathtaking, cinematic underwater cityscape bathed in the cool blues and purples of a neon city glow, where bioluminescent marine life gracefully navigates through vibrant, futuristic coral structures. Schools of shimmering fish dart between towering, illuminated kelp forests, their scales reflecting the ethereal light, while a gentle manta ray glides through the scene, embodying hope for oceanic preservation. The overall mood is one of serene optimism, with a sharp focus on intricate details and a sense of wonder that inspires a deep connection to the ocean's fragile beauty.",
+      "text_model": "gemini-search",
+      "image_model": "klein",
+      "seed": 820127995,
+      "created_at": "2026-04-04T19:50:43.748051+08:00"
+    },
+    {
       "id": "20260404_185637",
       "filename": "images/artwork_20260404_185637.jpg",
       "topic": "quantum computing and the future",
