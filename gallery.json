@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260404_220309",
+      "filename": "images/artwork_20260404_220309.jpg",
+      "topic": "blockchain and decentralized future",
+      "prompt": "A baroque digital cathedral, adorned with intricate, gilded circuit board filigree and flowing, terracotta drapery, emerges from a sprawling, neon-lit metropolis where luminous data streams weave through the sky like ethereal rivers. Whispers of decentralized futures are depicted in the whimsical dance of shimmering, earth-toned nodes, bathed in the otherworldly glow of vibrant, electric signs, creating a dreamlike atmosphere of emergent order. The scene is rendered with the opulent detail of baroque masters, yet infused with the stark, captivating luminescence of a cyberpunk city at twilight, evoking a sense of awe and profound interconnectedness.",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 1183968203,
+      "created_at": "2026-04-04T22:03:09.884290+08:00"
+    },
+    {
       "id": "20260404_215524",
       "filename": "images/artwork_20260404_215524.jpg",
       "topic": "global climate crisis and environmental solutions",
