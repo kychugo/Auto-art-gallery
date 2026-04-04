@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260405_053941",
+      "filename": "images/artwork_20260405_053941.jpg",
+      "topic": "space exploration and the cosmos",
+      "prompt": "A photorealistic scene of a massive orbital space station hovering above a ringed exoplanet, bathed in soft diffused daylight from a distant sun, casting a warm glow on its solar arrays. The cosmos bursts with vibrant and energetic detail, filled with swirling clouds of interstellar gas in soft pastel hues of lilac, mint, and peach. In the foreground, an astronaut in a detailed, reflective suit floats gracefully amidst a celestial ballet of ice crystals and cosmic dust.",
+      "text_model": "deepseek",
+      "image_model": "klein",
+      "seed": 2063190147,
+      "created_at": "2026-04-05T05:39:41.968869+08:00"
+    },
+    {
       "id": "20260405_045912",
       "filename": "images/artwork_20260405_045912.jpg",
       "topic": "social media culture and human connection",
