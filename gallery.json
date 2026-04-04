@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260404_122256",
+      "filename": "images/artwork_20260404_122256.jpg",
+      "topic": "urban architecture of the future",
+      "prompt": "A fantastical baroque cityscape of the future, where gravity-defying spires twist and curl like gilded filigree against a deep void. Ornate, rococo-inspired bridges and balconies, bathed in the ethereal glow of pulsating neon lights, connect impossibly tall structures, creating a whimsical and dreamlike atmosphere. The high-contrast black and gold palette emphasizes the dramatic interplay of shadow and the incandescent luminescence, evoking a sense of opulent, surreal grandeur.",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 74766295,
+      "created_at": "2026-04-04T12:22:56.821403+08:00"
+    },
+    {
       "id": "20260404_115516",
       "filename": "images/artwork_20260404_115516.jpg",
       "topic": "space exploration and the cosmos",
