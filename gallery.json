@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260405_042109",
+      "filename": "images/artwork_20260405_042109.jpg",
+      "topic": "space exploration and the cosmos",
+      "prompt": "A lone astronaut, their visor reflecting the warm amber and orange glow of a nebulae-draped cyberpunk cityscape on a distant alien world, gazes out at the swirling cosmic ballet with a profound sense of intimate wonder, the neon signs of futuristic orbital stations shimmering like distant stars, bathed in an ethereal, moody light that emphasizes the vastness of space and the solitary human connection within it.",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 1164817841,
+      "created_at": "2026-04-05T04:21:09.731201+08:00"
+    },
+    {
       "id": "20260404_232808",
       "filename": "images/artwork_20260404_232808.jpg",
       "topic": "Hong Kong city life and culture",
