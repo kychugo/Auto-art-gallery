@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260404_213152",
+      "filename": "images/artwork_20260404_213152.jpg",
+      "topic": "urban architecture of the future",
+      "prompt": "In an impressionist style, envision a futuristic cityscape where towering organic structures, reminiscent of ancient trees and flowing clay, rise towards the sky. Dappled forest light filters through the intricate latticework of these buildings, casting dynamic patterns of light and shadow that imbue the scene with vibrant energy. The color palette is dominated by warm earth tones and rich terracotta hues, creating a grounded yet lively atmosphere that celebrates the fusion of nature and advanced urban architecture.",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 1853966989,
+      "created_at": "2026-04-04T21:31:52.843620+08:00"
+    },
+    {
       "id": "20260404_205417",
       "filename": "images/artwork_20260404_205417.jpg",
       "topic": "artificial intelligence reshaping society",
