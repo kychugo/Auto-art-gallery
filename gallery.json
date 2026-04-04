@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260404_100732",
+      "filename": "images/artwork_20260404_100732.jpg",
+      "topic": "future of human civilization and technology",
+      "prompt": "A crumbling megacity rises from toxic deserts, where dilapidated skyscrapers made of weathered terracotta and rusted copper are connected by hanging gardens of bioluminescent vines emitting an eerie teal-green glow, massive holographic advertisements flicker through smog-filled skies while cyborg scavengers navigate floating pathways beneath a blood-orange sunset, rendered in bold pop art style with hard-edged lines, vibrant earth tone gradients and dramatic chiaroscuro shadows that emphasize the dystopian decay and isolated figures standing before towering machine temples.",
+      "text_model": "minimax",
+      "image_model": "flux",
+      "seed": 1279715826,
+      "created_at": "2026-04-04T10:07:32.843469+08:00"
+    },
+    {
       "id": "20260404_075314",
       "filename": "images/artwork_20260404_075314.jpg",
       "topic": "renewable energy and sustainable living",
