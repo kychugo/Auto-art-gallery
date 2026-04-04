@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260405_065300",
+      "filename": "images/artwork_20260405_065300.jpg",
+      "topic": "sports and human physical achievement",
+      "prompt": "In a dystopian arena bathed in golden hour sunlight piercing through crumbling ruins, a lone athlete in tattered gear leaps impossibly high over jagged obstacles in a brutal physical trial, muscles straining against the weight of survival, sweat glistening on scarred skin amid cheering shadows of the oppressed masses. Rendered in intricate watercolor style with delicate bleeding edges and layered washes, the scene evokes a dark, foreboding mood of human endurance pushed to breaking point, dominated by a haunting color palette of deep cool blues, shadowy purples, and subtle golden highlights cutting through the gloom. Highly detailed textures capture frayed fabrics, cracked concrete, and ethereal atmospheric haze, composing an award-winning vision of raw physical achievement in a world on the brink.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 1932425,
+      "created_at": "2026-04-05T06:53:00.434210+08:00"
+    },
+    {
       "id": "20260405_061624",
       "filename": "images/artwork_20260405_061624.jpg",
       "topic": "traditional vs modern culture clash in Asia",
