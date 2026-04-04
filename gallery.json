@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260404_144521",
+      "filename": "images/artwork_20260404_144521.jpg",
+      "topic": "health and medicine breakthroughs",
+      "prompt": "A breathtaking Baroque masterpiece set in an enchanted forest where dappled sunlight filters through a canopy of luminous leaves onto a central crystal tree. The tree's intricate, swirling branches are woven with delicate neural networks and golden astral circuits, from which pastel-hued, glowing elixirs drip into crystal vials, surrounded by vibrant, energetic sylvan spirits in mid-flight. The entire scene vibrates with life and soft pastel hues of lavender, mint, peach, and sky blue, creating a dynamic, ornate tableau of biological and ethereal harmony.",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 1949853406,
+      "created_at": "2026-04-04T14:45:21.393454+08:00"
+    },
+    {
       "id": "20260404_143625",
       "filename": "images/artwork_20260404_143625.jpg",
       "topic": "health and medicine breakthroughs",
