@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260404_225914",
+      "filename": "images/artwork_20260404_225914.jpg",
+      "topic": "animals and nature conservation",
+      "prompt": "In a **pop art** style infused with **whimsical dreamlike** wonder, majestic animals like iridescent tigers, holographic elephants, and shimmering birds rally in a vibrant rainforest haven under **stormy overcast light**, their bold outlines and exaggerated forms popping against cascading waterfalls and lush ferns symbolizing nature conservation. The **holographic iridescent** color palette shifts with prismatic rainbows across dew-kissed leaves and protective vines forming unity symbols, with dynamic lightning flashes illuminating endangered species in heroic poses amid floating conservation icons like recycling loops and leaf shields. Ultra-detailed, award-winning composition with layered foreground wildlife, midground ancient trees, and stormy skies blending surreal advocacy and ethereal beauty.",
+      "text_model": "perplexity-fast",
+      "image_model": "klein",
+      "seed": 294341294,
+      "created_at": "2026-04-04T22:59:14.116011+08:00"
+    },
+    {
       "id": "20260404_223552",
       "filename": "images/artwork_20260404_223552.jpg",
       "topic": "space exploration and the cosmos",
