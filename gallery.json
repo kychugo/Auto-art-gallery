@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260405_061624",
+      "filename": "images/artwork_20260405_061624.jpg",
+      "topic": "traditional vs modern culture clash in Asia",
+      "prompt": "A surrealist scene where a colossal red dragon winds through a neon-lit Tokyo skyscraper, its ancient scales shimmering with traditional Japanese patterns while below, a geisha floats mid-air in a crimson kimono that dissolves into digital pixels, merging with holographic billboards displaying ancient calligraphy. Dramatic studio lighting creates dramatic shadows and ethereal glow, with crimson and deep red dominating the palette as floating lanterns collide with futuristic drones in a dreamlike whirligig of/whisk of colliding worlds.",
+      "text_model": "minimax",
+      "image_model": "flux",
+      "seed": 1372292606,
+      "created_at": "2026-04-05T06:16:24.576989+08:00"
+    },
+    {
       "id": "20260405_055633",
       "filename": "images/artwork_20260405_055633.jpg",
       "topic": "Hong Kong city life and culture",
