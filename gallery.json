@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260404_113515",
+      "filename": "images/artwork_20260404_113515.jpg",
+      "topic": "virtual reality and the metaverse",
+      "prompt": "A whimsical dreamlike concept art scene of the metaverse, where a lone explorer in a translucent VR headset floats through pastel-hued floating islands adorned with glowing neon vines, crystalline data streams, and playful holographic creatures like iridescent jellyfish and pixelated birds swirling in ethereal harmony. Dramatic studio lighting casts soft, volumetric beams that pierce through misty veils, highlighting intricate details on shimmering avatars and fractured virtual horizons in soft pastel hues of lavender, mint green, blush pink, and pale cyan. Highly detailed, award-winning digital masterpiece, ultra-realistic textures blended with surreal fantasy, cinematic depth of field, evoking boundless wonder and infinite possibility.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 1248516180,
+      "created_at": "2026-04-04T11:35:15.240763+08:00"
+    },
+    {
       "id": "20260404_112005",
       "filename": "images/artwork_20260404_112005.jpg",
       "topic": "economic inequality and social justice",
