@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260404_122929",
+      "filename": "images/artwork_20260404_122929.jpg",
+      "topic": "blockchain and decentralized future",
+      "prompt": "An abstract expressionist masterpiece depicting a blockchain-fueled decentralized future, where swirling chains of luminous code and fractal nodes erupt from shattered corporate monoliths, interconnecting ethereal human figures in liberated poses amid floating digital ledgers and peer-to-peer networks pulsing with revolutionary energy. Dramatic moonlight pierces through turbulent holographic iridescent clouds in shifting blues, violets, and silvers, casting intense elongated shadows that heighten the chaotic tension and profound sense of empowerment. Highly detailed textures of dripping iridescent data streams and explosive brushstrokes evoke raw emotion and infinite possibility, award-winning composition with dynamic asymmetry and profound depth.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 2062362064,
+      "created_at": "2026-04-04T12:29:29.265362+08:00"
+    },
+    {
       "id": "20260404_122256",
       "filename": "images/artwork_20260404_122256.jpg",
       "topic": "urban architecture of the future",
