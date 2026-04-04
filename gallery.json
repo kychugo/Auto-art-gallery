@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260405_055633",
+      "filename": "images/artwork_20260405_055633.jpg",
+      "topic": "Hong Kong city life and culture",
+      "prompt": "An abstract expressionist interpretation of Hong Kong's vibrant street life, captured through a dramatic and intense mood. The scene pulses with the energy of the city, rendered in a holographic iridescent color palette, where sharp, dynamic brushstrokes convey the chaotic beauty of urban existence under the glow of vibrant neon lights. Intricate layers of color shift and blend, creating a sense of depth and overwhelming sensory experience, evocative of the city's relentless dynamism.",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 506306425,
+      "created_at": "2026-04-05T05:56:33.729835+08:00"
+    },
+    {
       "id": "20260405_053941",
       "filename": "images/artwork_20260405_053941.jpg",
       "topic": "space exploration and the cosmos",
