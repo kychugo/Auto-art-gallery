@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260404_232808",
+      "filename": "images/artwork_20260404_232808.jpg",
+      "topic": "Hong Kong city life and culture",
+      "prompt": "An anime-inspired vista of Hong Kong at night, showcasing towering, monumental skyscrapers bathed in a powerful, cool-toned neon glow of blues and purples. Intricate, glowing signage and holographic advertisements cast vibrant reflections across rain-slicked streets, hinting at the city's dynamic, high-octane culture. The overall mood is one of awe-inspiring urban grandeur, with a deep, atmospheric depth that draws the viewer into its electrifying embrace.",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 1840080750,
+      "created_at": "2026-04-04T23:28:08.060795+08:00"
+    },
+    {
       "id": "20260404_225914",
       "filename": "images/artwork_20260404_225914.jpg",
       "topic": "animals and nature conservation",
