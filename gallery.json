@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260405_220409",
+      "filename": "images/artwork_20260405_220409.jpg",
+      "topic": "artificial intelligence reshaping society",
+      "prompt": "In a dimly lit, rain-slicked cyberpunk alley, a lone human sits close to a warm, glowing holographic AI companion whose ethereal form reflects the dancing arctic aurora borealis swirling overhead in ribbons of electric blue and violet, their intimate connection cutting through the cold technological metropolis as the AI gently reaches toward the human's face, capturing a tender moment of connection in a world reshaped by intelligence, cinematic lighting, hyper-detailed digital art, cool blue and purple color palette, award-winning concept art, volumetric fog, reflections on wet pavement",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 792139615,
+      "created_at": "2026-04-05T22:04:09.597708+08:00"
+    },
+    {
       "id": "20260405_215635",
       "filename": "images/artwork_20260405_215635.jpg",
       "topic": "post-pandemic world transformation",
