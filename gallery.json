@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260406_054050",
+      "filename": "images/artwork_20260406_054050.jpg",
+      "topic": "cultural diversity and global harmony",
+      "prompt": "First, the task is to create an image generation prompt based on the theme: \"cultural diversity and global harmony.\" I need to incorporate specific required elements naturally: art style is minimalist, mood is mysterious and ethereal, lighting is moonlight and shadows, and color palette is emerald and deep forest green.\n\nThe prompt must be visually stunning, award-winning, and highly detailed. It should be 2-4 sentences long and paint a clear mental picture. I can only respond with the prompt itself in English, no explanations or extra text.\n\nI should structure the prompt to flow smoothly. Start by setting the scene with the theme, then weave in the required elements. Since it's minimalist, I need to describe elements that are simple yet evocative. The mood should be mysterious and ethereal, so maybe use words like \"dreamlike\" or \"haunting.\" Lighting is moonlight and shadows, so emphasize soft, silvery light and deep contrasts. Color palette is emerald and deep forest green, so focus on shades of green.\n\nBrainstorm elements that represent cultural diversity and global harmony. Think of symbols like people from different cultures, but since it's minimalist, perhaps abstract representations. For example, silhouettes, patterns, or natural elements that symbolize unity. Global harmony could be shown through interconnected shapes or harmonious compositions.\n\nCombine all that into a concise prompt. Aim for 2-4 sentences.\n\nDraft a prompt:\n\n\"A minimalist scene under a full moon, where shadows cast by diverse cultural symbols—like intricate masks, musical instruments, and traditional textiles—merge into a single, flowing pattern. The ethereal mood is enhanced by moonlight filtering through a canopy of emerald and deep forest green leaves, creating mysterious silhouettes and soft glows. This award-winning composition captures global harmony through subtle, interconnected forms, with every element rendered in stunning detail to evoke a sense of unity and peace.\"\n\nThat's three sentences. Check if it incorporates all elements:\n\n- Art style: minimalist – mentioned \"minimal",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 120744307,
+      "created_at": "2026-04-06T05:40:50.965867+08:00"
+    },
+    {
       "id": "20260406_045957",
       "filename": "images/artwork_20260406_045957.jpg",
       "topic": "economic inequality and social justice",
