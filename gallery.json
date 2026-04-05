@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260405_115526",
+      "filename": "images/artwork_20260405_115526.jpg",
+      "topic": "urban architecture of the future",
+      "prompt": "First, the user requires an image generation prompt about \"urban architecture of the future\". I need to incorporate specific elements naturally: cinematic art style, hopeful and uplifting mood, bioluminescent glow lighting, and a vibrant neon color palette.\n\nThe prompt must be 2-4 sentences long, visually stunning, award-winning, and highly detailed. I should write in English only and respond with only the prompt itself, no explanations or markdown.\n\nLet me brainstorm how to weave these elements together:\n\n- **Cinematic style**: This implies a dramatic, movie-like quality, so I can use terms like \"cinematic shot\" or \"epic scale\".\n\n- **Hopeful and uplifting mood**: This suggests positive emotions, so describe scenes that evoke wonder, progress, or harmony.\n\n- **Bioluminescent glow lighting**: This means light that comes from living organisms, so imagine buildings or structures that emit their own soft, organic light.\n\n- **Vibrant neon colors**: Neon implies bright, electric colors, so incorporate hues like neon pink, cyan, green, etc.\n\nThe setting is future urban architecture, so think of futuristic skyscrapers, advanced materials, and innovative designs.\n\nStructure the prompt:\n\n1. Start with a broad scene setting that includes the architecture and mood.\n\n2. Describe the lighting and colors in detail.\n\n3. Add specific visual elements to make it vivid and award-winning.\n\nEnsure it's 2-4 sentences. Let me draft a few versions.\n\nDraft 1: \"A cinematic view of a future city where towering skyscrapers are adorned with bioluminescent plants that emit a soft glow, creating a hopeful and uplifting atmosphere. The architecture features sleek curves and glass facades reflecting vibrant neon colors in pink, cyan, and green, under a twilight sky. Detailed with flying vehicles and lush vertical gardens, this scene is visually stunning and award-winning in its depiction of harmonious urban life.\"\n\nCheck the elements: cinematic – yes, hopeful –",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 6893145,
+      "created_at": "2026-04-05T11:55:26.225456+08:00"
+    },
+    {
       "id": "20260405_114145",
       "filename": "images/artwork_20260405_114145.jpg",
       "topic": "virtual reality and the metaverse",
