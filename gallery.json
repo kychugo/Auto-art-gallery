@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260405_124211",
+      "filename": "images/artwork_20260405_124211.jpg",
+      "topic": "virtual reality and the metaverse",
+      "prompt": "First, the user specifies to create an image generation prompt about virtual reality and the metaverse. The required elements are:\n\n- Art style: baroque\n\n- Mood: powerful and monumental\n\n- Lighting: dramatic studio lighting\n\n- Color palette: vibrant neon colors\n\nI need to incorporate these naturally into the prompt. The prompt should be 2-4 sentences long, vivid, detailed, and paint a clear mental picture. I must respond with ONLY the image prompt in English, no explanations or markdown.\n\nBaroque art style is known for its grandeur, drama, and intricate details. So, I should use words that evoke that style, like ornate, elaborate, or theatrical.\n\nMood: powerful and monumental – this suggests something impressive, large-scale, and awe-inspiring. Words like majestic, towering, or immense could work.\n\nLighting: dramatic studio lighting – think of controlled, intense light that creates strong contrasts and highlights, often used in photography or cinematic settings.\n\nColor palette: vibrant neon colors – bright, glowing colors like neon pink, electric blue, or lime green. This contrasts with the traditional baroque palette, which is usually richer and darker, so I need to blend these creatively.\n\nThe theme is virtual reality and the metaverse, so I should include elements like digital landscapes, avatars, headsets, or abstract representations of cyberspace.\n\nStructure the prompt as 2-4 sentences that flow naturally. Start by setting the scene, then describe details incorporating the elements.\n\nBrainstorm a rough idea: A baroque-inspired virtual reality scene with monumental architecture, lit dramatically, and filled with neon colors. Perhaps a grand hall in the metaverse with ornate details, glowing with neon lights, and a powerful atmosphere.\n\nCraft the sentences:\n\n1. Set the scene: Imagine a monumental baroque cathedral within the metaverse, its ornate arches and intricate frescoes illuminated by dramatic studio lighting that casts deep shadows and sharp highlights.\n\n2. Incorporate colors and mood: The entire structure",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 998661900,
+      "created_at": "2026-04-05T12:42:11.319276+08:00"
+    },
+    {
       "id": "20260405_121533",
       "filename": "images/artwork_20260405_121533.jpg",
       "topic": "news headlines of tomorrow",
