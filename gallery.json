@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260405_145341",
+      "filename": "images/artwork_20260405_145341.jpg",
+      "topic": "renewable energy and sustainable living",
+      "prompt": "A bioluminescent city skyline rises from terraced vertical gardens, where crystal solar panels harvest light from holographic rainbows piercing dramatic studio lighting, as whimsical floating wind turbines shaped like mechanized butterflies dance above glass biodomes filled with impossible floating gardens, the entire scene rendered in holographic iridescent hues of shifting pearlescent blues, magentas, and gold against deep cosmic void, creating a dreamlike vision of sustainable cyberpunk future where nature and technology exist in perfect surreal harmony.",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 87459789,
+      "created_at": "2026-04-05T14:53:41.509707+08:00"
+    },
+    {
       "id": "20260405_144332",
       "filename": "images/artwork_20260405_144332.jpg",
       "topic": "fashion meets technology",
