@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260405_205603",
+      "filename": "images/artwork_20260405_205603.jpg",
+      "topic": "ocean conservation and marine life",
+      "prompt": "A baroque-style grand ballroom, teeming with bioluminescent marine life, emerges from a swirling, ethereal ocean under the dramatic, neon city glow of an unseen metropolis, casting soft pastel hues onto the shimmering scales of extinct leviathans and the ornate, gilded structures of coral reefs, evoking a mood of intense, melancholic beauty and the fragility of oceanic worlds.",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 1031829035,
+      "created_at": "2026-04-05T20:56:03.682240+08:00"
+    },
+    {
       "id": "20260405_195030",
       "filename": "images/artwork_20260405_195030.jpg",
       "topic": "quantum computing and the future",
