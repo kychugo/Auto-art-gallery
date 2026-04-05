@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260406_045957",
+      "filename": "images/artwork_20260406_045957.jpg",
+      "topic": "economic inequality and social justice",
+      "prompt": "In concept art style, a hopeful and uplifting scene at golden hour sunlight bathes a diverse crowd of people from all walks of life—workers in tattered crimson cloaks, affluent figures in deep red suits, and children holding scales of justice—united in a grand plaza where a massive, glowing bridge made of intertwined golden chains connects a crumbling slum on one side to a thriving community garden on the other, symbolizing the transcendence of economic inequality toward social justice. Crimson and deep red dominate the color palette, with warm sunlight casting long, heroic shadows that highlight determined faces radiating optimism, blooming red flowers pushing through cracked pavement, and ethereal hands clasping across the divide in a visually stunning, award-winning composition of intricate details, dynamic perspectives, and profound emotional depth.",
+      "text_model": "perplexity-fast",
+      "image_model": "klein",
+      "seed": 656026692,
+      "created_at": "2026-04-06T04:59:57.804268+08:00"
+    },
+    {
       "id": "20260406_042409",
       "filename": "images/artwork_20260406_042409.jpg",
       "topic": "traditional vs modern culture clash in Asia",
