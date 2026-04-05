@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260405_135956",
+      "filename": "images/artwork_20260405_135956.jpg",
+      "topic": "space exploration and the cosmos",
+      "prompt": "A surrealist vision of dystopian space exploration, where colossal, crumbling astronaut monuments drift amid fractured nebulae and derelict orbital stations overgrown with terracotta-crusted vines, evoking a forsaken cosmos on the brink of collapse. Golden hour sunlight pierces through cosmic dust storms, casting elongated shadows across warped planetary rings and hovering, rusted probes in a dark, ominous mood. Rendered in intricate detail with earth tones and terracotta palette—burnt siennas, muted ochres, deep umbers—highly textured surfaces of cracked hulls and ethereal starfields, award-winning composition, ultra-detailed, 8K resolution.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 605716879,
+      "created_at": "2026-04-05T13:59:56.828749+08:00"
+    },
+    {
       "id": "20260405_134315",
       "filename": "images/artwork_20260405_134315.jpg",
       "topic": "urban architecture of the future",
