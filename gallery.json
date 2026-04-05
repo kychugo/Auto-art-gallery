@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260405_223743",
+      "filename": "images/artwork_20260405_223743.jpg",
+      "topic": "urban architecture of the future",
+      "prompt": "A futuristic baroque-inspired megacity skyline with ornate, sculptural skyscrapers featuring elaborate curved facades, intricate geometric detailing, and flowing architectural embellishments, rendered in holographic iridescent materials that shift through electric blues, magentas, and opalescent greens. Soft diffused daylight bathes the scene, creating luminous halos around the buildings' ornamental spires and creating a dreamlike, ethereal glow across the polished surfaces. The urban landscape pulses with vibrant, energetic movement—sleek hovering vehicles weave between towers, bioluminescent accents illuminate every architectural crevice, and the air shimmers with prismatic light refracting off the iridescent facades. Composition emphasizes dramatic vertical lines and ornate baroque flourishes while maintaining a harmonious, radiant atmosphere of tomorrow's opulent, sentient city.",
+      "text_model": "perplexity-fast",
+      "image_model": "gptimage",
+      "seed": 293671835,
+      "created_at": "2026-04-05T22:37:43.302330+08:00"
+    },
+    {
       "id": "20260405_220409",
       "filename": "images/artwork_20260405_220409.jpg",
       "topic": "artificial intelligence reshaping society",
