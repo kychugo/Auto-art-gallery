@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260405_153842",
+      "filename": "images/artwork_20260405_153842.jpg",
+      "topic": "space exploration and the cosmos",
+      "prompt": "A lone astronaut, rendered in bold, graphic pop art style, stands on a desolate, alien planet, gazing up at a cataclysmic cosmic event unfolding in the night sky. The scene is imbued with a dramatic and intense mood, illuminated by the ethereal, pulsating glow of an arctic aurora borealis that paints the heavens in electrifying cool blues and vibrant purples. Jagged, crystalline rock formations surround the figure, reflecting the otherworldly light and emphasizing the vast, awe-inspiring, and perilous beauty of the cosmos.",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 487702230,
+      "created_at": "2026-04-05T15:38:42.334166+08:00"
+    },
+    {
       "id": "20260405_145341",
       "filename": "images/artwork_20260405_145341.jpg",
       "topic": "renewable energy and sustainable living",
