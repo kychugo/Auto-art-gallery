@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260405_144332",
+      "filename": "images/artwork_20260405_144332.jpg",
+      "topic": "fashion meets technology",
+      "prompt": "First, the user wants a detailed image generation prompt. The theme is \"fashion meets technology.\" I need to incorporate specific elements: art style: cinematic, mood: vibrant and energetic, lighting: soft diffused daylight, color palette: crimson and deep red.\n\nThe prompt must be 2-4 sentences long, visually stunning, award-winning, and highly detailed. I should write only in English and provide no explanations or markdown – just the prompt itself.\n\nI need to craft a vivid scene that naturally blends fashion and technology. Since it's cinematic, I can think of it like a movie scene. The mood is vibrant and energetic, so the scene should be lively and dynamic. Lighting is soft diffused daylight, which suggests a gentle, natural light source. The color palette is crimson and deep red, so these colors should dominate or be prominent.\n\nPossible elements to include: high-tech clothing, futuristic accessories, or interactive fashion tech. For example, smart fabrics, LED displays, or augmented reality elements.\n\nStructure the prompt: Start with a setting or subject, describe the fashion and tech aspects, incorporate the required elements, and ensure it's detailed and cinematic.\n\nDraft a prompt:\n\n- Sentence 1: Set the scene with a subject in a cinematic fashion-tech environment.\n\n- Sentence 2: Describe the details, incorporating mood, lighting, and colors.\n\n- Sentence 3: Add more specifics to enhance vividness and award-winning quality.\n\nEnsure it's 2-4 sentences. Aim for three sentences to cover all aspects.\n\nFinal prompt should be in plain English, no extra text.\n\nDraft:\n\n\"In a cinematic scene, a model strides confidently through a futuristic urban park, wearing a sleek smart dress that pulses with crimson LED patterns, embodying vibrant and energetic fashion technology. Soft diffused daylight filters through the trees, casting gentle highlights on the deep red hues of the fabric and integrated tech elements. The award-winning composition features intricate details like holographic accessories and dynamic motion",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 106014859,
+      "created_at": "2026-04-05T14:43:32.113511+08:00"
+    },
+    {
       "id": "20260405_141224",
       "filename": "images/artwork_20260405_141224.jpg",
       "topic": "animals and nature conservation",
