@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260406_061736",
+      "filename": "images/artwork_20260406_061736.jpg",
+      "topic": "cybersecurity and privacy in the digital world",
+      "prompt": "In a surreal, dreamlike digital landscape, a lone, translucent figure composed of warm amber and orange light drifts through a stormy, overcast sky, their form subtly shifting like data streams. wisps of digital code, rendered in shimmering amber hues, weave around them, representing the delicate balance of privacy and security, all captured with a cinematic eye for dramatic, yet soft, lighting. The overall mood is whimsical, evoking a sense of wonder and introspection amidst the ethereal glow of protected information.",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 2061197538,
+      "created_at": "2026-04-06T06:17:36.602013+08:00"
+    },
+    {
       "id": "20260406_055707",
       "filename": "images/artwork_20260406_055707.jpg",
       "topic": "post-pandemic world transformation",
