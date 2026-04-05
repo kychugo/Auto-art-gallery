@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260405_160409",
+      "filename": "images/artwork_20260405_160409.jpg",
+      "topic": "ancient traditions meeting the modern world",
+      "prompt": "An elderly shaman in traditional crimson robes stands at the edge of a modern glass-and-steel city, aurora borealis ribbons of deep red and blood-orange weaving through the frozen sky like ancient spirits embracing the glowing skyline, his weathered face reflecting both sorrow and hope as centuries of indigenous wisdom meet the cold glow of progress in this melancholic oil painting masterpiece.",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 537345860,
+      "created_at": "2026-04-05T16:04:09.531780+08:00"
+    },
+    {
       "id": "20260405_155445",
       "filename": "images/artwork_20260405_155445.jpg",
       "topic": "sports and human physical achievement",
