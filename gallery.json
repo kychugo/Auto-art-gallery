@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260405_232932",
+      "filename": "images/artwork_20260405_232932.jpg",
+      "topic": "Hong Kong city life and culture",
+      "prompt": "A vibrant Hong Kong street scene is reimagined in a bold pop art style, where the dappled forest light filters through unseen canopies onto bustling markets and intimate alleyways, casting dramatic crimson and deep red shadows that highlight the raw, human energy of the city. This intimate portrayal captures fleeting moments of connection amidst the urban sprawl, rendered with a graphic intensity that emphasizes the emotional undercurrents of everyday life in Hong Kong. The juxtaposition of natural light effects with the city's iconic energy creates a visually stunning, award-winning composition that is both deeply human and vibrantly pop.",
+      "text_model": "gemini-search",
+      "image_model": "gptimage",
+      "seed": 985351713,
+      "created_at": "2026-04-05T23:29:32.788789+08:00"
+    },
+    {
       "id": "20260405_230125",
       "filename": "images/artwork_20260405_230125.jpg",
       "topic": "Hong Kong city life and culture",
