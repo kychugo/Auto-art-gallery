@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260405_183637",
+      "filename": "images/artwork_20260405_183637.jpg",
+      "topic": "mental health awareness in the digital age",
+      "prompt": "A surrealist dreamscape at golden hour, where a figure with a transparent head sits contemplatively beside a glitching antique television. Their mind is visualized as a swirling, holographic iridescent nebula of data streams and pixelated moths, while golden sunlight fractures through cracks in the sky like broken screen glass, casting long, mysterious shadows over a meadow of crystalized emoticons.",
+      "text_model": "deepseek",
+      "image_model": "klein",
+      "seed": 154424051,
+      "created_at": "2026-04-05T18:36:37.527430+08:00"
+    },
+    {
       "id": "20260405_180349",
       "filename": "images/artwork_20260405_180349.jpg",
       "topic": "artificial intelligence reshaping society",
