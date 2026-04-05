@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260405_162943",
+      "filename": "images/artwork_20260405_162943.jpg",
+      "topic": "quantum computing and the future",
+      "prompt": "A colossal quantum processor rises from the shadows of a ruined futuristic city, its crystalline chips pulsing with orbiting threads of golden light that dance between frozen quantum bits, while pale moonlight cascades through broken glass towers, casting stark silver highlights across rust-eaten metal beams and illuminating the cold ethereal glow of the machine's core—a haunting contrast between technological transcendence and civilization's decay, rendered in hyperrealistic detail with dramatic chiaroscuro lighting, deep obsidian blacks and burning metallic gold highlights, capturing the ominous beauty of a world reborn under quantum rule.",
+      "text_model": "minimax",
+      "image_model": "klein",
+      "seed": 1989853433,
+      "created_at": "2026-04-05T16:29:44.007223+08:00"
+    },
+    {
       "id": "20260405_160409",
       "filename": "images/artwork_20260405_160409.jpg",
       "topic": "ancient traditions meeting the modern world",
