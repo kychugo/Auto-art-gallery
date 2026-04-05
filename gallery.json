@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260405_102907",
+      "filename": "images/artwork_20260405_102907.jpg",
+      "topic": "artificial intelligence reshaping society",
+      "prompt": "In a neon-lit cyberpunk city during golden hour, a young woman sits at a small café table, her face illuminated by warm amber sunlight as she gazes lovingly at a holographic projection of an AI companion that has become her closest friend, its ethereal form glowing with soft orange circuits while the sun casts long amber rays across the weathered brick, reflecting off rain puddles and bathing the intimate scene in a tender golden glow that transforms cold technology into something deeply human and emotionally resonant.",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 1927017484,
+      "created_at": "2026-04-05T10:29:07.797649+08:00"
+    },
+    {
       "id": "20260405_072649",
       "filename": "images/artwork_20260405_072649.jpg",
       "topic": "animals and nature conservation",
