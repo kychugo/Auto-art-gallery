@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260405_185935",
+      "filename": "images/artwork_20260405_185935.jpg",
+      "topic": "street food culture in Hong Kong",
+      "prompt": "First, the user wants me to create an image generation prompt about street food culture in Hong Kong. I need to incorporate specific elements: art style is minimalist, mood is melancholic and reflective, lighting is neon city glow, and color palette is soft pastel hues.\n\nI must ensure the prompt is detailed, vivid, and paints a clear mental picture. It should be 2-4 sentences long and written exclusively in English. I need to respond with ONLY the image prompt—no explanations, titles, or markdown.\n\nKey elements to include naturally:\n- Street food culture in Hong Kong: think of stalls, vendors, food items like dim sum, egg waffles, noodles, etc.\n- Art style: minimalist, so the composition should be simple, clean, with fewer details but still evocative.\n- Mood: melancholic and reflective, which suggests a sense of sadness or pensiveness, perhaps late at night or in a quiet moment.\n- Lighting: neon city glow, meaning the light comes from neon signs, common in Hong Kong's streets, casting a colorful glow.\n- Color palette: soft pastel hues, so colors should be muted, gentle shades like pale pinks, blues, greens, etc.\n\nThe prompt should be visually stunning and award-winning, so I need to make it highly descriptive and artistic.\n\nStructure the prompt in 2-4 sentences. Start by setting the scene, then incorporate the elements.\n\nDraft a sentence: \"A minimalist depiction of a Hong Kong street food stall at night, bathed in the melancholic glow of neon signs, with soft pastel hues coloring the reflective mood.\"\n\nExpand to make it more detailed: \"Under the neon city glow, a solitary street food vendor prepares dim sum in a minimalist scene, evoking a reflective and melancholic atmosphere with soft pastel tones of pink, blue, and yellow.\"\n\nEnsure it's natural: Incorporate all elements seamlessly.\n\nFinal prompt should be: \"In a minimalist art style, a Hong Kong street",
+      "text_model": "deepseek",
+      "image_model": "gptimage",
+      "seed": 1129100486,
+      "created_at": "2026-04-05T18:59:35.409190+08:00"
+    },
+    {
       "id": "20260405_183637",
       "filename": "images/artwork_20260405_183637.jpg",
       "topic": "mental health awareness in the digital age",
