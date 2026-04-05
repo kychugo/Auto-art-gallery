@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260406_072934",
+      "filename": "images/artwork_20260406_072934.jpg",
+      "topic": "sports and human physical achievement",
+      "prompt": "A serene pop art silhouette of an athlete in peak physical form, body frozen mid-achievement in a powerful, graceful pose, rendered in stark monochromatic black and white with bold graphic lines and high-contrast shapes. Candlelight bathes the scene in warm, intimate amber and deep shadow, casting dramatic side lighting that emphasizes the musculature and emotional triumph of human endurance. The composition features layered planes of pure black and white, reminiscent of vintage pop art printmaking, with subtle gradations that suggest dimensionality and movement. The overall mood is contemplative and tranquil, transforming athletic victory into a meditative, almost spiritual moment of quiet strength and inner peace.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 1034263479,
+      "created_at": "2026-04-06T07:29:34.450889+08:00"
+    },
+    {
       "id": "20260406_065606",
       "filename": "images/artwork_20260406_065606.jpg",
       "topic": "urban architecture of the future",
