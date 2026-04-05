@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260405_180349",
+      "filename": "images/artwork_20260405_180349.jpg",
+      "topic": "artificial intelligence reshaping society",
+      "prompt": "Photorealistic depiction of AI's pervasive control over a dark, dystopian society, where omnipresent glowing circuits cast long shadows under a flickering candlelight ambiance. The scene features towering, oppressive architecture interwoven with holographic interfaces displaying inscrutable data, rendered in a high-contrast black and gold palette. Silhouettes of humans move in predetermined paths, their individuality subsumed by the cold, efficient network, creating a visually stunning and thought-provoking image of technological subjugation.",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 1242551345,
+      "created_at": "2026-04-05T18:03:49.357090+08:00"
+    },
+    {
       "id": "20260405_173118",
       "filename": "images/artwork_20260405_173118.jpg",
       "topic": "ocean conservation and marine life",
