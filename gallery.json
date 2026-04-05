@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260405_193129",
+      "filename": "images/artwork_20260405_193129.jpg",
+      "topic": "revolution in education through technology",
+      "prompt": "A lone student sits amidst a mountain of dusty, leather-bound books in an abandoned, high-ceilinged library, while a ghostly, holographic projection of a data-streaming world map and interactive code floats above their open laptop, casting an ethereal glow. The scene is rendered in an anime-inspired art style with dramatic studio lighting that creates deep, expressive shadows across the student's thoughtful face, emphasizing a melancholic and reflective mood. The color palette is dominated by rich, warm earth tones, terracotta, and sepia washes, with the only vivid light emanating from the cool, blue-hued hologram illuminating the worn wooden desk and floating dust motes.",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 480651614,
+      "created_at": "2026-04-05T19:31:29.389103+08:00"
+    },
+    {
       "id": "20260405_185935",
       "filename": "images/artwork_20260405_185935.jpg",
       "topic": "street food culture in Hong Kong",
