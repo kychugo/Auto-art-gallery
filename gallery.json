@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260405_134315",
+      "filename": "images/artwork_20260405_134315.jpg",
+      "topic": "urban architecture of the future",
+      "prompt": "A breathtaking futuristic cityscape emerges where colossal baroque-style skyscrapers twist toward the sky in elaborate spirals adorned with gilded cornices and sculptural cherubs rendered in gleaming metal, their ornate facades glowing beneath soft diffused daylight that filters through an atmospheric crimson haze, while deep burgundy shadows pool between towering columns and elaborate Balustrades, creating an intensely dramatic tableau where celestial light spills across petal-red glass domes and terracotta rooftop gardens, casting a romantic blood-red luminescence across the entire visionary metropolis.",
+      "text_model": "minimax",
+      "image_model": "flux",
+      "seed": 1104648452,
+      "created_at": "2026-04-05T13:43:15.382651+08:00"
+    },
+    {
       "id": "20260405_132551",
       "filename": "images/artwork_20260405_132551.jpg",
       "topic": "cybersecurity and privacy in the digital world",
