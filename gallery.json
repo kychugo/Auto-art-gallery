@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260406_065606",
+      "filename": "images/artwork_20260406_065606.jpg",
+      "topic": "urban architecture of the future",
+      "prompt": "A melancholic and reflective watercolor painting of a futuristic cityscape bathed in the ethereal glow of neon blues and purples. Towering, impossibly elegant skyscrapers with organic, flowing architectural lines pierce a twilight sky, their surfaces subtly reflecting the luminous, cool-toned light. Delicate brushstrokes capture the sense of quiet contemplation, with rain-slicked streets mirroring the vibrant, yet subdued, urban luminescence.",
+      "text_model": "gemini-fast",
+      "image_model": "gptimage",
+      "seed": 1200737074,
+      "created_at": "2026-04-06T06:56:06.348223+08:00"
+    },
+    {
       "id": "20260406_061736",
       "filename": "images/artwork_20260406_061736.jpg",
       "topic": "cybersecurity and privacy in the digital world",
