@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260406_075355",
+      "filename": "images/artwork_20260406_075355.jpg",
+      "topic": "human migration and global nomadism",
+      "prompt": "In a shadowy, noir-infused cityscape under a perpetually overcast sky, figures in worn, functional attire navigate through rain-slicked, desolate streets, their forms hinting at a constant, weary movement. The lighting is a soft, diffused daylight, casting subtle shadows that emphasize the stark contrast between the high-contrast black and opulent gold accents found on sparse, metallic architecture and the rare, fleeting glimpses of wealth. This scene captures the pervasive mood of dark dystopia, where the essence of global nomadism is a struggle for survival and a silent testament to a fractured world.",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 1917623705,
+      "created_at": "2026-04-06T07:53:55.790251+08:00"
+    },
+    {
       "id": "20260406_072934",
       "filename": "images/artwork_20260406_072934.jpg",
       "topic": "sports and human physical achievement",
