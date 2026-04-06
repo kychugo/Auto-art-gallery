@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260407_060118",
+      "filename": "images/artwork_20260407_060118.jpg",
+      "topic": "health and medicine breakthroughs",
+      "prompt": "An impressionist painting bathed in dappled forest light, depicting a serene breakthrough in medicine as luminous, organic forms of healing emerge from the earth. Terracotta hues and rich earth tones dominate, suggesting natural remedies and ancient wisdom, with soft, painterly strokes conveying a peaceful and hopeful mood of scientific discovery. The scene is award-winning in its intricate detail, evoking a sense of quiet wonder and profound progress in the heart of nature.",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 1787951653,
+      "created_at": "2026-04-07T06:01:18.048376+08:00"
+    },
+    {
       "id": "20260407_054620",
       "filename": "images/artwork_20260407_054620.jpg",
       "topic": "sports and human physical achievement",
