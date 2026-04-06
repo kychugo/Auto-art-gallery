@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260406_222942",
+      "filename": "images/artwork_20260406_222942.jpg",
+      "topic": "space exploration and the cosmos",
+      "prompt": "First, the user asks me to create an image generation prompt about space exploration and the cosmos. I need to incorporate specific elements: art style is cinematic, mood is dark and dystopian, lighting is bioluminescent glow, and color palette is monochromatic black and white.\n\nThe prompt should be 2-4 sentences long, visually stunning, award-winning, and highly detailed. I must respond with ONLY the image prompt in English, no explanations or markdown.\n\nI need to craft a vivid and descriptive prompt that paints a clear mental picture. Let me structure it:\n\n- Start by setting the scene: space exploration in a dystopian context.\n\n- Incorporate the cinematic art style: this suggests a movie-like quality, with dramatic angles and depth.\n\n- Mood: dark and dystopian, so the atmosphere should be grim, foreboding.\n\n- Lighting: bioluminescent glow. This implies light coming from living organisms or artificial sources that mimic that, adding an eerie, organic feel.\n\n- Color palette: monochromatic black and white. So, the image should be in shades of black, white, and gray, with no other colors.\n\nMake sure it's about space exploration and the cosmos. Elements like stars, planets, spacecraft, or cosmic phenomena should be included.\n\nCombine these naturally. For example, a dystopian space scene where a derelict spacecraft is illuminated by bioluminescent algae or fungi, all in black and white.\n\nEnsure it's 2-4 sentences. Keep it concise but rich in detail.\n\nFinal prompt should be in English only and only the prompt itself.\n\nDraft:\n\n\"In a cinematic, dark dystopian vision of space exploration, a lone astronaut floats near a derelict space station, bathed in a eerie bioluminescent glow from alien fungi clinging to the hull. The monochromatic black and white palette accentuates the stark shadows and luminous details of the cosmic void, with distant nebulae fading into grayscale. Every surface glistens with moisture and decay",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 774520659,
+      "created_at": "2026-04-06T22:29:42.347281+08:00"
+    },
+    {
       "id": "20260406_221130",
       "filename": "images/artwork_20260406_221130.jpg",
       "topic": "social media culture and human connection",
