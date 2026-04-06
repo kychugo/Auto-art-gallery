@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260406_103054",
+      "filename": "images/artwork_20260406_103054.jpg",
+      "topic": "mental health awareness in the digital age",
+      "prompt": "First, the user wants an image generation prompt about \"mental health awareness in the digital age.\" I need to incorporate specific elements naturally: art style is pop art, mood is vibrant and energetic, lighting is dappled forest light, and color palette is soft pastel hues.\n\nThe prompt must be 2-4 sentences long, visually stunning, award-winning, and highly detailed. I should paint a clear mental picture. Also, respond with ONLY the image prompt itself—no explanations, no titles, no markdown, and write exclusively in English.\n\nKey elements to include:\n- **Theme**: Mental health awareness in the digital age. This might involve symbols like digital devices, interconnectedness, mindfulness, or balance between technology and well-being.\n- **Art style**: Pop art. This style often uses bold colors, clear lines, and elements from popular culture. Since the color palette is soft pastel hues, I need to blend pop art's vibrancy with pastel tones.\n- **Mood**: Vibrant and energetic. So, the scene should feel lively and uplifting, which aligns with pop art.\n- **Lighting**: Dappled forest light. This suggests light filtering through leaves, creating patches of light and shadow, which can add depth and a natural element.\n- **Color palette**: Soft pastel hues. Think muted, gentle colors like light pinks, blues, greens, etc.\n\nI need to weave these into a cohesive prompt. The digital age aspect should be represented, perhaps through icons like smartphones, social media symbols, or digital waves, combined with elements of mental health, such as brains, calming scenes, or symbols of peace.\n\nStructure the prompt:\n- Start with the main subject or scene.\n- Describe the style, mood, lighting, and colors naturally.\n- Ensure it's detailed and vivid.\n\nBrainstorm ideas:\n- A person in a forest, interacting with digital elements.\n- Abstract representation: a brain made of digital circuits with pastel colors.",
+      "text_model": "deepseek",
+      "image_model": "gptimage",
+      "seed": 786877267,
+      "created_at": "2026-04-06T10:30:54.253892+08:00"
+    },
+    {
       "id": "20260406_075355",
       "filename": "images/artwork_20260406_075355.jpg",
       "topic": "human migration and global nomadism",
