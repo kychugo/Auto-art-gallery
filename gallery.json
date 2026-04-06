@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260406_214946",
+      "filename": "images/artwork_20260406_214946.jpg",
+      "topic": "mental health awareness in the digital age",
+      "prompt": "A minimalist, ethereal silhouette of a human figure dissolves into a swirling nebula of cool blues and purples, suggesting the vastness and mystery of the digital world impacting the mind. Dramatic studio lighting casts long, contemplative shadows, emphasizing the isolation and introspective nature of mental health in the digital age. The overall mood is one of quiet contemplation and profound, yet beautiful, interconnectedness.",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 1796023157,
+      "created_at": "2026-04-06T21:49:46.408807+08:00"
+    },
+    {
       "id": "20260406_210843",
       "filename": "images/artwork_20260406_210843.jpg",
       "topic": "Hong Kong city life and culture",
