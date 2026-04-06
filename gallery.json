@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260406_185921",
+      "filename": "images/artwork_20260406_185921.jpg",
+      "topic": "future of human civilization and technology",
+      "prompt": "A vast metropolis of crumbling concrete and rusted metal towers stretches beneath a haunting Arctic aurora borealis, its eerie green and violet ribbons bleeding through a haze of smoke and dust, while bio-luminescent cyberpunk signage flickers with terracotta and rust-colored holograms casting long shadows across abandoned streets where autonomous drones and homeless augmented humans navigate the frozen ruins of a fallen civilization, the aurora's ethereal light reflecting off frost-covered glass domes of forgotten luxury arcologies, creating a desperate yet beautiful contrast between the cold alien sky and the warm earth tones of decaying human ambition.",
+      "text_model": "minimax",
+      "image_model": "gptimage",
+      "seed": 1191383504,
+      "created_at": "2026-04-06T18:59:21.658193+08:00"
+    },
+    {
       "id": "20260406_183752",
       "filename": "images/artwork_20260406_183752.jpg",
       "topic": "virtual reality and the metaverse",
