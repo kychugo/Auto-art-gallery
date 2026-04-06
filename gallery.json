@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260406_124911",
+      "filename": "images/artwork_20260406_124911.jpg",
+      "topic": "ocean conservation and marine life",
+      "prompt": "First, the user wants an image generation prompt about ocean conservation and marine life. I need to incorporate specific elements naturally: anime-inspired art style, dark and dystopian mood, lighting that is dappled forest light, and a color palette of soft pastel hues.\n\nThe prompt should be 2-4 sentences long, visually stunning, award-winning, and highly detailed. I must write only the prompt itself in English, no explanations or extra text.\n\nKey elements to blend:\n- Theme: Ocean conservation and marine life. So, I should include elements like marine animals, pollution, or conservation efforts.\n- Art style: Anime-inspired. This means the visuals should have characteristics of anime, such as expressive eyes, stylized features, and dynamic compositions.\n- Mood: Dark and dystopian. The scene should feel gloomy, foreboding, or post-apocalyptic, reflecting the negative impact on the ocean.\n- Lighting: Dappled forest light. This is interesting because it's typically associated with forests, but I need to apply it to an ocean setting. Dappled light refers to light filtering through leaves, creating patches of light and shadow. I can adapt this to an underwater scene with light filtering through something, like debris or structures.\n- Color palette: Soft pastel hues. Even with a dark mood, I can use pastel colors to create a contrast, perhaps making the dystopian elements more poignant. Pastels might include light blues, pinks, yellows, etc.\n\nStructure the prompt: Since it's 2-4 sentences, I need to be concise but descriptive. Start by setting the scene, then incorporate the elements naturally.\n\nBrainstorm a scene: Imagine an underwater world that's been affected by pollution or neglect. Marine life might be struggling, but with anime styling to make it artistic. Use dappled light from above, perhaps through a ruined structure or floating debris, casting patterns. The colors are soft pastels, which could make the dark mood more",
+      "text_model": "deepseek",
+      "image_model": "klein",
+      "seed": 1901565374,
+      "created_at": "2026-04-06T12:49:11.519668+08:00"
+    },
+    {
       "id": "20260406_122236",
       "filename": "images/artwork_20260406_122236.jpg",
       "topic": "revolution in education through technology",
