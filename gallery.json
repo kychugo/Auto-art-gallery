@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260406_210843",
+      "filename": "images/artwork_20260406_210843.jpg",
+      "topic": "Hong Kong city life and culture",
+      "prompt": "A photorealistic view of Hong Kong's iconic skyline rising through a mysterious emerald mist, where glass towers pierce dappled forest light filtering through overlapping layers of jungle-green canopy and urban density, the deep forest green palette washing over weathered architecture and neon signs, creating a powerful and monumental scene that captures the city's organic harmony between nature and metropolitan ambition, with ancient banyan roots crawling over brutalist concrete and modern botanic gardens cascading down hillside settlements, soft golden light piercing the emerald haze like sunlight through ancient trees, the atmosphere thick with verdant mystery and cultural depth.",
+      "text_model": "minimax",
+      "image_model": "flux",
+      "seed": 1463042964,
+      "created_at": "2026-04-06T21:08:43.170333+08:00"
+    },
+    {
       "id": "20260406_200326",
       "filename": "images/artwork_20260406_200326.jpg",
       "topic": "ocean conservation and marine life",
