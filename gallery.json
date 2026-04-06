@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260406_142805",
+      "filename": "images/artwork_20260406_142805.jpg",
+      "topic": "revolution in education through technology",
+      "prompt": "A monumental watercolor scene capturing the revolution in education through technology, where ancient stone steps beneath towering trees transform into flowing rivers of light and knowledge, with students ascending as luminous digital sprites and glowing holographic books floating around them like fireflies, all bathed in ethereal dappled forest light that filters through emerald canopies in soft pastel hues of lavender, peach, and mint green, the composition radiating powerful hope and transformative energy through delicate brushwork and translucent washes that blend reality with possibility.",
+      "text_model": "minimax",
+      "image_model": "klein",
+      "seed": 1713391087,
+      "created_at": "2026-04-06T14:28:05.749484+08:00"
+    },
+    {
       "id": "20260406_141548",
       "filename": "images/artwork_20260406_141548.jpg",
       "topic": "urban architecture of the future",
