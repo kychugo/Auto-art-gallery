@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260406_174753",
+      "filename": "images/artwork_20260406_174753.jpg",
+      "topic": "street food culture in Hong Kong",
+      "prompt": "A surrealist vision of Hong Kong street food culture, where steaming woks and vibrant noodle stalls are rendered with monumental grandeur. Dramatic studio lighting casts long, heroic shadows, illuminating glistening ingredients and eager patrons in a powerful, awe-inspiring scene. The color palette explodes with warm amber and orange tones, creating an intensely rich and visually stunning tableau that feels both ancient and utterly contemporary.",
+      "text_model": "gemini-search",
+      "image_model": "gptimage",
+      "seed": 143875303,
+      "created_at": "2026-04-06T17:47:53.046645+08:00"
+    },
+    {
       "id": "20260406_165935",
       "filename": "images/artwork_20260406_165935.jpg",
       "topic": "news headlines of tomorrow",
