@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260407_062303",
+      "filename": "images/artwork_20260407_062303.jpg",
+      "topic": "health and medicine breakthroughs",
+      "prompt": "A powerful pop art composition in striking monochromatic black and white depicts a doctor holding a glowing DNA helix high above a diverse group of patients, moonlight streaming through a hospital window creating dramatic shadows across the scene, rayed lines and bold Ben-Day dots in the background emphasizing the iconic comic aesthetic, the figures rendered with clean outlines and exaggerated proportions conveying triumph and renewal, while shattered disease symbols at their feet represent the breakthrough moment of healing, the overall mood impossibly hopeful as light breaks through darkness in this cinematic tableau.",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 2082513911,
+      "created_at": "2026-04-07T06:23:03.260773+08:00"
+    },
+    {
       "id": "20260407_060118",
       "filename": "images/artwork_20260407_060118.jpg",
       "topic": "health and medicine breakthroughs",
