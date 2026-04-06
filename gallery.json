@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260406_180135",
+      "filename": "images/artwork_20260406_180135.jpg",
+      "topic": "health and medicine breakthroughs",
+      "prompt": "A futuristic medical breakthrough emerges from a translucent human form, its glowing DNA helix spiraling outward in bold pop art strokes against a neon-drenched city skyline, mysterious ethereal wisps of cool blue and purple light weaving through intricate molecular structures while sleek holographic displays float in the atmosphere, thick black outlines defining the scene in classic comic book aesthetic with dramatic neon glow illuminating the figure from below, creating an otherworldly yet vibrant portrait of scientific discovery blending urban energy with the wonder of modern medicine.",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 1789857419,
+      "created_at": "2026-04-06T18:01:35.184742+08:00"
+    },
+    {
       "id": "20260406_174753",
       "filename": "images/artwork_20260406_174753.jpg",
       "topic": "street food culture in Hong Kong",
