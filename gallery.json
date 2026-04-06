@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260406_151605",
+      "filename": "images/artwork_20260406_151605.jpg",
+      "topic": "future of human civilization and technology",
+      "prompt": "A monochromatic pop art landscape depicting the serene future of human civilization, where towering, impossibly sleek architectural marvels are softly illuminated by the ethereal glow of moonlight, casting long, dramatic shadows that emphasize the clean lines and minimalist aesthetic. Figures, rendered in stark black and white with bold outlines, move peacefully through this advanced, yet tranquil, urban setting, their forms and interactions defined by the interplay of light and shadow in a composition that speaks of quiet harmony and technological advancement.",
+      "text_model": "gemini-search",
+      "image_model": "gptimage",
+      "seed": 1436984361,
+      "created_at": "2026-04-06T15:16:05.327943+08:00"
+    },
+    {
       "id": "20260406_150920",
       "filename": "images/artwork_20260406_150920.jpg",
       "topic": "artificial intelligence reshaping society",
