@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260406_162225",
+      "filename": "images/artwork_20260406_162225.jpg",
+      "topic": "biotechnology and genetic engineering",
+      "prompt": "In a dark dystopian cyberpunk laboratory shrouded in perpetual twilight, towering vats pulse with bioluminescent crimson glows, cradling grotesque hybrid organisms—genetically engineered flesh fused with chrome cybernetic implants, veins throbbing in deep red hues against slick, rain-slicked metallic surfaces. Holographic displays flicker erratically, projecting spiraling DNA helices intertwined with circuit patterns, while shadowy scientists in trench coats and glowing neural implants manipulate writhing tentacles of bio-luminescent tissue under volumetric fog and stark crimson backlighting. Award-winning highly detailed digital art, intricate textures, cinematic composition, 8K resolution.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 1503640262,
+      "created_at": "2026-04-06T16:22:25.383762+08:00"
+    },
+    {
       "id": "20260406_161034",
       "filename": "images/artwork_20260406_161034.jpg",
       "topic": "blockchain and decentralized future",
