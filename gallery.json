@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260406_161034",
+      "filename": "images/artwork_20260406_161034.jpg",
+      "topic": "blockchain and decentralized future",
+      "prompt": "A sprawling network of glowing golden nodes floats above a vast terracotta landscape, each connection pulsing with warm amber light as the golden hour sun casts long, honey-colored shadows across interconnected pathways symbolizing decentralized connectivity, minimalist geometric forms rise from the earth in soft burnt sienna and rust tones, while delicate digital threads weave through the sky creating a sense of unity and hopeful future, with warm ochre and sandstone surfaces catching the golden light, evoking trust, accessibility and human connection in this peaceful vision of technological evolution.",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 811404927,
+      "created_at": "2026-04-06T16:10:34.551986+08:00"
+    },
+    {
       "id": "20260406_151605",
       "filename": "images/artwork_20260406_151605.jpg",
       "topic": "future of human civilization and technology",
