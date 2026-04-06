@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260406_120855",
+      "filename": "images/artwork_20260406_120855.jpg",
+      "topic": "ocean conservation and marine life",
+      "prompt": "A graceful sea turtle swims elegantly through deep black space, its shell rendered in luminous gold geometric patterns symbolizing protection and preservation, surrounded by swirling schools of minimalist golden fish forming a mesmerizing spiral, dramatic studio spotlight from above illuminating the creatures in stunning contrast against absolute darkness, vibrant energetic composition celebrating marine life with sharp clean lines and bold silhouettes, high contrast black and gold palette creating an award-winning visual metaphor for ocean conservation.",
+      "text_model": "minimax",
+      "image_model": "klein",
+      "seed": 352616095,
+      "created_at": "2026-04-06T12:08:55.379069+08:00"
+    },
+    {
       "id": "20260406_114505",
       "filename": "images/artwork_20260406_114505.jpg",
       "topic": "quantum computing and the future",
