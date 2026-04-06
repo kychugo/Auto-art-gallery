@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260406_183752",
+      "filename": "images/artwork_20260406_183752.jpg",
+      "topic": "virtual reality and the metaverse",
+      "prompt": "A lone figure, cloaked in ethereal luminescence, navigates a sprawling, futuristic metaverse cityscape rendered in a vibrant pop art style. Towering skyscrapers pulse with a cool, neon city glow, casting an otherworldly light across digital avenues paved with shimmering blues and purples. The mood is one of profound mystery and quiet wonder, as the figure seems to dissolve into the vibrant, dreamlike atmosphere, embodying the boundless potential of virtual realities.",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 1153124167,
+      "created_at": "2026-04-06T18:37:52.072449+08:00"
+    },
+    {
       "id": "20260406_180135",
       "filename": "images/artwork_20260406_180135.jpg",
       "topic": "health and medicine breakthroughs",
