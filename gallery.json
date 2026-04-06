@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260406_133830",
+      "filename": "images/artwork_20260406_133830.jpg",
+      "topic": "cybersecurity and privacy in the digital world",
+      "prompt": "An oil painting depicting a vibrant and energetic digital cityscape bathed in the neon city glow, where silhouetted figures navigate flowing streams of data rendered in soft pastel hues of lavender, rose, and mint green, representing cybersecurity and privacy concepts in a visually stunning, award-winning style.",
+      "text_model": "gemini-fast",
+      "image_model": "klein",
+      "seed": 2092906273,
+      "created_at": "2026-04-06T13:38:30.891203+08:00"
+    },
+    {
       "id": "20260406_133052",
       "filename": "images/artwork_20260406_133052.jpg",
       "topic": "global climate crisis and environmental solutions",
