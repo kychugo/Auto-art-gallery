@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260406_150920",
+      "filename": "images/artwork_20260406_150920.jpg",
+      "topic": "artificial intelligence reshaping society",
+      "prompt": "A hopeful watercolor painting of artificial intelligence reshaping society, depicting a vibrant futuristic city where ethereal AI neural networks in emerald and deep forest green hues weave through lush urban parks, connecting diverse people in harmonious collaboration—engineers, artists, and families smiling as holographic data streams bloom like vines into sustainable innovations. Neon city glow from towering spires casts uplifting turquoise highlights on soft, translucent watercolor layers, evoking renewal and unity with intricate details of glowing circuits morphing into blooming leaves and shared community hubs under a starry dawn sky. Highly detailed, award-winning composition with dynamic perspectives blending organic nature and digital evolution in a visually stunning, optimistic tableau.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 1976952895,
+      "created_at": "2026-04-06T15:09:20.274487+08:00"
+    },
+    {
       "id": "20260406_142805",
       "filename": "images/artwork_20260406_142805.jpg",
       "topic": "revolution in education through technology",
