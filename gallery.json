@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260406_234224",
+      "filename": "images/artwork_20260406_234224.jpg",
+      "topic": "human migration and global nomadism",
+      "prompt": "A monumental surrealist landscape unfurls with vast, migrating figures silhouetted against a backdrop of colossal, ancient terracotta structures bathed in the ethereal glow of a neon-drenched city that pierces the horizon. Ribbons of vibrant neon light snake through the arid, earth-toned terrain, illuminating pathways trodden by anonymous travelers, their forms imbued with a sense of timeless journey and powerful, silent movement. The scene evokes a profound sense of both human transience and enduring legacy, a dreamlike tableau where the past and a hyper-modern future converge under a twilight sky.",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 1686847261,
+      "created_at": "2026-04-06T23:42:24.266688+08:00"
+    },
+    {
       "id": "20260406_231131",
       "filename": "images/artwork_20260406_231131.jpg",
       "topic": "biotechnology and genetic engineering",
