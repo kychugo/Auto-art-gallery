@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260406_191555",
+      "filename": "images/artwork_20260406_191555.jpg",
+      "topic": "animals and nature conservation",
+      "prompt": "A young child gently cradles a wounded fawn in a sun-drenched forest clearing, their faces inches apart in an intimate moment of trust, as dappled golden light filters through the canopy overhead, casting soft shadows across their peaceful connection, rendered in luminous digital art with a soft pastel palette of rose, cream, sage green and amber, capturing the profound bond between humanity and nature in stunning photorealistic detail with an emotional, award-winning quality.",
+      "text_model": "minimax",
+      "image_model": "flux",
+      "seed": 1771311359,
+      "created_at": "2026-04-06T19:15:55.282741+08:00"
+    },
+    {
       "id": "20260406_185921",
       "filename": "images/artwork_20260406_185921.jpg",
       "topic": "future of human civilization and technology",
