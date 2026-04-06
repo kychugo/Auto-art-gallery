@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260406_114505",
+      "filename": "images/artwork_20260406_114505.jpg",
+      "topic": "quantum computing and the future",
+      "prompt": "A vast, decaying data center under a hazy sky, where delicate crystalline quantum processors glow with internal light, suspended in mid-air like frozen lightning. Soft diffused daylight filters through cracked domed ceilings, casting long shadows across monolithic server racks overgrown with bioluminescent moss and cybernetic vines. Holographic streams of binary code cascade down the architecture in waterfalls of cool sapphire and violet, their reflection shimmering on wet, reflective floors littered with broken components. The atmosphere is heavy with silent energy, a forgotten temple to a fractured digital future.",
+      "text_model": "deepseek",
+      "image_model": "gptimage",
+      "seed": 903643160,
+      "created_at": "2026-04-06T11:45:05.887024+08:00"
+    },
+    {
       "id": "20260406_103054",
       "filename": "images/artwork_20260406_103054.jpg",
       "topic": "mental health awareness in the digital age",
