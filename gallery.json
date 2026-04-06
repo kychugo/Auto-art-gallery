@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260406_195044",
+      "filename": "images/artwork_20260406_195044.jpg",
+      "topic": "news headlines of tomorrow",
+      "prompt": "In a dystopian forest where dappled sunlight filters through ancient, gnarled trees, casting sharp-edged shadows, a lone figure pores over fragmented, glowing news headlines that materialize like digital phantoms. The scene is rendered in a classic noir style, emphasizing a dark, unsettling mood, with the warm amber and orange tones of the light creating an eerie, almost molten glow against the deep, oppressive shadows. Intricate details of decaying technology and overgrown nature intertwine, hinting at a world teetering on the edge of collapse, all captured with the dramatic, high-contrast lighting characteristic of film noir.",
+      "text_model": "gemini-search",
+      "image_model": "gptimage",
+      "seed": 1208207437,
+      "created_at": "2026-04-06T19:50:44.391917+08:00"
+    },
+    {
       "id": "20260406_191555",
       "filename": "images/artwork_20260406_191555.jpg",
       "topic": "animals and nature conservation",
