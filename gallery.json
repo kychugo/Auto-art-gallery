@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260406_122236",
+      "filename": "images/artwork_20260406_122236.jpg",
+      "topic": "revolution in education through technology",
+      "prompt": "A solitary student sits at a weathered wooden desk in a sun-drenched classroom, hands hovering over glowing holographic textbooks that float and scatter like autumn leaves, while through broken glass walls, the golden amber sunset illuminates forgotten chalkboards and obsolete paper mountains being transformed into beams of digital light, captured in delicate anime linework with soft edge lighting and tear-filled eyes reflecting both mourning for what was lost and hope for what emerges, rendered in warm copper and deep amber tones that create a bittersweet atmosphere where the old world gently dissolves into the new.",
+      "text_model": "minimax",
+      "image_model": "flux",
+      "seed": 1853180844,
+      "created_at": "2026-04-06T12:22:37.025036+08:00"
+    },
+    {
       "id": "20260406_120855",
       "filename": "images/artwork_20260406_120855.jpg",
       "topic": "ocean conservation and marine life",
