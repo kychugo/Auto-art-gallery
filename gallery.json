@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260406_225158",
+      "filename": "images/artwork_20260406_225158.jpg",
+      "topic": "mental health awareness in the digital age",
+      "prompt": "A melancholic watercolor scene unfolds in a high-contrast black and gold palette, depicting a solitary figure bathed in the ethereal, neon glow of a futuristic cityscape at night. The city lights refract through a gentle watercolor wash, creating a sense of emotional depth and introspection as abstract, glowing data streams intertwine with the urban landscape, symbolizing the pervasive yet isolating nature of digital connection in the modern age. This award-winning, highly detailed artwork should evoke a powerful mood of quiet contemplation amidst the vibrant, overwhelming spectacle of technology, with sharp gold accents cutting through the deep blacks and moody blues.",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 990209153,
+      "created_at": "2026-04-06T22:51:58.229639+08:00"
+    },
+    {
       "id": "20260406_222942",
       "filename": "images/artwork_20260406_222942.jpg",
       "topic": "space exploration and the cosmos",
