@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260406_131020",
+      "filename": "images/artwork_20260406_131020.jpg",
+      "topic": "cybersecurity and privacy in the digital world",
+      "prompt": "A monumental Baroque allegory of cybersecurity, where ethereal figures draped in soft pastel silks, illuminated by flickering candlelight, meticulously weave a luminous, intricate network of digital threads, representing privacy and protection, against a backdrop of shadowed, imposing architectural grandeur, evoking a sense of immense power and enduring vigilance.",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 931001308,
+      "created_at": "2026-04-06T13:10:20.359090+08:00"
+    },
+    {
       "id": "20260406_124911",
       "filename": "images/artwork_20260406_124911.jpg",
       "topic": "ocean conservation and marine life",
