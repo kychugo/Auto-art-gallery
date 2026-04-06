@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260406_221130",
+      "filename": "images/artwork_20260406_221130.jpg",
+      "topic": "social media culture and human connection",
+      "prompt": "Photorealistic, a lone figure stands on a frosted ridge, their silhouette illuminated by the ethereal glow of an arctic aurora borealis, casting vibrant, warm amber and orange hues across the snow-laden landscape. Their hands cradle a softly glowing, transparent device displaying a network of interconnected, pulsing light tendrils, representing human connection transcending the vast, serene wilderness, creating an award-winningly peaceful and contemplative atmosphere. The light from the aurora refracts through the device, bathing the scene in a magical, serene luminescence.",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 96862034,
+      "created_at": "2026-04-06T22:11:30.795885+08:00"
+    },
+    {
       "id": "20260406_214946",
       "filename": "images/artwork_20260406_214946.jpg",
       "topic": "mental health awareness in the digital age",
