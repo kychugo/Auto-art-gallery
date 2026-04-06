@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260406_231131",
+      "filename": "images/artwork_20260406_231131.jpg",
+      "topic": "biotechnology and genetic engineering",
+      "prompt": "A solitary anime scientist in a state-of-the-art biotechnology laboratory, surrounded by glowing crimson DNA helices and genetic sequences floating in mid-air, their silhouette illuminated by ethereal moonlight streaming through floor-to-ceiling windows and casting deep shadows across futuristic equipment. The lab is bathed in deep red and burgundy tones with bioluminescent specimens in glass chambers, creating an otherworldly, mysterious atmosphere with volumetric fog drifting between holographic displays. The figure wears flowing lab coat with intricate glowing circuit patterns, their expression focused yet haunting, surrounded by swirling streams of molecular data and genetic code rendered as ethereal wisps. Ultra-detailed anime-inspired illustration with cinematic neo-noir lighting, dramatic rim lighting on the scientist's profile, shallow depth of field, high contrast between crimson accents and shadow-heavy environment, painterly digital art style with ethereal bloom glow and dreamlike quality.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 1262627302,
+      "created_at": "2026-04-06T23:11:31.842024+08:00"
+    },
+    {
       "id": "20260406_225158",
       "filename": "images/artwork_20260406_225158.jpg",
       "topic": "mental health awareness in the digital age",
