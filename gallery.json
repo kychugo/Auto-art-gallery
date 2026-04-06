@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260407_043100",
+      "filename": "images/artwork_20260407_043100.jpg",
+      "topic": "social media culture and human connection",
+      "prompt": "In a hyper-modern Shibuya crossing scene bathed in the dramatic, diffused light of a stormy overcast sky, a diverse group of anime-inspired figures, their silhouettes rendered in vibrant neon pinks, electric blues, and emerald greens, extend glowing, ethereal connection lines between their devices, bridging the chasm of the vast urban landscape with a palpable sense of hopeful, uplifting human connection. The rain-slicked streets reflect the neon glow, creating a dazzling, fragmented mosaic, as each individual, though physically separated by the bustling crowd, finds solace and community in the shared digital pulse, their faces illuminated by the soft light emanating from their screens, exuding quiet optimism.",
+      "text_model": "gemini-fast",
+      "image_model": "klein",
+      "seed": 1119868288,
+      "created_at": "2026-04-07T04:31:00.392105+08:00"
+    },
+    {
       "id": "20260406_234224",
       "filename": "images/artwork_20260406_234224.jpg",
       "topic": "human migration and global nomadism",
