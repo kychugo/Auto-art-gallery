@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260406_165935",
+      "filename": "images/artwork_20260406_165935.jpg",
+      "topic": "news headlines of tomorrow",
+      "prompt": "A baroque masterpiece depicting tomorrow's news headlines etched in ornate, gilded scrolls unfurling dramatically across an ancient stone pedestal in a crumbling Renaissance library, with headlines like \"Global Eclipse Foretold\" and \"Lost Cities Resurface\" swirling in elaborate, shadowy calligraphy amid flickering candle remnants and forgotten tomes. The scene evokes a melancholic and reflective mood, bathed in soft diffused daylight filtering through cracked stained-glass windows, casting elongated shadows over velvet drapes and intricate filigree details. Rendered in rich earth tones and terracotta hues—deep umbers, sienna reds, and muted ochres—with hyper-detailed textures, dramatic chiaroscuro contrasts, and award-winning compositional depth for a visually stunning, introspective tableau.",
+      "text_model": "perplexity-fast",
+      "image_model": "klein",
+      "seed": 654050863,
+      "created_at": "2026-04-06T16:59:35.735643+08:00"
+    },
+    {
       "id": "20260406_165223",
       "filename": "images/artwork_20260406_165223.jpg",
       "topic": "future of human civilization and technology",
