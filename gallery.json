@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260407_073133",
+      "filename": "images/artwork_20260407_073133.jpg",
+      "topic": "artificial intelligence reshaping society",
+      "prompt": "In a bold **pop art** style reminiscent of Andy Warhol, depict a vibrant urban society transformed by artificial intelligence, with diverse people joyfully collaborating alongside sleek humanoid robots in everyday scenes—farmers harvesting glowing crops, artists co-creating masterpieces, and commuters in seamless autonomous vehicles—all rendered in stark **monochromatic black and white** with high-contrast outlines and repeated motifs for dynamic energy. A **hopeful and uplifting** mood permeates the composition through upward-gazing figures reaching toward a radiant digital skyline of interconnected neural networks and blooming data flowers. Illuminate the scene with ethereal **bioluminescent glows** emanating from AI circuits and holographic interfaces, casting soft, otherworldly highlights and subtle halos that evoke infinite possibility, hyper-detailed, award-winning digital artwork, cinematic composition.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 2034405668,
+      "created_at": "2026-04-07T07:31:33.466928+08:00"
+    },
+    {
       "id": "20260407_070127",
       "filename": "images/artwork_20260407_070127.jpg",
       "topic": "traditional vs modern culture clash in Asia",
