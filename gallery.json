@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260406_200326",
+      "filename": "images/artwork_20260406_200326.jpg",
+      "topic": "ocean conservation and marine life",
+      "prompt": "A cinematic underwater scene of a fading coral reef teeming with melancholic marine life—a solitary sea turtle gliding past bleached corals, schools of tropical fish flickering dimly, and ethereal jellyfish drifting like forgotten spirits—evokes ocean conservation's reflective urgency, with plastic debris subtly tangled among vibrant yet dying sea fans. Neon city glow from a distant polluted coastal skyline pierces the depths in warm amber and orange tones, casting haunting caustics and bioluminescent highlights on sandy abysses and ghostly shipwrecks. Highly detailed, award-winning composition with dramatic depth gradients, soft particle haze, sharp focus on the turtle's ancient eyes, ultra-realistic textures, 8K resolution.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 1035114565,
+      "created_at": "2026-04-06T20:03:26.895938+08:00"
+    },
+    {
       "id": "20260406_195044",
       "filename": "images/artwork_20260406_195044.jpg",
       "topic": "news headlines of tomorrow",
