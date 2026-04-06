@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260407_050644",
+      "filename": "images/artwork_20260407_050644.jpg",
+      "topic": "traditional vs modern culture clash in Asia",
+      "prompt": "Photorealistic scene of a melancholic clash between traditional and modern Asian culture in a bustling Hanoi street at dusk, where an elderly Vietnamese woman in flowing ao dai and conical hat kneels reverently before a weathered terracotta temple altar adorned with incense and ancestral offerings, while behind her a towering glass skyscraper pierces the hazy sky with neon reflections on its sleek facade, symbolizing inevitable change. Soft diffused daylight filters through thin mist, casting gentle shadows on cracked stone statues and polished chrome surfaces, evoking a reflective mood of nostalgia amid progress. Earth tones and terracotta hues dominate—warm ochres of clay roofs and tiled floors contrasting muted grays of concrete towers—with intricate details like dew-kissed lotus petals, frayed silk threads, and flickering digital billboards, award-winning composition with shallow depth of field, ultra-high resolution, cinematic depth.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 1147052609,
+      "created_at": "2026-04-07T05:06:44.731741+08:00"
+    },
+    {
       "id": "20260407_043100",
       "filename": "images/artwork_20260407_043100.jpg",
       "topic": "social media culture and human connection",
