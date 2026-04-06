@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260406_135724",
+      "filename": "images/artwork_20260406_135724.jpg",
+      "topic": "quantum computing and the future",
+      "prompt": "A minimalist monumental sculpture of a colossal quantum computer core, etched with glowing qubit lattices and superposition waveforms, rises powerfully from an ancient forest floor like a futuristic obelisk of infinite computation. Dappled forest light filters through dense canopy leaves, casting ethereal blue-purple highlights on its sleek, geometric surfaces amid swirling digital particles representing the future's boundless possibilities. Cool blues and purples dominate the palette, evoking a powerful, award-winning vision of technological transcendence in hyper-detailed 8k rendering.",
+      "text_model": "perplexity-fast",
+      "image_model": "gptimage",
+      "seed": 524224833,
+      "created_at": "2026-04-06T13:57:24.466956+08:00"
+    },
+    {
       "id": "20260406_133830",
       "filename": "images/artwork_20260406_133830.jpg",
       "topic": "cybersecurity and privacy in the digital world",
