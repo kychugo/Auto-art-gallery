@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260408_055147",
+      "filename": "images/artwork_20260408_055147.jpg",
+      "topic": "global climate crisis and environmental solutions",
+      "prompt": "First, the user wants an image generation prompt about the global climate crisis and environmental solutions. I need to incorporate specific elements: art style (oil painting), mood (hopeful and uplifting), lighting (golden hour sunlight), and color palette (vibrant neon colors).\n\nThe prompt should be 2-4 sentences long, visually stunning, award-winning, and highly detailed. I must respond with ONLY the image prompt itself, in English, no explanations or markdown.\n\nKey points to cover:\n- Theme: global climate crisis and environmental solutions. This means I should depict something that shows both the crisis and positive solutions, like renewable energy, reforestation, or clean technology.\n- Art style: oil painting. So, I'll mention that the image is an oil painting to give it that textured, classic feel.\n- Mood: hopeful and uplifting. The scene should inspire optimism, perhaps showing people or nature thriving.\n- Lighting: golden hour sunlight. This is the warm, soft light during sunrise or sunset, which can add a magical or serene touch.\n- Color palette: vibrant neon colors. Neon colors are bright and eye-catching, so I need to integrate them into the scene, like in skies, lights, or elements of technology.\n\nStructure the prompt:\n- Start by setting the scene with the crisis and solutions. For example, show a landscape that has been restored or is in the process of healing.\n- Describe the visual elements: include specific details like solar panels, wind turbines, lush forests, or happy communities.\n- Ensure the oil painting style is mentioned, along with golden hour lighting and neon colors woven in naturally.\n- Keep it to 2-4 sentences, making it concise yet descriptive.\n\nExample outline:\n1. First sentence: Set the scene with environmental solutions in action, under golden hour sunlight.\n2. Second sentence: Add details about the oil painting style and vibrant neon colors.\n3. Third sentence: Enhance with more specifics to make it uplifting and detailed.\n4",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 312415437,
+      "created_at": "2026-04-08T05:51:47.909723+08:00"
+    },
+    {
       "id": "20260408_052424",
       "filename": "images/artwork_20260408_052424.jpg",
       "topic": "biotechnology and genetic engineering",
