@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260407_102522",
+      "filename": "images/artwork_20260407_102522.jpg",
+      "topic": "future of human civilization and technology",
+      "prompt": "A whimsical watercolor dreamscape of the future human civilization, where towering iridescent spires blend seamlessly with floating gardens and holographic cities drifting among starry nebulae, humans in ethereal cybernetic attire dance with bioluminescent drones under silvery moonlight casting elongated shadows across crystalline bridges and levitating archives of glowing data orbs. The holographic iridescent color palette shimmers with shifting rainbow hues of pearl, opal, and aurora greens, evoking boundless wonder and technological harmony in soft, diffused lunar glow that blurs edges into surreal reverie. Highly detailed, award-winning composition with intricate watercolor bleeds, luminous highlights, and dreamlike depth, masterpiece of futuristic fantasy.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 416081409,
+      "created_at": "2026-04-07T10:25:22.111993+08:00"
+    },
+    {
       "id": "20260407_075551",
       "filename": "images/artwork_20260407_075551.jpg",
       "topic": "health and medicine breakthroughs",
