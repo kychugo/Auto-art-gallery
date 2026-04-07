@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260407_183501",
+      "filename": "images/artwork_20260407_183501.jpg",
+      "topic": "revolution in education through technology",
+      "prompt": "A serene scene in a sun-drenched open-air classroom where a student gently interacts with a glowing holographic projection of a neural network tree, its branches made of flowing data and vibrant neon cyan light. Soft diffused daylight filters through willow trees, casting warm dappled shadows over mossy stone seats and wooden tables, while accents of vivid magenta and electric green neon subtly illuminate floating geometric interfaces. The cinematic composition evokes a quiet, profound moment of connection between nature and advanced technology, with a peaceful atmosphere of focused curiosity.",
+      "text_model": "deepseek",
+      "image_model": "gptimage",
+      "seed": 1327371764,
+      "created_at": "2026-04-07T18:35:01.587628+08:00"
+    },
+    {
       "id": "20260407_175959",
       "filename": "images/artwork_20260407_175959.jpg",
       "topic": "global climate crisis and environmental solutions",
