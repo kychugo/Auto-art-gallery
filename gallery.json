@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260407_235443",
+      "filename": "images/artwork_20260407_235443.jpg",
+      "topic": "cultural diversity and global harmony",
+      "prompt": "A cinematic scene of cultural diversity and global harmony unfolds in an ethereal veil of mist, where silhouetted figures from every corner of the world—adorned in intricate traditional attire from African tribal masks to Asian silk robes, Indigenous feathered headdresses, and Middle Eastern veils—stand hand-in-hand forming a vast, luminous circle under a crimson-tinged aurora sky. Dramatic studio lighting casts elongated shadows and glowing crimson highlights across their poised forms, with deep red spotlights piercing the mysterious fog like ancient beacons, evoking unity amid enigma. Highly detailed, award-winning composition in deep crimson and red palette, intricate textures on fabrics and skin, volumetric god rays, surreal harmony of diverse faces subtly smiling in transcendent connection.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 789937177,
+      "created_at": "2026-04-07T23:54:43.116031+08:00"
+    },
+    {
       "id": "20260407_231148",
       "filename": "images/artwork_20260407_231148.jpg",
       "topic": "future of human civilization and technology",
