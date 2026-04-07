@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260407_113610",
+      "filename": "images/artwork_20260407_113610.jpg",
+      "topic": "health and medicine breakthroughs",
+      "prompt": "In an impressionist style reminiscent of Monet's swirling brushstrokes, depict a dramatic breakthrough in health and medicine where ethereal holographic iridescent DNA strands burst forth from a glowing human heart, intertwining with futuristic nanobots and radiant vaccine vials amidst a stormy overcast sky, intense mood of triumphant intensity and raw hope. The color palette shimmers with holographic iridescent hues of electric blues, vibrant purples, shifting silvers, and fiery golds, casting dramatic shadows and luminous highlights under turbulent gray clouds. Highly detailed, award-winning composition with textured brushwork, dynamic energy, and profound visual depth, evoking the pivotal moment of curing humanity's deepest ailments.",
+      "text_model": "perplexity-fast",
+      "image_model": "gptimage",
+      "seed": 171659310,
+      "created_at": "2026-04-07T11:36:10.829513+08:00"
+    },
+    {
       "id": "20260407_102522",
       "filename": "images/artwork_20260407_102522.jpg",
       "topic": "future of human civilization and technology",
