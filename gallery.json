@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260407_224630",
+      "filename": "images/artwork_20260407_224630.jpg",
+      "topic": "biotechnology and genetic engineering",
+      "prompt": "A colossal, atom-like structure of intertwined DNA strands, rendered in a high-contrast noir style with dramatic studio lighting casting deep, volumetric shadows, dominates the frame.  Warm amber and orange tones saturate the scene, highlighting the polished chrome of sophisticated genetic sequencing machinery and the taut, powerful muscles of a silhouetted, heroic figure overseeing the monumental process, exuding an aura of profound, world-altering control.",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 905131238,
+      "created_at": "2026-04-07T22:46:30.790032+08:00"
+    },
+    {
       "id": "20260407_220527",
       "filename": "images/artwork_20260407_220527.jpg",
       "topic": "health and medicine breakthroughs",
