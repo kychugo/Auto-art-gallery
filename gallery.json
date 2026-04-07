@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260407_211749",
+      "filename": "images/artwork_20260407_211749.jpg",
+      "topic": "biotechnology and genetic engineering",
+      "prompt": "Concept art in a vibrant and energetic mood, depicting a futuristic laboratory where swirling strands of iridescent DNA, glowing with a soft bioluminescent light, are being meticulously manipulated by sleek robotic arms. The scene is awash in a warm amber and orange color palette, with delicate holographic projections displaying complex genetic sequences, creating a visually stunning and highly detailed tableau of cutting-edge biotechnology.",
+      "text_model": "gemini-fast",
+      "image_model": "klein",
+      "seed": 126697912,
+      "created_at": "2026-04-07T21:17:49.488218+08:00"
+    },
+    {
       "id": "20260407_200635",
       "filename": "images/artwork_20260407_200635.jpg",
       "topic": "biotechnology and genetic engineering",
