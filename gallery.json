@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260407_145421",
+      "filename": "images/artwork_20260407_145421.jpg",
+      "topic": "space exploration and the cosmos",
+      "prompt": "First, the user wants an image generation prompt about space exploration and the cosmos. I need to incorporate specific elements naturally: art style: cinematic, mood: intimate and human, lighting: dappled forest light, color palette: soft pastel hues.\n\nThe prompt must be visually stunning, award-winning, and highly detailed. It should be 2-4 sentences long and paint a clear mental picture. I must respond with ONLY the image prompt in English, no explanations or markdown.\n\nI need to blend space exploration with the given elements. Cinematic style suggests a movie-like quality, with dramatic visuals. Intimate and human mood means focusing on personal, emotional aspects, perhaps a human connection to space. Dappled forest light is interesting – it's light filtering through trees, so I need to incorporate that into a space scene. Soft pastel hues imply gentle, light colors.\n\nBrainstorming: How can I combine space with forest light? Maybe a scene where an astronaut is in a forest-like environment on an alien planet, with light filtering through strange vegetation. Or perhaps a metaphorical connection, like a human looking at the cosmos through a window with dappled light.\n\nTo make it award-winning, it should be unique and evocative. I'll aim for a prompt that describes a specific moment or scene.\n\nStructure the prompt: Start with the setting, include the elements, ensure it's detailed.\n\nDraft:\n\n\"In a cinematic scene, an astronaut sits quietly inside a transparent biodome on a distant exoplanet, where dappled forest light filters through alien foliage, casting soft, pastel-hued shadows across their spacesuit and the intimate, human-scale interior.\"\n\nAdd more detail: \"The cosmos is visible through the dome's ceiling, with nebulae and stars rendered in gentle pinks, blues, and lavenders, creating a stunning contrast between the vast universe and the personal moment of reflection.\"\n\nEnsure it's 2-4 sentences. That's two sentences so far.",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 1140777723,
+      "created_at": "2026-04-07T14:54:21.607635+08:00"
+    },
+    {
       "id": "20260407_141655",
       "filename": "images/artwork_20260407_141655.jpg",
       "topic": "animals and nature conservation",
