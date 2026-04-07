@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260407_131629",
+      "filename": "images/artwork_20260407_131629.jpg",
+      "topic": "Hong Kong city life and culture",
+      "prompt": "A powerful abstract expressionist vision of Hong Kong's monumental city life and culture, where towering neon-lit skyscrapers twist into dynamic, sweeping brushstrokes symbolizing bustling street markets, red-sailed junks on Victoria Harbour, and vibrant dim sum feasts, all rendered in holographic iridescent colors that shift from electric blues and pinks to shimmering golds and violets. Dramatic studio lighting casts bold chiaroscuro shadows and radiant highlights, evoking the raw energy of urban fusion between ancient traditions and futuristic pulse, with explosive splatters of ink-like forms representing dragon dances and tram rides through crowded Kowloon nights. Highly detailed, award-winning composition bursting with textured layers, emotional intensity, and iridescent depth for a visually stunning masterpiece.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 1013415780,
+      "created_at": "2026-04-07T13:16:29.304826+08:00"
+    },
+    {
       "id": "20260407_125820",
       "filename": "images/artwork_20260407_125820.jpg",
       "topic": "cultural diversity and global harmony",
