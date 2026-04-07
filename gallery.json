@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260407_123801",
+      "filename": "images/artwork_20260407_123801.jpg",
+      "topic": "biotechnology and genetic engineering",
+      "prompt": "A baroque masterpiece depicting a vibrant and energetic laboratory bathed in soft, diffused daylight, where intricate genetic sequences are visualized as swirling, luminescent threads in a soft pastel palette, and a luminous DNA helix spirals upward, adorned with delicate, bioluminescent flora, hinting at the boundless potential of biotechnology.",
+      "text_model": "gemini-fast",
+      "image_model": "gptimage",
+      "seed": 723487687,
+      "created_at": "2026-04-07T12:38:01.951598+08:00"
+    },
+    {
       "id": "20260407_121059",
       "filename": "images/artwork_20260407_121059.jpg",
       "topic": "music and the evolution of sound",
