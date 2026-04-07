@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260407_161302",
+      "filename": "images/artwork_20260407_161302.jpg",
+      "topic": "social media culture and human connection",
+      "prompt": "An epic oil painting, rendered in a monumental and powerful style, depicts the aurora borealis casting an ethereal crimson and deep red glow upon a solitary, silhouetted human figure lost in thought. The swirling lights of the arctic sky are intricately detailed, reflecting in the figure's downcast eyes, symbolizing the overwhelming yet beautiful isolation of modern digital connection.",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 646695044,
+      "created_at": "2026-04-07T16:13:02.682582+08:00"
+    },
+    {
       "id": "20260407_155711",
       "filename": "images/artwork_20260407_155711.jpg",
       "topic": "renewable energy and sustainable living",
