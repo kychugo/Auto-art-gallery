@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260408_052424",
+      "filename": "images/artwork_20260408_052424.jpg",
+      "topic": "biotechnology and genetic engineering",
+      "prompt": "An impressionist portrait of a scientist, bathed in the vibrant neon city glow, meticulously examining a swirling bioluminescent DNA helix with a blend of intimate wonder and profound human connection, rendered with thick, energetic brushstrokes and a luminous, electric color palette of cyan, magenta, and lime green.",
+      "text_model": "gemini-fast",
+      "image_model": "klein",
+      "seed": 1620569353,
+      "created_at": "2026-04-08T05:24:24.326625+08:00"
+    },
+    {
       "id": "20260408_043839",
       "filename": "images/artwork_20260408_043839.jpg",
       "topic": "biotechnology and genetic engineering",
