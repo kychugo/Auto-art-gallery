@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260407_164957",
+      "filename": "images/artwork_20260407_164957.jpg",
+      "topic": "mental health awareness in the digital age",
+      "prompt": "In an abstract expressionist masterpiece evoking mental health awareness in the digital age, swirling monochromatic black and white forms morph into fractured smartphone screens and ethereal neural pathways, where shadowy data streams bleed into fragmented human silhouettes grasping at luminous thought bubbles amid a chaotic web of binary code and pixelated emotions. Soft diffused daylight filters through veils of digital fog, casting mysterious glows on textured brushstrokes that pulse with ethereal tension, high-contrast whites piercing deep velvety blacks to reveal hidden vulnerabilities and resilient sparks of inner light. Highly detailed, award-winning composition with dynamic splatters, dripping forms, and layered depths that invite contemplation of the mind's fragile dance with technology.",
+      "text_model": "perplexity-fast",
+      "image_model": "gptimage",
+      "seed": 2098608884,
+      "created_at": "2026-04-07T16:49:57.615203+08:00"
+    },
+    {
       "id": "20260407_164229",
       "filename": "images/artwork_20260407_164229.jpg",
       "topic": "traditional vs modern culture clash in Asia",
