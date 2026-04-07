@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260407_175959",
+      "filename": "images/artwork_20260407_175959.jpg",
+      "topic": "global climate crisis and environmental solutions",
+      "prompt": "In a desolate, concept art-style cityscape shrouded in perpetual twilight, towering, decaying structures are illuminated by an eerie, warm amber and orange bioluminescent glow emanating from mutated flora and salvaged technology. The mood is dark and dystopian, with wisps of toxic fog drifting through the ruins, creating a visually stunning, award-winning scene that speaks to the profound consequences of the climate crisis and the desperate, nascent signs of adaptation.",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 1202422805,
+      "created_at": "2026-04-07T17:59:59.298631+08:00"
+    },
+    {
       "id": "20260407_174359",
       "filename": "images/artwork_20260407_174359.jpg",
       "topic": "street food culture in Hong Kong",
