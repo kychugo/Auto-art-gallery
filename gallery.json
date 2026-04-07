@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260407_115027",
+      "filename": "images/artwork_20260407_115027.jpg",
+      "topic": "ocean conservation and marine life",
+      "prompt": "First, the user wants a unique, detailed image generation prompt about ocean conservation and marine life. I need to incorporate specific elements naturally: abstract expressionist art style, peaceful and serene mood, soft diffused daylight lighting, and soft pastel hues color palette.\n\nThe prompt should be visually stunning, award-winning, and highly detailed. It must be 2-4 sentences long and written exclusively in English, with no explanations, titles, or markdown.\n\nAs a creative director and AI artist, I need to craft a single prompt that paints a clear mental picture. I should avoid any extra text and respond only with the prompt.\n\nKey elements to include:\n\n- Theme: ocean conservation and marine life. This should be central, so I'll mention marine creatures, coral reefs, or aspects of conservation like harmony and protection.\n\n- Art style: abstract expressionist. This means the image should have expressive, non-representational elements, perhaps with fluid shapes and emotional intensity, but balanced with the peaceful mood.\n\n- Mood: peaceful and serene. So, the scene should evoke calmness and tranquility.\n\n- Lighting: soft diffused daylight. This suggests gentle, even lighting without harsh shadows, like on a cloudy day or underwater with filtered light.\n\n- Color palette: soft pastel hues. Think light blues, pinks, greens, and other muted, gentle colors.\n\nI need to weave these into a cohesive description. The prompt should be descriptive and rich in visual detail.\n\nStructure the prompt in 2-4 sentences. Start with the main scene, then add details about style, lighting, and colors.\n\nExample outline:\n\n1. Describe the marine life scene in an abstract expressionist way, emphasizing peace and serenity.\n\n2. Incorporate soft diffused daylight and pastel hues.\n\n3. Ensure it feels award-winning and detailed.\n\nFinal prompt must be in English only.\n\nDraft a prompt:\n\n\"An abstract expressionist depiction of a serene underwater world where graceful sea turtles and vibrant coral reefs blend into fluid,",
+      "text_model": "deepseek",
+      "image_model": "gptimage",
+      "seed": 969911943,
+      "created_at": "2026-04-07T11:50:27.058495+08:00"
+    },
+    {
       "id": "20260407_113610",
       "filename": "images/artwork_20260407_113610.jpg",
       "topic": "health and medicine breakthroughs",
