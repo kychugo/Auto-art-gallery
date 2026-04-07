@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260408_000808",
+      "filename": "images/artwork_20260408_000808.jpg",
+      "topic": "future of human civilization and technology",
+      "prompt": "A breathtaking, award-winning, photorealistic depiction of a hyper-advanced human civilization seamlessly integrated with technology, rendered in a stark monochromatic black and white palette. The scene should exude a vibrant and energetic mood, with soft, diffused daylight casting subtle shadows across impossibly sleek architecture and ethereal, glowing technological interfaces. Intricate details of human figures interacting with advanced, yet minimalist, holographic displays and autonomous systems should fill the frame, conveying a sense of dynamic progress and boundless potential.",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 1638937081,
+      "created_at": "2026-04-08T00:08:08.869348+08:00"
+    },
+    {
       "id": "20260407_235443",
       "filename": "images/artwork_20260407_235443.jpg",
       "topic": "cultural diversity and global harmony",
