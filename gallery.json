@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260407_164229",
+      "filename": "images/artwork_20260407_164229.jpg",
+      "topic": "traditional vs modern culture clash in Asia",
+      "prompt": "A baroque portrait, bathed in the ethereal glow of an arctic aurora borealis casting cool blues and purples across the scene, depicts an elderly East Asian woman in traditional silk robes, her weathered hands gently holding a sleek, modern smartphone displaying a vibrant cityscape, the mood intimate and human, capturing a poignant moment of cultural juxtaposition.",
+      "text_model": "gemini-fast",
+      "image_model": "klein",
+      "seed": 1029167212,
+      "created_at": "2026-04-07T16:42:29.378351+08:00"
+    },
+    {
       "id": "20260407_161302",
       "filename": "images/artwork_20260407_161302.jpg",
       "topic": "social media culture and human connection",
