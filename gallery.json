@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260407_195442",
+      "filename": "images/artwork_20260407_195442.jpg",
+      "topic": "music and the evolution of sound",
+      "prompt": "A surrealist masterpiece depicting the evolution of sound as a colossal crimson tree of music sprouting from ancient bone flutes and evolving into radiant red vinyl records, holographic synthesizers, and ethereal waveform tendrils reaching toward a hopeful future, with diverse figures of musicians from past eras dancing upward in uplifting harmony. The scene is bathed in the ethereal glow of arctic aurora borealis unfurling across a starry crimson and deep red sky, casting vibrant ripples of scarlet light that infuse every melting form and impossible geometry with transcendent optimism. Highly detailed, award-winning composition with fluid distortions, glowing sonic auras, intricate fractal branches pulsing like heartbeats, in a visually stunning surrealist style evoking Dali and Ernst.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 1077885497,
+      "created_at": "2026-04-07T19:54:42.321286+08:00"
+    },
+    {
       "id": "20260407_192720",
       "filename": "images/artwork_20260407_192720.jpg",
       "topic": "traditional vs modern culture clash in Asia",
