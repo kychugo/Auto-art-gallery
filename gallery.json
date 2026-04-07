@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260407_192720",
+      "filename": "images/artwork_20260407_192720.jpg",
+      "topic": "traditional vs modern culture clash in Asia",
+      "prompt": "First, the user wants a single, vivid, detailed image generation prompt. I must respond with ONLY the image prompt itself—no explanations, no titles, no markdown. Also, I must write exclusively in English.\n\nThe theme is \"traditional vs modern culture clash in Asia.\" I need to incorporate the required elements naturally:\n\n- Art style: digital art\n\n- Mood: dark and dystopian\n\n- Lighting: neon city glow\n\n- Color palette: vibrant neon colors\n\nThe prompt should be 2-4 sentences long, visually stunning, award-winning, and highly detailed. It should paint a clear mental picture.\n\nI need to craft a prompt that blends traditional and modern elements in an Asian context. Since it's a culture clash, I should include contrasting symbols or scenes.\n\nIdeas:\n\n- Traditional elements: like ancient temples, traditional clothing (e.g., kimono, hanfu), calligraphy, lanterns, etc.\n\n- Modern elements: skyscrapers, neon signs, futuristic technology, crowded streets.\n\n- Mood: dark and dystopian, so maybe a bleak, oppressive atmosphere with hints of decay or conflict.\n\n- Lighting: neon city glow, so the scene should be illuminated by neon lights, giving a cyberpunk vibe.\n\n- Color palette: vibrant neon colors, so bright pinks, blues, greens, etc., against darker backgrounds.\n\n- Art style: digital art, which can be sleek, detailed, and possibly with a graphic novel or cinematic feel.\n\nStructure the prompt:\n\n- Start with a scene setting: describe the environment where traditional and modern clash.\n\n- Incorporate the elements: mention neon lights, vibrant colors, dystopian mood.\n\n- Ensure it's detailed and paints a clear picture.\n\nExample sentence: \"In a dystopian Asian metropolis, ancient pagodas are overshadowed by towering neon-lit skyscrapers, with vibrant neon colors casting a glow over traditional street vendors amidst futuristic crowds.\"\n\nRefine to make it more detailed and award-winning",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 2032787612,
+      "created_at": "2026-04-07T19:27:20.784183+08:00"
+    },
+    {
       "id": "20260407_185811",
       "filename": "images/artwork_20260407_185811.jpg",
       "topic": "sports and human physical achievement",
