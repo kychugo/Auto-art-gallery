@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260408_073338",
+      "filename": "images/artwork_20260408_073338.jpg",
+      "topic": "mental health awareness in the digital age",
+      "prompt": "In a dystopian digital cityscape under a haunting full moon casting silvery beams through fractured holographic screens, a solitary figure hunches over a glowing smartphone, their face illuminated in soft pastel hues of lavender, mint, and pale cyan, eyes hollow with digital overload as glitchy neural networks and shadowy data streams coil around their mind like thorny vines symbolizing mental fragility. Moonlight pierces the encroaching darkness, creating stark chiaroscuro shadows that blend into endless wires and virtual ghosts haunting abandoned servers, evoking isolation amid hyper-connected chaos. Award-winning digital art masterpiece, ultra-detailed, intricate textures, cinematic composition with rule of thirds, ethereal yet oppressive atmosphere, high contrast, volumetric fog, sharp focus.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 1259425596,
+      "created_at": "2026-04-08T07:33:38.743243+08:00"
+    },
+    {
       "id": "20260408_070316",
       "filename": "images/artwork_20260408_070316.jpg",
       "topic": "Hong Kong city life and culture",
