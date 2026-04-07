@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260407_225132",
+      "filename": "images/artwork_20260407_225132.jpg",
+      "topic": "animals and nature conservation",
+      "prompt": "In the style of an award-winning oil painting, depict a hopeful scene of nature conservation where a diverse group of majestic animals—a gentle elephant family, playful fox kits, soaring eagles, and a proud tiger—gather harmoniously around a lush, regenerating forest glade filled with blooming wildflowers, crystal-clear streams, and newly planted saplings symbolizing renewal and protection.[1][2] Soft diffused daylight filters through the canopy, casting a warm, uplifting glow that bathes the vibrant yet tender wildlife interactions in **soft pastel hues** of gentle pinks, lavenders, mint greens, and buttery yellows, evoking a profound sense of hope and ecological harmony.[3][7] Highly detailed textures on fur, feathers, leaves, and dew-kissed petals create a visually stunning masterpiece of intricate brushstrokes and luminous depth, inspiring awe for a thriving, conserved natural world.[4][5]",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 1656964283,
+      "created_at": "2026-04-07T22:51:32.755736+08:00"
+    },
+    {
       "id": "20260407_224630",
       "filename": "images/artwork_20260407_224630.jpg",
       "topic": "biotechnology and genetic engineering",
