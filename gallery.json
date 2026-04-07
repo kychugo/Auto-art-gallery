@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260408_070316",
+      "filename": "images/artwork_20260408_070316.jpg",
+      "topic": "Hong Kong city life and culture",
+      "prompt": "An oil painting, rendered in a whimsical, dreamlike style, depicts a bustling Hong Kong street scene bathed in soft, diffused daylight.  Holographic iridescent hues shimmer across the neon signs, traditional junk boats sailing through the sky, and street food stalls overflowing with fantastical, glowing ingredients, capturing a sense of vibrant, ethereal urban magic. The overall mood is one of joyful wonder, with every detail, from the translucent, floating lanterns to the playful, silhouetted figures, rendered with exquisite, award-winning precision and a luminous, otherworldly glow.",
+      "text_model": "gemini-fast",
+      "image_model": "klein",
+      "seed": 1675035659,
+      "created_at": "2026-04-08T07:03:16.205576+08:00"
+    },
+    {
       "id": "20260408_062608",
       "filename": "images/artwork_20260408_062608.jpg",
       "topic": "artificial intelligence reshaping society",
