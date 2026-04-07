@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260408_060626",
+      "filename": "images/artwork_20260408_060626.jpg",
+      "topic": "Hong Kong protest art and resilience",
+      "prompt": "In a baroque masterpiece of swirling opulence and dramatic flourishes, Hong Kong protesters rise resiliently amid crumbling colonial facades and umbrella shields morphing into ethereal lotus blooms, their faces illuminated by holographic iridescent hues that shift from fiery umbers to spectral blues under stormy overcast light. Whimsical dreamlike elements infuse the scene—flying tear gas canisters turning into iridescent butterflies, barricades of gilded thorns entwined with glowing protest banners reading \"Freedom\" in fractured gold lettering—evoking unyielding hope amidst chaos. Highly detailed textures of rain-slicked marble statues weeping defiant tears and velvet shadows pooling like molten pearls create a visually stunning, award-winning vision of rebellion's poetic endurance.",
+      "text_model": "perplexity-fast",
+      "image_model": "klein",
+      "seed": 1515382287,
+      "created_at": "2026-04-08T06:06:26.141264+08:00"
+    },
+    {
       "id": "20260408_055147",
       "filename": "images/artwork_20260408_055147.jpg",
       "topic": "global climate crisis and environmental solutions",
