@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260407_125820",
+      "filename": "images/artwork_20260407_125820.jpg",
+      "topic": "cultural diversity and global harmony",
+      "prompt": "A cyberpunk cityscape under a soft, diffused daylight sky presents a scene of profound cultural diversity, with holographic advertisements displaying golden script in various languages glitching subtly above crowded, rain-slicked streets teeming with figures from all walks of life. The mood is melancholic and reflective, with the high-contrast black and gold palette emphasizing the stark divides and opulent technological advancements that coexist, casting long, thoughtful shadows that stretch across the bustling, yet isolated, urban expanse. Intricate details in the architecture and the diverse array of cybernetic enhancements worn by the inhabitants hint at a shared humanity beneath the surface, creating a visually stunning and contemplative atmosphere.",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 2066594362,
+      "created_at": "2026-04-07T12:58:20.961625+08:00"
+    },
+    {
       "id": "20260407_123801",
       "filename": "images/artwork_20260407_123801.jpg",
       "topic": "biotechnology and genetic engineering",
