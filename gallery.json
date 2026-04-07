@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260407_174359",
+      "filename": "images/artwork_20260407_174359.jpg",
+      "topic": "street food culture in Hong Kong",
+      "prompt": "First, the user wants an image generation prompt about street food culture in Hong Kong. I need to incorporate specific elements: art style (abstract expressionist), mood (vibrant and energetic), lighting (arctic aurora borealis), and color palette (crimson and deep red).\n\nThe prompt should be 2-4 sentences long, visually stunning, award-winning, and highly detailed. I must respond with ONLY the prompt in English, no explanations or markdown.\n\nKey elements to weave in:\n\n- **Street food culture in Hong Kong**: Think of bustling streets, food stalls, vendors, steam, smells, crowds. Common visuals: dim sum stalls, noodle shops, neon signs, narrow alleys.\n\n- **Art style: Abstract expressionist**: This style is about emotional expression through abstract forms, bold colors, and dynamic brushstrokes. Think Jackson Pollock or Willem de Kooning. So, the image should have expressive, non-representational elements, but still hint at the subject.\n\n- **Mood: Vibrant and energetic**: This aligns with Hong Kong's street food scene—lively, chaotic, full of movement and life.\n\n- **Lighting: Arctic aurora borealis**: Aurora borealis is northern lights, with flowing, colorful lights in the sky. So, lighting should mimic those ethereal, swirling lights, but in the context of a city scene.\n\n- **Color palette: Crimson and deep red**: Dominant colors should be shades of red. This might relate to food (like red barbecue pork, chili sauces), neon signs, or general vibrancy.\n\nI need to create a prompt that paints a clear mental picture. Since it's abstract expressionist, I can describe the scene in a way that suggests abstraction—focus on emotions, movements, and colors rather than precise details.\n\nStructure the prompt:\n\n- Start with the scene: Hong Kong street food culture.\n\n- Incorporate the elements naturally: describe the art style, mood, lighting",
+      "text_model": "deepseek",
+      "image_model": "gptimage",
+      "seed": 1490053318,
+      "created_at": "2026-04-07T17:43:59.933552+08:00"
+    },
+    {
       "id": "20260407_164957",
       "filename": "images/artwork_20260407_164957.jpg",
       "topic": "mental health awareness in the digital age",
