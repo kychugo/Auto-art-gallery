@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260408_124151",
+      "filename": "images/artwork_20260408_124151.jpg",
+      "topic": "animals and nature conservation",
+      "prompt": "A lush, protected jungle clearing bathed in the ethereal bioluminescent glow of thousands of fireflies, where a matriarch elephant and her calf, their wise eyes filled with gentle serenity, touch trunks tenderly amidst glowing amber ferns and vibrant orange orchids, rendered in the rich, textured brushstrokes of a masterful oil painting that evokes a profound sense of hope and enduring conservation.",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 402364174,
+      "created_at": "2026-04-08T12:41:51.081798+08:00"
+    },
+    {
       "id": "20260408_121427",
       "filename": "images/artwork_20260408_121427.jpg",
       "topic": "urban architecture of the future",
