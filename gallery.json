@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260409_060900",
+      "filename": "images/artwork_20260409_060900.jpg",
+      "topic": "cultural diversity and global harmony",
+      "prompt": "In a cinematic vista under stormy overcast skies casting dramatic, diffused light, diverse people from every corner of the globe—adorned in vibrant traditional attire from African tribal prints to Asian silk robes, Indigenous feathers, and Middle Eastern veils—stand hand-in-hand in a harmonious circle around a glowing ethereal tree of life, their faces serene and united in peaceful embrace.[1] Holographic iridescent color palettes shimmer across their skin and fabrics, refracting prismatic rainbows through misty raindrops that evoke global unity amidst the tempest, with intricate details like floating cultural symbols merging into a single radiant mandala in the foreground.[1] Award-winning composition with hyper-detailed textures, volumetric god rays piercing the clouds, and a moody yet hopeful serenity that captures humanity's shared harmony in stunning, photorealistic glory.[1]",
+      "text_model": "perplexity-fast",
+      "image_model": "klein",
+      "seed": 170477553,
+      "created_at": "2026-04-09T06:09:00.527109+08:00"
+    },
+    {
       "id": "20260409_055239",
       "filename": "images/artwork_20260409_055239.jpg",
       "topic": "traditional vs modern culture clash in Asia",
