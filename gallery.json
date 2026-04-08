@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260409_062741",
+      "filename": "images/artwork_20260409_062741.jpg",
+      "topic": "sports and human physical achievement",
+      "prompt": "In a surrealist dystopian arena bathed in flickering **candlelight ambiance**, colossal humanoid athletes with elongated, melting limbs strain toward impossible feats—vaulting over jagged, bone-like hurdles that pierce storm-torn skies and hurl biomechanical shot puts that morph into screaming faces mid-air, their sweat-glistened muscles bulging unnaturally under warm **amber and orange tones** evoking infernal forge glows amid crumbling ruins. Shadowy spectators with hollow eyes leer from rusted bleachers overgrown with thorny vines, as a lone athlete mid-leap defies gravity, body fracturing into fiery shards that reform in eternal, agonizing triumph. Highly detailed, award-winning composition with distorted perspectives, intricate textures on scarred flesh and decayed architecture, evoking dark human ambition's futile glory in a world of endless ordeal.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 2101637789,
+      "created_at": "2026-04-09T06:27:41.763134+08:00"
+    },
+    {
       "id": "20260409_060900",
       "filename": "images/artwork_20260409_060900.jpg",
       "topic": "cultural diversity and global harmony",
