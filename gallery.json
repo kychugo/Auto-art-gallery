@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260408_220646",
+      "filename": "images/artwork_20260408_220646.jpg",
+      "topic": "social media culture and human connection",
+      "prompt": "First, the user asked for a unique, detailed image generation prompt about social media culture and human connection. I need to incorporate specific elements: art style is baroque, mood is dramatic and intense, lighting is candlelight ambiance, and color palette is high contrast black and gold.\n\nThe prompt must be visually stunning, award-winning, and highly detailed. It should be 2-4 sentences long and paint a clear mental picture. I must respond with ONLY the image prompt itself, no explanations, no titles, no markdown, and exclusively in English.\n\nKey elements to weave in:\n- Social media culture: This could involve symbols like smartphones, screens, notifications, likes, or digital interfaces.\n- Human connection: This might include people interacting, emotions, or contrasts between digital and physical connections.\n- Baroque style: This art style is known for its ornate details, dramatic scenes, rich textures, and elaborate compositions.\n- Dramatic and intense mood: This suggests strong emotions, perhaps conflict, passion, or heightened drama.\n- Candlelight ambiance: Soft, flickering light that creates shadows and highlights, adding to the dramatic effect.\n- High contrast black and gold: Black for depth and shadows, gold for highlights and opulence, which fits the baroque style.\n\nI need to create a prompt that naturally blends these elements. For example, depict a scene where social media devices are present, but the focus is on human interaction, all in a baroque setting with candlelight and black-and-gold colors.\n\nStructure the prompt in 2-4 sentences. Start by setting the scene, then add details about the elements.\n\nPossible ideas:\n- A grand baroque chamber with people gathered, some engrossed in glowing screens, others connecting eye-to-eye by candlelight.\n- Use metaphors: like digital threads woven into traditional tapestries.\n- Ensure it's descriptive and vivid.\n\nCraft the prompt:\nSentence 1: Introduce the scene and main subjects.\nSentence 2: Describe the bar",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 906632709,
+      "created_at": "2026-04-08T22:06:46.196100+08:00"
+    },
+    {
       "id": "20260408_212217",
       "filename": "images/artwork_20260408_212217.jpg",
       "topic": "biotechnology and genetic engineering",
