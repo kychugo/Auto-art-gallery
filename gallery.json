@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260408_150509",
+      "filename": "images/artwork_20260408_150509.jpg",
+      "topic": "space exploration and the cosmos",
+      "prompt": "A dystopian spacecraft, cracked viewports revealing a desolate lunar surface beneath a starless void, rendered in a masterful oil painting style where thick impasto strokes depict frozen frost crawling across its hull under cold moonlight casting deep, angular shadows across metallic debris fields, all captured in a stark monochromatic palette of black and white with subtle reflections in oily black pools.",
+      "text_model": "deepseek",
+      "image_model": "klein",
+      "seed": 990898961,
+      "created_at": "2026-04-08T15:05:09.994762+08:00"
+    },
+    {
       "id": "20260408_145450",
       "filename": "images/artwork_20260408_145450.jpg",
       "topic": "ancient traditions meeting the modern world",
