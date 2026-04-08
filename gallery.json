@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260408_235641",
+      "filename": "images/artwork_20260408_235641.jpg",
+      "topic": "social media culture and human connection",
+      "prompt": "An ethereal anime-inspired scene depicting a solitary figure, bathed in soft, diffused daylight filtering through a dense canopy of emerald and deep forest green foliage, their silhouette faintly glowing as they reach out towards a network of shimmering, translucent threads of light, each thread representing a distant digital connection, creating a mood of profound, mysterious introspection and longing for genuine human touch amidst the digital ether. The background blurs into an impressionistic tapestry of moss-covered ancient trees and mist, enhancing the dreamlike, almost spiritual quality of the moment, with subtle, glowing particles of light drifting around the figure.",
+      "text_model": "gemini-fast",
+      "image_model": "klein",
+      "seed": 1500793343,
+      "created_at": "2026-04-08T23:56:41.036254+08:00"
+    },
+    {
       "id": "20260408_231255",
       "filename": "images/artwork_20260408_231255.jpg",
       "topic": "fashion meets technology",
