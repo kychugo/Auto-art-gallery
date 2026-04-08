@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260408_102621",
+      "filename": "images/artwork_20260408_102621.jpg",
+      "topic": "future of human civilization and technology",
+      "prompt": "A couple in worn thermal gear shares steaming tea on a weathered rooftop perch, overlooking a vast cyberpunk city of layered, hologram-laced megastructures. The arctic aurora borealis shimmers like a living, techno-organic veil across the night sky, its ethereal greens and purples reflecting softly in the warm amber glow of neon signs, orange data streams, and the intimate light of their shared heater.",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 1702444004,
+      "created_at": "2026-04-08T10:26:21.613412+08:00"
+    },
+    {
       "id": "20260408_075735",
       "filename": "images/artwork_20260408_075735.jpg",
       "topic": "future of human civilization and technology",
