@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260408_174457",
+      "filename": "images/artwork_20260408_174457.jpg",
+      "topic": "cybersecurity and privacy in the digital world",
+      "prompt": "A solitary figure sits hunched over a shimmering, fragmented interface, their face illuminated by the stark beams of dramatic studio lighting that cast long, isolating shadows; reflected in their weary eyes and the chrome surfaces around them are endless streams of vibrant neon data—crimson firewalls, sapphire encryption keys, and emerald privacy alerts—flowing like melancholic digital rivers, capturing a moment of profound reflection",
+      "text_model": "deepseek",
+      "image_model": "klein",
+      "seed": 1525338400,
+      "created_at": "2026-04-08T17:44:57.661607+08:00"
+    },
+    {
       "id": "20260408_164924",
       "filename": "images/artwork_20260408_164924.jpg",
       "topic": "news headlines of tomorrow",
