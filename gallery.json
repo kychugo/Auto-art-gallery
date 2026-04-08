@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260408_140613",
+      "filename": "images/artwork_20260408_140613.jpg",
+      "topic": "human migration and global nomadism",
+      "prompt": "A solitary figure, silhouetted against a colossal, rain-slicked cityscape, walks beneath the oppressive glow of vibrant, electric neon signs reflecting in puddles, their watercolor-rendered journey through a dark, dystopian, and overcrowded world emphasized by the stark contrast of this alien light, as they carry a meager bundle, a testament to global nomadism. The atmosphere is thick with a sense of relentless movement and existential solitude, a dreamlike yet unsettling vision painted with a deliberately loose watercolor technique that blurs the edges of reality.",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 1369256919,
+      "created_at": "2026-04-08T14:06:13.068417+08:00"
+    },
+    {
       "id": "20260408_134459",
       "filename": "images/artwork_20260408_134459.jpg",
       "topic": "blockchain and decentralized future",
