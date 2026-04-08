@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260408_130004",
+      "filename": "images/artwork_20260408_130004.jpg",
+      "topic": "street food culture in Hong Kong",
+      "prompt": "A solitary street food vendor in a dai pai dong stall emerges through swirling emerald mist, their wok flickering with amber flames as rain-soaked patrons huddle beneath weathered awnings, while towering neon signs glow mysterious jade and teal through the stormy overcast sky, rendering the bustling Mong Kok alleyway into an ethereal dreamscape where the city's rich culinary heritage floats between reality and fantasy in rich forest green and deep verdant tones, captured in hyper-detailed digital art with cinematic depth of field and ghostly steam wisps rising from steaming bamboo baskets.",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 668164990,
+      "created_at": "2026-04-08T13:00:04.456913+08:00"
+    },
+    {
       "id": "20260408_124151",
       "filename": "images/artwork_20260408_124151.jpg",
       "topic": "animals and nature conservation",
