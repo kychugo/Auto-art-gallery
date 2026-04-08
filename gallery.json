@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260408_164924",
+      "filename": "images/artwork_20260408_164924.jpg",
+      "topic": "news headlines of tomorrow",
+      "prompt": "First, the user wants me to create an image generation prompt. The topic is \"news headlines of tomorrow,\" so I need to envision what future news might look like in a visual form.\n\nRequired elements to incorporate naturally:\n- Art style: baroque. Baroque art is known for its dramatic, emotional, and detailed compositions, often with grandeur and movement.\n- Mood: intimate and human. Despite the grandeur of baroque, I need to make it feel personal and focused on human elements.\n- Lighting: dramatic studio lighting. This suggests controlled, intense lighting that highlights specific areas, creating shadows and depth.\n- Color palette: high contrast black and gold. Black and gold are classic baroque colors, and high contrast will make it striking.\n\nThe prompt should be visually stunning, award-winning, and highly detailed. It should be 2-4 sentences long and paint a clear mental picture. I must respond with ONLY the image prompt itself in English, no explanations.\n\nStructure the prompt: Start with a scene description, incorporate the elements, and ensure it's concise but rich.\n\nBrainstorm a scene: Since it's about news headlines of tomorrow, I could imagine a person in a studio setting, interacting with futuristic news elements, but in a baroque style. Perhaps a human figure surrounded by holographic or physical news headlines, with dramatic lighting and black/gold colors.\n\nCraft the sentences:\n- Sentence 1: Set the scene with the baroque style and intimate mood.\n- Sentence 2: Describe the lighting and color palette.\n- Sentence 3: Add specific details to make it highly detailed and award-winning.\n- Keep it to 2-4 sentences.\n\nEnsure it flows naturally and incorporates all elements without forcing them.\n\nDraft:\n\"A baroque-inspired scene of a solitary journalist in an intimate moment, gently holding a luminescent holographic scroll displaying tomorrow's news headlines, with dramatic studio lighting casting deep shadows and golden highlights against a black velvet backdrop, creating a high-contr",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 1680546468,
+      "created_at": "2026-04-08T16:49:24.687350+08:00"
+    },
+    {
       "id": "20260408_164112",
       "filename": "images/artwork_20260408_164112.jpg",
       "topic": "traditional vs modern culture clash in Asia",
