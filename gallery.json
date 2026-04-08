@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260409_075633",
+      "filename": "images/artwork_20260409_075633.jpg",
+      "topic": "global climate crisis and environmental solutions",
+      "prompt": "A cinematic vista of a ravaged Earth in the global climate crisis, where cracked desert earth and skeletal drowned cities loom under a stormy black sky pierced by high-contrast golden lightning, melancholically reflecting humanity's hubris as bioluminescent vines and solar-powered tree canopies emerge as symbols of environmental renewal, their ethereal glow illuminating diverse activists planting resilient greenery amid rising seas. High-contrast black and gold palette bathes the scene in reflective melancholy, with volumetric bioluminescent rays casting dramatic shadows on innovative wind turbines and floating hydroponic farms that pulse with organic life against the encroaching apocalypse. Award-winning ultra-detailed composition, shot on 35mm lens at f/2.8, epic wide-angle framing with intricate textures, fine grain, and lens flare for a hauntingly hopeful atmosphere.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 515808127,
+      "created_at": "2026-04-09T07:56:33.141305+08:00"
+    },
+    {
       "id": "20260409_073428",
       "filename": "images/artwork_20260409_073428.jpg",
       "topic": "health and medicine breakthroughs",
