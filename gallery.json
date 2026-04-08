@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260408_185923",
+      "filename": "images/artwork_20260408_185923.jpg",
+      "topic": "urban architecture of the future",
+      "prompt": "A hyper-detailed watercolor painting capturing a vibrant and energetic futuristic metropolis bathed in ethereal moonlight and deep, dramatic shadows. Towering, impossibly slender skyscrapers with bioluminescent accents, interconnected by shimmering sky-bridges, pierce a twilight sky awash in cool blues and vibrant purples, their reflections cascading into sleek, obsidian canals below. The overall mood is one of dynamic progress and awe-inspiring, luminous mystery.",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 1768701922,
+      "created_at": "2026-04-08T18:59:24.015465+08:00"
+    },
+    {
       "id": "20260408_183720",
       "filename": "images/artwork_20260408_183720.jpg",
       "topic": "cybersecurity and privacy in the digital world",
