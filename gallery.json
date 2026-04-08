@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260408_224639",
+      "filename": "images/artwork_20260408_224639.jpg",
+      "topic": "biotechnology and genetic engineering",
+      "prompt": "First, the user wants a unique, detailed image generation prompt about biotechnology and genetic engineering. I need to incorporate specific required elements naturally: art style is baroque, mood is powerful and monumental, lighting is bioluminescent glow, and color palette is emerald and deep forest green.\n\nThe prompt should be visually stunning, award-winning, and highly detailed. It must be 2-4 sentences long and paint a clear mental picture. I must respond with ONLY the image prompt itself in English, no explanations, no titles, no markdown.\n\nI am an AI artist and creative director, so I need to craft a prompt that is descriptive and rich in visual detail. Let me brainstorm how to blend biotechnology and genetic engineering with baroque style.\n\nBaroque art is known for its drama, grandeur, and ornate details. It often features dynamic movement, rich colors, and intense lighting. So, I should use baroque elements like elaborate structures, dramatic compositions, and a sense of awe.\n\nBiotechnology and genetic engineering can be visualized through elements like DNA strands, cells, laboratories, or futuristic biological structures. To make it baroque, I can imagine these elements as part of an ornate, monumental scene.\n\nMood: powerful and monumental – so the scene should feel grand, imposing, and awe-inspiring.\n\nLighting: bioluminescent glow – this suggests a soft, organic light source, like glowing plants or organisms, which fits with biotechnology.\n\nColor palette: emerald and deep forest green – these are shades of green, which can evoke nature, life, and genetic elements. I need to use these colors dominantly in the description.\n\nNow, I need to write 2-4 sentences that combine all this. Start with the main subject: perhaps a grand, baroque-inspired structure that represents genetic engineering, like a cathedral of DNA or an ornate laboratory.\n\nIncorporate bioluminescent glow as the lighting, casting emerald and deep forest green hues. Ensure the mood is powerful and",
+      "text_model": "deepseek",
+      "image_model": "klein",
+      "seed": 186713776,
+      "created_at": "2026-04-08T22:46:39.456092+08:00"
+    },
+    {
       "id": "20260408_220646",
       "filename": "images/artwork_20260408_220646.jpg",
       "topic": "social media culture and human connection",
