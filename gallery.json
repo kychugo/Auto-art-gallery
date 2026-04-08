@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260408_132712",
+      "filename": "images/artwork_20260408_132712.jpg",
+      "topic": "revolution in education through technology",
+      "prompt": "A colossal digital campus emerges from stormy overcast skies, where thousands of luminous holographic students and teachers rise on beams of iridescent rainbow light streaming through breaking storm clouds, their forms crackling with electric energy as ancient stone buildings transform into floating crystalline structures woven with circuitry, cinematic wide-angle perspective capturing this monumental moment of educational revolution as brilliant prismatic colors dance across rain-soaked surfaces, powerful and transcendent atmosphere.",
+      "text_model": "minimax",
+      "image_model": "klein",
+      "seed": 1576566747,
+      "created_at": "2026-04-08T13:27:12.535434+08:00"
+    },
+    {
       "id": "20260408_131836",
       "filename": "images/artwork_20260408_131836.jpg",
       "topic": "human migration and global nomadism",
