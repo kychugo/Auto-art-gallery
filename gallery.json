@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260408_183720",
+      "filename": "images/artwork_20260408_183720.jpg",
+      "topic": "cybersecurity and privacy in the digital world",
+      "prompt": "A sprawling, dark cyberpunk cityscape at golden hour, with towering holographic advertisements glitching between vibrant neon pinks and electric blues, casting long, distorted shadows. Below, a lone hacker figure, silhouetted against the harsh, yet beautiful, sunlight, is surrounded by intricate data streams and glowing digital locks, embodying the struggle for privacy in a dystopian digital world. The overall mood is one of oppressive beauty and desperate defiance, rendered in a hyper-detailed concept art style.",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 398088820,
+      "created_at": "2026-04-08T18:37:20.864294+08:00"
+    },
+    {
       "id": "20260408_180016",
       "filename": "images/artwork_20260408_180016.jpg",
       "topic": "human migration and global nomadism",
