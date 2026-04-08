@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260408_192810",
+      "filename": "images/artwork_20260408_192810.jpg",
+      "topic": "Hong Kong protest art and resilience",
+      "prompt": "A Baroque-inspired masterpiece of Hong Kong protest art, where a melancholic and reflective mood permeates the scene, illuminated solely by a soft, ethereal bioluminescent glow emanating from resilient urban flora growing through cracks in the pavement. The composition features high-contrast black and gold, with fragmented, gilded picture frames holding torn protest posters and symbols like umbrellas, their intricate baroque scrollwork intertwined with weathered brick and steel barriers. The dramatic lighting casts long, sorrowful shadows, highlighting the detailed textures of peeling propaganda, polished jade, and the determined, reflective gaze of a lone figure seen in a rain-streaked, golden-framed mirror fragment.",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 1412629205,
+      "created_at": "2026-04-08T19:28:10.800893+08:00"
+    },
+    {
       "id": "20260408_185923",
       "filename": "images/artwork_20260408_185923.jpg",
       "topic": "urban architecture of the future",
