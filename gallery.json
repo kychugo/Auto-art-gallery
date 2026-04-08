@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260408_141830",
+      "filename": "images/artwork_20260408_141830.jpg",
+      "topic": "ocean conservation and marine life",
+      "prompt": "An anime-inspired scene depicting a vast, ancient coral reef teeming with bioluminescent, otherworldly marine life, rendered with dramatic studio lighting that casts deep, ethereal shadows and highlights, evoking a sense of profound mystery; the color palette is dominated by rich earth tones and warm terracotta, with delicate, glowing accents from the sea creatures, capturing a poignant moment of fragile beauty and the silent, ancient wisdom of the ocean.",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 101886164,
+      "created_at": "2026-04-08T14:18:30.948366+08:00"
+    },
+    {
       "id": "20260408_140613",
       "filename": "images/artwork_20260408_140613.jpg",
       "topic": "human migration and global nomadism",
