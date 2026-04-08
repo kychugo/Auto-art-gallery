@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260408_195613",
+      "filename": "images/artwork_20260408_195613.jpg",
+      "topic": "news headlines of tomorrow",
+      "prompt": "A surrealist vision of tomorrow's news headlines materializing as colossal, melting newspaper pages unfurling from fractured clouds in a vast, empty sky, with fragmented headlines like \"AI Eclipse\" and \"Forgotten Oceans Rise\" twisting into ethereal, impossible shapes that dissolve into whispering shadows. Soft diffused daylight filters through the haze, casting melancholic glows on hovering ink droplets and warped typefaces that reflect distorted glimpses of abandoned cities below. Rendered in a cool palette of deep blues and shadowy purples, evoking reflective introspection and quiet foreboding, hyper-detailed, award-winning composition in the style of Salvador Dalí and René Magritte.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 1962840108,
+      "created_at": "2026-04-08T19:56:13.834606+08:00"
+    },
+    {
       "id": "20260408_192810",
       "filename": "images/artwork_20260408_192810.jpg",
       "topic": "Hong Kong protest art and resilience",
