@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260408_155930",
+      "filename": "images/artwork_20260408_155930.jpg",
+      "topic": "news headlines of tomorrow",
+      "prompt": "A surrealist cityscape of tomorrow, shrouded in a dark and dystopian mood, where towering, monolithic structures pierce an emerald and deep forest green sky illuminated by the ethereal glow of an arctic aurora borealis. Jagged, angular buildings, casting long, distorted shadows, are interwoven with glowing, bioluminescent news feeds displaying cryptic headlines that writhe like spectral entities. The scene is rendered with hyper-realistic detail, evoking a sense of profound unease and a chilling beauty, as if captured through a fractured, visionary lens.",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 1197973879,
+      "created_at": "2026-04-08T15:59:30.702892+08:00"
+    },
+    {
       "id": "20260408_150509",
       "filename": "images/artwork_20260408_150509.jpg",
       "topic": "space exploration and the cosmos",
