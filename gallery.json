@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260408_212217",
+      "filename": "images/artwork_20260408_212217.jpg",
+      "topic": "biotechnology and genetic engineering",
+      "prompt": "In a dramatic Baroque style, visualize the hopeful and uplifting essence of biotechnology and genetic engineering as swirling, crimson-hued aurora borealis lights illuminating a deep red, celestial sky. Intricate, golden filigree reminiscent of DNA strands and molecular structures intertwine within the vibrant crimson and deep red light, symbolizing the precise and beautiful dance of genetic modification. The lighting should emulate the ethereal glow of the Arctic aurora, casting a hopeful and uplifting luminescence across the scene, with moments of intense light and deep shadow to enhance the baroque drama.",
+      "text_model": "gemini-search",
+      "image_model": "klein",
+      "seed": 516985422,
+      "created_at": "2026-04-08T21:22:17.304657+08:00"
+    },
+    {
       "id": "20260408_200658",
       "filename": "images/artwork_20260408_200658.jpg",
       "topic": "sports and human physical achievement",
