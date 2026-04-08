@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260408_131836",
+      "filename": "images/artwork_20260408_131836.jpg",
+      "topic": "human migration and global nomadism",
+      "prompt": "Digital art depicting a hopeful and uplifting scene of global nomadism, bathed in the warm glow of a rising moon and dappled moonlight. A diverse group of figures, each representing a different culture and era, are silhouetted against a backdrop of shifting landscapes, symbolizing their continuous journeys and the rich tapestry of human migration. Subtle, ethereal amber and orange tones dominate the color palette, casting long, gentle shadows that enhance the magical and transient nature of their nomadic existence, creating a visually stunning and emotionally resonant masterpiece.",
+      "text_model": "gemini-search",
+      "image_model": "klein",
+      "seed": 885572012,
+      "created_at": "2026-04-08T13:18:36.363262+08:00"
+    },
+    {
       "id": "20260408_130004",
       "filename": "images/artwork_20260408_130004.jpg",
       "topic": "street food culture in Hong Kong",
