@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260408_161321",
+      "filename": "images/artwork_20260408_161321.jpg",
+      "topic": "post-pandemic world transformation",
+      "prompt": "An oil painting depicting a colossal, bio-luminescent tree erupting from the cracked asphalt of a deserted metropolis, its branches interwoven with holographic iridescent circuits that pulse with a dramatic and intense neon city glow. Ethereal, wisps of transformed flora and fauna, rendered in sharp detail, ascend towards a sky fractured by shards of light, the overall mood one of profound, yet hopeful, post-pandemic metamorphosis. The scene is illuminated by the stark contrast of the glowing urban remnants and the organic, otherworldly luminescence of the new world, creating a visually stunning, award-winning composition.",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 363470869,
+      "created_at": "2026-04-08T16:13:21.310034+08:00"
+    },
+    {
       "id": "20260408_155930",
       "filename": "images/artwork_20260408_155930.jpg",
       "topic": "news headlines of tomorrow",
