@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260408_121427",
+      "filename": "images/artwork_20260408_121427.jpg",
+      "topic": "urban architecture of the future",
+      "prompt": "First, the user wants a unique, detailed image generation prompt about \"urban architecture of the future.\" I need to incorporate specific elements naturally: surrealist art style, mysterious and ethereal mood, stormy overcast lighting, and a monochromatic black and white color palette.\n\nThe prompt should be visually stunning, award-winning, and highly detailed. It must be 2-4 sentences long and paint a clear mental picture. I should write only in English, with no explanations, titles, or markdown – just the prompt itself.\n\nKey elements to include:\n- Surrealist art style: This means the architecture should be dreamlike, with impossible structures, unusual shapes, or unexpected combinations.\n- Mysterious and ethereal mood: The scene should feel otherworldly, vague, and haunting, with a sense of wonder or unease.\n- Stormy overcast light: The lighting should be dark, cloudy, with dramatic shadows and diffuse light, like during a storm.\n- Monochromatic black and white color palette: Only shades of black, white, and gray, no colors.\n\nStructure the prompt to describe the urban architecture of the future. Imagine towering buildings, but with surreal twists. For example, buildings might float, merge, or have organic forms. Use descriptive language to convey the mood and lighting.\n\nCraft 2-4 sentences that flow together. Start with a broad description, then add details about the style, mood, lighting, and colors.\n\nExample outline:\n- Sentence 1: Introduce the futuristic urban architecture in a surrealist style.\n- Sentence 2: Describe the mood and lighting.\n- Sentence 3: Add more details about the visual elements and color palette.\n- Sentence 4: Ensure it's detailed and cohesive.\n\nEnsure it's natural and not forced. For instance, \"In a surrealist vision of future urban architecture, towering skyscrapers twist and meld into impossible shapes under a stormy overcast sky, casting long, et",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 1686759471,
+      "created_at": "2026-04-08T12:14:27.518589+08:00"
+    },
+    {
       "id": "20260408_115217",
       "filename": "images/artwork_20260408_115217.jpg",
       "topic": "Hong Kong protest art and resilience",
