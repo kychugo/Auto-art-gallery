@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260409_001325",
+      "filename": "images/artwork_20260409_001325.jpg",
+      "topic": "economic inequality and social justice",
+      "prompt": "First, the user asks for a unique, detailed image generation prompt about economic inequality and social justice. I need to incorporate specific elements naturally: art style is concept art, mood is intimate and human, lighting is dramatic studio lighting, and color palette is emerald and deep forest green.\n\nI must make the prompt visually stunning, award-winning, and highly detailed. It should be 2-4 sentences long and paint a clear mental picture. I can only respond with the image prompt itself in English, no explanations or markdown.\n\nBrainstorming the prompt: I need to weave in the theme of economic inequality and social justice. Concept art style suggests a focus on design and storytelling, often used in games or movies. Intimate and human mood means it should feel personal and emotional, focusing on people. Dramatic studio lighting implies controlled, impactful light that highlights subjects, like in photography or cinematic scenes. Emerald and deep forest green color palette sets a specific tone, perhaps symbolizing growth, wealth disparity, or nature contrasted with urban settings.\n\nTo address economic inequality and social justice, I can depict scenes that show contrast between different social classes, perhaps in a shared space, with human elements that evoke empathy.\n\nStructure the prompt: Start with the main scene, describe the elements, incorporate the required aspects naturally.\n\nPossible prompt: \"Concept art of an intimate scene where a diverse group of people from different economic backgrounds share a meal at a long table, highlighting human connection amidst disparity. Dramatic studio lighting casts sharp shadows and highlights expressive faces, emphasizing emotion and solidarity. The color palette is dominated by emerald and deep forest greens, seen in the clothing and environment, creating a visually stunning and award-winning composition with intricate details like worn hands next to polished ones, and symbolic objects representing justice and inequality.\"\n\nEnsure it's 2-4 sentences. Let me count: That's three sentences.\n\nRefine for clarity and impact: Make sure it's descriptive and rich in visual detail.\n\nFinal prompt should be only",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 216754939,
+      "created_at": "2026-04-09T00:13:25.687303+08:00"
+    },
+    {
       "id": "20260408_235641",
       "filename": "images/artwork_20260408_235641.jpg",
       "topic": "social media culture and human connection",
