@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260408_134459",
+      "filename": "images/artwork_20260408_134459.jpg",
+      "topic": "blockchain and decentralized future",
+      "prompt": "In a noir-drenched cyberpunk metropolis of the decentralized future, towering blockchain spires pulse with interconnected nodes forming ethereal, glowing ledgers that weave through rain-slicked streets and hovering smart contracts, where diverse figures in trench coats exchange holographic crypto keys under flickering drone surveillance. Candlelight ambiance from ornate, levitating lanterns casts dramatic shadows across iridescent surfaces that shimmer in a holographic palette of shifting blues, violets, and electric greens, infusing the scene with vibrant, energetic defiance against centralized monoliths crumbling in the background. Render in hyper-detailed noir artistry, award-winning composition with high contrast, volumetric god rays piercing the mist, and intricate textures on metallic chains breaking free into infinite decentralized fractals.",
+      "text_model": "perplexity-fast",
+      "image_model": "klein",
+      "seed": 446721736,
+      "created_at": "2026-04-08T13:44:59.798502+08:00"
+    },
+    {
       "id": "20260408_132712",
       "filename": "images/artwork_20260408_132712.jpg",
       "topic": "revolution in education through technology",
