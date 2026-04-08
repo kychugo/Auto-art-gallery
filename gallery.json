@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260408_164112",
+      "filename": "images/artwork_20260408_164112.jpg",
+      "topic": "traditional vs modern culture clash in Asia",
+      "prompt": "A monumental pop art composition depicting the collision of traditional Asian culture and modernity: an ornate golden temple facade fractures into geometric shards of neon skyscrapers, with a serene Buddhist monk in saffron robes positioned against a vibrant crimson background, his peaceful expression contrasting sharply against towering holographic billboards and digital storms swirling behind him. Golden hour sunlight streams through the composition, casting long dramatic shadows and illuminating intricate details of carved temple stone alongside sleek glass and steel, while deep red and crimson tones dominate the palette, accented by bold metallic golds and electric accents. The style merges traditional woodblock print techniques with bold pop art silkscreen effects, featuring high-contrast layers, thick outlined forms, and explosive color blocking that creates visual tension between the serene and the chaotic. Shot as a powerful wide-angle portrait with cinematic depth, rendered in 4K with painterly brush strokes and metallic shimmer, evoking both reverence and urgency—a monumental statement on cultural transformation.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 203704198,
+      "created_at": "2026-04-08T16:41:12.159218+08:00"
+    },
+    {
       "id": "20260408_161321",
       "filename": "images/artwork_20260408_161321.jpg",
       "topic": "post-pandemic world transformation",
