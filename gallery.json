@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260408_115217",
+      "filename": "images/artwork_20260408_115217.jpg",
+      "topic": "Hong Kong protest art and resilience",
+      "prompt": "A photorealistic scene of Hong Kong street art depicting resilience and hope, with vibrant murals of unity and courage painted across weathered urban walls, bathed in soft diffused daylight filtered through morning mist and city haze. Warm amber and orange tones illuminate the intricate details of protest art—symbolic umbrellas, raised fists, and poignant portraits of determined faces—creating an energetic and powerful visual narrative. The composition captures the raw texture of concrete walls juxtaposed with bold, expressive brushstrokes in warm hues, with subtle lens flare catching the diffused light. The overall atmosphere is contemplative yet defiant, celebrating the indomitable spirit of a community through its artistic expression, rendered with cinematic quality and rich atmospheric depth.",
+      "text_model": "perplexity-fast",
+      "image_model": "klein",
+      "seed": 1619139690,
+      "created_at": "2026-04-08T11:52:17.840176+08:00"
+    },
+    {
       "id": "20260408_113723",
       "filename": "images/artwork_20260408_113723.jpg",
       "topic": "biotechnology and genetic engineering",
