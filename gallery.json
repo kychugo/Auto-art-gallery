@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260408_145450",
+      "filename": "images/artwork_20260408_145450.jpg",
+      "topic": "ancient traditions meeting the modern world",
+      "prompt": "A colossal, ancient stone monolith, intricately carved with holographic iridescent runes, stands as a stark minimalist silhouette against a deep, moonlit sky, casting long, dramatic shadows. The air crackles with a powerful, monumental energy, a fusion of forgotten rituals and futuristic awe, rendered in a style that is both profoundly simple and breathtakingly complex. The holographic glow emanates from the monolith, reflecting off a polished, obsidian-like surface below, creating an otherworldly, award-winning scene.",
+      "text_model": "gemini-search",
+      "image_model": "klein",
+      "seed": 1583398070,
+      "created_at": "2026-04-08T14:54:50.693903+08:00"
+    },
+    {
       "id": "20260408_141830",
       "filename": "images/artwork_20260408_141830.jpg",
       "topic": "ocean conservation and marine life",
