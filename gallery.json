@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260409_195603",
+      "filename": "images/artwork_20260409_195603.jpg",
+      "topic": "Hong Kong city life and culture",
+      "prompt": "A whimsical digital art scene of vibrant Hong Kong city life and culture, where towering crimson skyscrapers intertwined with neon-lit street markets and bustling Victoria Harbour ferries morph dreamlike into lush, impossible forests, with locals in red cheongsams and tai chi practitioners floating amid rickshaw dragons and dim sum carts under dappled forest light filtering through canopy leaves. The color palette glows in deep reds and crimsons, casting ethereal crimson glows on jade lions and lantern-adorned alleyways, blending urban frenzy with surreal sylvan magic in award-winning hyper-detailed intricacy, evoking a fantastical fusion of tradition and modernity.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 1533670325,
+      "created_at": "2026-04-09T19:56:03.416320+08:00"
+    },
+    {
       "id": "20260409_192943",
       "filename": "images/artwork_20260409_192943.jpg",
       "topic": "renewable energy and sustainable living",
