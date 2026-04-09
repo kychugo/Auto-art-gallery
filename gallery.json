@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260410_062933",
+      "filename": "images/artwork_20260410_062933.jpg",
+      "topic": "Hong Kong city life and culture",
+      "prompt": "Create an impressionist, award-winning scene of Hong Kong city life at dusk—wet streets glistening like ink, neon reflections blooming into a melancholic, reflective haze. Use bioluminescent glow lighting to illuminate dense silhouettes of skyscrapers, towering neon signage, crowded sidewalk shadows, and small street-level details like steamed buns in a night market stall, dim red lanterns, and scattered umbrellas, all rendered with high-contrast black and gold throughout. The sky should feel heavy and luminous at once, with gold mist and drifting light particles blending into the buildings, evoking quiet stories between reflections, tram lines, and harbor silhouettes far in the distance. Capture visible brushwork, layered textures, and shimmering contrast as if the city’s energy is slowly fading into memory.",
+      "text_model": "openai",
+      "image_model": "gptimage",
+      "seed": 1741778734,
+      "created_at": "2026-04-10T06:29:33.255996+08:00"
+    },
+    {
       "id": "20260410_060703",
       "filename": "images/artwork_20260410_060703.jpg",
       "topic": "artificial intelligence reshaping society",
