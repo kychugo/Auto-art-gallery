@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260409_200814",
+      "filename": "images/artwork_20260409_200814.jpg",
+      "topic": "cybersecurity and privacy in the digital world",
+      "prompt": "A whimsical and dreamlike scene in a digital art style, showing a vast, serene landscape of flowing golden data streams and misty amber clouds under soft diffused daylight. A majestic, translucent guardian figure woven from glowing orange threads and intricate geometric lace shields delicate floating orbs of personal data, with shimmering barriers of light forming protective honeycomb patterns throughout the warm, amber-hued atmosphere.",
+      "text_model": "deepseek",
+      "image_model": "klein",
+      "seed": 104474364,
+      "created_at": "2026-04-09T20:08:14.846758+08:00"
+    },
+    {
       "id": "20260409_195603",
       "filename": "images/artwork_20260409_195603.jpg",
       "topic": "Hong Kong city life and culture",
