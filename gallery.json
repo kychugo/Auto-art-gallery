@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260409_162019",
+      "filename": "images/artwork_20260409_162019.jpg",
+      "topic": "cultural diversity and global harmony",
+      "prompt": "A celestial watercolor depicts a nebula of swirling, holographic iridescent hues, from which ethereal figures of diverse global ethnicities emerge, their forms subtly merging as if in a silent, harmonious dance under dramatic studio lighting that casts long, luminous shadows. The atmosphere is one of profound, mysterious interconnectedness, with delicate brushstrokes and the iridescent sheen of the paint creating a dreamlike, award-winning visual that evokes a sense of universal understanding and peace.",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 1514595212,
+      "created_at": "2026-04-09T16:20:19.991770+08:00"
+    },
+    {
       "id": "20260409_160346",
       "filename": "images/artwork_20260409_160346.jpg",
       "topic": "global climate crisis and environmental solutions",
