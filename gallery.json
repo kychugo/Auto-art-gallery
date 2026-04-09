@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260410_073450",
+      "filename": "images/artwork_20260410_073450.jpg",
+      "topic": "social media culture and human connection",
+      "prompt": "A vibrant anime-inspired scene unfolds during golden hour, where diverse individuals are joyfully sharing moments on stylized, interconnected digital platforms that float amidst a warm, hazy sky. The overall mood is energetic and optimistic, with sunlight casting long, soft shadows and illuminating a rich color palette dominated by warm earth tones and vibrant terracotta hues, highlighting the glowing screens and the genuine connections formed between people interacting across these digital spaces. This visually stunning composition should capture the essence of modern social connection with a touch of nostalgic charm, rendered with intricate detail and a painterly aesthetic.",
+      "text_model": "gemini-search",
+      "image_model": "gptimage",
+      "seed": 1158105020,
+      "created_at": "2026-04-10T07:34:50.104379+08:00"
+    },
+    {
       "id": "20260410_070431",
       "filename": "images/artwork_20260410_070431.jpg",
       "topic": "street food culture in Hong Kong",
