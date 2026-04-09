@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260409_160346",
+      "filename": "images/artwork_20260409_160346.jpg",
+      "topic": "global climate crisis and environmental solutions",
+      "prompt": "A close-up, photorealistic portrait of a young woman's hands gently cupping a fragile, newly sprouted sapling against a blurred background of a lush, emerald forest. The soft, diffused daylight filters through the canopy, casting a warm, intimate glow on her skin and the vibrant green leaves, evoking a sense of hope and quiet determination amidst the global climate crisis. This award-winning image should capture the delicate balance of nature and humanity's role in its preservation, rendered in a palette dominated by deep forest greens and verdant emerald hues.",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 1100045346,
+      "created_at": "2026-04-09T16:03:46.953796+08:00"
+    },
+    {
       "id": "20260409_150850",
       "filename": "images/artwork_20260409_150850.jpg",
       "topic": "social media culture and human connection",
