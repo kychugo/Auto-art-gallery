@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260409_180515",
+      "filename": "images/artwork_20260409_180515.jpg",
+      "topic": "cybersecurity and privacy in the digital world",
+      "prompt": "Abstract expressionist digital constructs swirl with vibrant, energetic data streams rendered in warm amber and orange tones, creating a dynamic visual metaphor for cybersecurity and privacy in the interconnected world. Dramatic studio lighting casts sharp contrasts across the abstract forms, highlighting the tension between protection and vulnerability, the seen and the unseen. This highly detailed, award-winning image should evoke a sense of both the overwhelming complexity of digital systems and the essential human need for secure personal spaces.",
+      "text_model": "gemini-search",
+      "image_model": "klein",
+      "seed": 2144039486,
+      "created_at": "2026-04-09T18:05:15.511792+08:00"
+    },
+    {
       "id": "20260409_174930",
       "filename": "images/artwork_20260409_174930.jpg",
       "topic": "biotechnology and genetic engineering",
