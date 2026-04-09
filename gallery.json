@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260409_150850",
+      "filename": "images/artwork_20260409_150850.jpg",
+      "topic": "social media culture and human connection",
+      "prompt": "In a minimalist composition, two silhouetted figures sit cross-legged facing each other on a vast empty black plane, their hands gently touching fingertips amid faint golden icons of hearts, speech bubbles, and abstract social media swirls floating ethereally between them, symbolizing fragile human connection transcending digital noise. Soft diffused daylight filters from above, casting serene high-contrast shadows that accentuate the luminous gold outlines against the deep black void, evoking peaceful introspection. Award-winning minimalist art in black and gold palette, ultra-detailed textures on subtle skin contours and glowing icons, serene mood, visually stunning and harmonious.",
+      "text_model": "perplexity-fast",
+      "image_model": "klein",
+      "seed": 209092479,
+      "created_at": "2026-04-09T15:08:50.202312+08:00"
+    },
+    {
       "id": "20260409_145639",
       "filename": "images/artwork_20260409_145639.jpg",
       "topic": "cybersecurity and privacy in the digital world",
