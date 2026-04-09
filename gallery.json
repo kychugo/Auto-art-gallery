@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260410_000053",
+      "filename": "images/artwork_20260410_000053.jpg",
+      "topic": "news headlines of tomorrow",
+      "prompt": "A surrealist masterpiece of monumental and powerful mood, where a city's newsstand at dawn is made from soft pastel-hued, gently glowing paper sculptures, their headlines of tomorrow floating up into a soft diffused daylight sky as giant, weightless origami birds; a lone figure stands in awe, cast in a soft shadow, as the entire scene is rendered with hyper-detailed, ethereal textures and a dreamlike, yet strikingly clear, composition.",
+      "text_model": "deepseek",
+      "image_model": "klein",
+      "seed": 71758111,
+      "created_at": "2026-04-10T00:00:53.175278+08:00"
+    },
+    {
       "id": "20260409_232407",
       "filename": "images/artwork_20260409_232407.jpg",
       "topic": "post-pandemic world transformation",
