@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260409_165101",
+      "filename": "images/artwork_20260409_165101.jpg",
+      "topic": "health and medicine breakthroughs",
+      "prompt": "A luminous laboratory suspended in moonlit clouds where glowing molecular structures and DNA helixes float like ethereal dancers, their forms rendered in stark monochromatic blacks and whites with silver highlights catching the soft lunar glow. Shadowy silhouettes of scientists reach upward in wonder as breakthrough formulas materialize as intricate geometric patterns and light beams, creating a dreamlike collision between cutting-edge medicine and cosmic mystery. The entire scene pulses with an otherworldly energy, where test tubes and neural pathways interweave into a whimsical landscape of discovery, rendered in crisp digital art with deep shadow work and luminous moonlit accents that transform scientific achievement into magical wonder. Soft fog swirls around crystalline structures of revolutionary treatments and cures, their forms highlighted by silvery moonlight against an infinite black void, evoking both the grandeur of human innovation and the mystical nature of healing.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 519995185,
+      "created_at": "2026-04-09T16:51:01.868477+08:00"
+    },
+    {
       "id": "20260409_162019",
       "filename": "images/artwork_20260409_162019.jpg",
       "topic": "cultural diversity and global harmony",
