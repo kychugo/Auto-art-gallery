@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260409_141804",
+      "filename": "images/artwork_20260409_141804.jpg",
+      "topic": "revolution in education through technology",
+      "prompt": "In an ethereal oil painting, a mysterious revolution in education unfolds in a vast, twilight classroom where holographic screens and floating digital tablets emanate a bioluminescent glow, illuminating diverse students with awestruck faces as ancient books morph into swirling neural networks and robotic tutors whisper forgotten knowledge. Cool blues and purples dominate the palette, casting ghostly veils over shadowy figures of enlightened scholars emerging from mist-shrouded podiums, with intricate brushstrokes revealing hidden circuits pulsing like veins in the arcane fusion of tradition and technology. Award-winning masterpiece, hyper-detailed, dramatic ethereal mood, luminous depth and textured impasto.",
+      "text_model": "perplexity-fast",
+      "image_model": "klein",
+      "seed": 927419552,
+      "created_at": "2026-04-09T14:18:04.265310+08:00"
+    },
+    {
       "id": "20260409_140732",
       "filename": "images/artwork_20260409_140732.jpg",
       "topic": "quantum computing and the future",
