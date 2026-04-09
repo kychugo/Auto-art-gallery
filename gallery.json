@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260409_192943",
+      "filename": "images/artwork_20260409_192943.jpg",
+      "topic": "renewable energy and sustainable living",
+      "prompt": "In a vast, serene valley of sustainable living, elegant **solar panels** shimmer like golden veins amidst lush vertical gardens and eco-homes woven from living vines, while towering **wind turbines** with bioluminescent blades gently spin under a starlit sky, harnessing invisible breezes.[1] A crystal-clear river powers a graceful hydroelectric wheel glowing with inner ethereal light, surrounded by geothermal vents releasing soft steam plumes and biomass groves pulsing with faint radiant energy, all evoking peaceful harmony between humanity and nature.[1] Rendered in hyper-detailed **concept art** style, with **high contrast black and gold** color palette, dramatic **bioluminescent glow** casting mystical shadows and highlights for an award-winning, visually stunning masterpiece of renewable energy utopia.[2]",
+      "text_model": "perplexity-fast",
+      "image_model": "klein",
+      "seed": 1897962816,
+      "created_at": "2026-04-09T19:29:43.926632+08:00"
+    },
+    {
       "id": "20260409_190057",
       "filename": "images/artwork_20260409_190057.jpg",
       "topic": "social media culture and human connection",
