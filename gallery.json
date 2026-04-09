@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260410_001552",
+      "filename": "images/artwork_20260410_001552.jpg",
+      "topic": "renewable energy and sustainable living",
+      "prompt": "A solitary figure leans against a weathered railing on a cozy rooftop garden, a lush microcosm of ferns and vegetable plots thriving under the soft, rhythmic pulse of magenta and cyan light from a massive, ornate bio-luminescent wind turbine that dominates the foreground, its graceful blades spinning against a night sky glowing with warm, diffuse neon from the dense cyberpunk megacity below; high-contrast black and gold tones define every detail, from the worn texture of the gardener's work gloves to the delicate golden veins in the broad leaves, creating an intimate portrait of human resilience and quiet stewardship within a glittering, synthetic world.",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 12239494,
+      "created_at": "2026-04-10T00:15:52.870677+08:00"
+    },
+    {
       "id": "20260410_000053",
       "filename": "images/artwork_20260410_000053.jpg",
       "topic": "news headlines of tomorrow",
