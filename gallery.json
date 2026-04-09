@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260410_060703",
+      "filename": "images/artwork_20260410_060703.jpg",
+      "topic": "artificial intelligence reshaping society",
+      "prompt": "Create an award-winning watercolor illustration depicting artificial intelligence reshaping society in a peaceful, serene atmosphere: a softly glowing “AI” core made of translucent circuitry blooms above a quiet riverside city, where human figures in everyday clothing walk calmly beneath floating holographic murals of education, medicine, and green energy. Capture neon city glow with gentle, backlit signage reflections on wet paper textures, using a warm amber and orange color palette with subtle ink-wash gradients, shimmering bokeh, and delicate light halos that blend into misty sky. Include richly detailed visual elements—tiny robotic petals opening like origami, ethereal data-stream ribbons weaving between buildings, and calm street reflections—while keeping the scene airy and harmonious, as if technology and humanity are learning to breathe together.",
+      "text_model": "openai",
+      "image_model": "flux",
+      "seed": 2025213099,
+      "created_at": "2026-04-10T06:07:03.830594+08:00"
+    },
+    {
       "id": "20260410_055328",
       "filename": "images/artwork_20260410_055328.jpg",
       "topic": "fashion meets technology",
