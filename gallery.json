@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260410_055328",
+      "filename": "images/artwork_20260410_055328.jpg",
+      "topic": "fashion meets technology",
+      "prompt": "In an impressionist style reminiscent of Monet's dreamlike brushstrokes, a poised woman embodies fashion meets technology, draped in flowing pastel silk gown embroidered with glowing holographic circuits and neural lace jewelry that pulses softly against her skin, her expression intimate and vulnerably human as she gazes into a futuristic handheld mirror revealing augmented reality overlays on her reflection. Moonlight filters through a velvet-curtained window, casting elongated shadows across her form and scattering silvery highlights on iridescent fabrics, enveloped in a cozy boudoir with whispered tech relics like levitating data orbs. Rendered in soft pastel hues of lavender, mint, blush pink, and pearl gray, with loose, textured strokes evoking tender emotion and ethereal fusion of couture and cybernetic grace, highly detailed, award-winning masterpiece.",
+      "text_model": "perplexity-fast",
+      "image_model": "gptimage",
+      "seed": 581339261,
+      "created_at": "2026-04-10T05:53:28.770290+08:00"
+    },
+    {
       "id": "20260410_052431",
       "filename": "images/artwork_20260410_052431.jpg",
       "topic": "fashion meets technology",
