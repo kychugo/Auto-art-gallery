@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260410_075704",
+      "filename": "images/artwork_20260410_075704.jpg",
+      "topic": "fashion meets technology",
+      "prompt": "In a noir-style dystopian metropolis shrouded in perpetual twilight, a sleek female model strides through rain-slicked alleyways, her high-fashion ensemble fusing cybernetic latex bodysuit with embedded holographic circuits, glowing neural implants piercing her sharp cheekbones, and elongated metallic heels clicking on cracked pavement. Bioluminescent veins pulse with cool blues and deep purples across towering skyscrapers overgrown with bioluminescent vines, casting ethereal glows that carve dramatic shadows over her poised, enigmatic figure amid flickering augmented reality ads. Highly detailed, award-winning cinematic composition with chiaroscuro contrasts, misty atmosphere, and intricate textures evoking futuristic techno-noir elegance.",
+      "text_model": "perplexity-fast",
+      "image_model": "klein",
+      "seed": 221959999,
+      "created_at": "2026-04-10T07:57:04.337766+08:00"
+    },
+    {
       "id": "20260410_073450",
       "filename": "images/artwork_20260410_073450.jpg",
       "topic": "social media culture and human connection",
