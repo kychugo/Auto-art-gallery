@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260409_120836",
+      "filename": "images/artwork_20260409_120836.jpg",
+      "topic": "quantum computing and the future",
+      "prompt": "In a dark, cyberpunk cityscape beneath an ethereal arctic aurora borealis, a lone quantum computer hums with intense, dramatic energy, its core glowing with warm amber and orange tones that pulse against the cool, otherworldly light of the northern lights. Towering, rain-slicked skyscrapers adorned with holographic advertisements cast long shadows, while intricate circuits and glowing data streams weave through the scene, illustrating the intense convergence of advanced technology and raw, natural phenomena in a future defined by dramatic intensity.",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 809860262,
+      "created_at": "2026-04-09T12:08:36.300975+08:00"
+    },
+    {
       "id": "20260409_114914",
       "filename": "images/artwork_20260409_114914.jpg",
       "topic": "global climate crisis and environmental solutions",
