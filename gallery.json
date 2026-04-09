@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260409_131722",
+      "filename": "images/artwork_20260409_131722.jpg",
+      "topic": "ocean conservation and marine life",
+      "prompt": "An oil painting depicting a solitary, majestic sea turtle swimming through a turbulent, deep crimson ocean under a stormy, overcast sky. The lighting is dim and dramatic, with faint rays of light struggling to pierce the thick, red-tinged clouds, casting a melancholic and reflective mood over the scene. The water is rendered in rich, dark shades of crimson and deep red, with subtle hints of deep blue and black, emphasizing the somber atmosphere and the turtle's isolation. Wisps of shadowy, indistinct marine debris drift in the background, subtly suggesting the environmental threats faced by marine life.",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 1968162432,
+      "created_at": "2026-04-09T13:17:22.744802+08:00"
+    },
+    {
       "id": "20260409_125739",
       "filename": "images/artwork_20260409_125739.jpg",
       "topic": "cybersecurity and privacy in the digital world",
