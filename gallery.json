@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260409_221755",
+      "filename": "images/artwork_20260409_221755.jpg",
+      "topic": "blockchain and decentralized future",
+      "prompt": "A solitary, ethereal figure sits amidst the ruins of a once-great city, data streams like bioluminescent vines weaving through shattered skyscrapers, casting a high-contrast black and gold glow. The art style is digital painting, capturing a melancholic and reflective mood as the figure gazes at a holographic projection of a decentralized network, its intricate, glowing pathways a stark contrast to the decaying structures. Award-winning, ultra-detailed, cinematic lighting, deep shadows, and golden luminescence define this poignant scene of a digital future's quiet contemplation.",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 1636474359,
+      "created_at": "2026-04-09T22:17:55.206780+08:00"
+    },
+    {
       "id": "20260409_212547",
       "filename": "images/artwork_20260409_212547.jpg",
       "topic": "space exploration and the cosmos",
