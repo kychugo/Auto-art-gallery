@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260409_132912",
+      "filename": "images/artwork_20260409_132912.jpg",
+      "topic": "animals and nature conservation",
+      "prompt": "A lone, intricately detailed pangolin, its scales rendered in shifting holographic iridescent hues, walks through a desolate, concrete wasteland under the dim, flickering glow of scattered candles, symbolizing a fragile hope against a dark and dystopian backdrop of dying, skeletal trees and smog-choked skies, painted in the style of a surrealist dreamscape by Zdzisław Beksiński and H.R. Giger.",
+      "text_model": "gemini-fast",
+      "image_model": "klein",
+      "seed": 743730889,
+      "created_at": "2026-04-09T13:29:12.076681+08:00"
+    },
+    {
       "id": "20260409_131722",
       "filename": "images/artwork_20260409_131722.jpg",
       "topic": "ocean conservation and marine life",
