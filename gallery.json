@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260409_225507",
+      "filename": "images/artwork_20260409_225507.jpg",
+      "topic": "urban architecture of the future",
+      "prompt": "A whimsical baroque metropolis of the future rises in dreamlike splendor, with towering spires and ornate facades adorned in swirling golden filigree, cantilevered arches, and levitating cupolas that twist impossibly amid hovering sky bridges and lush vertical gardens cascading like velvet drapery. Soft pastel hues of lavender, mint, and blush pink bathe the scene in a neon city glow, where ethereal lights pulse from intricate lattice windows and floating orbs, casting prismatic reflections on rain-slicked cobblestones and marble plazas alive with playful holographic cherubs and steam-powered automatons. Rendered in hyper-detailed, award-winning baroque style with opulent textures, dramatic chiaroscuro shadows, and a surreal sense of boundless wonder, ultra-high resolution, cinematic composition.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 1299821311,
+      "created_at": "2026-04-09T22:55:07.255705+08:00"
+    },
+    {
       "id": "20260409_221755",
       "filename": "images/artwork_20260409_221755.jpg",
       "topic": "blockchain and decentralized future",
