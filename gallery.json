@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260409_212547",
+      "filename": "images/artwork_20260409_212547.jpg",
+      "topic": "space exploration and the cosmos",
+      "prompt": "In a dimly lit, cavernous observatory, baroque-style celestial charts depicting forgotten constellations hang askew, illuminated by the flickering, warm glow of strategically placed candles that cast long, dancing shadows across the desolate interior. A lone, antique astrolabe rests on a dusty table, its brassy surface reflecting the soft pastel hues of nebulae and distant galaxies visible through a cracked viewport, hinting at a once-grand exploration now shrouded in a dark, dystopian quietude. The air is thick with the scent of old parchment and cosmic dust, creating a mood of profound melancholy and lost ambition amidst the grandeur of the cosmos.",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 2011149447,
+      "created_at": "2026-04-09T21:25:47.858882+08:00"
+    },
+    {
       "id": "20260409_200814",
       "filename": "images/artwork_20260409_200814.jpg",
       "topic": "cybersecurity and privacy in the digital world",
