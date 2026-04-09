@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260409_230343",
+      "filename": "images/artwork_20260409_230343.jpg",
+      "topic": "virtual reality and the metaverse",
+      "prompt": "Create a baroque, dark-and-dystopian scene inside the metaverse: towering cathedral-like VR architecture made of fractured glass and brass, where human silhouettes in ornate augmented helmets hover among floating holographic runes and circuitry halos. Moonlight and deep, shifting shadows carve dramatic chiaroscuro across terracotta and earth-toned textures—dust motes drifting through volumetric beams—while a giant, cracked virtual sphere projects spectral cityscapes into the distance. Include intricate baroque ornamentation (filigree, curls, gilded relief patterns) fused with futuristic interfaces, cables, and glyph-frames, with subtle glitch artifacts weaving through the air to imply surveillance and digital decay. Ultra-realistic, hyper-detailed, award-winning composition, cinematic wide angle, high contrast, sharp focus with atmospheric depth, 8k, breathtaking visual density.",
+      "text_model": "openai",
+      "image_model": "zimage",
+      "seed": 539362549,
+      "created_at": "2026-04-09T23:03:43.991534+08:00"
+    },
+    {
       "id": "20260409_225507",
       "filename": "images/artwork_20260409_225507.jpg",
       "topic": "urban architecture of the future",
