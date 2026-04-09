@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260409_125739",
+      "filename": "images/artwork_20260409_125739.jpg",
+      "topic": "cybersecurity and privacy in the digital world",
+      "prompt": "In an abstract expressionist masterpiece, swirling vortices of encrypted data streams and fractured privacy shields clash dramatically against a digital void, symbolizing cybersecurity's fierce battle in the cyber realm, with bold, gestural brushstrokes evoking raw chaos and vigilant defense. Illuminated by the ethereal glow of arctic aurora borealis lighting, pale green veils ripple into soft pastel hues of lavender, rose-pink, icy blue, and subtle crimson, casting trembling highlights on shadowy binary code tendrils and glowing firewall barriers that pulse with intense, otherworldly energy. This award-winning, highly detailed vista captures a mood of dramatic intensity, where translucent light curtains dance like fragile guardians over a profound digital abyss, blending mystical serenity with the fiery undercurrents of hidden threats.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 1176256371,
+      "created_at": "2026-04-09T12:57:39.166766+08:00"
+    },
+    {
       "id": "20260409_123846",
       "filename": "images/artwork_20260409_123846.jpg",
       "topic": "economic inequality and social justice",
