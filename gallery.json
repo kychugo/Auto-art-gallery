@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260409_190057",
+      "filename": "images/artwork_20260409_190057.jpg",
+      "topic": "social media culture and human connection",
+      "prompt": "A group of diverse young people gathered in an ancient forest clearing, their faces illuminated by dozens of floating candlelit smartphone screens forming a luminous circle around them, their eyes meeting across the warm emerald glow as virtual notification sparkles weave between them like digital fireflies, anime-style characters with intricate facial details and flowing hair capturing the raw emotional moment of genuine human connection despite the digital realm that brought them together, rendered in dramatic cinematic composition with deep forest green shadows and flickering amber light creating an intense, award-winning visual masterpiece of longing and togetherness.",
+      "text_model": "minimax",
+      "image_model": "flux",
+      "seed": 994813895,
+      "created_at": "2026-04-09T19:00:57.332956+08:00"
+    },
+    {
       "id": "20260409_184126",
       "filename": "images/artwork_20260409_184126.jpg",
       "topic": "mental health awareness in the digital age",
