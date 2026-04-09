@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260409_134653",
+      "filename": "images/artwork_20260409_134653.jpg",
+      "topic": "post-pandemic world transformation",
+      "prompt": "In a post-pandemic world, a lone figure stands on a rain-slicked rooftop overlooking a sprawling anime-inspired cityscape bathed in the melancholic glow of neon signs, their soft pastel hues reflecting in puddles and on the character's contemplative face. The atmosphere is thick with a quiet reflection, the vibrant yet subdued city lights casting long shadows that hint at both loss and the subtle resurgence of hope. This scene is rendered in a style reminiscent of classic anime OVAs, with a deep, moody color palette of dusty rose, muted lavender, and soft cyan, all unified by the ethereal neon luminescence.",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 344721038,
+      "created_at": "2026-04-09T13:46:53.893038+08:00"
+    },
+    {
       "id": "20260409_132912",
       "filename": "images/artwork_20260409_132912.jpg",
       "topic": "animals and nature conservation",
