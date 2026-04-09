@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260410_044159",
+      "filename": "images/artwork_20260410_044159.jpg",
+      "topic": "economic inequality and social justice",
+      "prompt": "Photorealistic image capturing a stark, dramatic scene of economic inequality, bathed in an eerie, intense bioluminescent glow that casts deep crimson and blood-red shadows. Abstract, chaotic tendrils of light, symbolizing exploited resources, snake upwards from a struggling, impoverished mass of figures towards opulently grasping hands silhouetted against an oppressive, dark sky. The mood is heavy with social injustice, visualized through the visceral, glowing crimson palette that bleeds across the composition, highlighting the profound chasm between the deprived and the privileged in a visually stunning, award-winning composition.",
+      "text_model": "gemini-search",
+      "image_model": "klein",
+      "seed": 751338632,
+      "created_at": "2026-04-10T04:41:59.402523+08:00"
+    },
+    {
       "id": "20260410_001552",
       "filename": "images/artwork_20260410_001552.jpg",
       "topic": "renewable energy and sustainable living",
