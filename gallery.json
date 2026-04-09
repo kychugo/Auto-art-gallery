@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260409_145639",
+      "filename": "images/artwork_20260409_145639.jpg",
+      "topic": "cybersecurity and privacy in the digital world",
+      "prompt": "Photorealistic, dramatic, and intensely focused scene depicting a lone figure cloaked in shadow, their face illuminated by the stark, bioluminescent glow of cascading emerald and deep forest green digital code. Tendrils of this luminous data writhe around them like ethereal vines, forming a protective, yet suffocating, barrier, symbolizing the overwhelming nature of cybersecurity and the fragile grip on personal privacy in a hyper-connected world, with a shallow depth of field emphasizing the isolation.",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 1599697484,
+      "created_at": "2026-04-09T14:56:39.855652+08:00"
+    },
+    {
       "id": "20260409_141804",
       "filename": "images/artwork_20260409_141804.jpg",
       "topic": "revolution in education through technology",
