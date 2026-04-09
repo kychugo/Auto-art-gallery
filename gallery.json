@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260410_052431",
+      "filename": "images/artwork_20260410_052431.jpg",
+      "topic": "fashion meets technology",
+      "prompt": "A lone figure, cloaked in iridescent, tech-infused fabrics that shimmer with subtle bioluminescent patterns, stands silhouetted against a rain-slicked, neon-drenched metropolis under a stormy, overcast sky. Ethereal wisps of data-like energy drift around them, catching the cool blues and deep purples of the city lights reflecting off the wet pavement. The mood is one of profound mystery and quiet contemplation, with dramatic, moody lighting casting long, distorted shadows and highlighting the intricate, futuristic details of their attire, creating a visually stunning and award-winning cyberpunk masterpiece.",
+      "text_model": "gemini-search",
+      "image_model": "klein",
+      "seed": 140912665,
+      "created_at": "2026-04-10T05:24:31.964344+08:00"
+    },
+    {
       "id": "20260410_044159",
       "filename": "images/artwork_20260410_044159.jpg",
       "topic": "economic inequality and social justice",
