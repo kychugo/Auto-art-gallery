@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260409_165707",
+      "filename": "images/artwork_20260409_165707.jpg",
+      "topic": "health and medicine breakthroughs",
+      "prompt": "A watercolor painting in a dark, dystopian style, depicting a single, gnarled hand reaching out from a shadowed void, clutching a glowing, amber orb that pulses with a sickly orange light, illuminated by dramatic studio lighting that casts long, distorted shadows across a desolate, sterile landscape. The air is thick with an unsettling stillness, hinting at a world where medical progress has come at a terrible cost, rendered with exquisite detail and a deeply unsettling mood.",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 731943743,
+      "created_at": "2026-04-09T16:57:07.796699+08:00"
+    },
+    {
       "id": "20260409_165101",
       "filename": "images/artwork_20260409_165101.jpg",
       "topic": "health and medicine breakthroughs",
