@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260409_174930",
+      "filename": "images/artwork_20260409_174930.jpg",
+      "topic": "biotechnology and genetic engineering",
+      "prompt": "In a surrealist dreamscape under ethereal moonlight casting long, dramatic shadows, towering double-helix DNA strands morph into golden biomechanical trees pulsating with vibrant genetic code, their branches sprouting hybrid flowers with glowing CRISPR scissors snipping iridescent genes that burst into energetic fireflies. High-contrast black and gold palette illuminates bioengineered chimeric creatures—half-human scientists fused with crystalline lab equipment—dancing frenetically amid bubbling petri dishes and swirling nucleotide rivers, evoking boundless innovation and chaotic vitality. Award-winning, hyper-detailed masterpiece in the style of Salvador Dalí meets H.R. Giger, vibrant and energetically alive.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 2098997220,
+      "created_at": "2026-04-09T17:49:30.381187+08:00"
+    },
+    {
       "id": "20260409_165707",
       "filename": "images/artwork_20260409_165707.jpg",
       "topic": "health and medicine breakthroughs",
