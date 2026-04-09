@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260409_113244",
+      "filename": "images/artwork_20260409_113244.jpg",
+      "topic": "post-pandemic world transformation",
+      "prompt": "A monumental Baroque cathedral, impossibly overgrown with phosphorescent fungi, its gothic spires silhouetted against a swirling, monochromatic abyss.  Dramatic shafts of bioluminescent light pierce the darkness, illuminating spectral figures cloaked in shadow, their faces etched with a profound, silent intensity, hinting at a world reborn from ashes in a stark black and white palette.",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 1123406721,
+      "created_at": "2026-04-09T11:32:44.392309+08:00"
+    },
+    {
       "id": "20260409_101251",
       "filename": "images/artwork_20260409_101251.jpg",
       "topic": "street food culture in Hong Kong",
