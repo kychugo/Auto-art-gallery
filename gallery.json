@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260410_210813",
+      "filename": "images/artwork_20260410_210813.jpg",
+      "topic": "Hong Kong city life and culture",
+      "prompt": "In a cyberpunk Hong Kong where neon-drenched skyscrapers pierce an impossible emerald canopy of ancient banyan trees, bustling street markets overflow with whimsical vendors hawking glowing dim sum lanterns and holographic jade trinkets, while rickshaw hackers weave through dreamlike crowds of kimono-clad salarymen and street artists conjuring pixelated dragons from misty air. Dappled forest light filters through the foliage in soft, shifting emerald and deep forest green hues, casting ethereal glows on rain-slicked alleyways alive with floating market boats and augmented-reality tai chi dancers, blending urban frenzy with surreal enchantment. Highly detailed, award-winning digital art masterpiece evoking a whimsical, dreamlike fusion of futuristic chaos and verdant serenity.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 439286581,
+      "created_at": "2026-04-10T21:08:14.012675+08:00"
+    },
+    {
       "id": "20260410_200417",
       "filename": "images/artwork_20260410_200417.jpg",
       "topic": "fashion meets technology",
