@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260411_060438",
+      "filename": "images/artwork_20260411_060438.jpg",
+      "topic": "space exploration and the cosmos",
+      "prompt": "Digital art, award-winning and highly detailed: a lone astronaut in a warm, reflective spacesuit stands on a rocky moon ledge, gently holding a glowing brass-and-glass “star compass” that emits holographic iridescent light, illuminating floating dust like constellations. Behind them, a vast cosmos stretches with swirling nebulae and distant galaxies, their colors rendered in luminous holographic iridescence—teal, magenta, and soft gold—while candlelight ambiance candles burn on scattered miniature platforms, casting flickering highlights across the astronaut’s visor and creating subtle volumetric glow in the vacuum. Hopeful and uplifting mood: faint aurora-like ribbons arc from the compass into the sky, forming temporary constellations that shimmer and dissolve, suggesting discovery and wonder as gentle starlight and iridescent haze envelop the scene in crisp, cinematic depth.",
+      "text_model": "openai",
+      "image_model": "zimage",
+      "seed": 1142601459,
+      "created_at": "2026-04-11T06:04:38.119107+08:00"
+    },
+    {
       "id": "20260411_054908",
       "filename": "images/artwork_20260411_054908.jpg",
       "topic": "blockchain and decentralized future",
