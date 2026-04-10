@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260411_073112",
+      "filename": "images/artwork_20260411_073112.jpg",
+      "topic": "Hong Kong protest art and resilience",
+      "prompt": "In a richly detailed, Baroque-inspired cityscape of Hong Kong, figures rise defiantly amidst swirling neon light and deep, cool blue and purple shadows, their forms rendered with dramatic chiaroscuro and an intense, almost tangible sense of movement. Elaborate, ornate details characteristic of the Baroque style intermingle with modern urban elements, conveying a mood of dramatic intensity and unwavering resilience against a backdrop of oppressive forces. The scene is illuminated by the vibrant, yet melancholic glow of the city's neon signs, casting sharp contrasts that heighten the emotional impact and the visual storytelling of this powerful urban resistance.",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 645230053,
+      "created_at": "2026-04-11T07:31:12.623140+08:00"
+    },
+    {
       "id": "20260411_070013",
       "filename": "images/artwork_20260411_070013.jpg",
       "topic": "cultural diversity and global harmony",
