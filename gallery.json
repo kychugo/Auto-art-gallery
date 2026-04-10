@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260410_135516",
+      "filename": "images/artwork_20260410_135516.jpg",
+      "topic": "blockchain and decentralized future",
+      "prompt": "A whimsical, dreamlike digital art piece depicting a decentralized future, where interconnected nodes of light form an ethereal network in a cool, deep blue and purple cosmos. Soft, diffused daylight emanates from abstract geometric shapes that represent data blocks, casting gentle gradients and subtle shimmer across floating, organic forms that symbolize innovation and community. The overall mood is one of serene wonder and boundless possibility, rendered with intricate detail and award-winning artistic finesse.",
+      "text_model": "gemini-search",
+      "image_model": "klein",
+      "seed": 1320527462,
+      "created_at": "2026-04-10T13:55:16.935786+08:00"
+    },
+    {
       "id": "20260410_133807",
       "filename": "images/artwork_20260410_133807.jpg",
       "topic": "space exploration and the cosmos",
