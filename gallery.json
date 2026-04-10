@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260410_185731",
+      "filename": "images/artwork_20260410_185731.jpg",
+      "topic": "virtual reality and the metaverse",
+      "prompt": "A lone figure, rendered in an impressionist style with thick, visible brushstrokes, stands at the precipice of a digital landscape within the metaverse. Ethereal wisps of arctic aurora borealis light, in a palette of vibrant neon pinks, electric blues, and emerald greens, swirl around them, casting an otherworldly glow and imbuing the scene with a mysterious, dreamlike atmosphere. This award-winning, highly detailed vision captures the boundless, enigmatic nature of virtual existence, inviting the viewer into a realm where reality and imagination beautifully blur.",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 629061318,
+      "created_at": "2026-04-10T18:57:32.021025+08:00"
+    },
+    {
       "id": "20260410_183442",
       "filename": "images/artwork_20260410_183442.jpg",
       "topic": "post-pandemic world transformation",
