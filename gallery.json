@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260410_160756",
+      "filename": "images/artwork_20260410_160756.jpg",
+      "topic": "animals and nature conservation",
+      "prompt": "Photorealistic, award-winning scene of a lone young orangutan sitting on a moss-covered branch in a dense tropical rainforest at night, its gaze softly turned toward a distant, faintly glowing patch of moonlit clearing where a fallen log and a small conservation fence suggest restored habitat; a second silhouette—subtle as a rumor—of a hornbill perched nearby among curling vines and broad leaves. The mood is melancholic and reflective, with moonlight and deep, dramatic shadows carving out intricate textures in bark, wet foliage, and drifting mist, while warm amber and orange tones from a distant lantern-like glow tint the scene like remembrance. Ultra-high detail, shallow depth of field, volumetric fog, natural skin and fur realism, cinematic composition, 8k clarity, realistic bokeh, and lifelike atmospheric perspective, emphasizing nature’s fragility and the quiet promise of conservation.",
+      "text_model": "openai",
+      "image_model": "gptimage",
+      "seed": 1050511001,
+      "created_at": "2026-04-10T16:07:56.590264+08:00"
+    },
+    {
       "id": "20260410_151401",
       "filename": "images/artwork_20260410_151401.jpg",
       "topic": "post-pandemic world transformation",
