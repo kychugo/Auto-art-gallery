@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260410_183442",
+      "filename": "images/artwork_20260410_183442.jpg",
+      "topic": "post-pandemic world transformation",
+      "prompt": "A solitary figure, rendered in bold pop art lines and a crimson and deep red palette, stands on a deserted, overgrown cityscape at twilight, bathed in the melancholic, bioluminescent glow of giant, mutated flora that has reclaimed the urban decay. Reflections shimmer in the still, crimson water pooling on fractured pavement, hinting at a world transformed and paused, a silent testament to resilience and loss. This scene evokes a deeply reflective mood, captured with the vibrant yet somber aesthetic of pop art.",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 1611029463,
+      "created_at": "2026-04-10T18:34:42.252425+08:00"
+    },
+    {
       "id": "20260410_180154",
       "filename": "images/artwork_20260410_180154.jpg",
       "topic": "music and the evolution of sound",
