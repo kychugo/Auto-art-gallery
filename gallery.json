@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260410_165747",
+      "filename": "images/artwork_20260410_165747.jpg",
+      "topic": "cultural diversity and global harmony",
+      "prompt": "An abstract expressionist vision of clashing cultural identities, depicted through turbulent, jagged forms of crimson and deep red, under a brooding, stormy overcast light that casts long, menacing shadows, evoking a sense of dystopian discord rather than harmony. Jagged, fragmented shapes representing humanity bleed into one another, their sharp edges softened by an oppressive, inky atmosphere, hinting at a world teetering on the brink, where color and form wrestle for dominance in a silent, violent struggle against a crimson-stained sky.",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 1005803671,
+      "created_at": "2026-04-10T16:57:47.438808+08:00"
+    },
+    {
       "id": "20260410_165236",
       "filename": "images/artwork_20260410_165236.jpg",
       "topic": "ocean conservation and marine life",
