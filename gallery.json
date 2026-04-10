@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260410_223314",
+      "filename": "images/artwork_20260410_223314.jpg",
+      "topic": "future of human civilization and technology",
+      "prompt": "A whimsical surrealist scene depicting the future of human civilization where towering bioluminescent terracotta-and-iron “tree towers” blend architecture with living circuitry, and elegant holographic marketplaces float between them like drifting lanterns; tiny human figures in reflective fabric walk across ribbon-like sky bridges made of light and data, while gentle android-like companions tend glowing gardens that sprout from rooftops and circuit-veined roots. Neon city glow illuminates the night haze from cyan and magenta signage, casting soft rim light over warm earth tones and terracotta walls, with shimmering dust motes, dreamlike sky portals, and abstract constellations made of rotating UI glyphs swirling overhead. In the distance, colossal clockwork-solar cathedrals and translucent train streams curl through the skyline, forming surreal geometric reflections in puddles that mirror a brighter future, rendered with ultra-fine detail, cinematic depth of field, and award-winning hyperreal surrealism.",
+      "text_model": "openai",
+      "image_model": "flux",
+      "seed": 757686098,
+      "created_at": "2026-04-10T22:33:14.648436+08:00"
+    },
+    {
       "id": "20260410_221801",
       "filename": "images/artwork_20260410_221801.jpg",
       "topic": "biotechnology and genetic engineering",
