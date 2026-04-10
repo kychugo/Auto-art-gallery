@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260411_062436",
+      "filename": "images/artwork_20260411_062436.jpg",
+      "topic": "urban architecture of the future",
+      "prompt": "A dystopian megastructure of cascading terraces and organic, bio-luminescent walkways at twilight, with honeycomb-hub towers in the distance. In the noir style, the scene is an intimate, private moment in a bustling nightscape, illuminated by a bioluminescent glow from organic pipes and veins that trace the buildings, casting the entire scene in warm, golden light amid the earth-toned, terracotta and beige clay. Steam or vapor rises from an apartment balcony where clothes dry, adding intimacy, while the mood is one of quiet, human contemplation against a vast, futuristic skyline. The palette is monochromatic, a sophisticated symphony of terracottas, ochers",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 103073940,
+      "created_at": "2026-04-11T06:24:36.301051+08:00"
+    },
+    {
       "id": "20260411_060438",
       "filename": "images/artwork_20260411_060438.jpg",
       "topic": "space exploration and the cosmos",
