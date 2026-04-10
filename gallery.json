@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260410_234841",
+      "filename": "images/artwork_20260410_234841.jpg",
+      "topic": "news headlines of tomorrow",
+      "prompt": "A minimalist composition of tomorrow's news headlines floating in ethereal space, rendered in soft pastel hues of blush pink, sage green, and powder blue against a neutral cream background. Dramatic studio lighting casts sharp, geometric shadows across the typography, creating a powerful interplay of light and dark that conveys monumentality and gravitas. The headlines appear as clean, sans-serif text blocks suspended at dynamic angles, with subtle gradient shading that gives them dimensional presence while maintaining the minimalist aesthetic. The overall mood is contemplative yet profound, suggesting the weight and significance of future events, with soft diffused rim lighting that emphasizes the floating nature of these pivotal moments yet to unfold.",
+      "text_model": "perplexity-fast",
+      "image_model": "klein",
+      "seed": 1313154476,
+      "created_at": "2026-04-10T23:48:41.616743+08:00"
+    },
+    {
       "id": "20260410_231304",
       "filename": "images/artwork_20260410_231304.jpg",
       "topic": "news headlines of tomorrow",
