@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260410_162120",
+      "filename": "images/artwork_20260410_162120.jpg",
+      "topic": "blockchain and decentralized future",
+      "prompt": "Photorealistic, ultra–high-resolution scene of a serene decentralized future: a vast translucent “network lattice” made of fine luminous threads and hovering geometric nodes drifts above a quiet reflective city skyline, while subtle blockchain links form a spiral pathway descending into a calm river of light. The entire image is rendered in a monochromatic black-and-white palette with bioluminescent glow outlining every structure, soft fog, and gentle specular highlights on glassy surfaces, creating a peaceful, meditative atmosphere. In the foreground, delicate circular holographic seals and consensus-like symbols hover around a minimal settlement of slender rooftops, with tiny drifting particles like constellations in still air; cinematic depth of field, crisp micro-detail, and award-winning composition.",
+      "text_model": "openai",
+      "image_model": "zimage",
+      "seed": 681526474,
+      "created_at": "2026-04-10T16:21:20.245045+08:00"
+    },
+    {
       "id": "20260410_160756",
       "filename": "images/artwork_20260410_160756.jpg",
       "topic": "animals and nature conservation",
