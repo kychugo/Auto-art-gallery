@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260410_150636",
+      "filename": "images/artwork_20260410_150636.jpg",
+      "topic": "blockchain and decentralized future",
+      "prompt": "Minimalist, award-winning digital illustration depicting a human silhouette seen in profile, formed from translucent emerald circuitry and subtle blockchain nodes, as if the person’s heartbeat gently animates a decentralized network of glowing dots and links that arc outward like constellations. Soft diffused daylight washes the scene, creating serene gradients in deep forest greens, with a calm, intimate mood—small hand-like gestures of light connect micro-communities across a quiet horizon of abstract, paper-cut terrain. Include fine details such as delicate hexagonal patterns, faint ledger-like lines, and a calm halo of network light hovering near the chest, rendered with restrained contrast and crisp negative space for an elegant, highly detailed minimalist look.",
+      "text_model": "openai",
+      "image_model": "zimage",
+      "seed": 616988746,
+      "created_at": "2026-04-10T15:06:37.001864+08:00"
+    },
+    {
       "id": "20260410_145055",
       "filename": "images/artwork_20260410_145055.jpg",
       "topic": "news headlines of tomorrow",
