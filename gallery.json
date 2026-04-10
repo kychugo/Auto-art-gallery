@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260410_191503",
+      "filename": "images/artwork_20260410_191503.jpg",
+      "topic": "health and medicine breakthroughs",
+      "prompt": "A breathtaking watercolor masterpiece, alive with a dramatic and intense mood, depicting a holographic iridescent nebula of microscopic healing particles swirling around a delicate, translucent DNA helix. Soft diffused daylight illuminates the scene, highlighting the intricate, award-winning detail of glowing cellular structures and shimmering molecular bonds, evoking a sense of profound medical discovery. The color palette is a vibrant, shifting spectrum of holographic iridescence, with ethereal blues, radiant purples, and luminous greens blending seamlessly to create a visually stunning representation of a health and medicine breakthrough.",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 18790452,
+      "created_at": "2026-04-10T19:15:03.441460+08:00"
+    },
+    {
       "id": "20260410_185731",
       "filename": "images/artwork_20260410_185731.jpg",
       "topic": "virtual reality and the metaverse",
