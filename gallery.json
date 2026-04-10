@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260410_125141",
+      "filename": "images/artwork_20260410_125141.jpg",
+      "topic": "future of human civilization and technology",
+      "prompt": "First, the user specifies that I must respond with ONLY the image generation prompt itself. No explanations, no titles, no markdown. Just the prompt in English.\n\nThe prompt needs to be about the future of human civilization and technology. I need to incorporate the required elements naturally:\n\n- Art style: oil painting\n\n- Mood: dramatic and intense\n\n- Lighting: arctic aurora borealis\n\n- Color palette: warm amber and orange tones\n\nThe prompt should be 2-4 sentences long, visually stunning, award-winning, and highly detailed. It must paint a clear mental picture.\n\nI need to weave these elements into a cohesive description. Since it's about the future of human civilization and technology, I should include futuristic elements like advanced structures, technology integration, or human interaction with tech.\n\nStart with the art style: \"oil painting\" suggests a classical, textured look, but with a futuristic theme.\n\nMood: dramatic and intense – so the scene should have high stakes, emotion, or powerful imagery.\n\nLighting: arctic aurora borealis – this implies ethereal, swirling lights in the sky, often green and purple, but the color palette is warm amber and orange tones. I need to merge these: perhaps the aurora borealis has amber and orange hues, or it complements the warm palette.\n\nColor palette: warm amber and orange tones – this should dominate the scene, creating a cozy or intense warmth.\n\nCombine all: A futuristic city or civilization under an aurora borealis sky, but with warm colors. Maybe technology is integrated with natural elements.\n\nStructure the prompt in 2-4 sentences. Make it detailed and vivid.\n\nDraft:\n\n\"In a dramatic oil painting style, depict the future of human civilization where towering crystalline structures glow with warm amber and orange tones under the intense, swirling lights of an arctic aurora borealis. Advanced technology seamlessly blends with organic forms, creating a visually stunning scene of harmony and intensity. The mood is heightened",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 201903012,
+      "created_at": "2026-04-10T12:51:41.061816+08:00"
+    },
+    {
       "id": "20260410_122346",
       "filename": "images/artwork_20260410_122346.jpg",
       "topic": "mental health awareness in the digital age",
