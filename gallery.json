@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260410_103224",
+      "filename": "images/artwork_20260410_103224.jpg",
+      "topic": "quantum computing and the future",
+      "prompt": "In an anime-inspired art style, a young programmer with warm, expressive eyes gazes at a holographic quantum circuit that shimmers amidst dappled forest light filtering through ancient trees. The scene evokes an intimate, human connection to the burgeoning technology, rendered in a palette of earthy browns, deep greens, and soft terracotta, creating a mood of quiet wonder and profound potential. A gentle glow emanates from the quantum data streams, casting subtle highlights on the programmer's face and the surrounding natural elements, suggesting a harmonious future where humanity and advanced computation coexist.",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 1048698588,
+      "created_at": "2026-04-10T10:32:24.816203+08:00"
+    },
+    {
       "id": "20260410_075704",
       "filename": "images/artwork_20260410_075704.jpg",
       "topic": "fashion meets technology",
