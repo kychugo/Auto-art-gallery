@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260410_231304",
+      "filename": "images/artwork_20260410_231304.jpg",
+      "topic": "news headlines of tomorrow",
+      "prompt": "A serene anime-inspired illustration of tomorrow's news headlines materializing as ethereal holographic text floating through a misty urban landscape, rendered in iridescent purples, teals, and soft pinks that shimmer and shift like oil on water, set beneath heavy stormy overcast skies with dramatic dark clouds breaking apart to reveal glimpses of shimmering aurora-like light. Delicate papers and digital screens drift peacefully through the scene, their edges glowing with opalescent gradients, while a lone figure stands contemplatively viewing the floating headlines with calm acceptance, the entire composition radiating a zen-like tranquility despite the turbulent weather overhead, all rendered in a polished anime aesthetic with intricate details, soft focus backgrounds, and luminous otherworldly color transitions that create an award-winning, visually stunning composition about information and enlightenment.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 842912226,
+      "created_at": "2026-04-10T23:13:04.411756+08:00"
+    },
+    {
       "id": "20260410_225055",
       "filename": "images/artwork_20260410_225055.jpg",
       "topic": "music and the evolution of sound",
