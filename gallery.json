@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260411_042735",
+      "filename": "images/artwork_20260411_042735.jpg",
+      "topic": "blockchain and decentralized future",
+      "prompt": "A surreal digital artwork of a monolithic glacier of crystalline blocks, each facet engraved with a glowing, flowing data script that symbolizes blockchain architecture, connected by shimmering strands of light and pulsing with energy in the cold Arctic silence. Ethereal, shifting data constellations in the form of the aurora borealis illuminate the scene in cool blues and inky purples, casting spectral greens and magnetic pinks in a fluid cosmic dance. A lone, ancient computer console hums faintly among the crystal lattice, a single node of the vast, interconnected network that whispers of a decentralized future, casting a faint, digital web of cold neon light across the frozen landscape.",
+      "text_model": "deepseek",
+      "image_model": "klein",
+      "seed": 330524196,
+      "created_at": "2026-04-11T04:27:35.798741+08:00"
+    },
+    {
       "id": "20260410_234841",
       "filename": "images/artwork_20260410_234841.jpg",
       "topic": "news headlines of tomorrow",
