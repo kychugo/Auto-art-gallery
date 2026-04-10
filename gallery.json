@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260410_141606",
+      "filename": "images/artwork_20260410_141606.jpg",
+      "topic": "future of human civilization and technology",
+      "prompt": "An impressionist vista of a desolate, crimson-hued cityscape at golden hour, where skeletal, organic technological structures, reminiscent of ancient, decaying coral, pierce a sky awash in deep red. Ethereal figures, cloaked in shadow, contemplate the ruins, their forms softened by the melancholic, reflective sunlight, evoking a profound sense of lost grandeur and the ephemeral nature of civilization. The overall palette is dominated by rich crimsons and fading scarlets, bathed in the warm, mournful glow of a setting sun.",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 1815804101,
+      "created_at": "2026-04-10T14:16:06.420275+08:00"
+    },
+    {
       "id": "20260410_135516",
       "filename": "images/artwork_20260410_135516.jpg",
       "topic": "blockchain and decentralized future",
