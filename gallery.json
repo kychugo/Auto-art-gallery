@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260410_114524",
+      "filename": "images/artwork_20260410_114524.jpg",
+      "topic": "mental health awareness in the digital age",
+      "prompt": "A solitary figure, rendered in delicate watercolor with soft pastel hues bleeding into muted tones, stands silhouetted against a vast, desolate digital landscape under an oppressive, fractured moonlight. Deep, inky shadows stretch like tendrils from glitching screens and abandoned interfaces, obscuring all but the faintest hints of humanity in the foreground, creating a profoundly dark and dystopian mood that speaks to the isolating nature of our interconnected world.",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 1737417486,
+      "created_at": "2026-04-10T11:45:24.164079+08:00"
+    },
+    {
       "id": "20260410_103224",
       "filename": "images/artwork_20260410_103224.jpg",
       "topic": "quantum computing and the future",
