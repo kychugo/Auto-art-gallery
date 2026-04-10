@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260410_165236",
+      "filename": "images/artwork_20260410_165236.jpg",
+      "topic": "ocean conservation and marine life",
+      "prompt": "In the opulent style of **Baroque masterpiece** by Caravaggio, depict a serene underwater ocean conservation tableau where graceful sea turtles glide protectively amid vibrant coral reefs teeming with schools of crimson-hued tropical fish and delicate seahorses, symbolizing harmony between marine life and humanity through ethereal guardian figures gently restoring a luminous pearl-encrusted anchor. Illuminate the peaceful, tranquil depths with the **ethereal glow of Arctic aurora borealis** shimmering through crystal-clear arctic waters from above, casting rippling veils of **crimson and deep red** across intricate gold-leafed kelp fronds, baroque pearl clusters, and iridescent shells in hyper-detailed, award-winning splendor, ultra-realistic textures, cinematic composition, 8K resolution.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 1138910971,
+      "created_at": "2026-04-10T16:52:36.701865+08:00"
+    },
+    {
       "id": "20260410_162120",
       "filename": "images/artwork_20260410_162120.jpg",
       "topic": "blockchain and decentralized future",
