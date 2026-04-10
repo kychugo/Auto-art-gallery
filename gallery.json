@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260410_221801",
+      "filename": "images/artwork_20260410_221801.jpg",
+      "topic": "biotechnology and genetic engineering",
+      "prompt": "A cinematic, dystopian biotechnology laboratory nestled within a crystalline Arctic glacier, illuminated by the eerie, shifting glow of an aurora borealis casting long shadows across glowing tubes of chimeric specimens. The scene is rendered in a hauntingly beautiful palette of soft pastels — lilac, mint, and peach — highlighting intricate, pulsating DNA strands woven into monstrous organic machinery. A lone, shadowed figure in a biosuit observes a vast holographic genome map as bioluminescent flora and twisted hybrid creatures sprawl across the sterile, frost-lined laboratory, creating a darkly poetic vision of genetic frontier.",
+      "text_model": "deepseek",
+      "image_model": "gptimage",
+      "seed": 423065653,
+      "created_at": "2026-04-10T22:18:01.668889+08:00"
+    },
+    {
       "id": "20260410_215313",
       "filename": "images/artwork_20260410_215313.jpg",
       "topic": "street food culture in Hong Kong",
