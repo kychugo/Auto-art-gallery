@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260410_225055",
+      "filename": "images/artwork_20260410_225055.jpg",
+      "topic": "music and the evolution of sound",
+      "prompt": "A vibrant pop art explosion depicting the evolution of sound, where abstract sound waves in cool blues and purples morph from simple lines into complex, glowing geometric shapes and finally into ethereal, neon-lit figures dancing within a futuristic cityscape under a hopeful, uplifting glow. This award-winning vision captures the essence of auditory progression as a spectrum of light and form, infused with the dynamic energy of a neon city night.",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 363050143,
+      "created_at": "2026-04-10T22:50:55.640829+08:00"
+    },
+    {
       "id": "20260410_223314",
       "filename": "images/artwork_20260410_223314.jpg",
       "topic": "future of human civilization and technology",
