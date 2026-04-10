@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260411_050459",
+      "filename": "images/artwork_20260411_050459.jpg",
+      "topic": "renewable energy and sustainable living",
+      "prompt": "Minimalist, award-winning digital artwork depicting a mysterious, ethereal sustainable living scene: a sleek black silhouette of a modern rooftop with solar panels and a small wind turbine rises from mist, while faint translucent vines and moss-like geometry trace eco-friendly pathways below. Golden hour sunlight cuts through drifting fog in sharp rays, illuminating dust motes and creating high-contrast black-and-gold highlights across clean architectural lines, reflective panel surfaces, and subtle holographic energy flow patterns that arc invisibly from rooftop to a quiet, lamp-lit garden. Surround the structure with an abstract circular halo of solar-systems and clean energy icons rendered as minimal, luminous glyphs, with deep shadows and shimmering gold gradients for a haunting, serene atmosphere.",
+      "text_model": "openai",
+      "image_model": "gptimage",
+      "seed": 1917805033,
+      "created_at": "2026-04-11T05:04:59.200284+08:00"
+    },
+    {
       "id": "20260411_042735",
       "filename": "images/artwork_20260411_042735.jpg",
       "topic": "blockchain and decentralized future",
