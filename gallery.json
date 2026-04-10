@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260410_215313",
+      "filename": "images/artwork_20260410_215313.jpg",
+      "topic": "street food culture in Hong Kong",
+      "prompt": "A photorealistic, intimate, and human portrayal of a bustling Hong Kong street food stall bathed in the soft glow of moonlight and deep shadows. Warm amber and orange tones dominate the scene, highlighting steam rising from a wok and the focused expressions of both the vendor and a solitary customer sharing a moment over a steaming bowl of noodles. The composition should feel award-winning, with exquisite detail in the textures of the food, the weathered facade of the stall, and the subtle human interactions.",
+      "text_model": "gemini-search",
+      "image_model": "klein",
+      "seed": 1614397297,
+      "created_at": "2026-04-10T21:53:14.007536+08:00"
+    },
+    {
       "id": "20260410_210813",
       "filename": "images/artwork_20260410_210813.jpg",
       "topic": "Hong Kong city life and culture",
