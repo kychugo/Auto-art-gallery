@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260410_120920",
+      "filename": "images/artwork_20260410_120920.jpg",
+      "topic": "quantum computing and the future",
+      "prompt": "Anime-inspired digital illustration :: A visionary scientist standing before a massive holographic quantum computer interface, surrounded by swirling threads of luminescent code and data streams flowing like cosmic rivers :: The protagonist wears sleek futuristic attire with intricate circuit patterns glowing in gold against deep black fabric, expression radiant with hope and determination :: Stormy overcast sky dominates the background, heavy clouds piercing with shafts of golden light that illuminate cascading particles of light and energy :: High contrast color palette of pure black and brilliant gold with subtle electric cyan accents, the quantum realm visualized as intricate geometric fractals and impossible architecture :: Ultra-detailed anime art style with smooth shading and expressive features, dramatic low-angle composition emphasizing scale and wonder :: Rendered in 4K, exclude watermarks and text, atmospheric particle effects and glowing auras enhance the sense of technological transcendence and a luminous future.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 672955577,
+      "created_at": "2026-04-10T12:09:20.239747+08:00"
+    },
+    {
       "id": "20260410_114524",
       "filename": "images/artwork_20260410_114524.jpg",
       "topic": "mental health awareness in the digital age",
