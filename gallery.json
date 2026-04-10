@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260410_200417",
+      "filename": "images/artwork_20260410_200417.jpg",
+      "topic": "fashion meets technology",
+      "prompt": "Concept art portrait of a fashion-forward individual adorned with bioluminescent, woven circuitry integrated into their flowing, amber-toned garments, their face illuminated by the intimate, warm glow of a neon city at twilight, casting deep shadows and highlighting a pensive, human expression against a backdrop of blurred orange skyscrapers and shimmering data streams.",
+      "text_model": "gemini-fast",
+      "image_model": "klein",
+      "seed": 1069770527,
+      "created_at": "2026-04-10T20:04:17.208666+08:00"
+    },
+    {
       "id": "20260410_195053",
       "filename": "images/artwork_20260410_195053.jpg",
       "topic": "sports and human physical achievement",
