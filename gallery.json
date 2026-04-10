@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260410_180154",
+      "filename": "images/artwork_20260410_180154.jpg",
+      "topic": "music and the evolution of sound",
+      "prompt": "In a monumental baroque style, depict the evolution of sound as a towering cathedral-like soundscape where colossal musical instruments and architectural arches morph seamlessly into one another—violins blooming into horn shapes, chiseled trumpets becoming wave-like stained-glass sound currents, and swirling drum forms dissolving into delicate particle “notes” that rise like constellations. Golden hour sunlight pours through ornate filigree windows, casting dramatic chiaroscuro across cool blues and purples, illuminating gilded textures, intricate relief carvings, and flowing sheet-music ribbons that travel upward through the structure in concentric rings of vibration. The scene should feel powerful and awe-inspiring, with monumental scale, richly layered detail, realistic painterly brushwork, and a subtle sense of motion as luminous sound waves evolve from dense, dark harmonics near the base to radiant, airy echoes near the sky. Ultra-high detail, cinematic composition, sharp focus on central forms, volumetric light rays, and award-winning visual grandeur.",
+      "text_model": "openai",
+      "image_model": "gptimage",
+      "seed": 689742053,
+      "created_at": "2026-04-10T18:01:54.035796+08:00"
+    },
+    {
       "id": "20260410_174626",
       "filename": "images/artwork_20260410_174626.jpg",
       "topic": "economic inequality and social justice",
