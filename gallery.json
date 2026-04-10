@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260410_122346",
+      "filename": "images/artwork_20260410_122346.jpg",
+      "topic": "mental health awareness in the digital age",
+      "prompt": "Abstract expressionist artwork depicting mental health awareness in the digital age: a fractured human silhouette made of swirling crimson and deep-red data-like brushstrokes, its face dissolving into glitching fragments of glowing pixels and broken screen reflections that spiral outward like trapped thoughts. In the background, towering jagged cloudforms and billboard-sized digital grids loom in shadow, suggesting surveillance and isolation, while a faint halo of red light leaks through storm clouds and illuminates drifting “notification” shards, subtle heart-like signals, and smoky threads of anxiety. Stormy overcast light with low-contrast shadows creates a dark, dystopian mood; wet paint textures, splatter, and layered impasto convey emotional turbulence, while crisp highlights on select fragments imply connection, resilience, and the possibility of help. Highly detailed, award-winning composition with cinematic depth, grain, and dramatic negative space, all dominated by crimson and deep red tones with near-black undertones.",
+      "text_model": "openai",
+      "image_model": "flux",
+      "seed": 2142375095,
+      "created_at": "2026-04-10T12:23:46.321365+08:00"
+    },
+    {
       "id": "20260410_120920",
       "filename": "images/artwork_20260410_120920.jpg",
       "topic": "quantum computing and the future",
