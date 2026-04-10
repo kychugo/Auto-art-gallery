@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260410_174626",
+      "filename": "images/artwork_20260410_174626.jpg",
+      "topic": "economic inequality and social justice",
+      "prompt": "A minimalist, highly detailed illustration depicting stark economic inequality and the fight for social justice, rendered in a vibrant and energetic style. Soft, diffused daylight illuminates a scene where towering, abstract structures representing wealth are juxtaposed with simplified, grounded figures reaching upwards, all within a warm palette of earth tones and terracotta. The composition should evoke a sense of hopeful struggle and collective action, with clean lines and subtle textures conveying a powerful, award-winning narrative.",
+      "text_model": "gemini-search",
+      "image_model": "gptimage",
+      "seed": 1565441490,
+      "created_at": "2026-04-10T17:46:26.178406+08:00"
+    },
+    {
       "id": "20260410_165747",
       "filename": "images/artwork_20260410_165747.jpg",
       "topic": "cultural diversity and global harmony",
