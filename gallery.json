@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260410_145055",
+      "filename": "images/artwork_20260410_145055.jpg",
+      "topic": "news headlines of tomorrow",
+      "prompt": "In a minimalist aesthetic, news headlines of tomorrow unfold like intimate whispers under a warm candlelight ambiance. The scene is rendered with a holographic, iridescent color palette, where each fleeting word shimmers with a soft, ethereal glow, evoking a sense of human connection and quiet contemplation. Gentle, diffused light, reminiscent of candlelight, illuminates the scene, highlighting the delicate, almost translucent quality of the holographic hues, creating a mood that is both profoundly human and aesthetically striking.",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 737480291,
+      "created_at": "2026-04-10T14:50:55.700641+08:00"
+    },
+    {
       "id": "20260410_141606",
       "filename": "images/artwork_20260410_141606.jpg",
       "topic": "future of human civilization and technology",
