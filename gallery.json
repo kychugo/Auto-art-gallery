@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260410_131209",
+      "filename": "images/artwork_20260410_131209.jpg",
+      "topic": "urban architecture of the future",
+      "prompt": "A solitary figure, silhouetted against the rain-slicked, crimson-drenched streets of a futuristic noir cityscape, gazes up at towering, monolithic skyscrapers that pierce the perpetually twilight sky. The intimate mood is conveyed through the deep shadows and the warm, yet isolating, neon city glow reflecting in puddles, highlighting architectural details with a palette dominated by crimson and deep reds. This award-winning, highly detailed vision captures the melancholic beauty of human existence within the overwhelming embrace of advanced urban design.",
+      "text_model": "gemini-search",
+      "image_model": "klein",
+      "seed": 1077837309,
+      "created_at": "2026-04-10T13:12:09.253675+08:00"
+    },
+    {
       "id": "20260410_125141",
       "filename": "images/artwork_20260410_125141.jpg",
       "topic": "future of human civilization and technology",
