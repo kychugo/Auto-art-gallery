@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260410_133029",
+      "filename": "images/artwork_20260410_133029.jpg",
+      "topic": "space exploration and the cosmos",
+      "prompt": "First, the user wants an image generation prompt about space exploration and the cosmos. I need to incorporate specific elements: noir art style, vibrant and energetic mood, stormy overcast lighting, and a monochromatic black and white color palette.\n\nNoir art style is typically associated with film noir, which has dark, shadowy visuals, high contrast, and a gritty, mysterious feel. But here, the mood is supposed to be vibrant and energetic, which contrasts with the usual somber noir mood. I need to blend these elements.\n\nStormy overcast light suggests dramatic, cloudy skies with diffused lighting, often seen in stormy weather, which can add tension and drama.\n\nMonochromatic black and white color palette means only shades of black, white, and gray, no colors.\n\nThe prompt should be 2-4 sentences long, vivid, detailed, and paint a clear mental picture. It must be in English only, and I should respond with only the image prompt itself—no explanations or extra text.\n\nI need to make it about space exploration and the cosmos. So, elements like stars, planets, spacecraft, astronauts, nebulae, etc., but in a noir style with black and white.\n\nCombine vibrant and energetic mood with noir: perhaps a dynamic scene with action or movement, but in high contrast black and white.\n\nStormy overcast light in space? That's tricky because space doesn't have weather like Earth. But I can interpret it metaphorically or use celestial phenomena that mimic stormy skies, like nebulas or cosmic clouds.\n\nLet me structure the prompt:\n\n- Start with the main subject: space exploration, e.g., a spacecraft or astronaut.\n\n- Incorporate noir style: mention high contrast, shadows, chiaroscuro.\n\n- Mood: vibrant and energetic – use words like bustling, dynamic, pulsating.\n\n- Lighting: stormy overcast light – describe diffused light through cosmic clouds or nebulae.\n\n- Color palette: monochromatic black and white – specify that the scene",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 538272117,
+      "created_at": "2026-04-10T13:30:30.020850+08:00"
+    },
+    {
       "id": "20260410_131209",
       "filename": "images/artwork_20260410_131209.jpg",
       "topic": "urban architecture of the future",
