@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260411_185856",
+      "filename": "images/artwork_20260411_185856.jpg",
+      "topic": "fashion meets technology",
+      "prompt": "Minimalist fashion-meets-technology editorial scene featuring a monumental, human-sized silhouette composed of sleek crimson garments fused with subtle circuit-like seams, geometric panels, and wearable AR visor details that look like precision machined glass. Golden hour sunlight streams from the side, casting long, dramatic shadows and a warm halo along the fabric’s edges, while the color palette remains rich in crimson and deep red with restrained accents of near-black negative space. Emphasize powerful, architectural proportions—towering shoulders, clean angular lines, and a faint holographic projection hovering above the torso like a monolith of data—rendered with razor-sharp detail, ultra-clean composition, and award-winning realism.",
+      "text_model": "openai",
+      "image_model": "klein",
+      "seed": 180942011,
+      "created_at": "2026-04-11T18:58:56.652708+08:00"
+    },
+    {
       "id": "20260411_183618",
       "filename": "images/artwork_20260411_183618.jpg",
       "topic": "artificial intelligence reshaping society",
