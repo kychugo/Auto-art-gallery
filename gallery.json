@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260412_055749",
+      "filename": "images/artwork_20260412_055749.jpg",
+      "topic": "blockchain and decentralized future",
+      "prompt": "A minimalist, dark dystopian scene where towering translucent data glyphs and circuit-like roots rise from cracked concrete, forming an abstract decentralized “network” map as countless tiny nodes float like seeds in the air, each linked by faint holographic threads. Dappled forest light filters through looming mechanical trees, casting sharp, shifting highlights across a rain-slick ground of fractured mirrors, while the color palette pulses with holographic iridescent cyan, magenta, and deep violet—subtly refracting like a living blockchain interface. In the distance, an angular skyline of metallic monoliths is half-swallowed by shadow, with slow volumetric mist revealing drifting ledger symbols and glowing consensus icons, ultra-detailed, high contrast, award-winning, hyper-clean minimal composition.",
+      "text_model": "openai",
+      "image_model": "flux",
+      "seed": 1879020845,
+      "created_at": "2026-04-12T05:57:49.339951+08:00"
+    },
+    {
       "id": "20260412_054143",
       "filename": "images/artwork_20260412_054143.jpg",
       "topic": "quantum computing and the future",
