@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260412_075531",
+      "filename": "images/artwork_20260412_075531.jpg",
+      "topic": "revolution in education through technology",
+      "prompt": "In a grand baroque library shrouded in mysterious ethereal mist, flickering candlelight casts dramatic chiaroscuro shadows across towering bookshelves overflowing with ancient tomes morphing into glowing holographic screens and floating digital tablets, symbolizing a revolution in education through technology. Ethereal figures of cloaked scholars and wide-eyed students reach toward levitating neural interfaces and luminous AI orbs that illuminate forgotten knowledge, their intricate lace garments and ornate wigs billowing in an otherworldly breeze. Rendered in stunning monochromatic black and white with hyper-detailed baroque opulence, velvet textures, gilded filigree edges on futuristic devices, and a haunting candlelit ambiance evoking award-winning mastery.",
+      "text_model": "perplexity-fast",
+      "image_model": "gptimage",
+      "seed": 1604362874,
+      "created_at": "2026-04-12T07:55:31.640527+08:00"
+    },
+    {
       "id": "20260412_072935",
       "filename": "images/artwork_20260412_072935.jpg",
       "topic": "quantum computing and the future",
