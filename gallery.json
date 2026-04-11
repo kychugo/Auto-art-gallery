@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260411_160321",
+      "filename": "images/artwork_20260411_160321.jpg",
+      "topic": "Hong Kong protest art and resilience",
+      "prompt": "An anime-inspired warrior, rendered with powerful, monumental presence, stands defiant amidst the chaos of Hong Kong protests, illuminated by dramatic studio lighting that casts deep shadows and highlights their determined expression. The scene is dominated by a cool color palette of deep blues and vibrant purples, evoking a sense of somber resilience and unwavering spirit. Intricate details in the character's design and the subtle incorporation of protest symbolism create a visually stunning and emotionally resonant image.",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 1534454734,
+      "created_at": "2026-04-11T16:03:21.086024+08:00"
+    },
+    {
       "id": "20260411_155026",
       "filename": "images/artwork_20260411_155026.jpg",
       "topic": "ocean conservation and marine life",
