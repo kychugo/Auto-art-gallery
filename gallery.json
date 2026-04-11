@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260411_115919",
+      "filename": "images/artwork_20260411_115919.jpg",
+      "topic": "health and medicine breakthroughs",
+      "prompt": "Baroque medical breakthrough scene :: A monumental laboratory bathed in ethereal moonlight, where a brilliant scientist discovers a revolutionary cure, surrounded by glowing vials of crimson serum and ancient medical instruments rendered with ornate baroque details :: Deep shadows cast dramatic chiaroscuro across towering stone walls adorned with golden filigree, while the scientist's silhouette stands heroically illuminated by the moonlit breakthrough moment :: Rich palette of deep crimsons, blood reds, and shadowed blacks accented with golden baroque flourishes, creating an atmosphere of transcendent medical triumph :: Oil painting texture with exquisite detail, theatrical expressionism, dynamic composition conveying grandeur and emotional power, ultra-detailed 4K, no text or watermarks.",
+      "text_model": "perplexity-fast",
+      "image_model": "gptimage",
+      "seed": 1891864786,
+      "created_at": "2026-04-11T11:59:19.184942+08:00"
+    },
+    {
       "id": "20260411_113812",
       "filename": "images/artwork_20260411_113812.jpg",
       "topic": "blockchain and decentralized future",
