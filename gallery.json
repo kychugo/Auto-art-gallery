@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260412_072935",
+      "filename": "images/artwork_20260412_072935.jpg",
+      "topic": "quantum computing and the future",
+      "prompt": "An anime-inspired portrait of a lone individual, bathed in dramatic studio lighting that sculpts their features with deep contrasts and stark highlights, evoking an intimate and human mood. Rendered in a monochromatic black and white palette, the scene focuses on the interplay of light and shadow, hinting at the complex, interconnected nature of quantum computations through subtle, almost ethereal visual metaphors. The overall aesthetic should be reminiscent of a deeply personal moment captured against the vast, unknown potential of the future.",
+      "text_model": "gemini-search",
+      "image_model": "gptimage",
+      "seed": 1173623998,
+      "created_at": "2026-04-12T07:29:35.702499+08:00"
+    },
+    {
       "id": "20260412_065713",
       "filename": "images/artwork_20260412_065713.jpg",
       "topic": "cybersecurity and privacy in the digital world",
