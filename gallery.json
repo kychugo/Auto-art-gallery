@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260411_130024",
+      "filename": "images/artwork_20260411_130024.jpg",
+      "topic": "Hong Kong protest art and resilience",
+      "prompt": "An impressionist painting captures the vibrant, defiant spirit of Hong Kong's resilience under a dramatic interplay of moonlight and deep shadows, where hurried brushstrokes depict citizens in dynamic motion, their faces a blur of determination and hope. The scene is rendered in a rich palette of earthy tones and vibrant terracotta, evoking the enduring spirit of the city against a backdrop of ephemeral, gestural cityscapes. This artwork pulsates with an energetic, almost tangible sense of movement, highlighting the unyielding will of the people amidst the ephemeral glow of the night.",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 1499131200,
+      "created_at": "2026-04-11T13:00:24.643083+08:00"
+    },
+    {
       "id": "20260411_123323",
       "filename": "images/artwork_20260411_123323.jpg",
       "topic": "future of human civilization and technology",
