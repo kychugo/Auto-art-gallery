@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260411_144636",
+      "filename": "images/artwork_20260411_144636.jpg",
+      "topic": "virtual reality and the metaverse",
+      "prompt": "A lone figure, rendered in loose, ethereal watercolor strokes, stands on a desolate, rust-colored plain within a nascent metaverse. Soft, diffused daylight filters through a hazy, ochre sky, casting long, gentle shadows that pool around their feet, evoking a profound sense of melancholic reflection. Scattered digital artifacts, like faded memories in terracotta hues, shimmer faintly on the horizon, hinting at lost connections and the quiet contemplation of existence in this nascent digital realm.",
+      "text_model": "gemini-fast",
+      "image_model": "gptimage",
+      "seed": 991461105,
+      "created_at": "2026-04-11T14:46:37.033824+08:00"
+    },
+    {
       "id": "20260411_143807",
       "filename": "images/artwork_20260411_143807.jpg",
       "topic": "animals and nature conservation",
