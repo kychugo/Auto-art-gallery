@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260411_213355",
+      "filename": "images/artwork_20260411_213355.jpg",
+      "topic": "revolution in education through technology",
+      "prompt": "A lone, determined student, silhouetted against a swirling, hopeful arctic aurora borealis casting warm amber and orange tones, reaches out to grasp a holographic projection of a glowing, interconnected brain, symbolizing a noir-infused revolution in education where technology illuminates and uplifts. The scene should evoke a sense of boundless possibility and quiet triumph, with digital circuits subtly woven into the icy landscape, rendered in a painterly, award-winning style reminiscent of vintage sci-fi book covers.",
+      "text_model": "gemini-fast",
+      "image_model": "gptimage",
+      "seed": 2054967709,
+      "created_at": "2026-04-11T21:33:55.237243+08:00"
+    },
+    {
       "id": "20260411_205624",
       "filename": "images/artwork_20260411_205624.jpg",
       "topic": "ocean conservation and marine life",
