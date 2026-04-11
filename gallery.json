@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260411_143807",
+      "filename": "images/artwork_20260411_143807.jpg",
+      "topic": "animals and nature conservation",
+      "prompt": "A whimsical and dreamlike watercolor illustration where golden hour sunlight filters through an enchanted forest, its luminous rays piercing the dense canopy of emerald and deep forest greens. A majestic fox with a brilliant, vibrant pelt sits, quiet and wise, observing as a hidden fairy whispers to a butterfly near a cluster of glowing mushrooms; delicate brushstrokes of watercolor lend",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 146523464,
+      "created_at": "2026-04-11T14:38:07.175438+08:00"
+    },
+    {
       "id": "20260411_135637",
       "filename": "images/artwork_20260411_135637.jpg",
       "topic": "animals and nature conservation",
