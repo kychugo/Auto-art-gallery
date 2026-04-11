@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260411_113812",
+      "filename": "images/artwork_20260411_113812.jpg",
+      "topic": "blockchain and decentralized future",
+      "prompt": "In a grand Baroque masterpiece, a luminous ethereal cityscape of the decentralized future emerges from swirling blockchain chains forming interconnected nodes and glowing smart contracts, where diverse humanity unites in harmonious exchange beneath triumphant arches of digital liberty and ascending doves symbolizing empowerment.[1] Golden hour sunlight bathes the intricate filigree of hovering ledgers and crystalline data streams in dramatic chiaroscuro, casting hopeful rays that pierce through ornate vaults, evoking an uplifting dawn of technological sovereignty.[3] Rendered in stunning high-contrast monochromatic black and white, with opulent textures of velvet shadows, polished marble glows, and voluminous drapery in meticulous award-winning detail, composing a visionary tableau of boundless possibility.[2]",
+      "text_model": "perplexity-fast",
+      "image_model": "klein",
+      "seed": 909411587,
+      "created_at": "2026-04-11T11:38:12.514063+08:00"
+    },
+    {
       "id": "20260411_112324",
       "filename": "images/artwork_20260411_112324.jpg",
       "topic": "social media culture and human connection",
