@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260411_162855",
+      "filename": "images/artwork_20260411_162855.jpg",
+      "topic": "Hong Kong city life and culture",
+      "prompt": "In an impressionist style reminiscent of Monet's vibrant brushstrokes, depict the bustling heart of Hong Kong's Victoria Harbour at dusk, where neon-lit skyscrapers pierce a sky alive with swirling arctic aurora borealis lights dancing in high-contrast black and gold hues, casting ethereal glows on street markets teeming with hopeful vendors hawking dim sum and silk lanterns. Crowds of diverse locals and visitors in cheongsams and suits stroll vibrant night streets lined with red lanterns and bobbing junk boats, their faces uplifted in joyful anticipation, evoking a sense of cultural renewal and urban optimism. Render with award-winning detail: loose, textured strokes blurring light trails into golden mist over ink-black harbors, foreground food stalls steaming with hope, and distant peaks shimmering like gilded beacons of prosperity.",
+      "text_model": "perplexity-fast",
+      "image_model": "gptimage",
+      "seed": 1069562188,
+      "created_at": "2026-04-11T16:28:55.908707+08:00"
+    },
+    {
       "id": "20260411_160321",
       "filename": "images/artwork_20260411_160321.jpg",
       "topic": "Hong Kong protest art and resilience",
