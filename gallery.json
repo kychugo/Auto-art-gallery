@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260411_135637",
+      "filename": "images/artwork_20260411_135637.jpg",
+      "topic": "animals and nature conservation",
+      "prompt": "Photorealistic, award-winning scene of a quiet wildlife conservation moment: a gentle wildlife volunteer kneels beside a small injured fox and a rescued hedgehog nestled in soft moss, with delicate hands offering water from a ceramic cup while a distant forest subtly frames the setting. Candlelight ambiance flickers warmly across soft pastel hues—peach, blush pink, pale mint, and muted lavender—casting intimate golden highlights on fur and quills, dew on leaves, and floating dust motes in the air; fireflies and faintly glowing wildflowers suggest protected habitat without showing any harm. In the background, a conservation sign and softly blurred eco-friendly gear (cloth bandages, reusable water bottle, and a small camera trap) blend naturally into the foliage, creating an emotional, human connection to nature. Shallow depth of field, ultra-fine fur and skin detail, realistic textures, cinematic composition, and gentle bokeh make the scene feel lifelike, tender, and urgently hopeful.",
+      "text_model": "openai",
+      "image_model": "klein",
+      "seed": 72109282,
+      "created_at": "2026-04-11T13:56:37.500955+08:00"
+    },
+    {
       "id": "20260411_134429",
       "filename": "images/artwork_20260411_134429.jpg",
       "topic": "street food culture in Hong Kong",
