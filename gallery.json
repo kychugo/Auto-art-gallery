@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260411_123323",
+      "filename": "images/artwork_20260411_123323.jpg",
+      "topic": "future of human civilization and technology",
+      "prompt": "Cinematic, award-winning digital painting of the future of human civilization: a vast ruined megacity where glowing amber streetlamps and holographic memorials float above cracked marble avenues, and colossal android silhouettes drift silently between fallen skyscrapers covered in bioluminescent vines. Moonlight pours through fractured clouds, casting long, dramatic shadows across reflective puddles and dust, while warm amber and orange tones dominate the scene—blending flickering neon signage, subtle volumetric fog, and delicate particles like embers in the air. In the foreground, a lone human figure in a weathered coat holds a translucent tablet displaying fading family photos and ancestral code, their face lit by the warm glow as if the technology remembers but cannot heal. The skyline fades into a melancholic horizon of distant constellations and malfunctioning satellites, suggesting both profound wonder and irreversible loss.",
+      "text_model": "openai",
+      "image_model": "zimage",
+      "seed": 1845510879,
+      "created_at": "2026-04-11T12:33:23.358981+08:00"
+    },
+    {
       "id": "20260411_122611",
       "filename": "images/artwork_20260411_122611.jpg",
       "topic": "artificial intelligence reshaping society",
