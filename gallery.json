@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260412_050059",
+      "filename": "images/artwork_20260412_050059.jpg",
+      "topic": "post-pandemic world transformation",
+      "prompt": "Create a highly detailed watercolor scene depicting a post-pandemic world transformation: a quiet, sunlit city reclaimed by nature, where gentle, winding park paths weave between partially restored brick buildings wrapped in emerald ivy, and reopened public squares bloom with small community gardens and flowering rooftop planters. Soft diffused daylight filters through misty morning air, casting subtle, tranquil highlights on mossy stone steps and rain-kissed leaves, with a serene sky reflected in a calm canal that mirrors deep forest greens. Use an award-winning watercolor style with delicate paper texture, flowing pigment blooms, and layered washes in an emerald and deep forest green palette, emphasizing peaceful restoration, minimal human presence, and delicate details like drifting dandelion seeds, faint chalk artwork on sidewalks, and distant birds hovering over tranquil greenery.",
+      "text_model": "openai",
+      "image_model": "zimage",
+      "seed": 381249229,
+      "created_at": "2026-04-12T05:00:59.785820+08:00"
+    },
+    {
       "id": "20260412_042401",
       "filename": "images/artwork_20260412_042401.jpg",
       "topic": "urban architecture of the future",
