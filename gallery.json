@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260412_065713",
+      "filename": "images/artwork_20260412_065713.jpg",
+      "topic": "cybersecurity and privacy in the digital world",
+      "prompt": "a lone, sleek, minimalist avatar composed of shimmering fractal code stands guard in a cyberpunk pop art style, its simple yet powerful form formed of shimmering, iridescent lines of neon-purple and liquid-silver light floating within a pixelated void. the guardian avatar is crouched defensively, its form composed of faceted glass and polished geometric armor, refracting a soft, sun-dappled light, with a shimmering, transparent energy shield hovering like a polished, circular halo, intricate lines of luminous code softly cascading along the interior. it is shielding a vibrant, blooming core of light hovering in front of a glitch-patterned wallpaper in saturated magenta and electric blue. a stream of shimmering blue protective streams of holographic light form a shimmering defensive barrier behind it, creating sharp and",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 1282571627,
+      "created_at": "2026-04-12T06:57:13.235175+08:00"
+    },
+    {
       "id": "20260412_061852",
       "filename": "images/artwork_20260412_061852.jpg",
       "topic": "animals and nature conservation",
