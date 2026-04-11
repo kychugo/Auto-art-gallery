@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260411_220537",
+      "filename": "images/artwork_20260411_220537.jpg",
+      "topic": "social media culture and human connection",
+      "prompt": "Impressionist, powerful and monumental scene of social media culture as human connection: towering, half-transparent silhouettes of people reaching toward one another across a vast digital “feed” made of glowing, floating notification icons, chat bubbles, and network lines that arc like architecture overhead. The entire image is monochromatic black and white, with neon city glow reflected through mist and rain, creating luminous rim light, high-contrast highlights, and bold brushstrokes that suggest motion, longing, and unity. In the foreground, faces are rendered in textured, impressionistic strokes—hands clasp near a flickering screen, while distant crowds merge into a single radiant pattern of connection, monumental in scale. Award-winning composition with dramatic perspective, shimmering bokeh, and dense visual detail, as if the skyline itself is a living social graph pulsing with empathy and force.",
+      "text_model": "openai",
+      "image_model": "gptimage",
+      "seed": 407959030,
+      "created_at": "2026-04-11T22:05:37.114564+08:00"
+    },
+    {
       "id": "20260411_215723",
       "filename": "images/artwork_20260411_215723.jpg",
       "topic": "cultural diversity and global harmony",
