@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260411_173243",
+      "filename": "images/artwork_20260411_173243.jpg",
+      "topic": "artificial intelligence reshaping society",
+      "prompt": "A glowing, iridescent cityscape at night, where ethereal, impressionistic brushstrokes in a dazzling iridescent and holographic palette depict citizens of the future as they use and interact with benevolent, elegant silver and light constructs. The scene is bathed in a soft, silvery full moonlight that creates a shimmering reflection in a crystal-clear puddle, capturing the hopeful, interconnected society within a style reminiscent of a Seurat or Monet with its dappled light and soft, blended brushstrokes.",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 1181420712,
+      "created_at": "2026-04-11T17:32:43.902592+08:00"
+    },
+    {
       "id": "20260411_170807",
       "filename": "images/artwork_20260411_170807.jpg",
       "topic": "sports and human physical achievement",
