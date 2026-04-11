@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260411_132308",
+      "filename": "images/artwork_20260411_132308.jpg",
+      "topic": "sports and human physical achievement",
+      "prompt": "First, the user is asking me to create an image generation prompt about \"sports and human physical achievement\" with specific elements.\n\nKey requirements:\n- Art style: watercolor\n- Mood: powerful and monumental\n- Lighting: neon city glow\n- Color palette: warm amber and orange tones\n- Length: 2-4 sentences\n\n I need to make it vivid and detailed for an image generation AI.\n\nBrainstorm ideas:\n- Sports context\n- Monumental\n- Neon glow\n- Watercolor style\n- Amber and orange dominant\n\nPrompt: An epic scene where a single figure is suspended in time during a triumphant moment, frozen under the neon glow of a neon-lit arena\n\nDraft:\nA figure captured in the midst of an explosive long-jump, muscular form covered in sheen like chiseled amber, watercolor splashes of amber, burnt sienna, and goldenrod spreading from a neon city skyline's glow that backlights a towering, triumphant sprinter in motion.\n\nCheck for length and detail.\nMake it two to four sentences.\n\nFinal draft:\nIn a watercolor wash of warm amber, sienna, and smoldering orange, an athlete's silhouette explodes from the starting blocks of a rain-slicked Tokyo street at dusk. Backlit by the neon-washed glow of a futuristic city, every straining muscle gleams under the arena's electric glow, monumental and powerful as captured motion. Fine watercolor textures bleed the scene into a majestic, monumental composition. Perfect shadows fall toward the neon-drenched stands where the city lights blur like a watercolor wash.\n\nPolished version:\nA monumental watercolor illustration of a lone sprinter frozen at the climax of a final leap, backlit by the radiant neon-orange glow of a cityscape, their powerful form rendered in strokes of warm amber and burnt umber watercolor.\n\nMake it more descriptive to meet vivid details and length: “A watercolor masterpiece of ultimate human motion, set in",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 415126686,
+      "created_at": "2026-04-11T13:23:08.447174+08:00"
+    },
+    {
       "id": "20260411_131326",
       "filename": "images/artwork_20260411_131326.jpg",
       "topic": "biotechnology and genetic engineering",
