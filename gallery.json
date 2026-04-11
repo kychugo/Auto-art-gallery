@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260411_180454",
+      "filename": "images/artwork_20260411_180454.jpg",
+      "topic": "post-pandemic world transformation",
+      "prompt": "In a post-pandemic world, a lone figure stands silhouetted against a sprawling, hyper-detailed cityscape, illuminated by the intense glow of neon signs reflecting off rain-slicked streets. Dramatic amber and orange light cuts through the smog, casting long, dramatic shadows as towering, futuristic architecture signifies a world reborn and transformed. This digital art piece captures a mood of dramatic intensity, with warm, vibrant hues clashing against deep, atmospheric blacks, creating a visually stunning and award-winning composition.",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 1033551182,
+      "created_at": "2026-04-11T18:04:54.599789+08:00"
+    },
+    {
       "id": "20260411_173243",
       "filename": "images/artwork_20260411_173243.jpg",
       "topic": "artificial intelligence reshaping society",
