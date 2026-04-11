@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260411_195034",
+      "filename": "images/artwork_20260411_195034.jpg",
+      "topic": "fashion meets technology",
+      "prompt": "A holographic iridescent watercolor painting of a solitary figure draped in avant-garde, tech-integrated haute couture, standing amidst a decaying, rain-slicked cyberpunk metropolis under dramatic studio lighting. The mood is dark and dystopian, with the iridescent fabrics of the clothing casting ethereal, shifting glows that contrast sharply with the oppressive shadows of the cityscape, creating a visually stunning and award-winning composition. Intricate details in the technological embellishments of the fashion and the crumbling urban decay should be rendered with painterly precision, evoking a sense of lost grandeur and technological alienation.",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 807958554,
+      "created_at": "2026-04-11T19:50:34.940649+08:00"
+    },
+    {
       "id": "20260411_193232",
       "filename": "images/artwork_20260411_193232.jpg",
       "topic": "virtual reality and the metaverse",
