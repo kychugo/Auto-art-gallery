@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260411_205624",
+      "filename": "images/artwork_20260411_205624.jpg",
+      "topic": "ocean conservation and marine life",
+      "prompt": "Create a highly detailed pop art scene celebrating ocean conservation: a serene underwater sanctuary where a graceful sea turtle, vibrant reef fish, and delicate coral formations drift like sculptures beneath a soft, glowing surface. Use dramatic studio lighting with crisp highlights and deep shadows, emphasizing translucent water rays, subtle bubbles, and a faint ripple grid that frames the marine life; incorporate small, hopeful conservation symbols (e.g., a minimal recycling icon and a heart made from coral shapes) integrated into the composition without breaking the calm mood. Render in soft pastel hues—seafoam greens, blush pinks, pale aquas, and warm lilacs—using bold pop-art outlines, halftone textures, and layered color blocks for a peaceful, award-winning, visually stunning finish.",
+      "text_model": "openai",
+      "image_model": "klein",
+      "seed": 724312506,
+      "created_at": "2026-04-11T20:56:24.040071+08:00"
+    },
+    {
       "id": "20260411_195034",
       "filename": "images/artwork_20260411_195034.jpg",
       "topic": "fashion meets technology",
