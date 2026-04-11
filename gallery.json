@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260412_061852",
+      "filename": "images/artwork_20260412_061852.jpg",
+      "topic": "animals and nature conservation",
+      "prompt": "A lone spectral lynx with circuitry in its fur and glowing crimson markings, representing the ghost of an extinct snow leopard. It stands defiantly in a dense, fog-shrouded forest at the base of a monolithic cyberpunk city. The city's neon glow, a wash of crimson and deep red from countless holographic signs and ads, filters through the mist and alien foliage, casting long, distorted city-light shadows.",
+      "text_model": "deepseek",
+      "image_model": "gptimage",
+      "seed": 1291317747,
+      "created_at": "2026-04-12T06:18:52.151687+08:00"
+    },
+    {
       "id": "20260412_055749",
       "filename": "images/artwork_20260412_055749.jpg",
       "topic": "blockchain and decentralized future",
