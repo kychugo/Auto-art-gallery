@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260411_134429",
+      "filename": "images/artwork_20260411_134429.jpg",
+      "topic": "street food culture in Hong Kong",
+      "prompt": "Concept art depicting a bustling Hong Kong street food market bathed in soft, diffused daylight, alive with a vibrant and energetic mood. Emerald and deep forest green tones dominate, weaving through the steam rising from bubbling woks and the lush foliage adorning makeshift stalls, with hyper-detailed textures on glistening dim sum, fragrant noodle bowls, and the eager faces of patrons reaching for their next delicious bite. The scene captures the dynamic essence of street culinary artistry, evoking a sense of delightful sensory overload.",
+      "text_model": "gemini-fast",
+      "image_model": "klein",
+      "seed": 407049549,
+      "created_at": "2026-04-11T13:44:29.965988+08:00"
+    },
+    {
       "id": "20260411_132308",
       "filename": "images/artwork_20260411_132308.jpg",
       "topic": "sports and human physical achievement",
