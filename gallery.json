@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260412_145324",
+      "filename": "images/artwork_20260412_145324.jpg",
+      "topic": "sports and human physical achievement",
+      "prompt": "Photorealistic, award-winning scene of a human athlete in mid-action—muscular, focused, and fearless—captured in a dynamic sprint-to-leap moment on an outdoor track at dusk, with faint motion blur and crisp facial detail emphasizing raw physical achievement. Candlelight ambiance flickers across soft pastel hues (peach, powder blue, pale lilac), casting warm rim light and gentle highlights over sweat-sheened skin, while dozens of glowing candles line the track like a ceremonial path; subtle drifting steam and floating embers add spectacle without obscuring clarity. Behind them, softly blurred spectators and stadium silhouettes glow in bokeh, and faint dust motes swirl in the air as if sparked by the athlete’s momentum, creating vibrant, energetic momentum and triumphant emotion. Ultra-high detail, cinematic shallow depth of field, natural skin texture, realistic fabric motion in the uniform, sharp focus on the athlete’s eyes and hands, HDR, 8k realism.",
+      "text_model": "openai",
+      "image_model": "klein",
+      "seed": 26123774,
+      "created_at": "2026-04-12T14:53:24.314457+08:00"
+    },
+    {
       "id": "20260412_142224",
       "filename": "images/artwork_20260412_142224.jpg",
       "topic": "cultural diversity and global harmony",
