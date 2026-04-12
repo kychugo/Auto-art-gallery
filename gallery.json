@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260412_125112",
+      "filename": "images/artwork_20260412_125112.jpg",
+      "topic": "animals and nature conservation",
+      "prompt": "A monumental Baroque masterpiece depicting a majestic lion and a powerful elephant entwined with lush, ancient trees, their forms rendered with dramatic realism and deep, emotive colors reminiscent of a twilight forest. The scene is bathed in a dramatic, almost theatrical candlelight ambiance, with vibrant neon accents in electric blues, radiant purples, and glowing greens that pulse from within the foliage and the animals' eyes, symbolizing their vital connection to nature. This powerful composition should evoke a sense of awe and the enduring spirit of conservation, capturing the raw beauty and delicate balance of the natural world in a style that is both grand and deeply resonant.",
+      "text_model": "gemini-search",
+      "image_model": "klein",
+      "seed": 1104421198,
+      "created_at": "2026-04-12T12:51:12.835323+08:00"
+    },
+    {
       "id": "20260412_122519",
       "filename": "images/artwork_20260412_122519.jpg",
       "topic": "virtual reality and the metaverse",
