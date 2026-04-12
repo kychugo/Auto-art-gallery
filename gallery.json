@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260412_173837",
+      "filename": "images/artwork_20260412_173837.jpg",
+      "topic": "revolution in education through technology",
+      "prompt": "Create an impressionist, award-winning scene of a revolution in education through technology: a small group of students and a teacher gathered around a glowing, translucent holographic tablet, their faces softly lit by moonlight. In the foreground, floating digital symbols and hand-drawn constellations weave between notebooks and the air, while silhouettes of classroom walls dissolve into a calm night landscape—suggesting learning spreading beyond borders—conveying an intimate, human mood through gentle eye contact, tender gestures, and subtle smiles. Use moonlight and deep shadows with an emerald and deep forest green palette, rich impasto brushstrokes, dappled highlights, and shimmering specular reflections on the hologram, with delicate atmospheric perspective and fine grain texture to make every detail feel alive and real.",
+      "text_model": "openai",
+      "image_model": "gptimage",
+      "seed": 1679471437,
+      "created_at": "2026-04-12T17:38:37.831833+08:00"
+    },
+    {
       "id": "20260412_171231",
       "filename": "images/artwork_20260412_171231.jpg",
       "topic": "blockchain and decentralized future",
