@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260412_184026",
+      "filename": "images/artwork_20260412_184026.jpg",
+      "topic": "blockchain and decentralized future",
+      "prompt": "An anime-inspired, award-winning digital painting depicting a lone figure standing atop a crumbling skyscraper in a vast, neon-drenched, dystopian metropolis. The scene is illuminated by the ethereal glow of an arctic aurora borealis, casting long, distorted shadows across shattered holographic advertisements for a forgotten blockchain utopia, all rendered with a warm amber and orange color palette that highlights the desolation and the flickering remnants of technological ambition.",
+      "text_model": "gemini-fast",
+      "image_model": "klein",
+      "seed": 1352762718,
+      "created_at": "2026-04-12T18:40:26.737847+08:00"
+    },
+    {
       "id": "20260412_180849",
       "filename": "images/artwork_20260412_180849.jpg",
       "topic": "future of human civilization and technology",
