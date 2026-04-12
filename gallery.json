@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260412_171231",
+      "filename": "images/artwork_20260412_171231.jpg",
+      "topic": "blockchain and decentralized future",
+      "prompt": "In an impressionist landscape of a decentralized future, ethereal blockchain chains made of glowing, translucent crystal links weave through misty, forgotten city ruins overgrown with luminescent vines, forming vast, interconnected neural networks that pulse softly like veins of data. Solitary figures in flowing robes stand pensively on crumbling ledges, gazing into the horizon where fragmented smart contracts float as iridescent orbs, evoking a melancholic reflection on lost central authorities amid a bioluminescent glow illuminating soft pastel hues of lavender, mint green, pale azure, and blush pink. Highly detailed, award-winning masterpiece with textured brushstrokes, diffused ethereal lighting, and profound emotional depth.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 1934301961,
+      "created_at": "2026-04-12T17:12:31.097026+08:00"
+    },
+    {
       "id": "20260412_163501",
       "filename": "images/artwork_20260412_163501.jpg",
       "topic": "Hong Kong city life and culture",
