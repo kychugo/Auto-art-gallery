@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260412_163501",
+      "filename": "images/artwork_20260412_163501.jpg",
+      "topic": "Hong Kong city life and culture",
+      "prompt": "In an abstract expressionist frenzy, Hong Kong's dystopian city life erupts across the canvas as towering neon skyscrapers twist into jagged, holographic iridescent shards of crimson, electric blue, and ghostly violet, their dramatic studio lighting carving harsh shadows over crowded street markets where shadowy figures in rain-slicked cheongsams and cyberpunk suits clash with double-decker trams and flickering dim sum carts amid pouring acid rain. Splattered brushstrokes evoke the chaotic pulse of liminal nightlife—protest banners morphing into ink-wash ghosts, vendor stalls bleeding iridescent vapor trails—capturing the seductive decay of a brilliant yet dimming metropolis in visceral, award-winning detail.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 1259506265,
+      "created_at": "2026-04-12T16:35:01.164937+08:00"
+    },
+    {
       "id": "20260412_161103",
       "filename": "images/artwork_20260412_161103.jpg",
       "topic": "virtual reality and the metaverse",
