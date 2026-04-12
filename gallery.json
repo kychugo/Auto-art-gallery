@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260412_121224",
+      "filename": "images/artwork_20260412_121224.jpg",
+      "topic": "human migration and global nomadism",
+      "prompt": "Baroque, intimate scene of human migration and global nomadism: a procession of nomads carrying weathered trunks and embroidered garments threads through an architectural ruin that transitions seamlessly into a surreal world map—continents rendered as gilded reliefs on cracked stone, rivers of luminous ink curling like pathways to distant ports. Bioluminescent glow emanates from lanterns, prayer beads, and faint tattoos on faces, casting high-contrast black-and-gold light across tearful smiles, tired hands, and tender embraces as travelers pause at a “threshold” arch shaped like an ornate compass rose. Rich chiaroscuro, swirling baroque drapery, intricate filigree borders, and floating motes of light create an award-winning, hyper-detailed atmosphere where movement feels personal and sacred—each traveler silhouetted against radiant gold halos in deep black voids.",
+      "text_model": "openai",
+      "image_model": "gptimage",
+      "seed": 908305268,
+      "created_at": "2026-04-12T12:12:24.344557+08:00"
+    },
+    {
       "id": "20260412_114938",
       "filename": "images/artwork_20260412_114938.jpg",
       "topic": "space exploration and the cosmos",
