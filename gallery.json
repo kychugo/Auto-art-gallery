@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260412_140931",
+      "filename": "images/artwork_20260412_140931.jpg",
+      "topic": "health and medicine breakthroughs",
+      "prompt": "A surrealist, monochromatic black and white depiction of a colossal, ethereal human heart pulsing with the light of an arctic aurora borealis, symbolizing a profound health breakthrough. Wisps of nebulae and celestial dust swirl around the anatomical structure, creating a mood of melancholic reflection on the fragility and resilience of life. The scene is bathed in the otherworldly glow of the aurora, casting long, stark shadows that emphasize the intricate, almost cosmic, details of both the heart and the surrounding unknown.",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 1584876258,
+      "created_at": "2026-04-12T14:09:31.737532+08:00"
+    },
+    {
       "id": "20260412_135219",
       "filename": "images/artwork_20260412_135219.jpg",
       "topic": "blockchain and decentralized future",
