@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260412_180849",
+      "filename": "images/artwork_20260412_180849.jpg",
+      "topic": "future of human civilization and technology",
+      "prompt": "Biomimetic spires of liquid chrome spiral towards a tempestuous, deep gray and slate grey sky, fractured by occasional streaks of spectral light bleeding through the overcast canopy. Silhouettes of towering, abstract city forms—part architecture, part crystalline data cluster—are connected by radiant, arcing flows of iridescent lavender and electric white energy that suggest data transfer streams or quantum neural connections. Glowing, self-generating pathways twist through a futuristic city that is half-drawn, half-grown, while scattered geometric portals of pure energy drift among cool steel blue and deep violet structural supports,",
+      "text_model": "deepseek",
+      "image_model": "klein",
+      "seed": 931916269,
+      "created_at": "2026-04-12T18:08:49.844190+08:00"
+    },
+    {
       "id": "20260412_173837",
       "filename": "images/artwork_20260412_173837.jpg",
       "topic": "revolution in education through technology",
