@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260412_131051",
+      "filename": "images/artwork_20260412_131051.jpg",
+      "topic": "traditional vs modern culture clash in Asia",
+      "prompt": "In a powerful, monumental noir scene set at the edge of an ancient Asian temple and a neon-lit megacity, split the composition vertically: on the left, traditional culture embodied by ornate wooden latticework, jade-colored ceremonial garments, incense smoke curling into calligraphic shadows, and weathered stone guardian statues; on the right, modern culture represented by sleek glass skyscrapers, holographic billboards, a city crowd in contemporary streetwear, and towering LED signage casting sharp reflections. Use dappled forest light filtering through dense bamboo and dark branches, with cool blues and purples dominating the palette, deep cinematic contrast, heavy chiaroscuro, and subtle film grain to heighten the noir atmosphere. Depict the clash as a tangible bridge of smoke and cables connecting both worlds—sparks and drifting lantern embers mixing with digital pixels—so the transition feels inevitable yet tense, monumental, and dramatic, highly detailed, award-winning, ultra-realistic with noir illustration finish.",
+      "text_model": "openai",
+      "image_model": "klein",
+      "seed": 635189492,
+      "created_at": "2026-04-12T13:10:51.677036+08:00"
+    },
+    {
       "id": "20260412_125112",
       "filename": "images/artwork_20260412_125112.jpg",
       "topic": "animals and nature conservation",
