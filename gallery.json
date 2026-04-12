@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260412_135219",
+      "filename": "images/artwork_20260412_135219.jpg",
+      "topic": "blockchain and decentralized future",
+      "prompt": "In a breathtaking concept art style, visualize a decentralized future where shimmering networks of light, born from the collision of cosmic particles, weave through a dreamlike landscape of rolling earth tones and terracotta hues. The scene is illuminated by the ethereal glow of an arctic aurora borealis, casting mystical, shifting colors across the imaginative, yet grounded, terrain. This whimsical vista captures the essence of interconnectedness and boundless possibility, rendered with award-winning detail and a mood of profound wonder.",
+      "text_model": "gemini-search",
+      "image_model": "gptimage",
+      "seed": 1463179232,
+      "created_at": "2026-04-12T13:52:19.222233+08:00"
+    },
+    {
       "id": "20260412_133547",
       "filename": "images/artwork_20260412_133547.jpg",
       "topic": "Hong Kong protest art and resilience",
