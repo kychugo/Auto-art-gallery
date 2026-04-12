@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260412_161103",
+      "filename": "images/artwork_20260412_161103.jpg",
+      "topic": "virtual reality and the metaverse",
+      "prompt": "A solitary figure immersed in a sprawling metaverse landscape, rendered in bold pop art style with thick graphic lines and vibrant halftone shading, surrounded by towering crystalline data structures and floating holographic interfaces pulsing with bioluminescent blues and purples. The scene radiates ethereal mystery with neon-edged geometric shapes and glowing circuit pathways that dissolve into abstract fractals and paint strokes at the edges, creating a dreamlike atmosphere of digital transcendence. Surreal volumetric light beams cast prismatic shadows across rippling liquid-glass surfaces, while the overall composition maintains an unapologetically vibrant, comic-book aesthetic merged with futuristic cyberpunk energy. Rendered in 8K ultra-detail with luminous bloom effects, capturing both the wonder and enigmatic allure of virtual reality's infinite possibilities.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 1450674594,
+      "created_at": "2026-04-12T16:11:03.688439+08:00"
+    },
+    {
       "id": "20260412_160300",
       "filename": "images/artwork_20260412_160300.jpg",
       "topic": "Hong Kong protest art and resilience",
