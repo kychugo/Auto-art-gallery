@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260412_103404",
+      "filename": "images/artwork_20260412_103404.jpg",
+      "topic": "social media culture and human connection",
+      "prompt": "In a photorealistic scene bathed in flickering **candlelight ambiance**, a diverse group of young adults sits in a dimly lit Victorian parlor, their faces illuminated by the soft, ethereal glow of smartphones and laptops casting cool blues and purples across translucent, ghostly social media interfaces hovering like spectral veils. Half-formed digital avatars and fragmented emojis swirl mysteriously around them, fingers outstretched in yearning gestures that blur the boundary between physical hands reaching for connection and intangible likes-heart notifications dissolving into vapor, evoking a haunting tension between isolation and illusory intimacy. The mood is deeply **mysterious and ethereal**, with intricate details like dew-kissed skin, flickering candle flames reflecting in dilated pupils, and subtle fog from breath mingling with glitchy data streams, captured in ultra-high resolution like an award-winning cinematic photograph.",
+      "text_model": "perplexity-fast",
+      "image_model": "klein",
+      "seed": 398106315,
+      "created_at": "2026-04-12T10:34:04.312352+08:00"
+    },
+    {
       "id": "20260412_075531",
       "filename": "images/artwork_20260412_075531.jpg",
       "topic": "revolution in education through technology",
