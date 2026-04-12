@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260412_155038",
+      "filename": "images/artwork_20260412_155038.jpg",
+      "topic": "artificial intelligence reshaping society",
+      "prompt": "A minimalist composition capturing two figures—one human, one digital hologram—seated face-to-face in intimate conversation, bathed in golden hour sunlight streaming through floor-to-ceiling windows. The scene is rendered in clean, geometric lines with a cool palette of deep blues and purples contrasting the warm amber light, creating a striking balance between technology and humanity. Soft, diffused golden hour lighting casts long shadows across a sparse interior of white walls and simple furnishings, emphasizing the profound connection between the two beings. The overall aesthetic is serene and contemplative, with minimalist design principles highlighting the emotional weight of this transformative moment—a quiet meditation on how artificial intelligence is reshaping the fabric of human connection and society.",
+      "text_model": "perplexity-fast",
+      "image_model": "gptimage",
+      "seed": 181267044,
+      "created_at": "2026-04-12T15:50:38.961096+08:00"
+    },
+    {
       "id": "20260412_150158",
       "filename": "images/artwork_20260412_150158.jpg",
       "topic": "space exploration and the cosmos",
