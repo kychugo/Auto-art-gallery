@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260412_150158",
+      "filename": "images/artwork_20260412_150158.jpg",
+      "topic": "space exploration and the cosmos",
+      "prompt": "A surrealist cosmic landscape unfolds, where nebulae swirl like oil on water, their holographic iridescent hues creating a dramatic, otherworldly shimmer. Enormous, crystalline celestial bodies drift through a void punctuated by shafts of dappled forest light, casting ethereal patterns across the impossible geometry of space. The intense, dramatic mood is amplified by the juxtaposition of organic light and the cold, vast expanse, evoking a profound sense of awe and the sublime.",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 940233225,
+      "created_at": "2026-04-12T15:01:58.375682+08:00"
+    },
+    {
       "id": "20260412_145324",
       "filename": "images/artwork_20260412_145324.jpg",
       "topic": "sports and human physical achievement",
