@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260412_132831",
+      "filename": "images/artwork_20260412_132831.jpg",
+      "topic": "Hong Kong city life and culture",
+      "prompt": "A photorealistic black-and-white photograph capturing the melancholic essence of Hong Kong city life and culture, with soft diffused daylight filtering through misty morning haze over bustling Nathan Road in Kowloon, where weary street vendors push rickety carts laden with steaming dim sum and trinkets amidst throngs of commuters in tailored suits and conical hats hurrying past neon-lit dai pai dongs and towering residential skyscrapers adorned with laundry lines. In the foreground, a solitary elderly woman in a cheongsam gazes reflectively at a faded temple incense burner, her face etched with quiet nostalgia, while intricate alleyways recede into shadowy depths revealing food stalls, cyclists, and hanging signs in elegant Chinese script. Highly detailed, award-winning composition with dramatic contrasts of light and shadow, evoking Fan Ho's masterful 1950s street photography style, textured surfaces on weathered concrete and wet pavement, and a profound sense of reflective urban solitude.[1][2][4]",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 332186166,
+      "created_at": "2026-04-12T13:28:31.284012+08:00"
+    },
+    {
       "id": "20260412_131051",
       "filename": "images/artwork_20260412_131051.jpg",
       "topic": "traditional vs modern culture clash in Asia",
