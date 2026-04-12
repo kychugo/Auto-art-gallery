@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260412_195359",
+      "filename": "images/artwork_20260412_195359.jpg",
+      "topic": "global climate crisis and environmental solutions",
+      "prompt": "A tender watercolor painting, bathed in the intimate glow of candlelight, depicts a diverse group of hands gently cupping a miniature, vibrant Earth. Swirls of cool blues and purples dominate the palette, with delicate washes illustrating both the fragility of our planet and the emergent hope of sustainable solutions like wind turbines and lush, growing flora subtly integrated into the earth's form. The mood is deeply human and poignant, capturing a shared responsibility and quiet determination to heal the world. This award-winning composition emphasizes the personal connection to the global climate crisis and the beauty of collective action.",
+      "text_model": "gemini-search",
+      "image_model": "gptimage",
+      "seed": 1811122035,
+      "created_at": "2026-04-12T19:53:59.932821+08:00"
+    },
+    {
       "id": "20260412_193528",
       "filename": "images/artwork_20260412_193528.jpg",
       "topic": "artificial intelligence reshaping society",
