@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260412_114938",
+      "filename": "images/artwork_20260412_114938.jpg",
+      "topic": "space exploration and the cosmos",
+      "prompt": "A lone astronaut, rendered in the bold, graphic style of pop art, stands on a desolate alien planet, gazing up at a swirling, nebulae-filled cosmos. The scene is illuminated by an intense, dramatic neon city glow emanating from a colossal, unseen alien metropolis just beyond the horizon, casting long, sharp shadows and highlighting the astronaut's visor with an otherworldly reflection. The color palette is a striking high-contrast black and gold, with cosmic dust and distant galaxies rendered in shimmering gold against an inky black sky, creating a visually stunning and intense spectacle. This award-winning composition captures the awe and isolation of deep space exploration.",
+      "text_model": "gemini-search",
+      "image_model": "gptimage",
+      "seed": 901527412,
+      "created_at": "2026-04-12T11:49:38.720165+08:00"
+    },
+    {
       "id": "20260412_103404",
       "filename": "images/artwork_20260412_103404.jpg",
       "topic": "social media culture and human connection",
