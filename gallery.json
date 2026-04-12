@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260412_133547",
+      "filename": "images/artwork_20260412_133547.jpg",
+      "topic": "Hong Kong protest art and resilience",
+      "prompt": "In the heart of Hong Kong, a photorealistic and monumental scene emerges on a rain-slicked back-alley wall: a large-scale, photorealistic mural bathed in the radiant neon city glow. A student's portrait is painted in soft pastels—muted pinks, hazy blues, and gentle lavenders—peeling posters of torn protest art fade into the surrounding bricks, which are also etched with stylized doves formed from the negative space. The powerful and monumental mood is conveyed through the resilient glint in the woman's determined, weary expression, and the luminous reflection of neon lights on the wet pavement.",
+      "text_model": "deepseek",
+      "image_model": "gptimage",
+      "seed": 300505360,
+      "created_at": "2026-04-12T13:35:47.746396+08:00"
+    },
+    {
       "id": "20260412_132831",
       "filename": "images/artwork_20260412_132831.jpg",
       "topic": "Hong Kong city life and culture",
