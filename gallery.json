@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260412_122519",
+      "filename": "images/artwork_20260412_122519.jpg",
+      "topic": "virtual reality and the metaverse",
+      "prompt": "A solitary human observer, her consciousness logged into the failing core of the metaverse, stands as the last avatar in a simulated, post-technology grove. Crimson data-spirits, shaped like distorted koi, swim through a dappled forest of light, their forms cast by fractured, flickering holographic structures that hum with low-poly decay. A single gash of sunlight, strained through a simulation of a dead oak’s bare branches, casts sharp, moving fractal shadows across a forest floor of corrupted crimson crystal shards. The ethereal, muted deep red glow of bioluminescent flora flickers in the perpetual twilight, the scene a stunning blend of concept art with its high contrast between sharp technological edges and decaying, beautiful organic forms.",
+      "text_model": "deepseek",
+      "image_model": "klein",
+      "seed": 1277921819,
+      "created_at": "2026-04-12T12:25:19.340208+08:00"
+    },
+    {
       "id": "20260412_121224",
       "filename": "images/artwork_20260412_121224.jpg",
       "topic": "human migration and global nomadism",
