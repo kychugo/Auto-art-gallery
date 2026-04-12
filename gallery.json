@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260412_142224",
+      "filename": "images/artwork_20260412_142224.jpg",
+      "topic": "cultural diversity and global harmony",
+      "prompt": "Minimalist, award-winning illustration capturing cultural diversity and global harmony: a circle of human silhouettes of varied ages, skin tones, and traditional clothing patterns, each figure holding a small translucent lantern that merges into one continuous ring of light above them, forming a subtle globe shape. Render the scene with intimate, human scale and gentle facial/hand details—foreheads touching, hands linked—while golden hour sunlight streams from the side, casting warm highlights onto deep forest green garments and emerald accents, with soft bokeh and delicate floating particles suggesting shared stories. The background is an almost-abstract landscape of layered, simplified contours in emerald and deep forest green, with long, cinematic shadows and a serene atmosphere where unity feels tangible through minimal yet expressive composition.",
+      "text_model": "openai",
+      "image_model": "gptimage",
+      "seed": 1399314251,
+      "created_at": "2026-04-12T14:22:24.613382+08:00"
+    },
+    {
       "id": "20260412_140931",
       "filename": "images/artwork_20260412_140931.jpg",
       "topic": "health and medicine breakthroughs",
