@@ -1,0 +1,1698 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- Primary SEO -->
+  <title>Auto Art Gallery — AI-Generated Artwork by Hugo Wong</title>
+  <meta name="description" content="A living gallery of unique AI-generated artworks by Hugo Wong, automatically created every 30 minutes using Pollinations AI. Explore topics from technology and space to culture and beyond." />
+  <meta name="keywords" content="AI art, AI-generated artwork, Pollinations AI, artificial intelligence art gallery, generative art, automatic art, Hugo Wong, digital art, machine learning art, GPT image, Flux, Grok imagine" />
+  <meta name="author" content="Hugo Wong" />
+  <meta name="robots" content="index, follow" />
+  <link rel="canonical" href="https://kychugo.github.io/Auto-art-gallery/" />
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="Auto Art Gallery" />
+  <meta property="og:title" content="Auto Art Gallery — AI-Generated Artwork by Hugo Wong" />
+  <meta property="og:description" content="A living gallery of unique AI-generated artworks, automatically refreshed every 30 minutes using Pollinations AI. Explore space, technology, culture and more." />
+  <meta property="og:url" content="https://kychugo.github.io/Auto-art-gallery/" />
+  <meta property="og:image" content="https://kychugo.github.io/Auto-art-gallery/images/artwork_20260308_004818.jpg" />
+  <meta property="og:image:alt" content="AI-generated artwork from Auto Art Gallery" />
+  <meta property="og:locale" content="en_US" />
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Auto Art Gallery — AI-Generated Artwork by Hugo Wong" />
+  <meta name="twitter:description" content="A living gallery of unique AI-generated artworks, automatically refreshed every 30 minutes using Pollinations AI." />
+  <meta name="twitter:image" content="https://kychugo.github.io/Auto-art-gallery/images/artwork_20260308_004818.jpg" />
+  <meta name="twitter:image:alt" content="AI-generated artwork from Auto Art Gallery" />
+
+  <!-- JSON-LD Structured Data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://kychugo.github.io/Auto-art-gallery/#website",
+        "url": "https://kychugo.github.io/Auto-art-gallery/",
+        "name": "Auto Art Gallery",
+        "description": "A living gallery of AI-generated artworks created every 30 minutes using Pollinations AI.",
+        "author": { "@type": "Person", "name": "Hugo Wong", "url": "https://github.com/kychugo" },
+        "inLanguage": "en"
+      },
+      {
+        "@type": "ImageGallery",
+        "@id": "https://kychugo.github.io/Auto-art-gallery/#gallery",
+        "name": "Auto Art Gallery — AI-Generated Artwork",
+        "description": "A continuously growing collection of AI-generated artworks exploring diverse global topics, refreshed automatically every 30 minutes.",
+        "url": "https://kychugo.github.io/Auto-art-gallery/",
+        "creator": { "@type": "Person", "name": "Hugo Wong", "url": "https://github.com/kychugo" },
+        "copyrightHolder": { "@type": "Person", "name": "Hugo Wong" },
+        "copyrightYear": "2026",
+        "keywords": "AI art, generative art, Pollinations AI, artificial intelligence, digital artwork"
+      }
+    ]
+  }
+  </script>
+
+  <!-- Favicons & App Icons -->
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎨</text></svg>" />
+  <link rel="icon" type="image/x-icon" href="favicon.ico" />
+  <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png" />
+  <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png" />
+  <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png" />
+  <link rel="manifest" href="site.webmanifest" />
+  <meta name="theme-color" content="#e60023" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+  <meta name="apple-mobile-web-app-title" content="Art Gallery" />
+  <meta name="application-name" content="Auto Art Gallery" />
+  <meta name="msapplication-TileColor" content="#e60023" />
+  <meta name="msapplication-TileImage" content="android-chrome-192x192.png" />
+
+  <style>
+    /* =========================================================
+       Design tokens — Pinterest-inspired (see Design.md)
+    ========================================================= */
+    :root {
+      /* Base colors */
+      --base-color-brand-red:        #e60023;
+      --base-color-brand-red-hover:  #ad081b;
+      --base-color-green-700:        #103c25;
+      --base-color-text-primary:     #211922; /* plum black */
+      --base-color-text-secondary:   #62625b; /* olive gray */
+      --base-color-text-disabled:    #91918c; /* warm silver */
+      --base-color-white:            #ffffff;
+      --base-color-sand-gray:        #e5e5e0;
+      --base-color-warm-light:       #e0e0d9;
+      --base-color-fog:              #f6f6f3;
+      --base-color-dark-surface:     #33332e;
+      --base-color-border-disabled:  #c8c8c1;
+      --base-color-hover-gray:       #bcbcb3;
+      --base-color-focus-blue:       #435ee5;
+      --base-color-link-blue:        #2b48d4;
+      --base-color-error-red:        #9e0a0a;
+
+      /* Semantic tokens */
+      --sema-color-background:       var(--base-color-white);
+      --sema-color-surface:          var(--base-color-fog);
+      --sema-color-text-primary:     var(--base-color-text-primary);
+      --sema-color-text-secondary:   var(--base-color-text-secondary);
+      --sema-color-text-disabled:    var(--base-color-text-disabled);
+      --sema-color-border:           var(--base-color-text-disabled);
+      --sema-color-border-hover:     var(--base-color-hover-gray);
+      --sema-color-border-focus:     var(--base-color-focus-blue);
+      --sema-color-brand:            var(--base-color-brand-red);
+      --sema-color-brand-hover:      var(--base-color-brand-red-hover);
+
+      /* Component tokens */
+      --comp-button-radius:          16px;
+      --comp-card-radius:            20px;
+      --comp-input-radius:           16px;
+      --comp-badge-radius:           12px;
+      --comp-circle-radius:          50%;
+
+      /* Badge warm wash */
+      --comp-badge-bg-wash:          hsla(60, 20%, 98%, 0.5);
+
+      /* Typography */
+      --font: 'Pin Sans', -apple-system, system-ui, 'Segoe UI', Roboto, 'Oxygen-Sans',
+              'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', Ubuntu,
+              Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', Helvetica,
+              'ヒラギノ角ゴ Pro W3', 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', Arial, sans-serif;
+
+      /* Transitions */
+      --transition: 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      font-family: var(--font);
+      background: var(--sema-color-background);
+      color: var(--sema-color-text-primary);
+      min-height: 100vh;
+      overflow-x: hidden;
+    }
+
+    /* =========================================================
+       Scrollbar — warm toned
+    ========================================================= */
+    ::-webkit-scrollbar { width: 6px; height: 6px; }
+    ::-webkit-scrollbar-track { background: transparent; }
+    ::-webkit-scrollbar-thumb { background: var(--base-color-sand-gray); border-radius: 3px; }
+    ::-webkit-scrollbar-thumb:hover { background: var(--base-color-hover-gray); }
+
+    /* =========================================================
+       Header
+    ========================================================= */
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: var(--base-color-white);
+      border-bottom: 1px solid var(--base-color-sand-gray);
+      padding: 0 clamp(16px, 4vw, 48px);
+    }
+
+    .header-inner {
+      max-width: 1600px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      height: 64px;
+    }
+
+    /* Logo */
+    .logo {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      text-decoration: none;
+      flex-shrink: 0;
+    }
+
+    .logo-icon {
+      width: 32px;
+      height: 32px;
+      background: var(--sema-color-brand);
+      border-radius: var(--comp-circle-radius);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 17px;
+      line-height: 1;
+    }
+
+    .logo-text {
+      font-size: 1rem;
+      font-weight: 700;
+      letter-spacing: -0.5px;
+      color: var(--sema-color-text-primary);
+    }
+
+    /* Header search */
+    .header-search-wrap {
+      flex: 1;
+      max-width: 580px;
+      position: relative;
+    }
+
+    .header-search-icon {
+      position: absolute;
+      left: 14px;
+      top: 50%;
+      transform: translateY(-50%);
+      color: var(--sema-color-text-disabled);
+      font-size: 0.95rem;
+      pointer-events: none;
+    }
+
+    .header-search-input {
+      width: 100%;
+      background: var(--base-color-fog);
+      border: 1px solid transparent;
+      border-radius: var(--comp-input-radius);
+      color: var(--sema-color-text-primary);
+      font-size: 0.88rem;
+      font-family: var(--font);
+      padding: 11px 15px 11px 40px;
+      outline: none;
+      transition: border-color var(--transition), background var(--transition), box-shadow var(--transition);
+    }
+
+    .header-search-input::placeholder { color: var(--sema-color-text-disabled); }
+
+    .header-search-input:focus {
+      background: var(--base-color-white);
+      border-color: var(--sema-color-border-focus);
+      box-shadow: 0 0 0 3px rgba(67, 94, 229, 0.15);
+    }
+
+    /* Header right */
+    .header-right {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      flex-shrink: 0;
+      margin-left: auto;
+    }
+
+    .stat-chip {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      background: var(--comp-badge-bg-wash);
+      border: 1px solid var(--base-color-sand-gray);
+      border-radius: var(--comp-badge-radius);
+      padding: 5px 12px;
+      font-size: 0.75rem;
+      color: var(--sema-color-text-secondary);
+    }
+
+    .stat-dot {
+      width: 6px;
+      height: 6px;
+      border-radius: 50%;
+      background: var(--sema-color-brand);
+      animation: pulse 2s ease-in-out infinite;
+    }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; transform: scale(1); }
+      50%       { opacity: 0.5; transform: scale(0.8); }
+    }
+
+    /* Admin badge */
+    .admin-badge {
+      display: none;
+      align-items: center;
+      gap: 6px;
+      padding: 5px 14px;
+      background: rgba(230, 0, 35, 0.08);
+      border: 1px solid rgba(230, 0, 35, 0.3);
+      border-radius: var(--comp-button-radius);
+      font-size: 0.75rem;
+      font-weight: 600;
+      color: var(--sema-color-brand);
+      cursor: pointer;
+      transition: background var(--transition);
+      font-family: var(--font);
+    }
+    .admin-badge:hover { background: rgba(230, 0, 35, 0.15); }
+
+    /* =========================================================
+       Hero
+    ========================================================= */
+    .hero {
+      padding: clamp(40px, 7vw, 80px) clamp(16px, 4vw, 48px) clamp(32px, 5vw, 56px);
+      text-align: center;
+      border-bottom: 1px solid var(--base-color-sand-gray);
+      background: var(--base-color-white);
+    }
+
+    .hero-eyebrow {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      background: var(--comp-badge-bg-wash);
+      border: 1px solid var(--base-color-sand-gray);
+      border-radius: var(--comp-badge-radius);
+      padding: 5px 14px;
+      font-size: 0.75rem;
+      font-weight: 500;
+      color: var(--sema-color-text-secondary);
+      margin-bottom: 20px;
+    }
+
+    .hero h1 {
+      font-size: clamp(2.2rem, 5.5vw, 4.38rem); /* up to 70px */
+      font-weight: 600;
+      letter-spacing: normal;
+      line-height: 1.15;
+      color: var(--sema-color-text-primary);
+      margin-bottom: 16px;
+    }
+
+    .hero h1 em {
+      font-style: normal;
+      color: var(--sema-color-brand);
+    }
+
+    .hero p {
+      font-size: 1rem;
+      font-weight: 400;
+      line-height: 1.6;
+      color: var(--sema-color-text-secondary);
+      max-width: 520px;
+      margin: 0 auto 28px;
+    }
+
+    .hero-cta-group {
+      display: flex;
+      gap: 10px;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+
+    /* Primary red button */
+    .btn-primary {
+      display: inline-flex;
+      align-items: center;
+      gap: 7px;
+      background: var(--sema-color-brand);
+      color: #000000;
+      font-family: var(--font);
+      font-size: 0.85rem;
+      font-weight: 600;
+      padding: 10px 20px;
+      border-radius: var(--comp-button-radius);
+      border: 2px solid rgba(255,255,255,0);
+      cursor: pointer;
+      text-decoration: none;
+      transition: background var(--transition), transform var(--transition);
+    }
+    .btn-primary:hover { background: var(--sema-color-brand-hover); transform: translateY(-1px); }
+
+    /* Secondary sand button */
+    .btn-secondary {
+      display: inline-flex;
+      align-items: center;
+      gap: 7px;
+      background: var(--base-color-sand-gray);
+      color: #000000;
+      font-family: var(--font);
+      font-size: 0.85rem;
+      font-weight: 600;
+      padding: 10px 20px;
+      border-radius: var(--comp-button-radius);
+      border: 2px solid rgba(255,255,255,0);
+      cursor: pointer;
+      text-decoration: none;
+      transition: background var(--transition), transform var(--transition);
+    }
+    .btn-secondary:hover { background: var(--base-color-hover-gray); transform: translateY(-1px); }
+
+    /* =========================================================
+       Filter bar
+    ========================================================= */
+    .controls {
+      padding: 16px clamp(16px, 4vw, 48px);
+      border-bottom: 1px solid var(--base-color-sand-gray);
+      background: var(--base-color-white);
+      position: sticky;
+      top: 64px;
+      z-index: 90;
+    }
+
+    .controls-inner {
+      max-width: 1600px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+
+    .filter-btn {
+      background: transparent;
+      border: 1px solid var(--base-color-sand-gray);
+      border-radius: var(--comp-badge-radius);
+      color: var(--sema-color-text-secondary);
+      cursor: pointer;
+      font-size: 0.75rem;
+      font-weight: 500;
+      font-family: var(--font);
+      padding: 6px 14px;
+      transition: all var(--transition);
+      white-space: nowrap;
+    }
+
+    .filter-btn:hover {
+      border-color: var(--sema-color-text-primary);
+      color: var(--sema-color-text-primary);
+    }
+
+    .filter-btn.active {
+      background: var(--sema-color-text-primary);
+      border-color: var(--sema-color-text-primary);
+      color: var(--base-color-white);
+    }
+
+    .count-label {
+      margin-left: auto;
+      font-size: 0.75rem;
+      color: var(--sema-color-text-disabled);
+      white-space: nowrap;
+    }
+
+    /* =========================================================
+       Gallery — masonry pin grid
+    ========================================================= */
+    .gallery-section {
+      padding: 24px clamp(16px, 4vw, 48px) 80px;
+      background: var(--sema-color-background);
+    }
+
+    .gallery-grid {
+      max-width: 1600px;
+      margin: 0 auto;
+      columns: 1;
+      column-gap: 16px;
+    }
+
+    @media (min-width: 576px)  { .gallery-grid { columns: 2; } }
+    @media (min-width: 768px)  { .gallery-grid { columns: 3; } }
+    @media (min-width: 1200px) { .gallery-grid { columns: 4; } }
+    @media (min-width: 1440px) { .gallery-grid { columns: 5; } }
+
+    /* Pin card */
+    .card {
+      break-inside: avoid;
+      background: var(--base-color-white);
+      border-radius: var(--comp-card-radius);
+      overflow: hidden;
+      cursor: pointer;
+      transition: transform var(--transition), box-shadow var(--transition);
+      margin-bottom: 16px;
+      animation: fadeUp 0.35s ease both;
+    }
+
+    @keyframes fadeUp {
+      from { opacity: 0; transform: translateY(12px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+
+    .card:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 8px 24px rgba(33, 25, 34, 0.12);
+    }
+
+    .card-img-wrap {
+      position: relative;
+      overflow: hidden;
+      background: var(--base-color-fog);
+      border-radius: var(--comp-card-radius) var(--comp-card-radius) 0 0;
+      min-height: 180px;
+    }
+
+    .card-img-wrap img {
+      width: 100%;
+      display: block;
+      transition: transform 0.5s ease;
+    }
+
+    .card:hover .card-img-wrap img { transform: scale(1.04); }
+
+    /* Hover overlay — warm-tinted dark */
+    .card-overlay {
+      position: absolute;
+      inset: 0;
+      background: rgba(33, 25, 34, 0.42);
+      opacity: 0;
+      transition: opacity var(--transition);
+      display: flex;
+      align-items: flex-end;
+      padding: 16px;
+      border-radius: var(--comp-card-radius) var(--comp-card-radius) 0 0;
+    }
+
+    .card:hover .card-overlay { opacity: 1; }
+
+    .overlay-view {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      background: var(--base-color-white);
+      color: var(--sema-color-text-primary);
+      font-size: 0.78rem;
+      font-weight: 600;
+      padding: 6px 14px;
+      border-radius: var(--comp-button-radius);
+    }
+
+    /* Skeleton shimmer */
+    .card-skeleton {
+      width: 100%;
+      aspect-ratio: 1;
+      background: linear-gradient(90deg, var(--base-color-fog) 25%, var(--base-color-sand-gray) 50%, var(--base-color-fog) 75%);
+      background-size: 200% 100%;
+      animation: shimmer 1.5s infinite;
+    }
+
+    @keyframes shimmer {
+      0%   { background-position: 200% 0; }
+      100% { background-position: -200% 0; }
+    }
+
+    /* Card info */
+    .card-info {
+      padding: 12px 14px 14px;
+    }
+
+    .card-topic {
+      font-size: 0.88rem;
+      font-weight: 700;
+      color: var(--sema-color-text-primary);
+      margin-bottom: 4px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .card-prompt {
+      font-size: 0.78rem;
+      font-weight: 400;
+      color: var(--sema-color-text-secondary);
+      line-height: 1.5;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      margin-bottom: 10px;
+    }
+
+    .card-meta {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 8px;
+    }
+
+    /* Model chip — warm badge style */
+    .model-chip {
+      font-size: 0.68rem;
+      font-weight: 500;
+      padding: 3px 10px;
+      border-radius: var(--comp-badge-radius);
+      background: var(--base-color-sand-gray);
+      color: var(--sema-color-text-secondary);
+      white-space: nowrap;
+    }
+
+    .card-date {
+      font-size: 0.68rem;
+      color: var(--sema-color-text-disabled);
+      white-space: nowrap;
+    }
+
+    /* Admin action buttons on cards */
+    .card-delete-btn,
+    .card-edit-btn {
+      display: none;
+      position: absolute;
+      top: 10px;
+      width: 32px;
+      height: 32px;
+      border: none;
+      border-radius: var(--comp-circle-radius);
+      color: white;
+      cursor: pointer;
+      align-items: center;
+      justify-content: center;
+      font-size: 0.9rem;
+      z-index: 5;
+      transition: transform var(--transition), opacity var(--transition);
+    }
+
+    .card-delete-btn {
+      right: 10px;
+      background: rgba(158, 10, 10, 0.9);
+    }
+    .card-edit-btn {
+      left: 10px;
+      background: rgba(43, 72, 212, 0.9);
+    }
+
+    .admin-mode .card-delete-btn,
+    .admin-mode .card-edit-btn { display: flex; }
+
+    .card-delete-btn:hover,
+    .card-edit-btn:hover { opacity: 1; transform: scale(1.1); }
+
+    /* =========================================================
+       Empty State
+    ========================================================= */
+    .empty-state {
+      text-align: center;
+      padding: 80px 20px;
+      color: var(--sema-color-text-disabled);
+      display: none;
+    }
+
+    .empty-state .icon { font-size: 4rem; margin-bottom: 16px; }
+
+    .empty-state h2 {
+      font-size: 1.4rem;
+      font-weight: 700;
+      color: var(--sema-color-text-primary);
+      margin-bottom: 8px;
+    }
+
+    .empty-state p {
+      font-size: 0.9rem;
+      color: var(--sema-color-text-secondary);
+      max-width: 400px;
+      margin: 0 auto;
+    }
+
+    /* =========================================================
+       Loading spinner
+    ========================================================= */
+    #loading {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 12px;
+      padding: 60px 20px;
+      color: var(--sema-color-text-secondary);
+      font-size: 0.9rem;
+    }
+
+    .spinner {
+      width: 24px;
+      height: 24px;
+      border: 2px solid var(--base-color-sand-gray);
+      border-top-color: var(--sema-color-brand);
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+    }
+
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    /* =========================================================
+       Lightbox
+    ========================================================= */
+    #lightbox {
+      position: fixed;
+      inset: 0;
+      z-index: 1000;
+      background: rgba(33, 25, 34, 0.85);
+      backdrop-filter: blur(10px);
+      -webkit-backdrop-filter: blur(10px);
+      display: none;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+    }
+
+    #lightbox.open {
+      display: flex;
+      animation: lbFadeIn 0.2s ease;
+    }
+
+    @keyframes lbFadeIn { from { opacity: 0; } to { opacity: 1; } }
+
+    .lb-content {
+      position: relative;
+      max-width: 1160px;
+      width: 100%;
+      max-height: 90vh;
+      display: flex;
+      gap: 0;
+      border-radius: 28px;
+      overflow: hidden;
+      box-shadow: 0 32px 80px rgba(33, 25, 34, 0.5);
+      animation: lbSlideUp 0.25s cubic-bezier(0.34, 1.4, 0.64, 1);
+    }
+
+    @keyframes lbSlideUp {
+      from { transform: scale(0.92) translateY(16px); opacity: 0; }
+      to   { transform: scale(1) translateY(0); opacity: 1; }
+    }
+
+    .lb-img-wrap {
+      flex: 1;
+      background: var(--base-color-text-primary);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 300px;
+      max-height: 90vh;
+      overflow: hidden;
+    }
+
+    .lb-img-wrap img {
+      max-width: 100%;
+      max-height: 90vh;
+      object-fit: contain;
+      display: block;
+    }
+
+    .lb-panel {
+      width: 320px;
+      flex-shrink: 0;
+      background: var(--base-color-white);
+      padding: 28px 24px;
+      overflow-y: auto;
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+    }
+
+    @media (max-width: 768px) {
+      .lb-content { flex-direction: column; max-height: 95vh; border-radius: 20px; }
+      .lb-panel { width: 100%; max-height: 45vh; }
+    }
+
+    .lb-close {
+      position: absolute;
+      top: 14px;
+      right: 14px;
+      width: 36px;
+      height: 36px;
+      background: var(--base-color-white);
+      border: none;
+      border-radius: var(--comp-circle-radius);
+      color: var(--sema-color-text-primary);
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1rem;
+      font-weight: 700;
+      transition: background var(--transition), transform var(--transition);
+      z-index: 10;
+    }
+
+    .lb-close:hover { background: var(--base-color-sand-gray); transform: scale(1.08); }
+
+    /* Circular nav buttons */
+    .lb-nav {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      width: 44px;
+      height: 44px;
+      background: var(--base-color-white);
+      border: none;
+      border-radius: var(--comp-circle-radius);
+      color: var(--sema-color-text-primary);
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.3rem;
+      font-weight: 700;
+      transition: background var(--transition), transform var(--transition);
+      z-index: 10;
+    }
+
+    .lb-nav:hover { background: var(--base-color-sand-gray); transform: translateY(-50%) scale(1.08); }
+    .lb-prev { left: 14px; }
+    .lb-next { right: 14px; }
+
+    @media (max-width: 768px) {
+      .lb-prev { left: 8px; }
+      .lb-next { right: 8px; }
+    }
+
+    .lb-section-title {
+      font-size: 0.68rem;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--sema-color-text-disabled);
+      margin-bottom: 4px;
+    }
+
+    .lb-topic {
+      font-size: 1rem;
+      font-weight: 700;
+      color: var(--sema-color-text-primary);
+      line-height: 1.35;
+    }
+
+    .lb-prompt {
+      font-size: 0.88rem;
+      font-weight: 400;
+      color: var(--sema-color-text-secondary);
+      line-height: 1.65;
+    }
+
+    .lb-models {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+
+    .lb-model-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 8px;
+    }
+
+    .lb-model-label {
+      font-size: 0.75rem;
+      color: var(--sema-color-text-secondary);
+    }
+
+    .lb-model-value {
+      font-size: 0.75rem;
+      font-weight: 600;
+      color: var(--sema-color-text-primary);
+      background: var(--base-color-sand-gray);
+      border-radius: var(--comp-badge-radius);
+      padding: 3px 10px;
+    }
+
+    .lb-date {
+      font-size: 0.8rem;
+      color: var(--sema-color-text-disabled);
+    }
+
+    /* Download — primary red */
+    .lb-download {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      padding: 10px 20px;
+      background: var(--sema-color-brand);
+      border: none;
+      border-radius: var(--comp-button-radius);
+      color: #000000;
+      font-size: 0.85rem;
+      font-weight: 600;
+      font-family: var(--font);
+      cursor: pointer;
+      text-decoration: none;
+      transition: background var(--transition), transform var(--transition);
+      margin-top: auto;
+    }
+
+    .lb-download:hover { background: var(--sema-color-brand-hover); transform: translateY(-1px); }
+
+    /* =========================================================
+       Footer — dark warm surface
+    ========================================================= */
+    footer {
+      background: var(--base-color-dark-surface);
+      color: var(--sema-color-text-disabled);
+      padding: 40px clamp(16px, 4vw, 48px) 32px;
+      font-size: 0.75rem;
+      line-height: 1.6;
+    }
+
+    .footer-inner {
+      max-width: 1600px;
+      margin: 0 auto;
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+    }
+
+    .footer-brand {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 4px;
+    }
+
+    .footer-brand-icon {
+      width: 28px;
+      height: 28px;
+      background: var(--sema-color-brand);
+      border-radius: var(--comp-circle-radius);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 14px;
+    }
+
+    .footer-brand-name {
+      font-size: 0.88rem;
+      font-weight: 700;
+      color: var(--base-color-white);
+    }
+
+    footer a {
+      color: var(--sema-color-text-disabled);
+      text-decoration: none;
+      transition: color var(--transition);
+    }
+
+    footer a:hover { color: var(--base-color-white); }
+
+    .footer-divider {
+      border: none;
+      border-top: 1px solid rgba(255,255,255,0.08);
+    }
+
+    /* =========================================================
+       Admin modals
+    ========================================================= */
+    .admin-modal-overlay {
+      position: fixed;
+      inset: 0;
+      background: rgba(33, 25, 34, 0.75);
+      backdrop-filter: blur(6px);
+      z-index: 3000;
+      display: none;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .admin-modal-overlay.open { display: flex; }
+
+    .admin-modal {
+      background: var(--base-color-white);
+      border-radius: 28px;
+      padding: 32px;
+      width: min(440px, 90vw);
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+      box-shadow: 0 24px 60px rgba(33, 25, 34, 0.2);
+    }
+
+    .admin-modal h2 {
+      font-size: 1.2rem;
+      font-weight: 700;
+      color: var(--sema-color-text-primary);
+    }
+
+    .admin-field { display: flex; flex-direction: column; gap: 6px; }
+
+    .admin-field label {
+      font-size: 0.78rem;
+      font-weight: 700;
+      color: var(--sema-color-text-secondary);
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+    }
+
+    .admin-field input,
+    .admin-field textarea {
+      padding: 11px 15px;
+      background: var(--base-color-fog);
+      border: 1px solid var(--base-color-sand-gray);
+      border-radius: var(--comp-input-radius);
+      color: var(--sema-color-text-primary);
+      font-size: 0.9rem;
+      font-family: var(--font);
+      outline: none;
+      transition: border-color var(--transition), box-shadow var(--transition);
+    }
+
+    .admin-field input:focus,
+    .admin-field textarea:focus {
+      border-color: var(--sema-color-border-focus);
+      box-shadow: 0 0 0 3px rgba(67, 94, 229, 0.15);
+      background: var(--base-color-white);
+    }
+
+    .admin-field textarea { resize: vertical; min-height: 140px; }
+
+    .admin-field small {
+      font-size: 0.74rem;
+      color: var(--sema-color-text-disabled);
+      line-height: 1.5;
+    }
+
+    .admin-error {
+      font-size: 0.82rem;
+      color: var(--base-color-error-red);
+      min-height: 1.2em;
+    }
+
+    .admin-btns { display: flex; gap: 10px; justify-content: flex-end; }
+
+    .admin-btn {
+      padding: 10px 20px;
+      border-radius: var(--comp-button-radius);
+      font-size: 0.85rem;
+      font-weight: 600;
+      font-family: var(--font);
+      cursor: pointer;
+      border: none;
+      transition: all var(--transition);
+    }
+
+    .admin-btn-cancel {
+      background: var(--base-color-sand-gray);
+      color: var(--sema-color-text-primary);
+    }
+    .admin-btn-cancel:hover { background: var(--base-color-hover-gray); }
+
+    .admin-btn-login {
+      background: var(--sema-color-brand);
+      color: #000000;
+    }
+    .admin-btn-login:hover { background: var(--sema-color-brand-hover); }
+  </style>
+</head>
+<body>
+
+<!-- ============================================================
+     Header
+============================================================ -->
+<header>
+  <div class="header-inner">
+    <a class="logo" href="#">
+      <span class="logo-icon">🎨</span>
+      <span class="logo-text">Auto Art Gallery</span>
+    </a>
+
+    <div class="header-search-wrap">
+      <span class="header-search-icon">🔍</span>
+      <input
+        class="header-search-input"
+        type="search"
+        id="search-input"
+        placeholder="Search topics or prompts…"
+        aria-label="Search artworks"
+      />
+    </div>
+
+    <div class="header-right">
+      <div class="stat-chip">
+        <span class="stat-dot"></span>
+        <span id="stat-count">Loading…</span>
+      </div>
+      <button class="admin-badge" id="admin-badge" onclick="exitAdminMode()" title="Click to exit admin mode">
+        🔐 Admin Mode
+      </button>
+    </div>
+  </div>
+</header>
+
+<!-- ============================================================
+     Hero
+============================================================ -->
+<section class="hero">
+  <div class="hero-eyebrow">🤖 AI-Generated · 🌍 Global Topics · 🎲 Always Unique</div>
+  <h1>Discover<br /><em>AI-Powered Art</em></h1>
+  <p>
+    A living gallery of unique artworks, automatically generated every&nbsp;30&nbsp;minutes
+    using&nbsp;Pollinations&nbsp;AI — spanning technology, culture, space, and&nbsp;beyond.
+  </p>
+  <div class="hero-cta-group">
+    <a class="btn-primary" href="#gallery">🖼️ Explore Gallery</a>
+    <a class="btn-secondary" href="https://github.com/kychugo/Auto-art-gallery" target="_blank" rel="noopener">
+      View on GitHub
+    </a>
+  </div>
+</section>
+
+<!-- ============================================================
+     Filter bar
+============================================================ -->
+<div class="controls" id="controls">
+  <div class="controls-inner">
+    <div class="filter-group-wrap" id="filter-group" role="group" aria-label="Filter by model">
+      <button class="filter-btn active" data-filter="all">All</button>
+    </div>
+    <span class="count-label" id="count-label"></span>
+  </div>
+</div>
+
+<!-- ============================================================
+     Gallery — masonry pin grid
+============================================================ -->
+<section class="gallery-section" id="gallery">
+  <div id="loading">
+    <div class="spinner"></div>
+    <span>Loading gallery…</span>
+  </div>
+  <div id="gallery-grid" class="gallery-grid" role="list" aria-label="Artwork gallery" style="display:none"></div>
+  <div class="empty-state" id="empty-state" role="status">
+    <div class="icon">🖼️</div>
+    <h2>No artworks found</h2>
+    <p>Try a different search term or check back after the next generation cycle.</p>
+  </div>
+</section>
+
+<!-- ============================================================
+     Lightbox
+============================================================ -->
+<div id="lightbox" role="dialog" aria-modal="true" aria-label="Artwork viewer">
+  <div class="lb-content" id="lb-content">
+    <div class="lb-img-wrap">
+      <img id="lb-img" src="" alt="Full size artwork" loading="lazy" decoding="async" />
+    </div>
+    <div class="lb-panel">
+      <div>
+        <div class="lb-section-title">Topic</div>
+        <div class="lb-topic" id="lb-topic"></div>
+      </div>
+      <div>
+        <div class="lb-section-title">Image Prompt</div>
+        <div class="lb-prompt" id="lb-prompt"></div>
+      </div>
+      <div>
+        <div class="lb-section-title">AI Models Used</div>
+        <div class="lb-models">
+          <div class="lb-model-row">
+            <span class="lb-model-label">Text model</span>
+            <span class="lb-model-value" id="lb-text-model"></span>
+          </div>
+          <div class="lb-model-row">
+            <span class="lb-model-label">Image model</span>
+            <span class="lb-model-value" id="lb-image-model"></span>
+          </div>
+          <div class="lb-model-row">
+            <span class="lb-model-label">Seed</span>
+            <span class="lb-model-value" id="lb-seed"></span>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div class="lb-section-title">Created</div>
+        <div class="lb-date" id="lb-date"></div>
+      </div>
+      <a id="lb-download" href="#" download class="lb-download" target="_blank" rel="noopener">
+        ⬇️ Download Artwork
+      </a>
+    </div>
+  </div>
+  <button class="lb-close" id="lb-close" aria-label="Close lightbox">✕</button>
+  <button class="lb-nav lb-prev" id="lb-prev" aria-label="Previous artwork">‹</button>
+  <button class="lb-nav lb-next" id="lb-next" aria-label="Next artwork">›</button>
+</div>
+
+<!-- ============================================================
+     Admin Login Modal
+============================================================ -->
+<div class="admin-modal-overlay" id="admin-modal" role="dialog" aria-modal="true" aria-label="Admin login">
+  <div class="admin-modal">
+    <h2>🔐 Admin Panel</h2>
+    <div class="admin-field">
+      <label for="admin-password">Password</label>
+      <input type="password" id="admin-password" placeholder="Enter password" autocomplete="current-password" />
+    </div>
+    <div class="admin-field">
+      <label for="admin-token">GitHub Personal Access Token</label>
+      <input type="password" id="admin-token" placeholder="ghp_xxxxxxxxxxxx" autocomplete="off" />
+      <small>Required to delete files from the repository. Token needs <strong>Contents: Read &amp; write</strong> permission.</small>
+    </div>
+    <div class="admin-error" id="admin-error" role="alert"></div>
+    <div class="admin-btns">
+      <button class="admin-btn admin-btn-cancel" id="admin-cancel">Cancel</button>
+      <button class="admin-btn admin-btn-login" id="admin-login">Login</button>
+    </div>
+  </div>
+</div>
+
+<!-- ============================================================
+     Admin Edit Modal
+============================================================ -->
+<div class="admin-modal-overlay" id="edit-modal" role="dialog" aria-modal="true" aria-label="Edit artwork">
+  <div class="admin-modal" style="width:min(560px,92vw)">
+    <h2>✏️ Edit Artwork</h2>
+    <div class="admin-field">
+      <label for="edit-topic">Topic</label>
+      <input type="text" id="edit-topic" placeholder="Artwork topic / title" autocomplete="off" />
+    </div>
+    <div class="admin-field">
+      <label for="edit-description">Description (Prompt)</label>
+      <textarea id="edit-description" placeholder="Image generation prompt / description"></textarea>
+    </div>
+    <div class="admin-error" id="edit-error" role="alert"></div>
+    <div class="admin-btns">
+      <button class="admin-btn admin-btn-cancel" id="edit-cancel">Cancel</button>
+      <button class="admin-btn admin-btn-login" id="edit-save">Save Changes</button>
+    </div>
+  </div>
+</div>
+
+<!-- ============================================================
+     Footer — dark warm surface
+============================================================ -->
+<footer>
+  <div class="footer-inner">
+    <div>
+      <div class="footer-brand">
+        <span class="footer-brand-icon">🎨</span>
+        <span class="footer-brand-name">Auto Art Gallery</span>
+      </div>
+      <p>
+        Powered by <a href="https://pollinations.ai" target="_blank" rel="noopener">Pollinations AI</a>
+        · New artwork generated every 30 minutes
+        · <a href="https://github.com/kychugo/Auto-art-gallery" target="_blank" rel="noopener">View on GitHub</a>
+      </p>
+    </div>
+    <hr class="footer-divider" />
+    <p>
+      Copyright &copy; 2026 Hugo Wong. All rights reserved.<br />
+      All AI-generated images on this gallery are the intellectual property of Hugo Wong.<br />
+      The images were created using AI tools and the copyright belongs to Hugo Wong as the creator and curator of this gallery.
+    </p>
+    <p>
+      <a href="#" id="admin-link" style="color:rgba(255,255,255,0.15);font-size:0.65rem" aria-label="Admin panel">admin</a>
+    </p>
+  </div>
+</footer>
+
+<script>
+/* =============================================================
+   Image helpers (used by dynamically rendered cards)
+============================================================= */
+function handleImageLoad(idx) {
+  const img = document.querySelector('.card[data-index="' + idx + '"] .card-img-wrap img');
+  const skel = document.getElementById('skel-' + idx);
+  if (img) img.style.display = 'block';
+  if (skel) skel.style.display = 'none';
+}
+
+function handleImageError(imgEl) {
+  const wrap = imgEl.closest('.card-img-wrap');
+  if (wrap) wrap.innerHTML = '<div style="padding:40px;text-align:center;color:#91918c;font-size:.85rem">⚠️ Image unavailable</div>';
+}
+
+/* =============================================================
+   State
+============================================================= */
+let allArtworks = [];
+let filteredArtworks = [];
+let currentIndex = 0;
+let activeFilter = 'all';
+let searchQuery = '';
+let cardImgObserver = null;
+
+/* =============================================================
+   Admin State
+============================================================= */
+let adminMode = false;
+let githubToken = '';
+const ADMIN_PASSWORD = 'Hugo0528';
+const REPO_OWNER = 'kychugo';
+const REPO_NAME = 'Auto-art-gallery';
+const REPO_BRANCH = 'main';
+
+/* =============================================================
+   Helpers
+============================================================= */
+function formatDate(isoString) {
+  try {
+    const d = new Date(isoString);
+    return d.toLocaleString(undefined, {
+      year: 'numeric', month: 'short', day: 'numeric',
+      hour: '2-digit', minute: '2-digit'
+    });
+  } catch { return isoString || ''; }
+}
+
+function truncate(str, n) {
+  if (!str) return '';
+  return str.length > n ? str.slice(0, n) + '…' : str;
+}
+
+function escHtml(s) {
+  return String(s)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;');
+}
+
+/* =============================================================
+   Load Gallery Data
+============================================================= */
+async function loadGallery() {
+  try {
+    const resp = await fetch('gallery.json?_=' + Date.now());
+    if (!resp.ok) throw new Error('HTTP ' + resp.status);
+    const data = await resp.json();
+    allArtworks = Array.isArray(data.artworks) ? data.artworks : [];
+  } catch (err) {
+    console.error('Failed to load gallery.json:', err);
+    allArtworks = [];
+  }
+
+  document.getElementById('loading').style.display = 'none';
+  document.getElementById('gallery-grid').style.display = '';
+
+  buildFilters();
+  applyFilters();
+}
+
+/* =============================================================
+   Build Dynamic Filters from Models
+============================================================= */
+function buildFilters() {
+  const models = [...new Set(allArtworks.map(a => a.image_model).filter(Boolean))];
+  const group = document.getElementById('filter-group');
+  group.innerHTML = '<button class="filter-btn active" data-filter="all">All</button>';
+  models.forEach(m => {
+    const btn = document.createElement('button');
+    btn.className = 'filter-btn';
+    btn.dataset.filter = m;
+    btn.textContent = m;
+    group.appendChild(btn);
+  });
+
+  group.addEventListener('click', e => {
+    const btn = e.target.closest('.filter-btn');
+    if (!btn) return;
+    group.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    activeFilter = btn.dataset.filter;
+    applyFilters();
+  });
+}
+
+/* =============================================================
+   Filter & Render
+============================================================= */
+function applyFilters() {
+  const q = searchQuery.toLowerCase().trim();
+  filteredArtworks = allArtworks.filter(a => {
+    const matchFilter = activeFilter === 'all' || a.image_model === activeFilter;
+    const matchSearch = !q ||
+      (a.topic || '').toLowerCase().includes(q) ||
+      (a.prompt || '').toLowerCase().includes(q) ||
+      (a.image_model || '').toLowerCase().includes(q) ||
+      (a.text_model || '').toLowerCase().includes(q);
+    return matchFilter && matchSearch;
+  });
+  renderGallery();
+}
+
+function renderGallery() {
+  const grid = document.getElementById('gallery-grid');
+  const empty = document.getElementById('empty-state');
+  const countLabel = document.getElementById('count-label');
+  const statCount = document.getElementById('stat-count');
+
+  const total = allArtworks.length;
+  const shown = filteredArtworks.length;
+
+  statCount.textContent = total + ' artwork' + (total !== 1 ? 's' : '');
+  countLabel.textContent = shown === total
+    ? total + ' artworks'
+    : shown + ' of ' + total + ' artworks';
+
+  if (shown === 0) {
+    grid.innerHTML = '';
+    empty.style.display = 'block';
+    return;
+  }
+  empty.style.display = 'none';
+
+  grid.innerHTML = filteredArtworks.map((art, idx) => `
+    <article class="card" data-index="${idx}" data-id="${escHtml(art.id)}" role="listitem" tabindex="0"
+             aria-label="Artwork: ${escHtml(art.topic)}">
+      <div class="card-img-wrap">
+        <div class="card-skeleton" id="skel-${idx}"></div>
+        <img
+          data-src="${escHtml(art.filename)}"
+          alt="${escHtml(art.topic)}"
+          decoding="async"
+          style="display:none"
+          onload="handleImageLoad(${idx})"
+          onerror="handleImageError(this)"
+        />
+        <div class="card-overlay">
+          <span class="overlay-view">👁 View Full Size</span>
+        </div>
+        <button class="card-edit-btn" data-id="${escHtml(art.id)}" aria-label="Edit artwork" title="Edit artwork">✏️</button>
+        <button class="card-delete-btn" data-id="${escHtml(art.id)}" aria-label="Delete artwork" title="Delete artwork">🗑</button>
+      </div>
+      <div class="card-info">
+        <div class="card-topic">${escHtml(art.topic || 'Untitled')}</div>
+        <div class="card-prompt">${escHtml(truncate(art.prompt, 120))}</div>
+        <div class="card-meta">
+          <span class="model-chip">${escHtml(art.image_model || 'unknown')}</span>
+          <span class="card-date">${formatDate(art.created_at)}</span>
+        </div>
+      </div>
+    </article>
+  `).join('');
+
+  grid.querySelectorAll('.card').forEach(card => {
+    const open = () => openLightbox(parseInt(card.dataset.index, 10));
+    card.addEventListener('click', open);
+    card.addEventListener('keydown', e => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); open(); } });
+  });
+
+  grid.querySelectorAll('.card-delete-btn').forEach(btn => {
+    btn.addEventListener('click', e => { e.stopPropagation(); deleteArtwork(btn.dataset.id); });
+  });
+
+  grid.querySelectorAll('.card-edit-btn').forEach(btn => {
+    btn.addEventListener('click', e => { e.stopPropagation(); editArtwork(btn.dataset.id); });
+  });
+
+  if (cardImgObserver) cardImgObserver.disconnect();
+  cardImgObserver = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (!entry.isIntersecting) return;
+      const wrap = entry.target;
+      const img = wrap.querySelector('img[data-src]');
+      if (img) { img.src = img.dataset.src; img.removeAttribute('data-src'); }
+      cardImgObserver.unobserve(wrap);
+    });
+  }, { rootMargin: '800px 0px' });
+
+  grid.querySelectorAll('.card-img-wrap').forEach(wrap => cardImgObserver.observe(wrap));
+}
+
+/* =============================================================
+   Lightbox
+============================================================= */
+function openLightbox(idx) {
+  currentIndex = idx;
+  populateLightbox(filteredArtworks[idx]);
+  document.getElementById('lightbox').classList.add('open');
+  document.body.style.overflow = 'hidden';
+  document.getElementById('lb-close').focus();
+}
+
+function closeLightbox() {
+  document.getElementById('lightbox').classList.remove('open');
+  document.body.style.overflow = '';
+}
+
+function populateLightbox(art) {
+  if (!art) return;
+  const img = document.getElementById('lb-img');
+  img.src = art.filename;
+  img.alt = art.topic || 'Artwork';
+  document.getElementById('lb-topic').textContent = art.topic || 'Untitled';
+  document.getElementById('lb-prompt').textContent = art.prompt || '—';
+  document.getElementById('lb-text-model').textContent = art.text_model || '—';
+  document.getElementById('lb-image-model').textContent = art.image_model || '—';
+  document.getElementById('lb-seed').textContent = art.seed != null ? art.seed : '—';
+  document.getElementById('lb-date').textContent = formatDate(art.created_at);
+  const dl = document.getElementById('lb-download');
+  dl.href = art.filename;
+  dl.download = 'artwork_' + (art.id || 'image') + '.jpg';
+  document.getElementById('lb-prev').style.display = currentIndex > 0 ? '' : 'none';
+  document.getElementById('lb-next').style.display = currentIndex < filteredArtworks.length - 1 ? '' : 'none';
+}
+
+function navigate(dir) {
+  const next = currentIndex + dir;
+  if (next < 0 || next >= filteredArtworks.length) return;
+  currentIndex = next;
+  populateLightbox(filteredArtworks[currentIndex]);
+}
+
+document.getElementById('lb-close').addEventListener('click', closeLightbox);
+document.getElementById('lb-prev').addEventListener('click', () => navigate(-1));
+document.getElementById('lb-next').addEventListener('click', () => navigate(1));
+document.getElementById('lightbox').addEventListener('click', e => {
+  if (e.target === document.getElementById('lightbox')) closeLightbox();
+});
+document.addEventListener('keydown', e => {
+  if (!document.getElementById('lightbox').classList.contains('open')) return;
+  switch (e.key) {
+    case 'Escape':     closeLightbox(); break;
+    case 'ArrowLeft':  navigate(-1); break;
+    case 'ArrowRight': navigate(1); break;
+  }
+});
+
+/* =============================================================
+   Search
+============================================================= */
+const searchInput = document.getElementById('search-input');
+let searchTimer;
+searchInput.addEventListener('input', () => {
+  clearTimeout(searchTimer);
+  searchTimer = setTimeout(() => {
+    searchQuery = searchInput.value;
+    applyFilters();
+  }, 250);
+});
+
+/* =============================================================
+   Boot
+============================================================= */
+loadGallery();
+
+/* =============================================================
+   Admin Panel
+============================================================= */
+function showAdminLogin() {
+  if (adminMode) { exitAdminMode(); return; }
+  document.getElementById('admin-error').textContent = '';
+  document.getElementById('admin-password').value = '';
+  document.getElementById('admin-token').value = '';
+  document.getElementById('admin-modal').classList.add('open');
+  document.getElementById('admin-password').focus();
+}
+
+function exitAdminMode() {
+  adminMode = false;
+  githubToken = '';
+  document.body.classList.remove('admin-mode');
+  document.getElementById('admin-badge').style.display = 'none';
+  renderGallery();
+}
+
+function loginAdmin() {
+  const pwd = document.getElementById('admin-password').value;
+  const token = document.getElementById('admin-token').value.trim();
+  const errorEl = document.getElementById('admin-error');
+
+  if (pwd !== ADMIN_PASSWORD) {
+    errorEl.textContent = 'Incorrect password.';
+    document.getElementById('admin-password').focus();
+    return;
+  }
+  if (!token) {
+    errorEl.textContent = 'Please enter a GitHub Personal Access Token.';
+    document.getElementById('admin-token').focus();
+    return;
+  }
+
+  adminMode = true;
+  githubToken = token;
+  document.body.classList.add('admin-mode');
+  document.getElementById('admin-modal').classList.remove('open');
+  const badge = document.getElementById('admin-badge');
+  badge.style.display = 'flex';
+  renderGallery();
+}
+
+async function deleteArtwork(artworkId) {
+  const art = allArtworks.find(a => a.id === artworkId);
+  if (!art) return;
+
+  if (!confirm(`Delete artwork "${art.topic || artworkId}"?\n\nThis will permanently remove the image and its metadata from the repository.`)) return;
+
+  const headers = { Authorization: 'Bearer ' + githubToken, 'Content-Type': 'application/json' };
+  const apiBase = 'https://api.github.com/repos/' + REPO_OWNER + '/' + REPO_NAME + '/contents/';
+
+  try {
+    const imgResp = await fetch(apiBase + art.filename, { headers });
+    if (!imgResp.ok) throw new Error('Could not get image info (HTTP ' + imgResp.status + ')');
+    const imgData = await imgResp.json();
+
+    const delResp = await fetch(apiBase + art.filename, {
+      method: 'DELETE',
+      headers,
+      body: JSON.stringify({ message: 'Delete artwork ' + art.id, sha: imgData.sha, branch: REPO_BRANCH })
+    });
+    if (!delResp.ok) throw new Error('Failed to delete image (HTTP ' + delResp.status + ')');
+
+    const galleryResp = await fetch(apiBase + 'gallery.json', { headers });
+    if (!galleryResp.ok) throw new Error('Could not get gallery.json (HTTP ' + galleryResp.status + ')');
+    const galleryData = await galleryResp.json();
+
+    const rawJson = atob(galleryData.content.replace(/\n/g, ''));
+    const parsed = JSON.parse(rawJson);
+    parsed.artworks = (parsed.artworks || []).filter(a => a.id !== artworkId);
+    const jsonStr = JSON.stringify(parsed, null, 2);
+    const newContent = btoa(new TextEncoder().encode(jsonStr).reduce((acc, byte) => acc + String.fromCharCode(byte), ''));
+
+    const putResp = await fetch(apiBase + 'gallery.json', {
+      method: 'PUT',
+      headers,
+      body: JSON.stringify({ message: 'Remove artwork ' + art.id + ' from gallery', content: newContent, sha: galleryData.sha, branch: REPO_BRANCH })
+    });
+    if (!putResp.ok) throw new Error('Failed to update gallery.json (HTTP ' + putResp.status + ')');
+
+    allArtworks = allArtworks.filter(a => a.id !== artworkId);
+    applyFilters();
+    alert('Artwork deleted successfully!');
+  } catch (err) {
+    alert('Error deleting artwork: ' + err.message);
+  }
+}
+
+let editingArtworkId = null;
+
+function editArtwork(artworkId) {
+  const art = allArtworks.find(a => a.id === artworkId);
+  if (!art) return;
+  editingArtworkId = artworkId;
+  document.getElementById('edit-topic').value = art.topic || '';
+  document.getElementById('edit-description').value = art.prompt || '';
+  document.getElementById('edit-error').textContent = '';
+  document.getElementById('edit-modal').classList.add('open');
+  document.getElementById('edit-topic').focus();
+}
+
+async function saveArtworkEdit() {
+  const topic = document.getElementById('edit-topic').value.trim();
+  const description = document.getElementById('edit-description').value.trim();
+  const errorEl = document.getElementById('edit-error');
+
+  if (!topic) {
+    errorEl.textContent = 'Topic cannot be empty.';
+    document.getElementById('edit-topic').focus();
+    return;
+  }
+
+  const saveBtn = document.getElementById('edit-save');
+  saveBtn.disabled = true;
+  saveBtn.textContent = 'Saving…';
+  errorEl.textContent = '';
+
+  const headers = { Authorization: 'Bearer ' + githubToken, 'Content-Type': 'application/json' };
+  const apiBase = 'https://api.github.com/repos/' + REPO_OWNER + '/' + REPO_NAME + '/contents/';
+
+  try {
+    const galleryResp = await fetch(apiBase + 'gallery.json', { headers });
+    if (!galleryResp.ok) throw new Error('Could not get gallery.json (HTTP ' + galleryResp.status + ')');
+    const galleryData = await galleryResp.json();
+
+    const rawJson = atob(galleryData.content.replace(/\n/g, ''));
+    const parsed = JSON.parse(rawJson);
+    const artEntry = (parsed.artworks || []).find(a => a.id === editingArtworkId);
+    if (!artEntry) throw new Error('Artwork not found in gallery.json');
+    artEntry.topic = topic;
+    artEntry.prompt = description;
+
+    const jsonStr = JSON.stringify(parsed, null, 2);
+    const newContent = btoa(new TextEncoder().encode(jsonStr).reduce((acc, byte) => acc + String.fromCharCode(byte), ''));
+
+    const putResp = await fetch(apiBase + 'gallery.json', {
+      method: 'PUT',
+      headers,
+      body: JSON.stringify({ message: 'Update description for artwork ' + editingArtworkId, content: newContent, sha: galleryData.sha, branch: REPO_BRANCH })
+    });
+    if (!putResp.ok) throw new Error('Failed to update gallery.json (HTTP ' + putResp.status + ')');
+
+    const localArt = allArtworks.find(a => a.id === editingArtworkId);
+    if (localArt) { localArt.topic = topic; localArt.prompt = description; }
+    document.getElementById('edit-modal').classList.remove('open');
+    applyFilters();
+    alert('Artwork updated successfully!');
+  } catch (err) {
+    errorEl.textContent = 'Error: ' + err.message;
+  } finally {
+    saveBtn.disabled = false;
+    saveBtn.textContent = 'Save Changes';
+  }
+}
+
+// Admin modal wiring
+document.getElementById('admin-login').addEventListener('click', loginAdmin);
+document.getElementById('admin-cancel').addEventListener('click', () => {
+  document.getElementById('admin-modal').classList.remove('open');
+});
+document.getElementById('admin-password').addEventListener('keydown', e => { if (e.key === 'Enter') loginAdmin(); });
+document.getElementById('admin-token').addEventListener('keydown', e => { if (e.key === 'Enter') loginAdmin(); });
+const adminModalOverlay = document.getElementById('admin-modal');
+adminModalOverlay.addEventListener('click', e => {
+  if (e.target === adminModalOverlay) adminModalOverlay.classList.remove('open');
+});
+document.getElementById('admin-link').addEventListener('click', e => {
+  e.preventDefault();
+  showAdminLogin();
+});
+
+// Edit modal wiring
+document.getElementById('edit-save').addEventListener('click', saveArtworkEdit);
+document.getElementById('edit-cancel').addEventListener('click', () => {
+  document.getElementById('edit-modal').classList.remove('open');
+});
+document.getElementById('edit-topic').addEventListener('keydown', e => { if (e.key === 'Enter') saveArtworkEdit(); });
+const editModalOverlay = document.getElementById('edit-modal');
+editModalOverlay.addEventListener('click', e => {
+  if (e.target === editModalOverlay) editModalOverlay.classList.remove('open');
+});
+</script>
+</body>
+</html>
