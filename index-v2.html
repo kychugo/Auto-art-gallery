@@ -1,0 +1,1738 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- Primary SEO -->
+  <title>Auto Art Gallery — AI-Generated Artwork by Hugo Wong</title>
+  <meta name="description" content="A living gallery of unique AI-generated artworks by Hugo Wong, automatically created every 30 minutes using Pollinations AI. Explore topics from technology and space to culture and beyond." />
+  <meta name="keywords" content="AI art, AI-generated artwork, Pollinations AI, artificial intelligence art gallery, generative art, automatic art, Hugo Wong, digital art, machine learning art, GPT image, Flux, Grok imagine" />
+  <meta name="author" content="Hugo Wong" />
+  <meta name="robots" content="index, follow" />
+  <link rel="canonical" href="https://kychugo.github.io/Auto-art-gallery/" />
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="Auto Art Gallery" />
+  <meta property="og:title" content="Auto Art Gallery — AI-Generated Artwork by Hugo Wong" />
+  <meta property="og:description" content="A living gallery of unique AI-generated artworks, automatically refreshed every 30 minutes using Pollinations AI." />
+  <meta property="og:url" content="https://kychugo.github.io/Auto-art-gallery/" />
+  <meta property="og:image" content="https://kychugo.github.io/Auto-art-gallery/images/artwork_20260308_004818.jpg" />
+  <meta property="og:image:alt" content="AI-generated artwork from Auto Art Gallery" />
+  <meta property="og:locale" content="en_US" />
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Auto Art Gallery — AI-Generated Artwork by Hugo Wong" />
+  <meta name="twitter:description" content="A living gallery of unique AI-generated artworks, automatically refreshed every 30 minutes using Pollinations AI." />
+  <meta name="twitter:image" content="https://kychugo.github.io/Auto-art-gallery/images/artwork_20260308_004818.jpg" />
+  <meta name="twitter:image:alt" content="AI-generated artwork from Auto Art Gallery" />
+
+  <!-- JSON-LD Structured Data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://kychugo.github.io/Auto-art-gallery/#website",
+        "url": "https://kychugo.github.io/Auto-art-gallery/",
+        "name": "Auto Art Gallery",
+        "description": "A living gallery of AI-generated artworks created every 30 minutes using Pollinations AI.",
+        "author": { "@type": "Person", "name": "Hugo Wong", "url": "https://github.com/kychugo" },
+        "inLanguage": "en"
+      },
+      {
+        "@type": "ImageGallery",
+        "@id": "https://kychugo.github.io/Auto-art-gallery/#gallery",
+        "name": "Auto Art Gallery — AI-Generated Artwork",
+        "description": "A continuously growing collection of AI-generated artworks exploring diverse global topics, refreshed automatically every 30 minutes.",
+        "url": "https://kychugo.github.io/Auto-art-gallery/",
+        "creator": { "@type": "Person", "name": "Hugo Wong", "url": "https://github.com/kychugo" },
+        "copyrightHolder": { "@type": "Person", "name": "Hugo Wong" },
+        "copyrightYear": "2026",
+        "keywords": "AI art, generative art, Pollinations AI, artificial intelligence, digital artwork"
+      }
+    ]
+  }
+  </script>
+
+  <!-- Favicons -->
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎨</text></svg>" />
+  <link rel="icon" type="image/x-icon" href="favicon.ico" />
+  <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png" />
+  <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png" />
+  <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png" />
+  <link rel="manifest" href="site.webmanifest" />
+  <meta name="theme-color" content="#e60023" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+  <meta name="apple-mobile-web-app-title" content="Art Gallery" />
+  <meta name="application-name" content="Auto Art Gallery" />
+  <meta name="msapplication-TileColor" content="#e60023" />
+  <meta name="msapplication-TileImage" content="android-chrome-192x192.png" />
+
+  <style>
+    /* =========================================================
+       Design tokens — Pinterest-inspired (per Design.md)
+    ========================================================= */
+    :root {
+      /* Brand */
+      --red:           #e60023;
+      --red-hover:     #c0001d;
+
+      /* Text */
+      --text:          #211922;   /* plum black */
+      --text-secondary:#62625b;   /* olive gray */
+      --text-muted:    #91918c;   /* warm silver */
+      --text-on-red:   #ffffff;
+
+      /* Surfaces */
+      --bg:            #ffffff;
+      --surface-fog:   #f6f6f3;
+      --sand:          #e5e5e0;   /* secondary button, warm */
+      --warm-light:    #e0e0d9;   /* circular button bg */
+      --warm-wash:     hsla(60, 20%, 98%, 0.5);
+      --dark-surface:  #33332e;   /* footer */
+
+      /* Borders */
+      --border:        #91918c;
+      --border-disabled:#c8c8c1;
+      --border-hover:  #bcbcb3;
+
+      /* Interactive */
+      --focus-blue:    #435ee5;
+      --link-blue:     #2b48d4;
+
+      /* Radius scale (Design.md §5) */
+      --r-sm:    12px;   /* small cards, links */
+      --r-btn:   16px;   /* buttons, inputs */
+      --r-card:  20px;   /* feature cards */
+      --r-lg:    28px;   /* large containers */
+      --r-xl:    32px;   /* tab elements */
+      --r-hero:  40px;   /* hero containers */
+      --r-circle:50%;    /* action buttons */
+
+      /* Transition */
+      --t: 0.22s cubic-bezier(0.4, 0, 0.2, 1);
+
+      /* Font — Pin Sans stack (Design.md §3) */
+      --font: 'Pin Sans', -apple-system, system-ui, 'Segoe UI', Roboto,
+              'Oxygen-Sans', 'Helvetica Neue', Helvetica,
+              'ヒラギノ角ゴ Pro W3', 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック',
+              Arial, sans-serif;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+
+    body {
+      font-family: var(--font);
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      overflow-x: hidden;
+      font-size: 16px;
+      line-height: 1.4;
+    }
+
+    /* =========================================================
+       Header — Pinterest style: logo + search + actions
+    ========================================================= */
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: var(--bg);
+      border-bottom: 1px solid var(--sand);
+      padding: 0 clamp(12px, 3vw, 32px);
+    }
+
+    .header-inner {
+      max-width: 1600px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      height: 64px;
+    }
+
+    /* Logo */
+    .logo {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      text-decoration: none;
+      flex-shrink: 0;
+    }
+
+    .logo-icon {
+      font-size: 26px;
+      line-height: 1;
+    }
+
+    .logo-text {
+      font-size: 1rem;
+      font-weight: 700;
+      color: var(--red);
+      letter-spacing: -0.3px;
+      white-space: nowrap;
+    }
+
+    /* Header search (prominent — Pinterest nav style) */
+    .header-search-wrap {
+      flex: 1;
+      max-width: 580px;
+      position: relative;
+    }
+
+    .header-search-icon {
+      position: absolute;
+      left: 14px;
+      top: 50%;
+      transform: translateY(-50%);
+      color: var(--text-muted);
+      font-size: 1rem;
+      pointer-events: none;
+    }
+
+    .header-search-input {
+      width: 100%;
+      background: var(--surface-fog);
+      border: 1px solid transparent;
+      border-radius: var(--r-hero); /* pill-like for search bar only */
+      color: var(--text);
+      font-family: var(--font);
+      font-size: 0.9rem;
+      padding: 11px 16px 11px 42px;
+      outline: none;
+      transition: border-color var(--t), background var(--t), box-shadow var(--t);
+    }
+
+    .header-search-input::placeholder { color: var(--text-muted); }
+
+    .header-search-input:focus {
+      background: var(--bg);
+      border-color: var(--focus-blue);
+      box-shadow: 0 0 0 3px rgba(67, 94, 229, 0.14);
+    }
+
+    /* Header right area */
+    .header-actions {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-left: auto;
+      flex-shrink: 0;
+    }
+
+    .stat-chip {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      background: var(--warm-wash);
+      border: 1px solid var(--sand);
+      border-radius: var(--r-btn);
+      padding: 5px 12px;
+      font-size: 0.75rem;
+      color: var(--text-secondary);
+      white-space: nowrap;
+    }
+
+    .stat-dot {
+      width: 6px;
+      height: 6px;
+      border-radius: var(--r-circle);
+      background: var(--red);
+      flex-shrink: 0;
+      animation: pulse 2s ease-in-out infinite;
+    }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; transform: scale(1); }
+      50%       { opacity: 0.5; transform: scale(0.8); }
+    }
+
+    /* Admin badge */
+    .admin-badge {
+      display: none;
+      align-items: center;
+      gap: 6px;
+      padding: 5px 14px;
+      background: rgba(230, 0, 35, 0.08);
+      border: 1px solid rgba(230, 0, 35, 0.35);
+      border-radius: var(--r-btn);
+      font-size: 0.75rem;
+      font-weight: 600;
+      color: var(--red);
+      cursor: pointer;
+      transition: background var(--t);
+    }
+    .admin-badge:hover { background: rgba(230, 0, 35, 0.15); }
+
+    /* =========================================================
+       Hero — warm, inviting, photography-first
+    ========================================================= */
+    .hero {
+      padding: clamp(48px, 8vw, 96px) clamp(16px, 4vw, 48px) clamp(32px, 5vw, 64px);
+      text-align: center;
+      background: var(--bg);
+      border-bottom: 1px solid var(--sand);
+    }
+
+    .hero h1 {
+      font-size: clamp(2rem, 5vw, 4.38rem); /* 70px at display */
+      font-weight: 600;
+      color: var(--text);
+      line-height: 1.1;
+      margin-bottom: 20px;
+    }
+
+    .hero h1 em {
+      font-style: normal;
+      color: var(--red);
+    }
+
+    .hero p {
+      font-size: 1rem;
+      color: var(--text-secondary);
+      max-width: 480px;
+      margin: 0 auto 32px;
+      line-height: 1.6;
+    }
+
+    .hero-actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      justify-content: center;
+      margin-bottom: 28px;
+    }
+
+    /* Primary red button (Design.md §4) */
+    .btn-primary {
+      background: var(--red);
+      color: var(--text-on-red);
+      border: 2px solid transparent;
+      border-radius: var(--r-btn);
+      padding: 10px 20px;
+      font-family: var(--font);
+      font-size: 0.85rem;
+      font-weight: 700;
+      cursor: pointer;
+      text-decoration: none;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      transition: background var(--t), transform var(--t);
+    }
+    .btn-primary:hover { background: var(--red-hover); transform: translateY(-1px); }
+    .btn-primary:focus-visible { outline: 3px solid var(--focus-blue); outline-offset: 2px; }
+
+    /* Secondary sand button */
+    .btn-secondary {
+      background: var(--sand);
+      color: var(--text);
+      border: 2px solid transparent;
+      border-radius: var(--r-btn);
+      padding: 10px 20px;
+      font-family: var(--font);
+      font-size: 0.85rem;
+      font-weight: 600;
+      cursor: pointer;
+      text-decoration: none;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      transition: background var(--t), transform var(--t);
+    }
+    .btn-secondary:hover { background: var(--warm-light); transform: translateY(-1px); }
+    .btn-secondary:focus-visible { outline: 3px solid var(--focus-blue); outline-offset: 2px; }
+
+    /* Warm badges */
+    .hero-badges {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      justify-content: center;
+    }
+
+    .hero-badge {
+      background: var(--warm-wash);
+      border: 1px solid var(--sand);
+      border-radius: var(--r-sm);
+      padding: 5px 14px;
+      font-size: 0.75rem;
+      color: var(--text-secondary);
+      display: flex;
+      align-items: center;
+      gap: 5px;
+    }
+
+    /* =========================================================
+       Controls Bar
+    ========================================================= */
+    .controls {
+      padding: 16px clamp(12px, 3vw, 32px) 0;
+      background: var(--bg);
+      position: sticky;
+      top: 64px;
+      z-index: 90;
+      border-bottom: 1px solid var(--sand);
+    }
+
+    .controls-inner {
+      max-width: 1600px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      flex-wrap: wrap;
+      padding-bottom: 14px;
+    }
+
+    /* Filter buttons (model chips) */
+    .filter-btn {
+      background: var(--surface-fog);
+      border: 1px solid var(--sand);
+      border-radius: var(--r-btn);
+      color: var(--text-secondary);
+      cursor: pointer;
+      font-family: var(--font);
+      font-size: 0.78rem;
+      font-weight: 500;
+      padding: 6px 16px;
+      transition: all var(--t);
+      white-space: nowrap;
+    }
+
+    .filter-btn:hover {
+      border-color: var(--text-muted);
+      color: var(--text);
+      background: var(--sand);
+    }
+
+    .filter-btn.active {
+      background: var(--text);
+      border-color: var(--text);
+      color: var(--bg);
+    }
+
+    .count-label {
+      margin-left: auto;
+      font-size: 0.78rem;
+      color: var(--text-muted);
+      white-space: nowrap;
+    }
+
+    /* =========================================================
+       Gallery — Pinterest masonry grid
+    ========================================================= */
+    .gallery-section {
+      padding: 20px clamp(12px, 3vw, 32px) 80px;
+      background: var(--bg);
+    }
+
+    .gallery-grid {
+      max-width: 1600px;
+      margin: 0 auto;
+      columns: 2;
+      column-gap: 12px;
+    }
+
+    @media (min-width: 576px)  { .gallery-grid { columns: 2; } }
+    @media (min-width: 768px)  { .gallery-grid { columns: 3; } }
+    @media (min-width: 890px)  { .gallery-grid { columns: 4; } }
+    @media (min-width: 1312px) { .gallery-grid { columns: 5; } }
+    @media (min-width: 1440px) { .gallery-grid { columns: 6; } }
+
+    /* Pin card */
+    .card {
+      break-inside: avoid;
+      background: var(--bg);
+      border-radius: var(--r-card);
+      overflow: hidden;
+      cursor: pointer;
+      margin-bottom: 12px;
+      transition: transform var(--t);
+      animation: fadeUp 0.35s ease both;
+    }
+
+    @keyframes fadeUp {
+      from { opacity: 0; transform: translateY(12px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+
+    .card:hover { transform: translateY(-3px); }
+
+    .card:focus-visible {
+      outline: 3px solid var(--focus-blue);
+      outline-offset: 2px;
+    }
+
+    /* Image area */
+    .card-img-wrap {
+      position: relative;
+      overflow: hidden;
+      background: var(--sand);
+      border-radius: var(--r-card);
+      min-height: 160px;
+    }
+
+    .card-img-wrap img {
+      width: 100%;
+      display: block;
+      border-radius: var(--r-card);
+      transition: transform 0.45s ease;
+    }
+
+    .card:hover .card-img-wrap img { transform: scale(1.04); }
+
+    /* Hover overlay — Pinterest-style: actions appear on hover */
+    .card-overlay {
+      position: absolute;
+      inset: 0;
+      background: rgba(0, 0, 0, 0.28);
+      opacity: 0;
+      transition: opacity var(--t);
+      border-radius: var(--r-card);
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      padding: 12px;
+    }
+
+    .card:hover .card-overlay { opacity: 1; }
+
+    .overlay-top {
+      display: flex;
+      justify-content: flex-end;
+      gap: 6px;
+    }
+
+    /* Circular action button (Design.md §4) */
+    .btn-circle {
+      width: 36px;
+      height: 36px;
+      background: var(--warm-light);
+      color: var(--text);
+      border: none;
+      border-radius: var(--r-circle);
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 0.95rem;
+      transition: background var(--t), transform var(--t);
+      flex-shrink: 0;
+    }
+    .btn-circle:hover { background: var(--sand); transform: scale(1.08); }
+
+    .overlay-save-btn {
+      background: var(--red);
+      color: #fff;
+      border: none;
+      border-radius: var(--r-btn);
+      padding: 8px 18px;
+      font-family: var(--font);
+      font-size: 0.8rem;
+      font-weight: 700;
+      cursor: pointer;
+      transition: background var(--t);
+    }
+    .overlay-save-btn:hover { background: var(--red-hover); }
+
+    /* Skeleton loader */
+    .card-skeleton {
+      width: 100%;
+      aspect-ratio: 1;
+      border-radius: var(--r-card);
+      background: linear-gradient(90deg, var(--sand) 25%, var(--warm-light) 50%, var(--sand) 75%);
+      background-size: 200% 100%;
+      animation: shimmer 1.5s infinite;
+    }
+
+    @keyframes shimmer {
+      0%   { background-position: 200% 0; }
+      100% { background-position: -200% 0; }
+    }
+
+    /* Card info below image */
+    .card-info {
+      padding: 8px 4px 4px;
+    }
+
+    .card-topic {
+      font-size: 0.88rem;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 2px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .card-prompt {
+      font-size: 0.75rem;
+      color: var(--text-secondary);
+      line-height: 1.5;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      margin-bottom: 6px;
+    }
+
+    .card-meta {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      flex-wrap: wrap;
+    }
+
+    .model-chip {
+      font-size: 0.68rem;
+      font-weight: 500;
+      padding: 3px 10px;
+      border-radius: var(--r-sm);
+      background: var(--surface-fog);
+      border: 1px solid var(--sand);
+      color: var(--text-secondary);
+      white-space: nowrap;
+    }
+
+    .card-date {
+      font-size: 0.68rem;
+      color: var(--text-muted);
+      margin-left: auto;
+      white-space: nowrap;
+    }
+
+    /* Admin card buttons */
+    .card-delete-btn {
+      display: none;
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      width: 32px;
+      height: 32px;
+      background: rgba(220, 38, 38, 0.9);
+      border: none;
+      border-radius: var(--r-circle);
+      color: white;
+      cursor: pointer;
+      align-items: center;
+      justify-content: center;
+      font-size: 0.9rem;
+      z-index: 5;
+      transition: background var(--t), transform var(--t);
+    }
+    .admin-mode .card-delete-btn { display: flex; }
+    .card-delete-btn:hover { background: #dc2626; transform: scale(1.1); }
+
+    .card-edit-btn {
+      display: none;
+      position: absolute;
+      top: 10px;
+      left: 10px;
+      width: 32px;
+      height: 32px;
+      background: rgba(37, 99, 235, 0.9);
+      border: none;
+      border-radius: var(--r-circle);
+      color: white;
+      cursor: pointer;
+      align-items: center;
+      justify-content: center;
+      font-size: 0.9rem;
+      z-index: 5;
+      transition: background var(--t), transform var(--t);
+    }
+    .admin-mode .card-edit-btn { display: flex; }
+    .card-edit-btn:hover { background: #2563eb; transform: scale(1.1); }
+
+    /* =========================================================
+       Empty State
+    ========================================================= */
+    .empty-state {
+      text-align: center;
+      padding: 80px 20px;
+      color: var(--text-muted);
+      display: none;
+    }
+
+    .empty-state .icon { font-size: 4rem; margin-bottom: 16px; }
+    .empty-state h2 { font-size: 1.75rem; font-weight: 700; color: var(--text); margin-bottom: 8px; }
+    .empty-state p { font-size: 1rem; color: var(--text-secondary); max-width: 400px; margin: 0 auto 24px; }
+
+    /* =========================================================
+       Loading
+    ========================================================= */
+    #loading {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 12px;
+      padding: 60px 20px;
+      color: var(--text-secondary);
+      font-size: 0.9rem;
+    }
+
+    .spinner {
+      width: 24px;
+      height: 24px;
+      border: 2px solid var(--sand);
+      border-top-color: var(--red);
+      border-radius: var(--r-circle);
+      animation: spin 0.8s linear infinite;
+    }
+
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    /* =========================================================
+       Lightbox — warm, Pinterest detail view
+    ========================================================= */
+    #lightbox {
+      position: fixed;
+      inset: 0;
+      z-index: 1000;
+      background: rgba(33, 25, 34, 0.72);
+      backdrop-filter: blur(8px);
+      -webkit-backdrop-filter: blur(8px);
+      display: none;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+    }
+
+    #lightbox.open {
+      display: flex;
+      animation: lbFadeIn 0.22s ease;
+    }
+
+    @keyframes lbFadeIn {
+      from { opacity: 0; }
+      to   { opacity: 1; }
+    }
+
+    .lb-content {
+      position: relative;
+      max-width: 1100px;
+      width: 100%;
+      max-height: 92vh;
+      display: flex;
+      gap: 0;
+      border-radius: var(--r-hero);
+      overflow: hidden;
+      background: var(--bg);
+      animation: lbSlideUp 0.28s cubic-bezier(0.34, 1.56, 0.64, 1);
+    }
+
+    @keyframes lbSlideUp {
+      from { transform: scale(0.92) translateY(16px); opacity: 0; }
+      to   { transform: scale(1) translateY(0); opacity: 1; }
+    }
+
+    .lb-img-wrap {
+      flex: 1;
+      background: var(--surface-fog);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 300px;
+      max-height: 92vh;
+      overflow: hidden;
+      border-radius: var(--r-hero) 0 0 var(--r-hero);
+    }
+
+    .lb-img-wrap img {
+      max-width: 100%;
+      max-height: 92vh;
+      object-fit: contain;
+      display: block;
+      /* white 8px border treatment (Design.md §4) */
+      border: 8px solid var(--bg);
+      border-radius: var(--r-card);
+    }
+
+    .lb-panel {
+      width: 340px;
+      flex-shrink: 0;
+      background: var(--bg);
+      border-left: 1px solid var(--sand);
+      padding: 28px 24px;
+      overflow-y: auto;
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+      border-radius: 0 var(--r-hero) var(--r-hero) 0;
+    }
+
+    @media (max-width: 768px) {
+      .lb-content {
+        flex-direction: column;
+        max-height: 95vh;
+        border-radius: var(--r-card);
+      }
+      .lb-img-wrap {
+        border-radius: var(--r-card) var(--r-card) 0 0;
+        min-height: 200px;
+      }
+      .lb-panel {
+        width: 100%;
+        border-left: none;
+        border-top: 1px solid var(--sand);
+        max-height: 45vh;
+        border-radius: 0 0 var(--r-card) var(--r-card);
+      }
+    }
+
+    /* Close button */
+    .lb-close {
+      position: absolute;
+      top: 14px;
+      right: 14px;
+      width: 40px;
+      height: 40px;
+      background: var(--warm-light);
+      border: none;
+      border-radius: var(--r-circle);
+      color: var(--text);
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1rem;
+      transition: background var(--t), transform var(--t);
+      z-index: 10;
+    }
+    .lb-close:hover { background: var(--sand); transform: scale(1.08); }
+    .lb-close:focus-visible { outline: 3px solid var(--focus-blue); }
+
+    /* Nav buttons */
+    .lb-nav {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      width: 44px;
+      height: 44px;
+      background: var(--warm-light);
+      border: none;
+      border-radius: var(--r-circle);
+      color: var(--text);
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.3rem;
+      transition: background var(--t), transform var(--t);
+      z-index: 10;
+    }
+    .lb-nav:hover { background: var(--sand); }
+    .lb-prev { left: 12px; }
+    .lb-next { right: 12px; }
+
+    @media (max-width: 768px) {
+      .lb-prev { left: 6px; }
+      .lb-next { right: 6px; }
+    }
+
+    /* Panel content */
+    .lb-section-title {
+      font-size: 0.7rem;
+      font-weight: 700;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      color: var(--text-muted);
+      margin-bottom: 4px;
+    }
+
+    .lb-topic {
+      font-size: 1rem;
+      font-weight: 700;
+      color: var(--text);
+      line-height: 1.3;
+    }
+
+    .lb-prompt {
+      font-size: 0.88rem;
+      color: var(--text-secondary);
+      line-height: 1.65;
+    }
+
+    .lb-models {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+
+    .lb-model-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 8px;
+    }
+
+    .lb-model-label {
+      font-size: 0.75rem;
+      color: var(--text-muted);
+    }
+
+    .lb-model-value {
+      font-size: 0.75rem;
+      font-weight: 600;
+      color: var(--text);
+      background: var(--surface-fog);
+      border: 1px solid var(--sand);
+      border-radius: var(--r-sm);
+      padding: 3px 10px;
+    }
+
+    .lb-date {
+      font-size: 0.8rem;
+      color: var(--text-muted);
+    }
+
+    /* Download — primary red button */
+    .lb-download {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      padding: 10px 20px;
+      background: var(--red);
+      border: 2px solid transparent;
+      border-radius: var(--r-btn);
+      color: var(--text-on-red);
+      font-family: var(--font);
+      font-size: 0.85rem;
+      font-weight: 700;
+      cursor: pointer;
+      text-decoration: none;
+      transition: background var(--t), transform var(--t);
+      margin-top: auto;
+    }
+    .lb-download:hover { background: var(--red-hover); transform: translateY(-1px); }
+    .lb-download:focus-visible { outline: 3px solid var(--focus-blue); outline-offset: 2px; }
+
+    /* =========================================================
+       Footer — dark (#33332e) per Design.md §9
+    ========================================================= */
+    footer {
+      background: var(--dark-surface);
+      padding: 40px clamp(16px, 4vw, 48px);
+      text-align: center;
+      color: var(--text-muted);
+      font-size: 0.78rem;
+      line-height: 1.8;
+    }
+
+    footer a {
+      color: var(--text-muted);
+      text-decoration: underline;
+      text-underline-offset: 2px;
+      transition: color var(--t);
+    }
+    footer a:hover { color: var(--bg); }
+
+    .footer-logo {
+      font-size: 1.5rem;
+      font-weight: 700;
+      color: var(--bg);
+      margin-bottom: 12px;
+      display: block;
+    }
+
+    .footer-divider {
+      width: 40px;
+      height: 1px;
+      background: rgba(255,255,255,0.12);
+      margin: 16px auto;
+    }
+
+    /* =========================================================
+       Scrollbar — warm tones
+    ========================================================= */
+    ::-webkit-scrollbar { width: 6px; height: 6px; }
+    ::-webkit-scrollbar-track { background: transparent; }
+    ::-webkit-scrollbar-thumb { background: var(--sand); border-radius: 3px; }
+    ::-webkit-scrollbar-thumb:hover { background: var(--border-hover); }
+
+    /* =========================================================
+       Admin modals
+    ========================================================= */
+    .admin-modal-overlay {
+      position: fixed;
+      inset: 0;
+      background: rgba(33, 25, 34, 0.6);
+      backdrop-filter: blur(6px);
+      z-index: 3000;
+      display: none;
+      align-items: center;
+      justify-content: center;
+    }
+    .admin-modal-overlay.open { display: flex; }
+
+    .admin-modal {
+      background: var(--bg);
+      border: 1px solid var(--sand);
+      border-radius: var(--r-hero);
+      padding: 32px;
+      width: min(440px, 90vw);
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+    }
+
+    .admin-modal h2 {
+      font-size: 1.3rem;
+      font-weight: 700;
+      color: var(--text);
+      letter-spacing: -0.5px;
+    }
+
+    .admin-field { display: flex; flex-direction: column; gap: 6px; }
+
+    .admin-field label {
+      font-size: 0.78rem;
+      font-weight: 700;
+      color: var(--text-secondary);
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+
+    .admin-field input,
+    .admin-field textarea {
+      padding: 11px 15px;
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: var(--r-btn);
+      color: var(--text);
+      font-family: var(--font);
+      font-size: 0.9rem;
+      outline: none;
+      transition: border-color var(--t), box-shadow var(--t);
+    }
+
+    .admin-field textarea {
+      resize: vertical;
+      min-height: 140px;
+    }
+
+    .admin-field input:focus,
+    .admin-field textarea:focus {
+      border-color: var(--focus-blue);
+      box-shadow: 0 0 0 3px rgba(67, 94, 229, 0.14);
+    }
+
+    .admin-field small {
+      font-size: 0.74rem;
+      color: var(--text-muted);
+      line-height: 1.4;
+    }
+
+    .admin-error {
+      font-size: 0.82rem;
+      color: #9e0a0a;
+      min-height: 1.2em;
+    }
+
+    .admin-btns {
+      display: flex;
+      gap: 10px;
+      justify-content: flex-end;
+    }
+
+    .admin-btn {
+      padding: 9px 20px;
+      border-radius: var(--r-btn);
+      font-family: var(--font);
+      font-size: 0.82rem;
+      font-weight: 700;
+      cursor: pointer;
+      border: 2px solid transparent;
+      transition: all var(--t);
+    }
+
+    .admin-btn-cancel {
+      background: var(--sand);
+      color: var(--text);
+    }
+    .admin-btn-cancel:hover { background: var(--warm-light); }
+
+    .admin-btn-login {
+      background: var(--red);
+      color: var(--text-on-red);
+    }
+    .admin-btn-login:hover { background: var(--red-hover); }
+  </style>
+</head>
+<body>
+
+<!-- ===================== Header ===================== -->
+<header>
+  <div class="header-inner">
+    <a class="logo" href="#">
+      <span class="logo-icon">🎨</span>
+      <span class="logo-text">Auto Art Gallery</span>
+    </a>
+
+    <div class="header-search-wrap">
+      <span class="header-search-icon">🔍</span>
+      <input
+        type="search"
+        class="header-search-input"
+        id="search-input"
+        placeholder="Search topics, prompts, or models…"
+        aria-label="Search artworks"
+      />
+    </div>
+
+    <div class="header-actions">
+      <div class="stat-chip">
+        <span class="stat-dot"></span>
+        <span id="stat-count">Loading…</span>
+      </div>
+      <div class="stat-chip" style="display:none" id="stat-refresh">
+        🔄 Every 30 min
+      </div>
+      <button class="admin-badge" id="admin-badge" onclick="exitAdminMode()" title="Click to exit admin mode">
+        🔐 Admin
+      </button>
+    </div>
+  </div>
+</header>
+
+<!-- ===================== Hero ===================== -->
+<section class="hero">
+  <h1>Discover<br /><em>AI-Generated Art</em></h1>
+  <p>
+    A living gallery of unique artworks exploring technology, culture, space,
+    and more — refreshed automatically every 30 minutes.
+  </p>
+  <div class="hero-actions">
+    <a class="btn-primary" href="#gallery-grid">✨ Explore Gallery</a>
+    <a class="btn-secondary" href="https://github.com/kychugo/Auto-art-gallery" target="_blank" rel="noopener">⭐ GitHub</a>
+  </div>
+  <div class="hero-badges">
+    <span class="hero-badge">🤖 AI-Generated</span>
+    <span class="hero-badge">🌍 Global Topics</span>
+    <span class="hero-badge">🎲 Always Unique</span>
+    <span class="hero-badge">🖼️ Multiple Models</span>
+  </div>
+</section>
+
+<!-- ===================== Controls ===================== -->
+<div class="controls">
+  <div class="controls-inner">
+    <div class="filter-group" id="filter-group" role="group" aria-label="Filter by model">
+      <button class="filter-btn active" data-filter="all">All</button>
+    </div>
+    <span class="count-label" id="count-label"></span>
+  </div>
+</div>
+
+<!-- ===================== Gallery ===================== -->
+<section class="gallery-section">
+  <div id="loading">
+    <div class="spinner"></div>
+    <span>Loading gallery…</span>
+  </div>
+  <div id="gallery-grid" class="gallery-grid" role="list" aria-label="Artwork gallery" style="display:none"></div>
+  <div class="empty-state" id="empty-state" role="status">
+    <div class="icon">🖼️</div>
+    <h2>No artworks found</h2>
+    <p>Try a different search term or filter, then check back after the next generation cycle.</p>
+    <button class="btn-primary" onclick="clearSearch()">Clear Search</button>
+  </div>
+</section>
+
+<!-- ===================== Lightbox ===================== -->
+<div id="lightbox" role="dialog" aria-modal="true" aria-label="Artwork viewer">
+  <div class="lb-content" id="lb-content">
+    <div class="lb-img-wrap">
+      <img id="lb-img" src="" alt="Full size artwork" loading="lazy" decoding="async" />
+    </div>
+    <div class="lb-panel">
+      <div>
+        <div class="lb-section-title">Topic</div>
+        <div class="lb-topic" id="lb-topic"></div>
+      </div>
+      <div>
+        <div class="lb-section-title">Image Prompt</div>
+        <div class="lb-prompt" id="lb-prompt"></div>
+      </div>
+      <div>
+        <div class="lb-section-title">AI Models Used</div>
+        <div class="lb-models">
+          <div class="lb-model-row">
+            <span class="lb-model-label">Text model</span>
+            <span class="lb-model-value" id="lb-text-model"></span>
+          </div>
+          <div class="lb-model-row">
+            <span class="lb-model-label">Image model</span>
+            <span class="lb-model-value" id="lb-image-model"></span>
+          </div>
+          <div class="lb-model-row">
+            <span class="lb-model-label">Seed</span>
+            <span class="lb-model-value" id="lb-seed"></span>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div class="lb-section-title">Created</div>
+        <div class="lb-date" id="lb-date"></div>
+      </div>
+      <a id="lb-download" href="#" download class="lb-download" target="_blank" rel="noopener">
+        ⬇ Download Artwork
+      </a>
+    </div>
+  </div>
+  <button class="lb-close" id="lb-close" aria-label="Close lightbox">✕</button>
+  <button class="lb-nav lb-prev" id="lb-prev" aria-label="Previous artwork">‹</button>
+  <button class="lb-nav lb-next" id="lb-next" aria-label="Next artwork">›</button>
+</div>
+
+<!-- ===================== Admin Login Modal ===================== -->
+<div class="admin-modal-overlay" id="admin-modal" role="dialog" aria-modal="true" aria-label="Admin login">
+  <div class="admin-modal">
+    <h2>🔐 Admin Panel</h2>
+    <div class="admin-field">
+      <label for="admin-password">Password</label>
+      <input type="password" id="admin-password" placeholder="Enter password" autocomplete="current-password" />
+    </div>
+    <div class="admin-field">
+      <label for="admin-token">GitHub Personal Access Token</label>
+      <input type="password" id="admin-token" placeholder="ghp_xxxxxxxxxxxx" autocomplete="off" />
+      <small>Requires <strong>Contents: Read &amp; write</strong> permission.</small>
+    </div>
+    <div class="admin-error" id="admin-error" role="alert"></div>
+    <div class="admin-btns">
+      <button class="admin-btn admin-btn-cancel" id="admin-cancel">Cancel</button>
+      <button class="admin-btn admin-btn-login" id="admin-login">Login</button>
+    </div>
+  </div>
+</div>
+
+<!-- ===================== Admin Edit Modal ===================== -->
+<div class="admin-modal-overlay" id="edit-modal" role="dialog" aria-modal="true" aria-label="Edit artwork">
+  <div class="admin-modal" style="width:min(560px,92vw)">
+    <h2>✏️ Edit Artwork</h2>
+    <div class="admin-field">
+      <label for="edit-topic">Topic</label>
+      <input type="text" id="edit-topic" placeholder="Artwork topic / title" autocomplete="off" />
+    </div>
+    <div class="admin-field">
+      <label for="edit-description">Description (Prompt)</label>
+      <textarea id="edit-description" placeholder="Image generation prompt / description"></textarea>
+    </div>
+    <div class="admin-error" id="edit-error" role="alert"></div>
+    <div class="admin-btns">
+      <button class="admin-btn admin-btn-cancel" id="edit-cancel">Cancel</button>
+      <button class="admin-btn admin-btn-login" id="edit-save">Save Changes</button>
+    </div>
+  </div>
+</div>
+
+<!-- ===================== Footer ===================== -->
+<footer>
+  <span class="footer-logo">🎨 Auto Art Gallery</span>
+  <p>
+    Powered by <a href="https://pollinations.ai" target="_blank" rel="noopener">Pollinations AI</a> ·
+    New artwork generated every 30 minutes ·
+    <a href="https://github.com/kychugo/Auto-art-gallery" target="_blank" rel="noopener">View on GitHub</a>
+  </p>
+  <div class="footer-divider"></div>
+  <p>
+    Copyright &copy; 2026 Hugo Wong. All rights reserved.<br />
+    All AI-generated images are the intellectual property of Hugo Wong.
+  </p>
+  <p style="margin-top:14px;">
+    <a href="#" id="admin-link" style="color:rgba(255,255,255,0.18);font-size:0.65rem;text-decoration:none" aria-label="Admin panel">admin</a>
+  </p>
+</footer>
+
+<script>
+/* =============================================================
+   Image load/error helpers
+============================================================= */
+function handleImageLoad(idx) {
+  const img = document.querySelector('.card[data-index="' + idx + '"] .card-img-wrap img');
+  const skel = document.getElementById('skel-' + idx);
+  if (img) img.style.display = 'block';
+  if (skel) skel.style.display = 'none';
+}
+
+function handleImageError(imgEl) {
+  const wrap = imgEl.closest('.card-img-wrap');
+  if (wrap) wrap.innerHTML = '<div style="padding:40px;text-align:center;color:#91918c;font-size:0.85rem;">⚠️ Image unavailable</div>';
+}
+
+/* =============================================================
+   State
+============================================================= */
+let allArtworks = [];
+let filteredArtworks = [];
+let currentIndex = 0;
+let activeFilter = 'all';
+let searchQuery = '';
+let cardImgObserver = null;
+
+/* =============================================================
+   Admin State
+============================================================= */
+let adminMode = false;
+let githubToken = '';
+const ADMIN_PASSWORD = 'Hugo0528';
+const REPO_OWNER = 'kychugo';
+const REPO_NAME = 'Auto-art-gallery';
+const REPO_BRANCH = 'main';
+
+/* =============================================================
+   Helpers
+============================================================= */
+function formatDate(isoString) {
+  try {
+    const d = new Date(isoString);
+    return d.toLocaleString(undefined, {
+      year: 'numeric', month: 'short', day: 'numeric',
+      hour: '2-digit', minute: '2-digit'
+    });
+  } catch { return isoString || ''; }
+}
+
+function truncate(str, n) {
+  if (!str) return '';
+  return str.length > n ? str.slice(0, n) + '…' : str;
+}
+
+function escHtml(s) {
+  return String(s)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;');
+}
+
+function clearSearch() {
+  document.getElementById('search-input').value = '';
+  searchQuery = '';
+  applyFilters();
+}
+
+/* =============================================================
+   Load Gallery Data
+============================================================= */
+async function loadGallery() {
+  try {
+    const resp = await fetch('gallery.json?_=' + Date.now());
+    if (!resp.ok) throw new Error('HTTP ' + resp.status);
+    const data = await resp.json();
+    allArtworks = Array.isArray(data.artworks) ? data.artworks : [];
+  } catch (err) {
+    console.error('Failed to load gallery.json:', err);
+    allArtworks = [];
+  }
+
+  document.getElementById('loading').style.display = 'none';
+  document.getElementById('gallery-grid').style.display = '';
+  document.getElementById('stat-refresh').style.display = '';
+
+  buildFilters();
+  applyFilters();
+}
+
+/* =============================================================
+   Build Filters
+============================================================= */
+function buildFilters() {
+  const models = [...new Set(allArtworks.map(a => a.image_model).filter(Boolean))];
+  const group = document.getElementById('filter-group');
+  group.innerHTML = '<button class="filter-btn active" data-filter="all">All</button>';
+  models.forEach(m => {
+    const btn = document.createElement('button');
+    btn.className = 'filter-btn';
+    btn.dataset.filter = m;
+    btn.textContent = m;
+    group.appendChild(btn);
+  });
+
+  group.addEventListener('click', e => {
+    const btn = e.target.closest('.filter-btn');
+    if (!btn) return;
+    group.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    activeFilter = btn.dataset.filter;
+    applyFilters();
+  });
+}
+
+/* =============================================================
+   Filter & Render
+============================================================= */
+function applyFilters() {
+  const q = searchQuery.toLowerCase().trim();
+  filteredArtworks = allArtworks.filter(a => {
+    const matchFilter = activeFilter === 'all' || a.image_model === activeFilter;
+    const matchSearch = !q ||
+      (a.topic || '').toLowerCase().includes(q) ||
+      (a.prompt || '').toLowerCase().includes(q) ||
+      (a.image_model || '').toLowerCase().includes(q) ||
+      (a.text_model || '').toLowerCase().includes(q);
+    return matchFilter && matchSearch;
+  });
+  renderGallery();
+}
+
+function renderGallery() {
+  const grid = document.getElementById('gallery-grid');
+  const empty = document.getElementById('empty-state');
+  const countLabel = document.getElementById('count-label');
+  const statCount = document.getElementById('stat-count');
+
+  const total = allArtworks.length;
+  const shown = filteredArtworks.length;
+
+  statCount.textContent = total + ' artwork' + (total !== 1 ? 's' : '');
+  countLabel.textContent = shown === total
+    ? total + ' artworks'
+    : shown + ' of ' + total + ' artworks';
+
+  if (shown === 0) {
+    grid.innerHTML = '';
+    empty.style.display = 'block';
+    return;
+  }
+  empty.style.display = 'none';
+
+  grid.innerHTML = filteredArtworks.map((art, idx) => `
+    <article class="card" data-index="${idx}" data-id="${escHtml(art.id)}" role="listitem" tabindex="0"
+             aria-label="Artwork: ${escHtml(art.topic)}">
+      <div class="card-img-wrap">
+        <div class="card-skeleton" id="skel-${idx}"></div>
+        <img
+          data-src="${escHtml(art.filename)}"
+          alt="${escHtml(art.topic)}"
+          decoding="async"
+          style="display:none"
+          onload="handleImageLoad(${idx})"
+          onerror="handleImageError(this)"
+        />
+        <div class="card-overlay">
+          <div class="overlay-top">
+            <button class="btn-circle" title="View artwork" aria-label="View artwork">👁</button>
+          </div>
+          <button class="overlay-save-btn">View Full Size</button>
+        </div>
+        <button class="card-edit-btn" data-id="${escHtml(art.id)}" aria-label="Edit artwork" title="Edit artwork">✏️</button>
+        <button class="card-delete-btn" data-id="${escHtml(art.id)}" aria-label="Delete artwork" title="Delete artwork">🗑</button>
+      </div>
+      <div class="card-info">
+        <div class="card-topic">${escHtml(art.topic || 'Untitled')}</div>
+        <div class="card-prompt">${escHtml(truncate(art.prompt, 120))}</div>
+        <div class="card-meta">
+          <span class="model-chip">${escHtml(art.image_model || 'unknown')}</span>
+          <span class="card-date">${formatDate(art.created_at)}</span>
+        </div>
+      </div>
+    </article>
+  `).join('');
+
+  // Click/keyboard
+  grid.querySelectorAll('.card').forEach(card => {
+    const open = () => openLightbox(parseInt(card.dataset.index, 10));
+    card.addEventListener('click', open);
+    card.addEventListener('keydown', e => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); open(); } });
+  });
+
+  // Delete handlers
+  grid.querySelectorAll('.card-delete-btn').forEach(btn => {
+    btn.addEventListener('click', e => { e.stopPropagation(); deleteArtwork(btn.dataset.id); });
+  });
+
+  // Edit handlers
+  grid.querySelectorAll('.card-edit-btn').forEach(btn => {
+    btn.addEventListener('click', e => { e.stopPropagation(); editArtwork(btn.dataset.id); });
+  });
+
+  // Lazy load via IntersectionObserver
+  if (cardImgObserver) cardImgObserver.disconnect();
+  cardImgObserver = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (!entry.isIntersecting) return;
+      const wrap = entry.target;
+      const img = wrap.querySelector('img[data-src]');
+      if (img) {
+        img.src = img.dataset.src;
+        img.removeAttribute('data-src');
+      }
+      cardImgObserver.unobserve(wrap);
+    });
+  }, { rootMargin: '800px 0px' });
+
+  grid.querySelectorAll('.card-img-wrap').forEach(wrap => cardImgObserver.observe(wrap));
+}
+
+/* =============================================================
+   Lightbox
+============================================================= */
+function openLightbox(idx) {
+  currentIndex = idx;
+  populateLightbox(filteredArtworks[idx]);
+  document.getElementById('lightbox').classList.add('open');
+  document.body.style.overflow = 'hidden';
+  document.getElementById('lb-close').focus();
+}
+
+function closeLightbox() {
+  document.getElementById('lightbox').classList.remove('open');
+  document.body.style.overflow = '';
+}
+
+function populateLightbox(art) {
+  if (!art) return;
+  const img = document.getElementById('lb-img');
+  img.src = art.filename;
+  img.alt = art.topic || 'Artwork';
+  document.getElementById('lb-topic').textContent = art.topic || 'Untitled';
+  document.getElementById('lb-prompt').textContent = art.prompt || '—';
+  document.getElementById('lb-text-model').textContent = art.text_model || '—';
+  document.getElementById('lb-image-model').textContent = art.image_model || '—';
+  document.getElementById('lb-seed').textContent = art.seed != null ? art.seed : '—';
+  document.getElementById('lb-date').textContent = formatDate(art.created_at);
+  const dl = document.getElementById('lb-download');
+  dl.href = art.filename;
+  dl.download = 'artwork_' + (art.id || 'image') + '.jpg';
+  document.getElementById('lb-prev').style.display = currentIndex > 0 ? '' : 'none';
+  document.getElementById('lb-next').style.display = currentIndex < filteredArtworks.length - 1 ? '' : 'none';
+}
+
+function navigate(dir) {
+  const next = currentIndex + dir;
+  if (next < 0 || next >= filteredArtworks.length) return;
+  currentIndex = next;
+  populateLightbox(filteredArtworks[currentIndex]);
+}
+
+document.getElementById('lb-close').addEventListener('click', closeLightbox);
+document.getElementById('lb-prev').addEventListener('click', () => navigate(-1));
+document.getElementById('lb-next').addEventListener('click', () => navigate(1));
+
+document.getElementById('lightbox').addEventListener('click', e => {
+  if (e.target === document.getElementById('lightbox')) closeLightbox();
+});
+
+document.addEventListener('keydown', e => {
+  if (!document.getElementById('lightbox').classList.contains('open')) return;
+  switch (e.key) {
+    case 'Escape':     closeLightbox(); break;
+    case 'ArrowLeft':  navigate(-1); break;
+    case 'ArrowRight': navigate(1); break;
+  }
+});
+
+/* =============================================================
+   Search
+============================================================= */
+const searchInput = document.getElementById('search-input');
+let searchTimer;
+searchInput.addEventListener('input', () => {
+  clearTimeout(searchTimer);
+  searchTimer = setTimeout(() => {
+    searchQuery = searchInput.value;
+    applyFilters();
+  }, 250);
+});
+
+/* =============================================================
+   Boot
+============================================================= */
+loadGallery();
+
+/* =============================================================
+   Admin Panel
+============================================================= */
+function showAdminLogin() {
+  if (adminMode) { exitAdminMode(); return; }
+  document.getElementById('admin-error').textContent = '';
+  document.getElementById('admin-password').value = '';
+  document.getElementById('admin-token').value = '';
+  document.getElementById('admin-modal').classList.add('open');
+  document.getElementById('admin-password').focus();
+}
+
+function exitAdminMode() {
+  adminMode = false;
+  githubToken = '';
+  document.body.classList.remove('admin-mode');
+  document.getElementById('admin-badge').style.display = 'none';
+  renderGallery();
+}
+
+function loginAdmin() {
+  const pwd = document.getElementById('admin-password').value;
+  const token = document.getElementById('admin-token').value.trim();
+  const errorEl = document.getElementById('admin-error');
+
+  if (pwd !== ADMIN_PASSWORD) {
+    errorEl.textContent = 'Incorrect password.';
+    document.getElementById('admin-password').focus();
+    return;
+  }
+  if (!token) {
+    errorEl.textContent = 'Please enter a GitHub Personal Access Token.';
+    document.getElementById('admin-token').focus();
+    return;
+  }
+
+  adminMode = true;
+  githubToken = token;
+  document.body.classList.add('admin-mode');
+  document.getElementById('admin-modal').classList.remove('open');
+  const badge = document.getElementById('admin-badge');
+  badge.style.display = 'flex';
+  renderGallery();
+}
+
+async function deleteArtwork(artworkId) {
+  const art = allArtworks.find(a => a.id === artworkId);
+  if (!art) return;
+  if (!confirm(`Delete artwork "${art.topic || artworkId}"?\n\nThis will permanently remove the image and metadata from the repository.`)) return;
+
+  const headers = { Authorization: 'Bearer ' + githubToken, 'Content-Type': 'application/json' };
+  const apiBase = 'https://api.github.com/repos/' + REPO_OWNER + '/' + REPO_NAME + '/contents/';
+
+  try {
+    const imgResp = await fetch(apiBase + art.filename, { headers });
+    if (!imgResp.ok) throw new Error('Could not get image info (HTTP ' + imgResp.status + ')');
+    const imgData = await imgResp.json();
+
+    const delResp = await fetch(apiBase + art.filename, {
+      method: 'DELETE',
+      headers,
+      body: JSON.stringify({ message: 'Delete artwork ' + art.id, sha: imgData.sha, branch: REPO_BRANCH })
+    });
+    if (!delResp.ok) throw new Error('Failed to delete image (HTTP ' + delResp.status + ')');
+
+    const galleryResp = await fetch(apiBase + 'gallery.json', { headers });
+    if (!galleryResp.ok) throw new Error('Could not get gallery.json (HTTP ' + galleryResp.status + ')');
+    const galleryData = await galleryResp.json();
+
+    const rawJson = atob(galleryData.content.replace(/\n/g, ''));
+    const parsed = JSON.parse(rawJson);
+    parsed.artworks = (parsed.artworks || []).filter(a => a.id !== artworkId);
+    const jsonStr = JSON.stringify(parsed, null, 2);
+    const newContent = btoa(new TextEncoder().encode(jsonStr).reduce((acc, byte) => acc + String.fromCharCode(byte), ''));
+
+    const putResp = await fetch(apiBase + 'gallery.json', {
+      method: 'PUT',
+      headers,
+      body: JSON.stringify({ message: 'Remove artwork ' + art.id + ' from gallery', content: newContent, sha: galleryData.sha, branch: REPO_BRANCH })
+    });
+    if (!putResp.ok) throw new Error('Failed to update gallery.json (HTTP ' + putResp.status + ')');
+
+    allArtworks = allArtworks.filter(a => a.id !== artworkId);
+    applyFilters();
+    alert('Artwork deleted successfully!');
+  } catch (err) {
+    alert('Error deleting artwork: ' + err.message);
+  }
+}
+
+let editingArtworkId = null;
+
+function editArtwork(artworkId) {
+  const art = allArtworks.find(a => a.id === artworkId);
+  if (!art) return;
+  editingArtworkId = artworkId;
+  document.getElementById('edit-topic').value = art.topic || '';
+  document.getElementById('edit-description').value = art.prompt || '';
+  document.getElementById('edit-error').textContent = '';
+  document.getElementById('edit-modal').classList.add('open');
+  document.getElementById('edit-topic').focus();
+}
+
+async function saveArtworkEdit() {
+  const topic = document.getElementById('edit-topic').value.trim();
+  const description = document.getElementById('edit-description').value.trim();
+  const errorEl = document.getElementById('edit-error');
+
+  if (!topic) {
+    errorEl.textContent = 'Topic cannot be empty.';
+    document.getElementById('edit-topic').focus();
+    return;
+  }
+
+  const saveBtn = document.getElementById('edit-save');
+  saveBtn.disabled = true;
+  saveBtn.textContent = 'Saving…';
+  errorEl.textContent = '';
+
+  const headers = { Authorization: 'Bearer ' + githubToken, 'Content-Type': 'application/json' };
+  const apiBase = 'https://api.github.com/repos/' + REPO_OWNER + '/' + REPO_NAME + '/contents/';
+
+  try {
+    const galleryResp = await fetch(apiBase + 'gallery.json', { headers });
+    if (!galleryResp.ok) throw new Error('Could not get gallery.json (HTTP ' + galleryResp.status + ')');
+    const galleryData = await galleryResp.json();
+
+    const rawJson = atob(galleryData.content.replace(/\n/g, ''));
+    const parsed = JSON.parse(rawJson);
+    const artEntry = (parsed.artworks || []).find(a => a.id === editingArtworkId);
+    if (!artEntry) throw new Error('Artwork not found in gallery.json');
+    artEntry.topic = topic;
+    artEntry.prompt = description;
+
+    const jsonStr = JSON.stringify(parsed, null, 2);
+    const newContent = btoa(new TextEncoder().encode(jsonStr).reduce((acc, byte) => acc + String.fromCharCode(byte), ''));
+
+    const putResp = await fetch(apiBase + 'gallery.json', {
+      method: 'PUT',
+      headers,
+      body: JSON.stringify({ message: 'Update description for artwork ' + editingArtworkId, content: newContent, sha: galleryData.sha, branch: REPO_BRANCH })
+    });
+    if (!putResp.ok) throw new Error('Failed to update gallery.json (HTTP ' + putResp.status + ')');
+
+    const localArt = allArtworks.find(a => a.id === editingArtworkId);
+    if (localArt) { localArt.topic = topic; localArt.prompt = description; }
+    document.getElementById('edit-modal').classList.remove('open');
+    applyFilters();
+    alert('Artwork updated successfully!');
+  } catch (err) {
+    errorEl.textContent = 'Error: ' + err.message;
+  } finally {
+    saveBtn.disabled = false;
+    saveBtn.textContent = 'Save Changes';
+  }
+}
+
+// Admin modal wiring
+document.getElementById('admin-login').addEventListener('click', loginAdmin);
+document.getElementById('admin-cancel').addEventListener('click', () => {
+  document.getElementById('admin-modal').classList.remove('open');
+});
+document.getElementById('admin-password').addEventListener('keydown', e => { if (e.key === 'Enter') loginAdmin(); });
+document.getElementById('admin-token').addEventListener('keydown', e => { if (e.key === 'Enter') loginAdmin(); });
+const adminModalOverlay = document.getElementById('admin-modal');
+adminModalOverlay.addEventListener('click', e => {
+  if (e.target === adminModalOverlay) adminModalOverlay.classList.remove('open');
+});
+document.getElementById('admin-link').addEventListener('click', e => {
+  e.preventDefault();
+  showAdminLogin();
+});
+
+// Edit modal wiring
+document.getElementById('edit-save').addEventListener('click', saveArtworkEdit);
+document.getElementById('edit-cancel').addEventListener('click', () => {
+  document.getElementById('edit-modal').classList.remove('open');
+});
+document.getElementById('edit-topic').addEventListener('keydown', e => { if (e.key === 'Enter') saveArtworkEdit(); });
+const editModalOverlay = document.getElementById('edit-modal');
+editModalOverlay.addEventListener('click', e => {
+  if (e.target === editModalOverlay) editModalOverlay.classList.remove('open');
+});
+</script>
+</body>
+</html>
