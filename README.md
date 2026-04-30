@@ -199,6 +199,33 @@ f"?model={model}&width=1024&height=1024&seed={seed}&nologo=true"
 
 ---
 
+## 🔍 Getting Indexed by Google
+
+The gallery is already configured for search-engine discoverability:
+
+- **`robots.txt`** — tells crawlers they are allowed to index all pages.
+- **`sitemap.xml`** — lists the gallery URL; the `lastmod` date is refreshed automatically every time a new artwork is generated.
+- **Meta tags** — `<title>`, `<meta name="description">`, Open Graph, Twitter Card, and JSON-LD structured data are all present in `index.html`.
+- **Search engine ping** — after each artwork run, the script notifies Bing's ping endpoint so re-indexing happens faster.
+
+### One-time: Submit to Google Search Console
+
+The fastest way to appear in Google results is to register the site in [Google Search Console](https://search.google.com/search-console/about):
+
+1. Go to <https://search.google.com/search-console/about> and click **Start now**.
+2. Under **URL prefix**, enter your gallery URL (e.g. `https://kychugo.github.io/Auto-art-gallery/`) and click **Continue**.
+3. Use the **HTML tag** verification method. Copy the `<meta>` tag that Google gives you (looks like `<meta name="google-site-verification" content="XXXXXXX" />`).
+4. Paste it inside the `<head>` section of `index.html`, just below the `<meta charset>` line.
+5. Commit and push, let GitHub Pages redeploy, then click **Verify** in Search Console.
+6. After verification, go to **Sitemaps** (left sidebar) and submit:
+   ```
+   https://kychugo.github.io/Auto-art-gallery/sitemap.xml
+   ```
+
+Google will crawl and index the site within a few days. New artworks will be re-crawled automatically because the sitemap `lastmod` is updated on every run.
+
+---
+
 ## 📄 License
 
 MIT — do whatever you like with it.
